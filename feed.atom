@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-03T17:46:29.521Z</updated>
+    <updated>2026-10-03T20:36:51.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
@@ -53,6 +53,32 @@ Now, woke types might tell you that all of this is bad. But what if I told you t
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[littleFedi]]></title>
+        <id>https://baty.net/posts/2026/10/littlefedi/</id>
+        <link href="https://baty.net/posts/2026/10/littlefedi/"/>
+        <updated>2026-10-03T17:07:03.000Z</updated>
+        <summary type="html"><![CDATA[littleFedi is "A small ActivityPub server written in Go"
+It was officially released (I think) yesterday, and is another project from Stefano Marinelli of BSSG fame.
+A few years ago I'd decided I wanted to "own my content" 🙄 so I ran an instance of Mastodon. Mastodon is overkill and I didn't enjoy it. Then, later, I installed an instance of Go2Social, which worked well. Trouble was, I was all-in with social media at the time and being on a single-user instance felt lonely...nothing useful in "local" or "trending". Discovery was difficult. It was just me and I didn't like it.
+Fast forward to today, and things have changed. I've deleted all of my Meta-related accounts and LinkedIn. I thought about quitting Mastodon as well, but FOMO always gets the better of me.
+Since I would rather not quit Mastodon completely, I figured I would try running a single-user instance again. Maybe the quiet would be good for me.
+I'd seen @Stefano's posts about a new ActivityPub server he was working on and the timing of the first release couldn't be better, so I installed it today at Jack Baty Social.
+
+It's running on my Hetzner VPS behind Caddy as a proxy. I love Caddy. Here's the entire Caddy config for the domain:
+social.baty.net {
+	encode gzip
+	reverse_proxy 127.0.0.1:8081
+}
+
+I've just started poking around, but littleFedi seems like it's got a lot going for it. At first I wanted to use my root domain for my handle (@jack@baty.net) but since I'd previously used that via Ghost, I ran into caching issues and didn't want to bother, so now I'm @jack@social.baty.net.
+The big question is whether to migrate followers there, or start fresh and maybe just announce the move from my main @jbaty@social.lol account. I think I'll give it a minute before deciding.
+littleFedi is a compelling new entry in the FediverseSpaceArena.
+✍️ Reply by email]]></summary>
+        <author>
+            <name>baty.net</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
         <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
         <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
@@ -80,6 +106,24 @@ The TL;DR is that once you set a new font scale for a buffer, it persists across
 Take a look at the GitHub repository linked above for the details. You might also want to check out the comments in Cherti’s Emacs subreddit announcement where he answers some questions on what he’s trying to accomplish with the package. If you’d like to have certain buffers rendered in a larger (or smaller) font, this package may be just what you need.]]></summary>
         <author>
             <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday, October 3, 2026]]></title>
+        <id>https://baty.net/journal/03Oct26/</id>
+        <link href="https://baty.net/journal/03Oct26/"/>
+        <updated>2026-10-03T09:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Hermes 3000 (2010)
+STATUS:  Installing and uninstalling software on my Mac
+WATCHING: "Furious"
+LISTENING:  Lots of Led Zeppelin on Vinyl
+READING: "Theo of Golden" by Allen Levi
+The best part about being on a Mac is that there are a lot of great apps available that can't be found anywhere else. That might also be the worst part of using a Mac. I can't stop playing with software.
+Somebody said, "If you can't hold it, you don't own it." They were right.
+Read this somewhere recently: "I'm not aloud to sing in the house" 😄
+✍️ Reply by email]]></summary>
+        <author>
+            <name>baty.net</name>
         </author>
     </entry>
     <entry>
@@ -2454,16 +2498,6 @@ So why org-copy-visible?, I could have written my own invisible-text walker, but
         <summary type="html"><![CDATA[Even now, in our so-called postliterate age, can reading a book—a novel, of all things—inspire us to a richer, fuller life? Ayad Akhtar hopes it still can.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Egberto Gismonti]]></title>
-        <id>https://www.flowstate.fm/p/egberto-gismonti</id>
-        <link href="https://www.flowstate.fm/p/egberto-gismonti"/>
-        <updated>2026-09-24T07:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re listening to Egberto Gismonti, a Brazilian composer, guitarist, and pianist from Carmo.]]></summary>
-        <author>
-            <name>Flow State</name>
         </author>
     </entry>
     <entry>

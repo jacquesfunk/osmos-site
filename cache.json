@@ -6,6 +6,26 @@
       "siteUrl": "https://baty.net/index.xml",
       "articles": [
         {
+          "id": "https://baty.net/posts/2026/10/littlefedi/",
+          "author": null,
+          "description": "littleFedi is \"A small ActivityPub server written in Go\"\nIt was officially released (I think) yesterday, and is another project from Stefano Marinelli of BSSG fame.\nA few years ago I'd decided I wanted to \"own my content\" 🙄 so I ran an instance of Mastodon. Mastodon is overkill and I didn't enjoy it. Then, later, I installed an instance of Go2Social, which worked well. Trouble was, I was all-in with social media at the time and being on a single-user instance felt lonely...nothing useful in \"local\" or \"trending\". Discovery was difficult. It was just me and I didn't like it.\nFast forward to today, and things have changed. I've deleted all of my Meta-related accounts and LinkedIn. I thought about quitting Mastodon as well, but FOMO always gets the better of me.\nSince I would rather not quit Mastodon completely, I figured I would try running a single-user instance again. Maybe the quiet would be good for me.\nI'd seen @Stefano's posts about a new ActivityPub server he was working on and the timing of the first release couldn't be better, so I installed it today at Jack Baty Social.\n\nIt's running on my Hetzner VPS behind Caddy as a proxy. I love Caddy. Here's the entire Caddy config for the domain:\nsocial.baty.net {\n\tencode gzip\n\treverse_proxy 127.0.0.1:8081\n}\n\nI've just started poking around, but littleFedi seems like it's got a lot going for it. At first I wanted to use my root domain for my handle (@jack@baty.net) but since I'd previously used that via Ghost, I ran into caching issues and didn't want to bother, so now I'm @jack@social.baty.net.\nThe big question is whether to migrate followers there, or start fresh and maybe just announce the move from my main @jbaty@social.lol account. I think I'll give it a minute before deciding.\nlittleFedi is a compelling new entry in the FediverseSpaceArena.\n✍️ Reply by email",
+          "link": "https://baty.net/posts/2026/10/littlefedi/",
+          "publishedOn": "2026-10-03T17:07:03.000Z",
+          "wordCount": 382,
+          "title": "littleFedi",
+          "imageUrl": "https://baty.net/img/opengraph.jpg"
+        },
+        {
+          "id": "https://baty.net/journal/03Oct26/",
+          "author": null,
+          "description": "Hermes 3000 (2010)\nSTATUS:  Installing and uninstalling software on my Mac\nWATCHING: \"Furious\"\nLISTENING:  Lots of Led Zeppelin on Vinyl\nREADING: \"Theo of Golden\" by Allen Levi\nThe best part about being on a Mac is that there are a lot of great apps available that can't be found anywhere else. That might also be the worst part of using a Mac. I can't stop playing with software.\nSomebody said, \"If you can't hold it, you don't own it.\" They were right.\nRead this somewhere recently: \"I'm not aloud to sing in the house\" 😄\n✍️ Reply by email",
+          "link": "https://baty.net/journal/03Oct26/",
+          "publishedOn": "2026-10-03T09:28:59.000Z",
+          "wordCount": 163,
+          "title": "Saturday, October 3, 2026",
+          "imageUrl": "https://baty.net/img/2026/20261003-hermes.webp"
+        },
+        {
           "id": "https://baty.net/journal/02Oct26/",
           "author": null,
           "description": "Gull (2025) / Leica MP. Summilux 35mm.\nSal's follow-up to my post about ending my Linux experiment includes a note about Apple Messages. I can't believe I didn't mention that. One of the biggest drawbacks for me on Linux  was not having easy access to Messages. (Nearly) everyone I correspond with uses Messages. I hate typing anything on my iPhone, so having to switch to my phone to text someone was no fun at all. And forget about sharing a funny meme or whatever. I could never get KDE Connect, LocalSend, and friends to work fast enough or consistently enough to make it worth it. It was one hurdle I was never able to clear when using Linux.\n✍️ Reply by email",
@@ -2035,22 +2055,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!3sLU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feed56eff-32f2-414a-a430-199d5939e681_1200x1200.jpeg"
-        },
-        {
-          "id": "https://www.flowstate.fm/p/egberto-gismonti",
-          "author": "Flow State",
-          "description": "Today we’re listening to Egberto Gismonti, a Brazilian composer, guitarist, and pianist from Carmo.",
-          "link": "https://www.flowstate.fm/p/egberto-gismonti",
-          "publishedOn": "2026-09-24T07:02:46.000Z",
-          "wordCount": null,
-          "title": "Egberto Gismonti",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!su5B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb519531f-df13-46f5-9a6b-07ebe3c30259_4928x3264.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!su5B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb519531f-df13-46f5-9a6b-07ebe3c30259_4928x3264.jpeg"
         }
       ]
     },
