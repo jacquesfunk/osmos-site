@@ -2,10 +2,218 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-02T11:55:03.333Z</updated>
+    <updated>2026-10-03T16:36:12.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
+        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
+        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
+        <updated>2026-10-03T16:36:12.350Z</updated>
+        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
+
+Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
+
+The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irreal: Persisting Text Scale]]></title>
+        <id>https://irreal.org/blog/?p=14122</id>
+        <link href="https://irreal.org/blog/?p=14122"/>
+        <updated>2026-10-03T14:09:37.000Z</updated>
+        <summary type="html"><![CDATA[has a solution: persist-text-scale.el.
+
+
+The TL;DR is that once you set a new font scale for a buffer, it persists across sessions and furthermore you can arrange for all buffers of a certain class to have the same scale settings. That’s perfect. You can, for example, arrange to have all the buffers you use for writing or reading text be in a larger text while keeping other buffers in the default or even smaller text.
+
+
+Take a look at the GitHub repository linked above for the details. You might also want to check out the comments in Cherti’s Emacs subreddit announcement where he answers some questions on what he’s trying to accomplish with the package. If you’d like to have certain buffers rendered in a larger (or smaller) font, this package may be just what you need.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday 80s Jam: Flashdance…What a Feeling – Irene Cara]]></title>
+        <id>https://stuffthatinterestsme.net/?p=3819</id>
+        <link href="https://stuffthatinterestsme.net/saturday-80s-jam-flashdance-what-a-feeling-irene-cara/"/>
+        <updated>2026-10-03T00:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Few songs capture the sheer optimism of the early 1980s quite like Irene Cara’s “Flashdance… What a Feeling.” It is]]></summary>
+        <author>
+            <name>Schill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ankit Gadiya: Fix nested Emacs frames]]></title>
+        <id>https://ankit.earth/blog/fix-nested-emacs-frames/</id>
+        <link href="https://ankit.earth/blog/fix-nested-emacs-frames/"/>
+        <updated>2026-10-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year I added Ghostel to my
+Emacs configuration. Ghostel is a terminal emulator for Emacs that uses
+Ghostty's engine underneath. It is a delight to use
+especially with the TUI applications.
+Nested Emacs frame problem
+I use Emacs in daemon
+mode,
+and then use emacsclient to open new frames from the daemon. To use the same
+Emacs daemon when opening files through other programs such as git, sops, I have
+a small shell script ee configured as my default EDITOR. It opens a new
+Emacs frame in the terminal.
+#!/bin/sh
+
+exec emacsclient --create-frame --no-window-system "$@"
+
+When I run this script from Ghostel, it opens a nested Emacs frame in Ghostel's
+terminal session.
+
+Solution
+Emacs sets an environment variable INSIDE_EMACS for shells and subprocesses.
+The script use this variable to check if it is launched from Ghostel and use the
+--reuse-frame flag to open the new buffer in the current frame.
+#!/bin/sh
+
+if [ "$INSIDE_EMACS" = "ghostel" ]
+then
+  exec emacsclient --reuse-frame "$@"
+fi
+
+exec emacsclient --create-frame --no-window-system "$@"]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russell Vought and His Budgeting Cronies Are Using This Sketchy Loophole to Control Government Spending]]></title>
+        <id>http://www.esquire.com/news-politics/politics/a73998608/russell-vought-omb-pocket-recessions-congress-budget/</id>
+        <link href="https://www.esquire.com/news-politics/politics/a73998608/russell-vought-omb-pocket-recessions-congress-budget/"/>
+        <updated>2026-10-02T21:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Why the hell are Republican senators letting it happen?]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Not-So-Great Defector Bake Off Lurches Unsteadily Into Cake Week]]></title>
+        <id>https://defector.com/?p=237045</id>
+        <link href="https://defector.com/the-not-so-great-defector-bake-off-lurches-unsteadily-into-cake-week"/>
+        <updated>2026-10-02T17:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to The Not-So-Great Defector Bake Off, where Kelsey and Chris attempt to complete the technical challenges from the newest season of The Great British Bake Off in their own home kitchens, with the same time parameters as the professional-grade bakers competing on the show.
+It's autumn again. The extremely popular and enduring contest show The Great British Bake Off has returned for its 17th season, or series. The format is pretty straightforward: A dozen enthusiastic amateur British bakers are invited to the show's set—a large tent in a field—to participate in three baking challenges. At the end of those challenges, two judges decide who performed the best across the challenges, and name that person Star Baker. They also decide who performed the worst, and that person is eliminated from the competition. Then everyone goes home for the week, before returning for a new set of challenges, and another round of elimination. At the end of each season, one baker is named the winner, and everyone celebrates together, and the vibes are off the charts.]]></summary>
+        <author>
+            <name>Chris Thompson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seed Shanty]]></title>
+        <id>https://pbfcomics.com/?post_type=comics&amp;p=2727</id>
+        <link href="https://pbfcomics.com/comics/seed-shanty/"/>
+        <updated>2026-10-02T15:54:12.000Z</updated>
+        <summary type="html"><![CDATA[The post Seed Shanty appeared first on The Perry Bible Fellowship.]]></summary>
+        <author>
+            <name>Nicholas Gurewitch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friday, October 2, 2026]]></title>
+        <id>https://baty.net/journal/02Oct26/</id>
+        <link href="https://baty.net/journal/02Oct26/"/>
+        <updated>2026-10-02T15:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Gull (2025) / Leica MP. Summilux 35mm.
+Sal's follow-up to my post about ending my Linux experiment includes a note about Apple Messages. I can't believe I didn't mention that. One of the biggest drawbacks for me on Linux  was not having easy access to Messages. (Nearly) everyone I correspond with uses Messages. I hate typing anything on my iPhone, so having to switch to my phone to text someone was no fun at all. And forget about sharing a funny meme or whatever. I could never get KDE Connect, LocalSend, and friends to work fast enough or consistently enough to make it worth it. It was one hurdle I was never able to clear when using Linux.
+✍️ Reply by email]]></summary>
+        <author>
+            <name>baty.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irreal: 🥩 Red Meat Friday: True Believers]]></title>
+        <id>https://irreal.org/blog/?p=14120</id>
+        <link href="https://irreal.org/blog/?p=14120"/>
+        <updated>2026-10-02T15:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Emacs Devel mailing list that, zombie like, refuse to die. They’re essentially the same. One, entitled "ethically" running proprietary code? is an endless discussion of what Emacs should do if a package can indirectly lead to running non-free code. The other, [NonGNU] new: hermes is the same discussion but is particularized to whether Hermes, which is free software but might indirectly lead to a non-free LLM implementation should be added to the NonGNU repository.
+
+
+The sane people on the list argue that Emacs can’t possibly control what users do with a particular piece of Emacs software and point to EWW as an example. It’s a core part of Emacs and as free as can be yet users can use it to download non-free software and do other things that the FSF wouldn’t approve of.
+
+
+The true believers…]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s Time To Separate The Real Teams From The Clowns]]></title>
+        <id>https://defector.com/?p=236863</id>
+        <link href="https://defector.com/its-time-to-separate-the-real-teams-from-the-clowns"/>
+        <updated>2026-10-02T14:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Defector College Football Watch Guide, where Israel Daramola and Ray Ratto will tell you which of the weekend’s college football games are worth giving a crap about.
+Ray: We're in the middle of bye season now, which means some of your favorites—Texas, UCLA, Duke, Utah and others—are receiving well-deserved weeks off that will allow their fan bases to forget who they hate the most. Well, not forget, really, but maybe forget to mention for at least a few days. No coaches have been fired yet, but now that we're in October, the time is rapidly approaching where a lot of professional Football Men will be given an opportunity to start spending more time with their families. Apologies to those families for what will befall them.
+The rest of the week, though, should be about small moves among big teams, as the upward funnel begins to gain suction and the power teams begin to sort themselves out. Margin of victory will start mattering less as simple victory begins to suffice, and the number of undefeated teams will shrink from its current total of 22 (out of 138, roughly 15 percent). The most intriguing of those teams might be North Dakota State, freshly escaped from dispensing ritual thumpings in the Missouri Valley and released into the allegedly more hostile environs of the Mountain West. They may even make a case for a playoff berth, provided the sentient oil stains on the committee deign to notice them. For the moment, they have to worry about Wyoming, as do we all.]]></summary>
+        <author>
+            <name>Israel Daramola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Too-Small Lynx Will Have To Answer Some Big Questions]]></title>
+        <id>https://defector.com/?p=236879</id>
+        <link href="https://defector.com/the-too-small-lynx-will-have-to-answer-some-big-questions"/>
+        <updated>2026-10-02T14:10:33.000Z</updated>
+        <summary type="html"><![CDATA[As end-of-season Minnesota Lynx press conferences go, this year’s was pretty subdued. There was no “shit was stolen from us,” no missives delivered against Cathy Engelbert. “I don’t have a speech prepared, so everyone can relax,” Napheesa Collier said at the start of her exit interview Thursday afternoon. After an 87-71 loss to the New York Liberty in Game 2 of the first round of the playoffs, the eliminated Lynx are just looking inward. 
+The Liberty, set to the play the Atlanta Dream in the second round starting Sunday, became the first No. 8 seed to knock out a No. 1 seed in the first round. “It sucks,” was all Lynx coach Cheryl Reeve had to say about that distinction after the loss Tuesday night. It probably doesn’t deserve more analysis than that. The strength of this particular No. 8 seed is one reason: The Liberty are a veteran, playoff-tested team still led by one of the greatest players of all time. And in a way it did not a few years ago, when three-quarters of a 12-team league made the playoffs, it does also take a little more accomplishment to appear in the WNBA postseason these days. The last time the Liberty were a No. 8 seed, in 2021, they made the playoffs with a 12-20 record. This year, with a 26-18 record, they finished just seven games back of the Lynx, while eight games separated the Liberty and No. 9 Portland.
+Beyond unfortunate history, the first-round loss makes for a sooner-than-expected start to what might be the league’s most interesting offseason. The thought on everyone's mind Tuesday night and again at Minnesota's media availability Thursday was something like: Two's a coincidence, three's a trend. Why has the Lynx season ended in heartbreak for three straight years?]]></summary>
+        <author>
+            <name>Maitreyi Anantharaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Smith Did Not Conspire Against Donald Trump While Watching Steph Curry Score 60 Points In An Overtime Loss To The Hawks]]></title>
+        <id>https://defector.com/?p=236837</id>
+        <link href="https://defector.com/jack-smith-eric-schmitt-hawks"/>
+        <updated>2026-10-02T13:59:28.000Z</updated>
+        <summary type="html"><![CDATA[The most salient part of the accusation that Missouri Sen. Eric Schmitt lodged against former special prosecutor Jack Smith in a Senate hearing on Tuesday is that it was wrong. It was ecstatically and grandiosely wrong, and obviously wrong in ways that even a rudimentary blog-level fact check would have caught. It was wrong in ways that would only be possible at this particular low ebb in American political and broader executive function—based on unverified and unvetted information given only to Republican senators by the Department of Justice, too hastily put to oafish misuse by well-credentialed chumps of roughly equal laziness and ambition in the pursuit of a spiteful but otherwise opaque end.
+In that sense, it is extremely familiar. If it hadn't ended with Schmitt dangling upside down …]]></summary>
+        <author>
+            <name>David Roth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Wuppertal Schwebebahn Is Real And It Is My Friend]]></title>
+        <id>https://defector.com/?p=236732</id>
+        <link href="https://defector.com/the-wuppertal-schwebebahn-is-real-and-it-is-my-friend"/>
+        <updated>2026-10-02T13:35:51.000Z</updated>
+        <summary type="html"><![CDATA[WUPPERTAL, Germany — When my friend in Cologne asked me if I might want to take a day trip, thanks to Cologne's proximity to various other notable cities (Dortmund, Düsseldorf, Bonn, among others), I said that I would like to go to Wuppertal to ride the Schwebebahn. To which they said, "I knew that's what you were going to say." My brand is strong.
+Before my trip to Germany, I declared this desire to ride the Wuppertal Schwebebahn to many of my close friends, and also several strangers. Some people thought it sounded pretty cool. Others said they were happy for me. More than once I was accused of making up words.
+Nothing about the glorious feat that is the Wuppertal Schwebebahn is made up. "Schwebebahn" means suspended railway, or literally "floating train," which is an apt way to describe a dangling monorail. It was the design of German engineer Eugen Langen and opened along and above the river Wupper in 1901, connecting several towns that would eventually merge to form the city of Wuppertal, or literally "Wupper valley." Both the early look of the train and its surroundings are captured in footage shot from the front of the Schwebebahn in 1902. Behold, "The Flying Train."]]></summary>
+        <author>
+            <name>Kathryn Xu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Igor Shesterkin Caught His White Whale And Scored A Goalie Goal]]></title>
+        <id>https://defector.com/?p=237081</id>
+        <link href="https://defector.com/igor-shesterkin-caught-his-white-whale-and-scored-a-goalie-goal"/>
+        <updated>2026-10-02T13:17:09.000Z</updated>
+        <summary type="html"><![CDATA[The thing about all goalie goals is that they rock. There are roughly 175 feet and six prideful skaters between the promised land and any netminder bold enough to even attempt to reach it. There have been but 21 goalie goals, scored by 18 different goalies, in the entire history of the NHL. The thing about Thursday night's goalie goal, specifically, is that no goalie since Ron Hextall has ever so clearly wanted it more than Igor Shesterkin.
+He is also exceedingly deserving. He is in that classic New York Ranger situation of being one of the league's elite stoppers, trapped on a team that does not seem capable of building a commensurate roster around him. Surely he thinks about how Henrik Lundqvist retired without a Cup. Surely he should get a little treat from time to time, something just for Igor. Often—notably often—that treat-seeking looks like firing a puck down the ice at an empty net. 
+He does it so often that home crowds start anticipating the attempt as soon as the opposing goalie heads to the bench. He does it so often that Kenny Albert predicted it 10 minutes before it happened last night. And he has come so close. “I feel like probably a dozen times I’ve been on the bench thinking, ‘OK, this one goes in,’ and he barely misses,” said Mika Zibanejad. Shesterkin has said he scored one in juniors and has been chasing that high ever since. But he never found paydirt until last night.]]></summary>
+        <author>
+            <name>Barry Petchesky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr. Monk And The Unfinished Book]]></title>
+        <id>https://defector.com/?p=236748</id>
+        <link href="https://defector.com/mr-monk-and-the-unfinished-book"/>
+        <updated>2026-10-02T13:00:12.000Z</updated>
+        <summary type="html"><![CDATA[One of Monk's most Monk-like episodes in all of Monk occurs in Season 2, Episode 7: "Mr. Monk and the Sleeping Suspect." Adrian Monk, Tony Shalhoub's impersonation of Eeyore if the donkey had severe OCD, has taken to visiting Brian Babbage, a comatose man and his prime murder suspect, for an unofficial therapy session. Monk's actual therapist is away on vacation, and the private detective desperately needs someone to talk to. "He's a good listener," Monk tells his bewildered assistant, Sharona Fleming.
+Monk sits by Babbage's hospital bed and spills his many woes while doing what he does best: puttering around and noticing things. Monk notices Babbage's watch is a couple minutes fast—an unacceptable misalignment in his world—and as he fixes the watch, he notices a bit of glue stuck to the f…]]></summary>
+        <author>
+            <name>Sabrina Imbler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cornell assault case shows #MeToo didn’t go far enough]]></title>
         <id>https://www.salon.com/2026/10/02/cornell-assault-case-shows-metoo-didnt-go-far-enough/-full</id>
@@ -151,16 +359,6 @@ All the ‘Root Access’ episodes]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bain Capital Brainstorms Where The AI Revenue’s Gonna Come From]]></title>
-        <id>https://talkingpointsmemo.com/?p=1559175</id>
-        <link href="https://talkingpointsmemo.com/edblog/bain-capital-brainstorms-where-the-ai-revenues-gonna-come-from"/>
-        <updated>2026-10-01T22:44:34.000Z</updated>
-        <summary type="html"><![CDATA[A friend sent me this new Bain Capital study on the growth required to match the current levels of capital...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
         <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
         <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
@@ -193,16 +391,6 @@ The first shot fired in this looming war happened at a seemingly innocuous Cow H
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Roberts Court Re-Opens But It’s Been Open for Business and Trump All Along]]></title>
-        <id>https://www.graveinjustice.news/p/the-roberts-court-re-opens-but-its</id>
-        <link href="https://www.graveinjustice.news/p/the-roberts-court-re-opens-but-its"/>
-        <updated>2026-10-01T19:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Also, Does Alito’s Recusal from the Climate Case Mean Five Republican Justices Are Itching to Protect Big Oil?]]></summary>
-        <author>
-            <name>Lisa Graves</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MAGA Farm Owners Are Finally Seeing the Consequences of Voting for a Deranged President Who Wants to Deport Their Workforce]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73983115/maga-farms-ice-deportation-workforce/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73983115/maga-farms-ice-deportation-workforce/"/>
@@ -222,16 +410,6 @@ So instead, I’ll build off what Drew wrote last week while referencing researc
 In 2026, it turns out that teams that already loved to blitz are the ones blitzing more—median and bottom-fifth percentile blitz rates have not increased by any amount over the last few seasons. But it still invites the question: Why are blitz-happy teams blitzing more?]]></summary>
         <author>
             <name>Arif Hasan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump DOJ Doubles Down on Attacking Judges]]></title>
-        <id>https://morningmemo.talkingpointsmemo.com/p/trump-doj-doubles-down-on-attacking</id>
-        <link href="https://morningmemo.talkingpointsmemo.com/p/trump-doj-doubles-down-on-attacking"/>
-        <updated>2026-10-01T16:39:35.000Z</updated>
-        <summary type="html"><![CDATA[INSIDE: Todd Blanche … Aileen Cannon … Crista Pike]]></summary>
-        <author>
-            <name>David Kurtz</name>
         </author>
     </entry>
     <entry>
@@ -296,16 +474,6 @@ When I actually went to Seneca Falls and stood on that bridge, however, I found 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let’s all look on in horror as a racist game show host does a racism]]></title>
-        <id>https://www.jefftiedrich.com/p/lets-all-look-on-in-horror-as-a-racist</id>
-        <link href="https://www.jefftiedrich.com/p/lets-all-look-on-in-horror-as-a-racist"/>
-        <updated>2026-10-01T14:27:47.000Z</updated>
-        <summary type="html"><![CDATA[also: Ken Paxton does a sad, and Piss-Drunk Pete does a transphobia.]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[When Is It OK To Wear The Wally Head?]]></title>
         <id>https://defector.com/?p=236909</id>
         <link href="https://defector.com/when-is-it-ok-to-wear-the-wally-head"/>
@@ -315,6 +483,19 @@ I have a lot of time on my hands now, so I figured I'd write you with an etiquet
 But we have a tradition: When you hit a home run, you wear the Wally Head. One of our other guys, Jarren, came up with it last year. It's our "thing." So we made Nick wear the Wally Head after his homer, but I don't think he wanted to. I don't think any of us were particularly into it. Frankly the whole ceremony felt kind of embarrassing.]]></summary>
         <author>
             <name>Barry Petchesky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thursday, October 1, 2026]]></title>
+        <id>https://baty.net/journal/01Oct26/</id>
+        <link href="https://baty.net/journal/01Oct26/"/>
+        <updated>2026-10-01T10:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Cornfield and "porta-jon" (2026)
+I want to drop social media (aka Mastodon) completely one day, and the next day I think about installing littleFedi | A small ActivityPub server written in Go and moving my identity there.
+Today, I had hoped to spend more time away from the computer, but I didn't. I can't. Still working on the addiction.
+✍️ Reply by email]]></summary>
+        <author>
+            <name>baty.net</name>
         </author>
     </entry>
     <entry>
@@ -505,16 +686,6 @@ This week, Drew answers a question about extracurricular activities.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doubts About the AI Boom Are Seeping Into Elite Headlines]]></title>
-        <id>https://talkingpointsmemo.com/?p=1559025</id>
-        <link href="https://talkingpointsmemo.com/edblog/doubts-about-the-ai-boom-are-seeping-into-elite-headlines"/>
-        <updated>2026-09-30T18:24:30.000Z</updated>
-        <summary type="html"><![CDATA[This is the weekly, free edition of The Backchannel. If you’d like to receive the free edition of The Backchannel...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Trump Administration Rolls Back Title IX Protections, Again]]></title>
         <id>https://defector.com/?p=236726</id>
         <link href="https://defector.com/the-trump-administration-rolls-back-title-ix-protections-again"/>
@@ -524,16 +695,6 @@ The changes also mark the official return of previous regulations, previously en
 Title IX is the federal law passed in the 1970s that banned discrimination based on sex in education. It's widely credited with making the United States a global leader in women's sports as well as forcing schools and universities to investigate reports of sexual harassment and sexual misconduct.]]></summary>
         <author>
             <name>Diana Moskovitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appeals Courts Slowly Awaken to Trump II Threat]]></title>
-        <id>https://morningmemo.talkingpointsmemo.com/p/appeals-courts-slowly-awaken-to-trump</id>
-        <link href="https://morningmemo.talkingpointsmemo.com/p/appeals-courts-slowly-awaken-to-trump"/>
-        <updated>2026-09-30T15:59:12.000Z</updated>
-        <summary type="html"><![CDATA[INSIDE: James Boasberg ... Eric Schmitt ... Pete Hegseth]]></summary>
-        <author>
-            <name>David Kurtz</name>
         </author>
     </entry>
     <entry>
@@ -682,16 +843,6 @@ https://www.youtube.com/watch?v=NKoMwf53Xg8]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Are you smarter than the White House’s new AI chatbot? Let’s find out.]]></title>
-        <id>https://www.jefftiedrich.com/p/are-you-smarter-than-the-white-houses</id>
-        <link href="https://www.jefftiedrich.com/p/are-you-smarter-than-the-white-houses"/>
-        <updated>2026-09-30T14:16:21.000Z</updated>
-        <summary type="html"><![CDATA[Also: Jack Smith is definitely smarter than every Republican]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Fever Are Good Enough To Get Under Your Skin]]></title>
         <id>https://defector.com/?p=236786</id>
         <link href="https://defector.com/the-fever-are-good-enough-to-get-under-your-skin"/>
@@ -781,16 +932,6 @@ It's a close call between my frustration with tangled cables and my hatred of Bl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rusty Red State Candidates With Rusty Values]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558925</id>
-        <link href="https://talkingpointsmemo.com/edblog/rusty-red-state-candidates-with-rusty-values"/>
-        <updated>2026-09-29T21:38:36.000Z</updated>
-        <summary type="html"><![CDATA[This afternoon I saw an ad being run by a SuperPAC supporting Dan Osborn (“Nebraska Values PAC”) against Sen. Pete...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why the Hell Is Justice Alito Excused from a Key Supreme Court Decision Next Week?]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73947918/sam-alito-scotus-decision-suncor-energy/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73947918/sam-alito-scotus-decision-suncor-energy/"/>
@@ -811,16 +952,6 @@ I've spent the past year recreating the dozens of little workflows on Linux that
 The things I like about Linux are abstract. The "I'm in complete control of my computing environment" kind of things. I miss that feeling on the …]]></summary>
         <author>
             <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Storm, Brought to You by Donald Trump]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558890</id>
-        <link href="https://talkingpointsmemo.com/edblog/perfect-storm-brought-to-you-by-donald-trump"/>
-        <updated>2026-09-29T18:40:25.000Z</updated>
-        <summary type="html"><![CDATA[As I noted a week ago, we can’t know whether the current polls will be predictive of the November election...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
         </author>
     </entry>
     <entry>
@@ -874,26 +1005,6 @@ Once installed, all you need do is call aqui to set all the appropriate informat
 If you decide to try it out, be sure to take a look at the user manual so see what commands are available. Mostly, though, you’ll just need to run aqui. Also be sure to check out the installation section because you need to install a shortcut. That’s just a matter of clicking on a link in the manual but Aquí won’t work until you do.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Biggest Trump Retribution Scheme Is Coming Apart at the Seams]]></title>
-        <id>https://morningmemo.talkingpointsmemo.com/p/the-biggest-trump-retribution-scheme</id>
-        <link href="https://morningmemo.talkingpointsmemo.com/p/the-biggest-trump-retribution-scheme"/>
-        <updated>2026-09-29T14:48:13.000Z</updated>
-        <summary type="html"><![CDATA[INSIDE: Kurt Olsen ... Joseph diGenova ... Andrew Bailey]]></summary>
-        <author>
-            <name>David Kurtz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[look, you idiots — Preznit Fuckwit isn’t giving you five thousand dollars, okay?]]></title>
-        <id>https://www.jefftiedrich.com/p/look-you-idiots-preznit-fuckwit-isnt</id>
-        <link href="https://www.jefftiedrich.com/p/look-you-idiots-preznit-fuckwit-isnt"/>
-        <updated>2026-09-29T14:25:57.000Z</updated>
-        <summary type="html"><![CDATA[grow a brain, why don’t you]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
         </author>
     </entry>
     <entry>
@@ -1241,16 +1352,6 @@ gets to it.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roger Marshall May Rue The Day: Arresting Pregnant Moms Edition]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558840</id>
-        <link href="https://talkingpointsmemo.com/edblog/roger-marshall-may-rue-the-day-arresting-pregnant-moms-edition"/>
-        <updated>2026-09-28T23:37:48.000Z</updated>
-        <summary type="html"><![CDATA[I’m figuring this will end up as a big mistake. You probably know about the big NYT expose about Sen....]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Never Thought “Explosive Diarrhea” Would Become a Reason to Vote Blue, but Here We Are]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73931845/foodborne-illness-midterm-elections-voters/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73931845/foodborne-illness-midterm-elections-voters/"/>
@@ -1296,16 +1397,6 @@ https://www.youtube.com/watch?v=obK7tbfw-dI]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[US Tax Dollars Now Used to Secure Deals for Trump Family Cronies]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558807</id>
-        <link href="https://talkingpointsmemo.com/edblog/us-tax-dollars-now-used-to-secure-deals-for-trump-family-cronies"/>
-        <updated>2026-09-28T17:11:09.000Z</updated>
-        <summary type="html"><![CDATA[This has gotten very little attention, as far as I can tell. But it sounds quite sleazy and another example...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ireland Beats Israel 3-0 In Game Nobody Wanted]]></title>
         <id>https://defector.com/?p=236687</id>
         <link href="https://defector.com/ireland-beats-israel-3-0-in-game-nobody-wanted"/>
@@ -1337,16 +1428,6 @@ Luckily, life decided to rub my nose in just how shitty stagnancy smelled. My ap
 In 2004, my uncle made one of the smartest calls that anyone ever got to make on the car market: He bought a brand new Lexus GX 470. It was eye-wateringly expensive, about 80 grand in today’s money, but his construction business was going well, and anyway in his judgment it was sturdier and more comfortable than anything else he test drove. He fucking nailed that one. This was Toyota engineering at the absolute peak of their powers. That GX was no steal, but at few points in history has a family of cars been so utterly far ahead of the competing options in terms of quality as the Toyota SUVs of this era.]]></summary>
         <author>
             <name>Lucy Bloom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge Finds Trump Admin in Contempt of Court Again for Wrongful Deportation]]></title>
-        <id>https://morningmemo.talkingpointsmemo.com/p/judge-finds-trump-admin-in-contempt</id>
-        <link href="https://morningmemo.talkingpointsmemo.com/p/judge-finds-trump-admin-in-contempt"/>
-        <updated>2026-09-28T15:28:45.000Z</updated>
-        <summary type="html"><![CDATA[INSIDE: Katie Miller ... Chad Mizelle ... Kimberly Guilfoyle]]></summary>
-        <author>
-            <name>David Kurtz</name>
         </author>
     </entry>
     <entry>
@@ -1430,26 +1511,6 @@ It's worked for Max Scherzer, you'd have to say. Three Cy Youngs, eight all-star
 Scherzer finished off his 19th season on Sunday as a member of the Blue Jays, and if it was an atypical season for the future hall-of-famer, it was quite in line with what you'd expect from a 42-year-old. It was rough, in other words. Scherzer hasn't officially decided on retirement, but with a lockout looming he's talking about it like he has, and anyway he's not returning to Toronto. "We had circled this one, if we were out of it, to still pitch Sunday. It gives me a chance to pitch in front of my kids one more time," he said. It didn't matter that Scherzer would have to throw on short rest. It did matter, though he wouldn't admit it, that he still had a puncher's chance of chasing down Justin Verlander on the all-time strikeout list, after Verlander had returned from six months on the shelf to make one last start the day before.]]></summary>
         <author>
             <name>Barry Petchesky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Losing Money But Making It Up in Volume? More News from the AI Front]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558777</id>
-        <link href="https://talkingpointsmemo.com/edblog/losing-money-but-making-it-up-in-volume-more-news-from-the-ai-front"/>
-        <updated>2026-09-28T14:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Here’s our text for the day on the LLM/AI “boom”, which is now the center of the US economy and...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the fuck is this ‘let them eat cake’ bullshit from the White House?]]></title>
-        <id>https://www.jefftiedrich.com/p/what-the-fuck-is-this-let-them-eat</id>
-        <link href="https://www.jefftiedrich.com/p/what-the-fuck-is-this-let-them-eat"/>
-        <updated>2026-09-28T14:26:52.000Z</updated>
-        <summary type="html"><![CDATA[What thimble-brain thought this was a good idea?]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
         </author>
     </entry>
     <entry>
@@ -1590,16 +1651,6 @@ Speaking of subscriptions, subscription fatigue has a been a thing with me for a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Important Note on Silicon Valley AI Models (LLMs)]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558765</id>
-        <link href="https://talkingpointsmemo.com/edblog/an-important-note-on-silicon-valley-ai-models-llms"/>
-        <updated>2026-09-27T22:08:45.000Z</updated>
-        <summary type="html"><![CDATA[I want to flag your attention to this note written by computer scientist and AI researcher Yoshua Bengio. It was...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Finings Will Continue Until Morale Worsens]]></title>
         <id>https://defector.com/?p=236607</id>
         <link href="https://defector.com/the-finings-will-continue-until-morale-worsens"/>
@@ -1640,16 +1691,6 @@ The sad truth is that the main difficulty in dealing with Outlook is not the ema
 Regardless, every little bit of help in escaping their maw is welcome. If you’d like to at least deal with emails in an Outlook environment, take a look at Patient_Chance_3795’s post.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rogue nation, moron president]]></title>
-        <id>https://www.jefftiedrich.com/p/rogue-nation-moron-president</id>
-        <link href="https://www.jefftiedrich.com/p/rogue-nation-moron-president"/>
-        <updated>2026-09-27T14:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Preznit Fuckwit is why we can’t have nice things]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
         </author>
     </entry>
     <entry>
@@ -1788,16 +1829,6 @@ All the ‘Root Access’ episodes]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Another Factor: Bad Candidates]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558762</id>
-        <link href="https://talkingpointsmemo.com/edblog/another-factor-bad-candidates"/>
-        <updated>2026-09-26T20:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a secondary issue we’re currently seeing in a number of races in Red States. Take the Kansas Senate race....]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Irreal: Copy Only What You See]]></title>
         <id>https://irreal.org/blog/?p=14108</id>
         <link href="https://irreal.org/blog/?p=14108"/>
@@ -1822,26 +1853,6 @@ Footnotes:
 I haven’t verified this but Dyer says he’s used it with Dired]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Moment of Trump Zen]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558760</id>
-        <link href="https://talkingpointsmemo.com/edblog/your-moment-of-trump-zen"/>
-        <updated>2026-09-26T14:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, after a federal court forced the White House to readmit three news organizations to the White House, Donald Trump...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[this week in stupid: September 26 edition]]></title>
-        <id>https://www.jefftiedrich.com/p/this-week-in-stupid-september-26</id>
-        <link href="https://www.jefftiedrich.com/p/this-week-in-stupid-september-26"/>
-        <updated>2026-09-26T14:40:27.000Z</updated>
-        <summary type="html"><![CDATA[furries fly it, Donny fries it, and so much more...]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
         </author>
     </entry>
     <entry>
@@ -1910,16 +1921,6 @@ Stay updated: https://emacs-apac.gitlab.io/#stay-updated.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Broadview Six Case May Be About to Break Open]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558708</id>
-        <link href="https://talkingpointsmemo.com/edblog/the-broadview-six-case-may-be-about-to-break-open"/>
-        <updated>2026-09-25T19:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Here is a short update on the so-called Broadview Six case — one of the high-profile prosecutorial abuse cases coming...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pete Crow-Armstrong Has Answered Every Question]]></title>
         <id>https://defector.com/?p=236550</id>
         <link href="https://defector.com/pete-crow-armstrong-has-answered-every-question"/>
@@ -1941,16 +1942,6 @@ This is not preaching, mind you, and there's no need for advocacy on the Cubs ce
 This weekend's shows were the original reason why Kraft strong-armed (really, weak-armed) Sheeran last week into dropping Macklemore as an opening act on the U.S. portion of his tour. The Patriots owner, a billionaire who has routinely donated money to groups that support Israel and its military, took issue with the rapper's support of Palestine. After Sheeran obliged, then blamed his promoter, the rest of his openers and his backing band ditched him on principle. Many people made fun of the musician for having no spine or scruples. Sheeran's subsequent show was this past Saturday in Philadelphia, where he recited a meaningless statement then cried.]]></summary>
         <author>
             <name>Samer Kalaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Economy – Not An Exaggeration]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558675</id>
-        <link href="https://talkingpointsmemo.com/edblog/the-ai-economy-not-an-exaggeration"/>
-        <updated>2026-09-25T17:08:21.000Z</updated>
-        <summary type="html"><![CDATA[There’s an article (gift link) out today in The Wall Street Journal about infrastructure spending on AI and data centers....]]></summary>
-        <author>
-            <name>Josh Marshall</name>
         </author>
     </entry>
     <entry>
@@ -1993,16 +1984,6 @@ If you like the idea of being able to peek at a file without abandoning your cur
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don’t You Just Hate Seeing Aileen Cannon in a Pickle?]]></title>
-        <id>https://morningmemo.talkingpointsmemo.com/p/dont-you-just-hate-seeing-aileen</id>
-        <link href="https://morningmemo.talkingpointsmemo.com/p/dont-you-just-hate-seeing-aileen"/>
-        <updated>2026-09-25T15:41:53.000Z</updated>
-        <summary type="html"><![CDATA[INSIDE: KBJ ... Sheri Mecklenburg ... Aileen Cannon]]></summary>
-        <author>
-            <name>David Kurtz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Manchester City Found Guilty Of More Than 100 Financial Rule Breaches]]></title>
         <id>https://defector.com/?p=236519</id>
         <link href="https://defector.com/manchester-city-found-guilty-of-more-than-100-financial-rule-breaches"/>
@@ -2011,16 +1992,6 @@ If you like the idea of being able to peek at a file without abandoning your cur
 Since it has been three years since the charges were first announced, a refresher is in order. The case is based on the Premier League's belief that City consistently broke the league's…]]></summary>
         <author>
             <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[we could all use a Good News Friday]]></title>
-        <id>https://www.jefftiedrich.com/p/we-could-all-use-a-good-news-friday</id>
-        <link href="https://www.jefftiedrich.com/p/we-could-all-use-a-good-news-friday"/>
-        <updated>2026-09-25T14:30:15.000Z</updated>
-        <summary type="html"><![CDATA[so let’s have one]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
         </author>
     </entry>
     <entry>
@@ -2265,27 +2236,6 @@ Jacobs pleaded no contest earlier this month to one count of misdemeanor battery
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep explanation of why humans have menstrual cycles, with some interesting side digressions]]></title>
-        <id>https://www.reddit.com/r/DepthHub/comments/1wpbzt4/deep_explanation_of_why_humans_have_menstrual/</id>
-        <link href="https://www.reddit.com/r/DepthHub/comments/1wpbzt4/deep_explanation_of_why_humans_have_menstrual/"/>
-        <updated>2026-09-24T20:01:21.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/LackingUtility  
- [link]   [comments]]]></summary>
-        <author>
-            <name>DepthHub: A jumping-off point for deeply-involved subreddits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Quick Poll Follow Up]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558626</id>
-        <link href="https://talkingpointsmemo.com/edblog/a-quick-poll-follow-up"/>
-        <updated>2026-09-24T19:56:47.000Z</updated>
-        <summary type="html"><![CDATA[I promise not to be writing a post about every new theory or hot take about contemporary polling. And I’ll...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It Sucks To Be Alex Bregman Right Now]]></title>
         <id>https://defector.com/?p=236418</id>
         <link href="https://defector.com/it-sucks-to-be-alex-bregman-right-now"/>
@@ -2320,16 +2270,6 @@ https://youtu.be/kemivUKb4f4?si=po0-0MLY-g-_PN2k]]></summary>
 Mike Macdonald took over as head coach of the Seahawks in January 2024. Months later, in the run-up to the season, Macdonald prepared his team for a Week 1 matchup with the Broncos in part by finding and reviewing fan footage of Denver's training camp. Macdona…]]></summary>
         <author>
             <name>Chris Thompson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House Defies Court Order Lifting Its Media Ban]]></title>
-        <id>https://morningmemo.talkingpointsmemo.com/p/white-house-defies-court-order-lifting</id>
-        <link href="https://morningmemo.talkingpointsmemo.com/p/white-house-defies-court-order-lifting"/>
-        <updated>2026-09-24T15:44:34.000Z</updated>
-        <summary type="html"><![CDATA[INSIDE: Timothy Kelly ... Betsy Klein ... Donald Trump]]></summary>
-        <author>
-            <name>David Kurtz</name>
         </author>
     </entry>
     <entry>
@@ -2390,16 +2330,6 @@ The suit stated that DeMelo "has incurred medical, hospital, and other care-rela
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Donny winces in pain, Melania shuts off her brain. it’s a Big Wheel of Moron™ Thursday!]]></title>
-        <id>https://www.jefftiedrich.com/p/donny-winces-in-pain-melania-shuts</id>
-        <link href="https://www.jefftiedrich.com/p/donny-winces-in-pain-melania-shuts"/>
-        <updated>2026-09-24T14:28:08.000Z</updated>
-        <summary type="html"><![CDATA[what the fuck is going on with Dear Leader’s health?]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No One Should Win The AL West]]></title>
         <id>https://defector.com/?p=236345</id>
         <link href="https://defector.com/no-one-should-win-the-al-west"/>
@@ -2409,17 +2339,6 @@ In fact, it is not the AL Central that was dragging down the class but the AL We
 A week ago, when we mocked the AL Central, we failed to take into account Cleveland's upcoming series with West Sacramento, which of course the Guardians swept because that's what a baseball team does when the A's come to town. (If you have to go to them, you just win two out of three and feel like you let a golden opportunity pass.) The Guards now lead the division with a gaudy 82-76 record and cannot finish below .500, a familiar late-season push that has elevated them to bland and dull rather than charmingly embarrassing. A suiting division champ, in other words.]]></summary>
         <author>
             <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[u/kellysouthpaw explains how the Theranos blood-sampling claims have never been considered possible by field experts]]></title>
-        <id>https://www.reddit.com/r/DepthHub/comments/1wp1f5k/ukellysouthpaw_explains_how_the_theranos/</id>
-        <link href="https://www.reddit.com/r/DepthHub/comments/1wp1f5k/ukellysouthpaw_explains_how_the_theranos/"/>
-        <updated>2026-09-24T13:18:39.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/SorbettoAlcolico  
- [link]   [comments]]]></summary>
-        <author>
-            <name>DepthHub: A jumping-off point for deeply-involved subreddits</name>
         </author>
     </entry>
     <entry>
@@ -2502,26 +2421,6 @@ So why org-copy-visible?, I could have written my own invisible-text walker, but
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-09-24T00:13:58.376Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who Knows What the Midterms Will Bring: But You Can Enjoy the GOP’s Sweet Agony Today!]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558522</id>
-        <link href="https://talkingpointsmemo.com/edblog/who-knows-what-the-midterms-will-bring-but-you-can-enjoy-the-gops-sweet-agony-today"/>
-        <updated>2026-09-23T21:35:46.000Z</updated>
-        <summary type="html"><![CDATA[We don’t know what’s going to happen in the midterms. But we know for a fact that today you can...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump's polls are amazing, and my abs have never looked better!Rex Huppke]]></title>
         <id>https://www.usatoday.com/story/opinion/columnist/2026/08/04/trump-approval-polls-lies-truth-social/91156618007/-full</id>
         <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/04/trump-approval-polls-lies-truth-social/91156618007/"/>
@@ -2560,206 +2459,6 @@ If I didn’t know better, I’d say Trump is doing more than Democrats to guara
 Trump's trade war with Canada will make the GOP's life more m…]]></summary>
         <author>
             <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
-        <id>https://www.sfgate.com/tech/article/data-centers-22356298.php</id>
-        <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
-        <updated>2026-09-23T21:05:57.366Z</updated>
-        <summary type="html"><![CDATA[error fetching full text: Reqwest client error: error sending request for url (https://www.sfgate.com/tech/article/data-centers-22356298.php)]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Gen X review of Gen Z phenomenon 'Backrooms']]></title>
-        <id>https://www.sfgate.com/sf-culture/article/backrooms-review-22288032.php</id>
-        <link href="https://www.sfgate.com/sf-culture/article/backrooms-review-22288032.php"/>
-        <updated>2026-09-23T21:05:57.363Z</updated>
-        <summary type="html"><![CDATA[error fetching full text: Reqwest client error: error sending request for url (https://www.sfgate.com/sf-culture/article/backrooms-review-22288032.php)]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php</id>
-        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
-        <updated>2026-09-23T21:05:57.360Z</updated>
-        <summary type="html"><![CDATA[error fetching full text: Reqwest client error: error sending request for url (https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php)]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
-        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php</id>
-        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-09-23T21:05:57.348Z</updated>
-        <summary type="html"><![CDATA[error fetching full text: Reqwest client error: error sending request for url (https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php)]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The President Could Slap His Name on Yet Another Historic Building]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a73856519/trump-fords-theatre-name-change/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a73856519/trump-fords-theatre-name-change/"/>
-        <updated>2026-09-23T19:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Why doesn’t he just get it over with already and change our country to the United States of Trump?]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secret Life And Crimes Of The American Office Plant]]></title>
-        <id>https://defector.com/?p=236290</id>
-        <link href="https://defector.com/the-secret-life-and-crimes-of-the-american-office-plant"/>
-        <updated>2026-09-23T18:02:47.000Z</updated>
-        <summary type="html"><![CDATA[When we set out to do a supersized season of Normal Gossip, it was all tee-hee, ha ha, look at all these funny goofs we have! And then we went through The Process and made 12 actual episodes of silly, unhinged, or just plain weird stories. Now? We need a nap.
-Luckily for everyone, we saved the best for last! There was no way we were going to do a season of all-stars without bringing back our dowager queen, Kelsey McKinney!
-For our finale (for real this time), we brought Kelsey a story about a power struggle amongst the staff of a pediatrician's office, with grievances so petty and machinations so cursed that we actually had Kelsey sympathizing with management. (Possibly the first and last time that will ever happen.) If you’ve got feelings about plant parenthood, sound bowls, efficiency in the workplace, mysterious white powders, or the collective quest of office managers everywhere to get a five-star rating on the apps, this one is just for you. But if all you want is to listen to Rachelle and Kelsey laugh for an hour—hey, we’re not judging—we’ve got you covered there too!]]></summary>
-        <author>
-            <name>Jae Towle Vieira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryen Russillo Hawks Troughs Of Sodium In Grim Video]]></title>
-        <id>https://defector.com/?p=236286</id>
-        <link href="https://defector.com/ryen-russillo-hawks-troughs-of-sodium-in-grim-video"/>
-        <updated>2026-09-23T17:48:25.000Z</updated>
-        <summary type="html"><![CDATA[Barstool Sports podcaster Ryen Russillo has an urgent message for you: He will be dead in 72 hours unless $12 million is wired to the following bank acc—sorry, my mistake. I just assumed that's what he was going to say based on the haunting thumbnail on this video. Now that I've played it, I see that Russillo is simply interested in selling you some appallingly lit food.
-
-https://twitter.com/TheRyenRussillo/status/2102566992217776535
-
-
-The video appears to have been shot in a study room at the local library, and Russillo looks like he was told that recording this was the only way to ensure his family will be allowed to stay alive in West Germany. Did he film this thing by himself with an iPhone and a tripod? The abrupt cuts to stuttering first-person footage of troughs of bread and fries would seem to suggest so.]]></summary>
-        <author>
-            <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone’s Least Favorite Vice President Has Decided That Some Americans Don’t Deserve Health Care]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a73853036/jd-vance-mehmet-oz-american-health-care-reduction/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a73853036/jd-vance-mehmet-oz-american-health-care-reduction/"/>
-        <updated>2026-09-23T16:42:17.000Z</updated>
-        <summary type="html"><![CDATA[Who better to team up with for such a slimy crusade than Dr. Oz?]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do I Get My Kid To Be A Sports Sicko Without Turning Myself Into A Vile Sports Parent?]]></title>
-        <id>https://defector.com/?p=236200</id>
-        <link href="https://defector.com/how-do-i-get-my-kid-to-be-a-sports-sicko-without-turning-myself-into-a-vile-sports-parent"/>
-        <updated>2026-09-23T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to Minor Dilemmas, where a member of Defector's Parents Council will answer your questions on surviving family life. Have a question? Email us at minordilemmas@defector.com.
-This week, Giri answers a question about how to encourage your child to love your favorite sport.]]></summary>
-        <author>
-            <name>Giri Nathan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM text written for you isn't your writing]]></title>
-        <id>https://baty.net/notes/2026/09/llm-writing-for-you-isn-t-your-writing/</id>
-        <link href="https://baty.net/notes/2026/09/llm-writing-for-you-isn-t-your-writing/"/>
-        <updated>2026-09-23T15:45:30.000Z</updated>
-        <summary type="html"><![CDATA[I Don’t Want to Read What You Didn’t Write
-When you are the one who prompted the AI, the written output is often quite useful. But do not mistake this for effective writing.
-I am so tired of reading LLM-generated text, especially when it was prompted by someone else.
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One Game Is Not Enough To Deem Anyone A Fraud … But Two Games Is]]></title>
-        <id>https://defector.com/?p=236231</id>
-        <link href="https://defector.com/one-game-is-not-enough-to-deem-anyone-a-fraud-but-two-games-is"/>
-        <updated>2026-09-23T15:40:51.000Z</updated>
-        <summary type="html"><![CDATA[In the grand scheme of things, Week 1 of the NFL season means nothing. There are still 16 games to go afterward, and a lot of teams use that first game as a kind of unofficial preseason game to iron out all of the kinks. After just one week, it wouldn’t be fair to make such grand pronouncements as, “The Falcons may never win another game,” or “Boy, the Lions are kinda fucked,” or “Justin Herbert has gone from overrated to just plain sucking ass.”
-But after two games? Well now, I think that’s a large enough sample size to make the kind of sweeping generalizations that make for good football radio. So that’s exactly what Arif Hasan and I do this week on All Ball.
-
-https://art19.com/shows/the-distraction/episodes/de74fc48-90f0-4703-b864-1530be9ac8bb]]></summary>
-        <author>
-            <name>Drew Magary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Ford’s Theatre of All Places Really Be Trump’s Next Renaming Project?]]></title>
-        <id>https://morningmemo.talkingpointsmemo.com/p/will-fords-theatre-of-all-places</id>
-        <link href="https://morningmemo.talkingpointsmemo.com/p/will-fords-theatre-of-all-places"/>
-        <updated>2026-09-23T15:27:16.000Z</updated>
-        <summary type="html"><![CDATA[INSIDE: Rand Paul ... RFK Jr. ... Trent McCotter]]></summary>
-        <author>
-            <name>David Kurtz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear Leader craps the bed — and then himself — at the UN]]></title>
-        <id>https://www.jefftiedrich.com/p/dear-leader-craps-the-bed-and-then</id>
-        <link href="https://www.jefftiedrich.com/p/dear-leader-craps-the-bed-and-then"/>
-        <updated>2026-09-23T14:33:36.000Z</updated>
-        <summary type="html"><![CDATA[he’s such a fucking embarrassment]]></summary>
-        <author>
-            <name>Jeff Tiedrich</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Protect College Sports Act Reveals The Dark Heart Of Management]]></title>
-        <id>https://defector.com/?p=236230</id>
-        <link href="https://defector.com/the-protect-college-sports-act-reveals-the-dark-heart-of-management"/>
-        <updated>2026-09-23T14:16:07.000Z</updated>
-        <summary type="html"><![CDATA[The Protect College Sports Act passed another procedural vote in the Senate yesterday, by a 70-21 margin. It will clear a few more procedural steps this week before going up for a final vote, at which point it is expected to pass and be sent to the House. In the meantime, it continues to mutate into a worse and more exploitative version of itself.
-More than 35 amendments were added to the PCSA yesterday, and one in particular stands out. Republican senators Katie Britt and Tommy Tuberville amended the bill to sharpen its language on how NIL spending would interact with the proposed salary cap for players. The bill now explicitly states that vaguely defined NIL money earned by players would count against a given program's spending cap on players, which would be set at $48.8 million.
-
-https://twitter.com/RossDellenger/status/2102533363277910208]]></summary>
-        <author>
-            <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are the Polls Accurate? (Are We Doing This Again?)]]></title>
-        <id>https://talkingpointsmemo.com/?p=1558446</id>
-        <link href="https://talkingpointsmemo.com/edblog/are-the-polls-accurate-are-we-doing-this-again"/>
-        <updated>2026-09-23T14:07:34.000Z</updated>
-        <summary type="html"><![CDATA[This is the weekly, free edition of The Backchannel. If you’d like to receive the free edition of The Backchannel...]]></summary>
-        <author>
-            <name>Josh Marshall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’ll Be Lucky to Have Any Allies Left After Trump’s Idiotic and Insulting UN Speech]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a73850377/trump-united-nations-speech-september-2026/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a73850377/trump-united-nations-speech-september-2026/"/>
-        <updated>2026-09-23T14:05:59.000Z</updated>
-        <summary type="html"><![CDATA[The president said he’s leading the world into a future of “super intelligence,” but it sure sounded like the opposite.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland Going Ahead With Israel Matches Against Everybody’s Wishes]]></title>
-        <id>https://defector.com/?p=236209</id>
-        <link href="https://defector.com/ireland-going-ahead-with-israel-matches-against-everybodys-wishes"/>
-        <updated>2026-09-23T13:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Ireland and Israel are, at least for now, set for some really weird soccer matches. Unfriendlies, you might say. Their national men’s teams have a home-and-home series scheduled to open this weekend, only there are no home games for either side. Both matches will be played in Central Europe: one in an empty stadium, the other with only Israeli fans. The top story in Ireland these days, sports or otherwise, is that the games will be played at all.  
-“I think we all agree we shouldn’t be in the position where we have to play the game,” John Martin, head of the Football Association of Ireland (FAI), said last week. 
-And Ireland manager Heimir Hallgrimsson said he’d personally polled all his players, and "none of us feel comfortable playing in these games."]]></summary>
-        <author>
-            <name>Dave McKenna</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Spent Three Sweltering Days Shredding The High Seas At Jogging Pace, And It Ruled]]></title>
-        <id>https://defector.com/?p=233648</id>
-        <link href="https://defector.com/i-spent-three-sweltering-days-shredding-the-high-seas-at-jogging-pace-and-it-ruled"/>
-        <updated>2026-09-23T12:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Sisi is a Volvo Ocean 65 racing sailboat. She is fast as hell and built for sickos. She is not a comfortable luxury yacht, I assure you. Sisi is a frightening, angry, 72-foot, 12-ton sea monster. 
-Sisi, owned and operated by an Austrian company called Kora Yachts, is used for racing, her calendar divided between summers in the Mediterranean and winters in the Caribbean, or what the rest of us know as "the life." In between all the racing, Sisi has to be delivered from port to port. To get to the starting mark of the Palermo–Montecarlo Regatta, she had to be sailed from the finishing mark of the Aegean600, in Sounion, Greece, to the port of Palermo. With roughly a month between the two races, Sisi's crew first delivered her to the top-of-the-line facilities at Marina Genova, adjacent to the…]]></summary>
-        <author>
-            <name>Chris Thompson</name>
         </author>
     </entry>
     <entry>
@@ -2966,113 +2665,6 @@ The president made the embarrassing kickback offer Sept. 9 during an equally emb
 Does that make…]]></summary>
         <author>
             <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natalie Harp isn’t a joke — she is Trump’s dangerous enabler]]></title>
-        <id>https://www.salon.com/2026/09/23/natalie-harp-isnt-a-joke-she-is-trumps-dangerous-enabler/-full</id>
-        <link href="https://www.salon.com/2026/09/23/natalie-harp-isnt-a-joke-she-is-trumps-dangerous-enabler/"/>
-        <updated>2026-09-23T10:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Blame Natalie Harp. On Friday, seemingly out of nowhere, Donald Trump banned CNN, POLITICO and MS NOW from the White House after whining for the umpteenth time about “Fake News,” his decade-long catchphrase to demonize accurate but unflattering press coverage. (It remains unclear if the president, whose paternal grandfather was from Germany, knows the term is an English translation of the infamous Nazi term “lügenpresse.”) Trump has been complaining about the media’s insufficient reverence for him throughout his entire political career, but there seems to be no precipitating cause for this particular tantrum. To the contrary, POLITICO reported that “senior staff were surprised by the directive, which happened while chief of staff Susie Wiles was out of town.”
-“You get sick of it,” was all …]]></summary>
-        <author>
-            <name>Amanda Marcotte - Salon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wednesday, September 23, 2026]]></title>
-        <id>https://baty.net/journal/23Sep26/</id>
-        <link href="https://baty.net/journal/23Sep26/"/>
-        <updated>2026-09-23T09:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Josie (2017)
-The tension between writing things easily using a computer vs writing them in one of my lovely notebooks never subsides and it is crazy-making.
-Maybe there could be a document format that displays the author's (human-written) text, but has a hidden AI-generated version or summary. Sort of like how "Alt" text works for images. I'm so tired of reading LLM output, but future readers (and machines) could benefit from the tedious, exhaustive details. Just keep it out of my way until then.
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Emacs Cat: Running Emacs in microVM]]></title>
-        <id>https://olddeuteronomy.github.io/post/running-emacs-in-microvm/</id>
-        <link href="https://olddeuteronomy.github.io/post/running-emacs-in-microvm/"/>
-        <updated>2026-09-23T08:55:56.000Z</updated>
-        <summary type="html"><![CDATA[Recently, I needed to test a full build of my C networking library
-together with the C build toolchain under NetBSD. Everything is fine
-on GNU/Linux (Ubuntu) and macOS—I just want to confirm it works on
-NetBSD as well.
-Why NetBSD? NetBSD is an open-source Unix-like operating system famous for
-its outstanding portability. It runs on an exceptionally wide range of
-hardware—from modern x86-64/aarch64 servers and desktops to embedded systems,
-handheld devices, vintage machines (such as VAX and m68k), and even
-some game consoles (see Platforms supported by NetBSD).
-Its long-standing motto is “Of course it runs NetBSD”.
-This makes sense if you want maximum portability.
-After all, it’s essentially good old 4.3BSD, which adds a nice touch of nostalgia.
-My home data center, as I call it, does not h…]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corntuth (Interview)]]></title>
-        <id>https://www.flowstate.fm/p/corntuth-interview</id>
-        <link href="https://www.flowstate.fm/p/corntuth-interview"/>
-        <updated>2026-09-23T07:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re listening to Corntuth, an American ambient musician based in Brooklyn.]]></summary>
-        <author>
-            <name>Flow State</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hump Day Hottie: Dua Lipa]]></title>
-        <id>https://stuffthatinterestsme.net/?p=3616</id>
-        <link href="https://stuffthatinterestsme.net/hump-day-hottie-dua-lipa/"/>
-        <updated>2026-09-23T01:58:16.000Z</updated>
-        <summary type="html"><![CDATA[Dua Lipa is a British-Albanian singer and songwriter who became one of the biggest pop stars of her generation. Born]]></summary>
-        <author>
-            <name>Schill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protesilaos: Emacs: sxhkdrc-mode version 1.3.0]]></title>
-        <id>https://protesilaos.com/codelog/2026-09-23-emacs-sxhkdrc-mode-1-3-0/</id>
-        <link href="https://protesilaos.com/codelog/2026-09-23-emacs-sxhkdrc-mode-1-3-0/"/>
-        <updated>2026-09-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is a major mode for editing sxhkdrc files. SXHKD is the Simple
-X Hot Key Daemon which is commonly used in minimalist desktop sessions
-on Xorg (I use it with bspwm, herbstluftwm, and i3wm). The sxhkdrc
-file configures key chords, binding them to commands. For the
-technicalities, read the man page sxhkd(1).
-Package name (GNU ELPA): sxhkdrc-mode
-Git repositories:
-    
-GitHub: https://github.com/protesilaos/sxhkdrc-mode
-GitLab: https://gitlab.com/protesilaos/sxhkdrc-mode
-Backronym: Such Xenotropic Hot Keys Demonstrate Robustness and
-Configurability … mode.
-1.3.0 on 2026-09-23
-This version makes quality-of-life refinements to an already stable package.
-Fontification of key chord chains
-Key chord chains are written with the semicolon (;) or colon (:)
-characters. The former refers to one-shot operations while the latter
-is for continuous ones that exit only with Escape.
-The corresponding faces are sxhkdrc-mode-chain-one-off-separator and
-sxhkdrc-mode-chain-continuous-separator.
-Support for all command prefixes
-The previous version only covered the ; in front of a command. The
-prefixes @ and ~ are now covered as well. They are all using teh
-face sxhkdrc-mode-command-prefix, which supersedes the deprecated
-sxhkdrc-mode-command-async.
-Continuation lines in commands are highlighted as well
-This concerns the backslash character (\) at the end of a line. The
-applicable face is sxhkdrc-mode-continuation-line.
-All modifiers are covered
-The updated manpage of SXHKD, sxhkd(1), mentions all the modifiers
-that it supports. I have extended support for all of them in the order
-they appear in the manual.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
