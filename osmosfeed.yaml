@@ -9,25 +9,17 @@ sources:
   - href: https://planet.emacslife.com/atom.xml
   - href: https://defector.com/feed
   - href: https://alexwlchan.net/atom.xml
-  - href: https://bitchesgottaeat.substack.com/feed
   - href: https://stuffthatinterestsme.net/feed/
   - href: https://timeisillmatic.me/feed/
   - href: https://rss-funnel.onrender.com/salon-amanda-marcotte.xml
   - href: https://rss-funnel.onrender.com/usatoday-rex-huppke.xml
   - href: https://rss-funnel.onrender.com/sfgate-drew-magary.xml
   - href: https://www.esquire.com/rss/news-politics.xml
-  - href: https://www.graveinjustice.news/feed
   - href: https://oldschool-hiphop.com/feed/
   - href: https://www.flowstate.fm/feed
   - href: https://foxtrot.com/feed/
   - href: https://pbfcomics.com/feed/
   - href: https://gomakethings.com/feed/index.xml
-  - href: https://kcinsiders.substack.com/feed
-  - href: https://talkingpointsmemo.com/author/josh_m/feed
-  - href: https://morningmemo.talkingpointsmemo.com/feed
-  - href: https://wherethingsstand.talkingpointsmemo.com/feed
-  - href: https://www.jefftiedrich.com/feed
-  - href: https://offball.substack.com/feed
 
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "Fake News Echo Chamber"
