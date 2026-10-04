@@ -6,6 +6,16 @@
       "siteUrl": "https://baty.net/index.xml",
       "articles": [
         {
+          "id": "https://baty.net/posts/2026/10/my-brain-on-a-sunday-morning/",
+          "author": null,
+          "description": "I was on my Mac this morning, just minding my own business, when suddenly I found myself using the Linux laptop, and I liked it.\nOn Sunday mornings, I do system maintenance. This means running updates on all my computers. Right now, that's five machines: one Linux desktop, two Linux laptops, one Mac desktop, and one Mac laptop. Yes, that's too many, but it is what it is.\nBoth Linux laptops run CachyOS, which is Arch-based, so there are always updates.\nI started with the Framework. Once it was updated and rebooted, I pulled the latest tweaks to my Emacs config, to make sure it worked on Linux. I've been leaning toward using macOS exclusively, so I haven't been testing things on Linux as much. Everything worked, though.\nWhile typing on the Framework, the first thing I thought about was how much I prefer typing on it to typing on the MacBook Air. Then I remembered how much I like the idea of Linux. Then I noticed that Emacs starts up more than twice as fast on the Framework for some reason. Then I remembered that the best (and only) way to have consistent Emacs key bindings on Linux is to, well, use Emacs.\nAll this to say that the conflict between running macOS, Linux, or both is still a thing. As troublesome and complex as it can be, I think the answer will always be \"both\". Surely I can manage it, right? Maybe if I only use the laptops for simple things like blogging, browsing, or journaling, things will be easy enough. I'll never be able to settle on one or the other. Just admit it.\nI'm on the couch typing this in Emacs using the Framework, both things I told myself a week ago that I'd stop doing. My stupid brain is always mucking things up.\n✍️ Reply by email",
+          "link": "https://baty.net/posts/2026/10/my-brain-on-a-sunday-morning/",
+          "publishedOn": "2026-10-04T12:32:00.000Z",
+          "wordCount": 386,
+          "title": "My brain on a Sunday morning",
+          "imageUrl": "https://baty.net/img/opengraph.jpg"
+        },
+        {
           "id": "https://baty.net/posts/2026/10/littlefedi/",
           "author": null,
           "description": "littleFedi is \"A small ActivityPub server written in Go\"\nIt was officially released (I think) yesterday, and is another project from Stefano Marinelli of BSSG fame.\nA few years ago I'd decided I wanted to \"own my content\" 🙄 so I ran an instance of Mastodon. Mastodon is overkill and I didn't enjoy it. Then, later, I installed an instance of Go2Social, which worked well. Trouble was, I was all-in with social media at the time and being on a single-user instance felt lonely...nothing useful in \"local\" or \"trending\". Discovery was difficult. It was just me and I didn't like it.\nFast forward to today, and things have changed. I've deleted all of my Meta-related accounts and LinkedIn. I thought about quitting Mastodon as well, but FOMO always gets the better of me.\nSince I would rather not quit Mastodon completely, I figured I would try running a single-user instance again. Maybe the quiet would be good for me.\nI'd seen @Stefano's posts about a new ActivityPub server he was working on and the timing of the first release couldn't be better, so I installed it today at Jack Baty Social.\n\nIt's running on my Hetzner VPS behind Caddy as a proxy. I love Caddy. Here's the entire Caddy config for the domain:\nsocial.baty.net {\n\tencode gzip\n\treverse_proxy 127.0.0.1:8081\n}\n\nI've just started poking around, but littleFedi seems like it's got a lot going for it. At first I wanted to use my root domain for my handle (@jack@baty.net) but since I'd previously used that via Ghost, I ran into caching issues and didn't want to bother, so now I'm @jack@social.baty.net.\nThe big question is whether to migrate followers there, or start fresh and maybe just announce the move from my main @jbaty@social.lol account. I think I'll give it a minute before deciding.\nlittleFedi is a compelling new entry in the FediverseSpaceArena.\n✍️ Reply by email",
@@ -178,7 +188,7 @@
           "description": "What is spook?\n  The Emacs function spook is\n  not what you think it is.  It doesn't make creepy noises, draw scary\n  ASCII art or change the theme to orange on black.  In fact it has\n  nothing at all to do with Halloween, ghosts, monsters, pandemics or\n  IRS audits.\n\n\n\nWhat it does is insert words and phrases into the current buffer \"to\nhelp give your message ... attractiveness for automated keyword\nscanners.\"\n\n\n\nWhat kind of words or phrases might you expect to see?  To find out I\ninvoked spook while composing this content.  Here's what\nit added:\n\n\n\n\n    TELINT Drug North Korea Security Consulting Virii Abu Ghraib Fort\n    Hancock CUD AMEMB Vaccine MARTA racal E.O.D. Blizzard Nigeria\n  \n\n\n\n  It's easy1 to configure spook to insert an alternate set\n  of words and phrases -- just change the file name in the\n  variable spook-phrases-file from \"spook.lines\" to the\n  name of the alternate file.  Unfortunately it must reside in the\n  Emacs data directory; the file's location is fixed.  The variable\n  can be found in the Spook customization group, whose parent group is\n  Games.\n\n\n\n  Even with only 72 lines in its source code file,2 spook\ndemonstrates how to insert one or more random lines from a file into\nthe current buffer.\n\n\n\n  1 It's \"easy\" if you have Administrator permissions.\n\n\n\n  2 The 72 lines is the entire spook.el file; the first 48%\nof the file provides the usual comments that describe the GNU GPL,\nauthor, maintainer info as well as documentation.",
           "link": "https://ray-on-emacs.blogspot.com/2026/10/what-is-spook.html",
           "publishedOn": "2026-10-02T02:17:46.693Z",
-          "wordCount": null,
+          "wordCount": 3395,
           "title": "Raymond Zeitler: What is spook?",
           "imageUrl": null
         },
@@ -208,7 +218,7 @@
           "description": "One of the most fun things you can do with Emacs is to build an interface for another piece of software. It is the Lisp version of running Doom on any device. It is also quite useful, because you can connect it to other tools in the gnu's editor and build more pleasant workflows.\nThe big question: can I chat on WhatsApp from Emacs? Spoiler: I made it, with some limitations.\nNo way in\nContext: I work on macOS. It matters, because the solution depends on it.\nMeta offers no API for this, and the macOS desktop app has no bridge at all: no open ports, no gRPC, no AppleScript dictionary. Nothing.\nThere are unofficial clients, like whatsmeow, that talk directly to WhatsApp's servers by pretending to be a device. They work, but your account ends up depending on software Meta does not authorize, an…",
           "link": "http://en.andros.dev/blog/782e8f3b/how-i-built-a-whatsapp-client-for-emacs-without-an-api/",
           "publishedOn": "2026-10-01T07:52:08.000Z",
-          "wordCount": 1606,
+          "wordCount": 1614,
           "title": "Andros Fenollosa: How I built a WhatsApp client for Emacs without an API",
           "imageUrl": "https://img.andros.dev/IAvijQN1JKJJdxO-RHNOM0eF83U=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/dima-solomin-upBKRmHJrCI-unsplash.jpg"
         },
@@ -218,7 +228,7 @@
           "description": "org-todo is C-c\nC-t.  Today I learned about another command with a similar\nkeybinding (C-c C-x C-t) --\norg-toggle-timestamp-overlays.  Note the C-x\nin the middle.\n\n\n\nWhen I pressed that key combination (inadvertently), all the\nYYYY-MM-DD timestamps in the buffer were converted to the MM/DD/YYYY\nformat.  This was unacceptable -- I needed to change them back.\nHowever undo did not revert the timestamps; it just undid\nthe last edit.  Furthermore, these undesired timestamps couldn't be\nedited and were impervious to org-shiftright.  I was\nconfused yet again.\n\n\n\nI didn't even know how this happened.  So I\ninvoked view-lossage as a kind reader once suggested 1\nand discovered org-toggle-timestamp-overlays.\n\n\n\nThe docstring was no help – it's self-evident that it would \"Toggle\nthe use of custom time stamp formats.\"  Eager to clock out of my task,\nI didn't care to learn more.  All I wanted to do was undo the effect.\n\n\n\nI figured that since it toggles the timestamp, all I had to do was\ninvoke it again to toggle it back.  Nope.  Well, a nice message\nappears, saying \"Time stamp overlays removed.\"  Yet the timestamps\nlooked the same.\n\n\n\nUndaunted, I figured I'd reload the buffer with org-mode-restart.\nThat had no effect.  To finally fix this, I deleted the buffer and\nrevisited the file.\n\n\n\nA command like this surely is in the same category as upcase-region,\nwhich is disabled by default.  And so this is why I added\n  (put 'org-toggle-timestamp-overlays 'disabled t) to my init file.\n\n\n\n  1 See https://ray-on-emacs.blogspot.com/2026/05/emacs-view-commands.html",
           "link": "https://ray-on-emacs.blogspot.com/2026/09/now-org-toggle-timestamp-overlays-is.html",
           "publishedOn": "2026-10-01T00:19:28.313Z",
-          "wordCount": null,
+          "wordCount": 3570,
           "title": "Raymond Zeitler: Now org-toggle-timestamp-overlays is Disabled",
           "imageUrl": null
         },
@@ -333,6 +343,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://einar.codeberg.page/eww-in-emacs-31-would-not-use-browse-url-generic-as-browse-url-secondary-browser-function.html",
+          "author": null,
+          "description": "(use-package eww                        ; Web browser\n  :config\n  (setopt browse-url-browser-function 'eww-browse-url\n          browse-url-secondary-browser-function 'browse-url-generic\n          browse-url-generic-program \"librewolf\"\n  ; ...\n\n(use-package eww                        ; Web browser\n  :config\n  (setopt browse-url-browser-function 'eww-browse-url\n          browse-url-secondary-browser-function (lambda () (start-process \"librewolf\"))\n  ; ...\n\n(use-package eww                        ; Web browser\n  :config\n  (setopt browse-url-browser-function 'eww-browse-url\n          browse-url-secondary-browser-function (lambda () (browse-url-generic))\n          browse-url-generic-program \"librewolf\"\n  ; ...\n\n(defun eww-browse-with-external-browser (&optional url)\n  \"Browse the current URL wi…",
+          "link": "https://einar.codeberg.page/eww-in-emacs-31-would-not-use-browse-url-generic-as-browse-url-secondary-browser-function.html",
+          "publishedOn": "2026-09-27T12:00:00.000Z",
+          "wordCount": 1063,
+          "title": "Einar Mostad: EWW in Emacs 31 would not use browse-url-generic as browse-url-secondary-browser-function",
+          "imageUrl": null
+        },
+        {
           "id": "https://protesilaos.com/codelog/2026-09-27-emacs-live-root-access-show/",
           "author": null,
           "description": "Raw link: https://www.youtube.com/watch?v=c0qZ6QzpcVc\nTonight I will join the livestream that @linkarzu hosts together with\nRumen and Ted. We will talk about Emacs. The discussion is open to the\naudience, so join us to write your questions and just hang out.\nI am looking forward to this!\nAbout ‘Root Access’\nRoot Access is a live conversation with Linkarzu, CEO members, and\ninvited guests about tech, tools, workflows, and what they’re\nbuilding. Guests can share their projects before we dive into the\ndiscussion. Everyone is welcome to watch live and join the chat; the\nfull replay stays public.\nSupport @linkarzu\nWhat’s the “Linkarzu CEOs Monthly Hangout” Podcast\n@linkarzu YouTube memembers\nAll the ‘Root Access’ episodes",
@@ -381,46 +401,6 @@
           "wordCount": 1358,
           "title": "Irreal: Quick Look For Emacs",
           "imageUrl": null
-        },
-        {
-          "id": "https://protesilaos.com/codelog/2026-09-25-emacs-live-sacha-pedro/",
-          "author": null,
-          "description": "Raw link: https://www.youtube.com/watch?v=aEnacESU-DU\n[ The event will be recorded. ]\nI will join Sacha Chua and Pedro A. Aranda Gutierrez to talk about\nEmacs. Specifically, Pedro will elaborate on work related to the Org\nLaTeX exporter. Pedro is doing some interesting work on that front.",
-          "link": "https://protesilaos.com/codelog/2026-09-25-emacs-live-sacha-pedro/",
-          "publishedOn": "2026-09-25T00:00:00.000Z",
-          "wordCount": 190,
-          "title": "Protesilaos: Emacs live with Sacha Chua and Pedro about Org LaTeX export on 2026-10-02 at 13:00 Europe/Athens",
-          "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
-        },
-        {
-          "id": "https://protesilaos.com/codelog/2026-09-25-emacs-denote-find-file/",
-          "author": null,
-          "description": "Because Denote files are standard files, we do not provide the\nequivalent of a find-file command to directly open a file in the\ndenote-directory. Though users may still want to have that\nfunctionality, which is easy to implement with what core Denote\nalready provides:\n\n(defun my-denote-find-file ()\n  \"Open a file in the variable `denote-directory'.\"\n  (declare (interactive-only t))\n  (interactive)\n  (when-let* ((file (denote-file-prompt)))\n    (find-file file)))\n\n\nThis can be extended to include commands that only match specific file\ntypes or regular expressions in general. For example, here is how we\nprompt only for files that include .pdf in their name and also\nmodify the minibuffer prompt to indicate what we are doing:\n\n(defun my-denote-find-file-pdf ()\n  \"Prompt for FILE in the variabl…",
-          "link": "https://protesilaos.com/codelog/2026-09-25-emacs-denote-find-file/",
-          "publishedOn": "2026-09-25T00:00:00.000Z",
-          "wordCount": 481,
-          "title": "Protesilaos: Emacs: find a file in the ‘denote-directory’",
-          "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
-        },
-        {
-          "id": "https://sachachua.com/blog/2026/10/oct-2-emacs-chat-31-pedro-a-aranda-gutierrez/",
-          "author": null,
-          "description": "<2026-10-02 Fri 06:00-07:00> America/Toronto = Fri Oct 2 0600H EDT / 0500H CDT / 0400H MDT / 0300H PDT / 1000H UTC / 1200H CEST / 1300H EEST / 1530H IST / 1800H +08 / 1900H JST\n\n\n\n\nWatch on YouTube\n\nView Org source for this post\nYou can e-mail me at sacha@sachachua.com.",
-          "link": "https://sachachua.com/blog/2026/10/oct-2-emacs-chat-31-pedro-a-aranda-gutierrez/",
-          "publishedOn": "2026-09-24T23:01:46.000Z",
-          "wordCount": 249,
-          "title": "Sacha Chua: Oct 2 - Emacs Chat 31: Pedro A. Aranda Gutierrez",
-          "imageUrl": null
-        },
-        {
-          "id": "http://yummymelon.com/devnull/binding-the-spc-key-in-dired-and-ibuffer.html",
-          "author": null,
-          "description": "A feature of macOS Finder that I enjoy using is Quick Look, where a preview of a selected file can be displayed by pressing the space bar. While “Quick Look” is not really a thing in Emacs (at least not out of the box), we can quasi-emulate this by taking advantage of commands that can open files in another Emacs window, all the while keeping the current Emacs window selected.\nIn Dired, I’ve bound SPC to the command dired-display-file.\n\n\n1\n\n(keymap-set dired-mode-map \"SPC\" #'dired-display-file)\n\n\n\n\n\nA similar thing can be done for IBuffer:\n\n\n1\n\n(keymap-set ibuffer-mode-map \"SPC\" #'ibuffer-visit-buffer-other-window-noselect)\n\n\n\n\n\nThis configuration is definitely a personal preference thing, so YMMV. That said, I’ve found these bindings to be quite useful, so perhaps you may as well.",
-          "link": "http://yummymelon.com/devnull/binding-the-spc-key-in-dired-and-ibuffer.html",
-          "publishedOn": "2026-09-24T21:05:00.000Z",
-          "wordCount": 208,
-          "title": "Charles Choi: Binding the SPC key in Dired and IBuffer",
-          "imageUrl": "http://yummymelon.com/devnull/images/opengraph-default.jpg"
         }
       ]
     },
@@ -632,16 +612,6 @@
           "wordCount": 1519,
           "title": "Saturday Night 80s Jam: Wham! – Wake ME Up Before You Go Go",
           "imageUrl": null
-        },
-        {
-          "id": "https://stuffthatinterestsme.net/?p=3518",
-          "author": "Schill",
-          "description": "You’re weekly dose of funny and silly pictures and memes.",
-          "link": "https://stuffthatinterestsme.net/friday-funnies-4/",
-          "publishedOn": "2026-09-25T01:25:32.000Z",
-          "wordCount": 1250,
-          "title": "Friday Funnies",
-          "imageUrl": null
         }
       ]
     },
@@ -704,11 +674,21 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
+          "id": "https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php-full",
+          "author": null,
+          "description": "I put a question to my SFGATE colleagues just the other day that had them mulling for a bit: What’s the last great movie that Steven Spielberg directed? I’m not talking about a merely good film. The old man can put together a competent picture anytime he likes. I’m talking about an all-timer of a Spielberg movie, something that belongs up there with his best work, which includes “Jaws,” “Raiders of the Lost Ark,” “E.T.,” “Schindler’s List” and … you get the idea. When you’re a director who’s made not just one of the greatest movies of all time but several of them, audience members like me hope for (and oftentimes expect) greatness from you with every subsequent project. Such is the standard that Spielberg, father of the modern blockbuster, set for himself. It’s also a standard that, in my …",
+          "link": "https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php",
+          "publishedOn": "2026-10-04T13:42:05.631Z",
+          "wordCount": 177,
+          "title": "Steven Spielberg's new film is his best in decades",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php-full",
           "author": null,
           "description": "The one thing that Washington, D.C., has always had going for it is its beauty. The people who run America from this town have always been an unsightly bunch, but they’ve done their nasty work in a city that has acquired, over the course of this country’s lifespan, an aesthetic like no other. No other major American city looks as regally beautiful as D.C. You and I have a long-standing federal law to thank for this, but we also have a collection of national landmarks clustered in the center of the district that the aforementioned law was written to both protect and to showcase. The Capitol. The Lincoln Memorial. The Washington Monument. These are gorgeous edifices, ones designed to outlast old generations and to inspire newer ones. They are the best of D.C., and therefore the best of Ameri…",
           "link": "https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php",
-          "publishedOn": "2026-10-04T07:47:08.996Z",
+          "publishedOn": "2026-10-04T13:42:05.624Z",
           "wordCount": 177,
           "title": "Congratulations, the Reflecting Pool is now a swamp",
           "imageUrl": null
@@ -718,29 +698,19 @@
           "author": null,
           "description": "The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. \n\nWhich brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…",
           "link": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php",
-          "publishedOn": "2026-10-04T07:47:08.994Z",
+          "publishedOn": "2026-10-04T13:42:05.620Z",
           "wordCount": 177,
           "title": "Brandon Aiyuk's NFL career is already over",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php-full",
+          "id": "https://www.sfgate.com/tech/article/data-centers-22356298.php-full",
           "author": null,
-          "description": "I put a question to my SFGATE colleagues just the other day that had them mulling for a bit: What’s the last great movie that Steven Spielberg directed? I’m not talking about a merely good film. The old man can put together a competent picture anytime he likes. I’m talking about an all-timer of a Spielberg movie, something that belongs up there with his best work, which includes “Jaws,” “Raiders of the Lost Ark,” “E.T.,” “Schindler’s List” and … you get the idea. When you’re a director who’s made not just one of the greatest movies of all time but several of them, audience members like me hope for (and oftentimes expect) greatness from you with every subsequent project. Such is the standard that Spielberg, father of the modern blockbuster, set for himself. It’s also a standard that, in my …",
-          "link": "https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php",
-          "publishedOn": "2026-10-04T07:47:08.993Z",
+          "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
+          "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
+          "publishedOn": "2026-10-04T13:42:05.610Z",
           "wordCount": 177,
-          "title": "Steven Spielberg's new film is his best in decades",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full",
-          "author": null,
-          "description": "Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  \n\nYes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…",
-          "link": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php",
-          "publishedOn": "2026-10-04T07:47:08.989Z",
-          "wordCount": 177,
-          "title": "It's easy to blame the USMNT's World Cup crashout on one man. So I will.",
+          "title": "If you don't hate data centers yet, boy do I have news for you",
           "imageUrl": null
         },
         {
@@ -748,7 +718,7 @@
           "author": null,
           "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
           "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-04T07:47:08.987Z",
+          "publishedOn": "2026-10-04T13:42:05.608Z",
           "wordCount": 177,
           "title": "'The Odyssey' wants you to suffer",
           "imageUrl": null
@@ -758,29 +728,19 @@
           "author": null,
           "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
           "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-04T07:47:08.976Z",
+          "publishedOn": "2026-10-04T13:42:05.606Z",
           "wordCount": 177,
           "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/tech/article/data-centers-22356298.php-full",
+          "id": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full",
           "author": null,
-          "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
-          "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-04T07:47:08.974Z",
+          "description": "Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  \n\nYes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…",
+          "link": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php",
+          "publishedOn": "2026-10-04T13:42:05.605Z",
           "wordCount": 177,
-          "title": "If you don't hate data centers yet, boy do I have news for you",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
-          "author": null,
-          "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
-          "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-04T07:47:08.959Z",
-          "wordCount": 177,
-          "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
+          "title": "It's easy to blame the USMNT's World Cup crashout on one man. So I will.",
           "imageUrl": null
         },
         {
@@ -788,19 +748,9 @@
           "author": null,
           "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
           "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-04T07:47:08.957Z",
+          "publishedOn": "2026-10-04T13:42:05.598Z",
           "wordCount": 177,
           "title": "California is on fire and these people are profiting off it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
-          "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-04T07:47:08.955Z",
-          "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
         },
         {
@@ -808,9 +758,39 @@
           "author": null,
           "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
           "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-04T07:47:08.953Z",
+          "publishedOn": "2026-10-04T13:42:05.596Z",
           "wordCount": 177,
           "title": "Why Your Team Sucks 2026: San Francisco 49ers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "author": null,
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-10-04T13:42:05.592Z",
+          "wordCount": 177,
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
+          "author": null,
+          "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
+          "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
+          "publishedOn": "2026-10-04T13:42:05.589Z",
+          "wordCount": 177,
+          "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
+          "author": null,
+          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
+          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
+          "publishedOn": "2026-10-04T13:42:05.588Z",
+          "wordCount": 177,
+          "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
@@ -818,7 +798,7 @@
           "author": null,
           "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
           "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-04T07:47:08.949Z",
+          "publishedOn": "2026-10-04T13:42:05.586Z",
           "wordCount": 177,
           "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
@@ -828,19 +808,9 @@
           "author": null,
           "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
           "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-04T07:47:08.946Z",
+          "publishedOn": "2026-10-04T13:42:05.583Z",
           "wordCount": 177,
           "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
-          "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-04T07:47:08.940Z",
-          "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
@@ -848,7 +818,7 @@
           "author": null,
           "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
           "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-04T07:47:08.933Z",
+          "publishedOn": "2026-10-04T13:42:05.581Z",
           "wordCount": 177,
           "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
           "imageUrl": null
@@ -866,7 +836,7 @@
           "description": "Why the hell are Republican senators letting it happen?",
           "link": "https://www.esquire.com/news-politics/politics/a73998608/russell-vought-omb-pocket-recessions-congress-budget/",
           "publishedOn": "2026-10-02T21:00:03.000Z",
-          "wordCount": 23850,
+          "wordCount": 23930,
           "title": "Russell Vought and His Budgeting Cronies Are Using This Sketchy Loophole to Control Government Spending",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b7cc4227-e157-486e-a245-7e9033a422d9.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -896,7 +866,7 @@
           "description": "I can’t believe they’re only just realizing how much Trump’s anti-immigrant policies have cost them.",
           "link": "https://www.esquire.com/news-politics/politics/a73983115/maga-farms-ice-deportation-workforce/",
           "publishedOn": "2026-10-01T18:52:15.000Z",
-          "wordCount": 21526,
+          "wordCount": 20596,
           "title": "MAGA Farm Owners Are Finally Seeing the Consequences of Voting for a Deranged President Who Wants to Deport Their Workforce",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/01c2791f-f6fa-4df1-915e-fabd71b4be98.jpeg?crop=1xw:0.791666666667xh;center,top&resize=1200:*"
         },
@@ -989,36 +959,6 @@
           "wordCount": 23432,
           "title": "The Supreme Court Has Just Made a Horrendous Voting-Rights Decision That Could Drastically Swing the Midterms",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d79b533c-3ac9-40e2-a2be-e566b6eed9cb.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a73875379/media-white-house-access-decision-trump/",
-          "author": null,
-          "description": "Needless to say, the administration had no case whatsoever.",
-          "link": "https://www.esquire.com/news-politics/politics/a73875379/media-white-house-access-decision-trump/",
-          "publishedOn": "2026-09-24T20:29:40.000Z",
-          "wordCount": 18391,
-          "title": "In a Supremely Righteous Decision, a Trump-Appointed Judge Smacked Down the President’s Ban on Media Outlets’ Access to the White House",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c40a1d29-9f46-4e0a-9e45-e44a6713ece2.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a73875058/f-35-stealth-fighter-parts-china/",
-          "author": null,
-          "description": "Pete Hegseth better make this explicable as quickly as possible, or we’re in for some serious trouble.",
-          "link": "https://www.esquire.com/news-politics/politics/a73875058/f-35-stealth-fighter-parts-china/",
-          "publishedOn": "2026-09-24T20:16:44.000Z",
-          "wordCount": 18459,
-          "title": "How the Hell Did American Stealth-Fighter Parts “Inexplicably” Make Their Way to China?",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bc3cb17e-8abb-4dab-9845-90df3ca3a122.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a73873992/montana-missouri-constitutional-amendments-popular-initiatives/",
-          "author": null,
-          "description": "I respect it, but I’m not 100 percent sure it’ll work.",
-          "link": "https://www.esquire.com/news-politics/politics/a73873992/montana-missouri-constitutional-amendments-popular-initiatives/",
-          "publishedOn": "2026-09-24T20:01:51.000Z",
-          "wordCount": 20379,
-          "title": "Why Citizens from Two Key States Are Trying to Change How Their Governments Work",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/541590fd-9314-4570-984e-e8ac4deb12f9.jpeg?crop=1xw:0.74995095154xh;center,top&resize=1200:*"
         }
       ]
     },
