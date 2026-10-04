@@ -2,16 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-04T00:22:00.437Z</updated>
+    <updated>2026-10-04T07:47:09.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-10-03T17:46:29.493Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <title type="html"><![CDATA[Congratulations, the Reflecting Pool is now a swamp]]></title>
+        <id>https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php"/>
+        <updated>2026-10-04T07:47:08.996Z</updated>
+        <summary type="html"><![CDATA[The one thing that Washington, D.C., has always had going for it is its beauty. The people who run America from this town have always been an unsightly bunch, but they’ve done their nasty work in a city that has acquired, over the course of this country’s lifespan, an aesthetic like no other. No other major American city looks as regally beautiful as D.C. You and I have a long-standing federal law to thank for this, but we also have a collection of national landmarks clustered in the center of the district that the aforementioned law was written to both protect and to showcase. The Capitol. The Lincoln Memorial. The Washington Monument. These are gorgeous edifices, ones designed to outlast old generations and to inspire newer ones. They are the best of D.C., and therefore the best of Ameri…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brandon Aiyuk's NFL career is already over]]></title>
+        <id>https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full</id>
+        <link href="https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php"/>
+        <updated>2026-10-04T07:47:08.994Z</updated>
+        <summary type="html"><![CDATA[The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. 
+
+Which brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steven Spielberg's new film is his best in decades]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php"/>
+        <updated>2026-10-04T07:47:08.993Z</updated>
+        <summary type="html"><![CDATA[I put a question to my SFGATE colleagues just the other day that had them mulling for a bit: What’s the last great movie that Steven Spielberg directed? I’m not talking about a merely good film. The old man can put together a competent picture anytime he likes. I’m talking about an all-timer of a Spielberg movie, something that belongs up there with his best work, which includes “Jaws,” “Raiders of the Lost Ark,” “E.T.,” “Schindler’s List” and … you get the idea. When you’re a director who’s made not just one of the greatest movies of all time but several of them, audience members like me hope for (and oftentimes expect) greatness from you with every subsequent project. Such is the standard that Spielberg, father of the modern blockbuster, set for himself. It’s also a standard that, in my …]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
+        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
+        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
+        <updated>2026-10-04T07:47:08.989Z</updated>
+        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
+
+Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
+        <updated>2026-10-04T07:47:08.987Z</updated>
+        <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new Anya Taylor-Joy vehicle is so stupid and so good]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php"/>
+        <updated>2026-10-04T07:47:08.976Z</updated>
+        <summary type="html"><![CDATA[Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. 
+
+It knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -20,7 +76,7 @@
         <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
         <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
         <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
-        <updated>2026-10-03T17:46:29.490Z</updated>
+        <updated>2026-10-04T07:47:08.974Z</updated>
         <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
 Myung J. Chun/LA Times via Getty Images
 I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
@@ -31,11 +87,13 @@ This Virginia Connects ad plays out in a similar fashion. It opens with an all-A
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
-        <updated>2026-10-03T17:46:29.485Z</updated>
-        <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
+        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
+        <updated>2026-10-04T07:47:08.959Z</updated>
+        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
+
+To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -44,12 +102,103 @@ This Virginia Connects ad plays out in a similar fashion. It opens with an all-A
         <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
         <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
         <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-10-03T17:46:29.476Z</updated>
+        <updated>2026-10-04T07:47:08.957Z</updated>
         <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
 
 Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
+        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
+        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
+        <updated>2026-10-04T07:47:08.955Z</updated>
+        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+
+That’s when Anthony Bourdain wo…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
+        <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
+        <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
+        <updated>2026-10-04T07:47:08.953Z</updated>
+        <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
+
+Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
+
+Your team: San Francisco 49ers.
+
+
+Advertisement
+Article continues below this ad
+
+
+Your 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
+        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
+        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
+        <updated>2026-10-04T07:47:08.949Z</updated>
+        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
+
+The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
+        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
+        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
+        <updated>2026-10-04T07:47:08.946Z</updated>
+        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
+        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
+        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
+        <updated>2026-10-04T07:47:08.940Z</updated>
+        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
+
+Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
+
+The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
+        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
+        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
+        <updated>2026-10-04T07:47:08.933Z</updated>
+        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
+
+Actually,…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fa$t Food]]></title>
+        <id>https://foxtrot.com/?p=6307</id>
+        <link href="https://foxtrot.com/2026/10/04/fast-food/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fast-food"/>
+        <updated>2026-10-04T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[FoxTrot by Bill Amend | October 4, 2026]]></summary>
+        <author>
+            <name>Bill Amend</name>
         </author>
     </entry>
     <entry>
@@ -76,20 +225,6 @@ littleFedi is a compelling new entry in the FediverseSpaceArena.
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
-        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
-        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-10-03T16:36:12.350Z</updated>
-        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
-
-Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
-
-The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
         </author>
     </entry>
     <entry>
@@ -449,18 +584,6 @@ All the ‘Root Access’ episodes]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-10-01T22:21:40.308Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
-
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Instead of Doing Anything Valuable, the DOJ Is Trying to Recast Richard Nixon as the Victim of Watergate]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73985111/doj-trump-vance-todd-blanche-nixon-watergate/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73985111/doj-trump-vance-todd-blanche-nixon-watergate/"/>
@@ -475,7 +598,7 @@ The first shot fired in this looming war happened at a seemingly innocuous Cow H
         <id>http://www.esquire.com/news-politics/politics/a73983994/trump-time-interview-unhinged-unstable/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73983994/trump-time-interview-unhinged-unstable/"/>
         <updated>2026-10-01T20:12:29.000Z</updated>
-        <summary type="html"><![CDATA[I’m now convinced that the president lives on an entirely different plane of reality than you and I.]]></summary>
+        <summary type="html"><![CDATA[I’m now convinced that the president lives on an entirely different plane of reality from you and me.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
         </author>
@@ -518,61 +641,12 @@ A Fabul…]]></summary>
         <id>https://defector.com/?p=236957</id>
         <link href="https://defector.com/mike-tomlins-minecraft-city-is-a-delight"/>
         <updated>2026-10-01T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[When former Pittsburgh Steelers head coach Mike Tomlin revealed that he had been working on a Minecraft city for 12 years, I brushed it off. The idea of an NFL coach—a Super Bowl-winning coach who never had a losing season—taking time over a decade-plus to truly lock into Minecraft city-planning just didn't seem realistic, or like the result would be particularly interesting. I doubted Tomlin's gamer credentials.
+        <summary type="html"><![CDATA[When former Pittsburgh Steelers head coach Mike Tomlin revealed that he had been working on a Minecraft city for 12 years, I brushed it off. The idea of an NFL coach—a Super Bowl-winning coach who never had a losing season—taking time over a decade-plus to truly lock into Minecraft city planning just didn't seem realistic, or like the result would be particularly interesting. I doubted Tomlin's gamer credentials.
 Well, joke's on me:
 
 https://www.youtube.com/watch?v=_h_pQ1-5iQg]]></summary>
         <author>
             <name>Luis Paez-Pumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s Already Code Orange For The Philadelphia Flyers]]></title>
-        <id>https://defector.com/?p=236971</id>
-        <link href="https://defector.com/its-already-code-orange-for-the-philadelphia-flyers"/>
-        <updated>2026-10-01T15:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Hockey season has begun, and all teams are equal in the eyes of the creator. Hope springs triumphant for 32 collectives each striving as one, and the Stanley Cup lies shining before them, ready to be seized.
-In rebuttal, there's this, from The Athletic's Kevin Kurz:
-
-https://twitter.com/KKurzNHL/status/2105504339452145902]]></summary>
-        <author>
-            <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arike Ogunbowale Knows It’s All About Buckets]]></title>
-        <id>https://defector.com/?p=236935</id>
-        <link href="https://defector.com/arike-ogunbowale-knows-its-all-about-buckets"/>
-        <updated>2026-10-01T14:59:04.000Z</updated>
-        <summary type="html"><![CDATA[The WNBA playoffs are not about intricate offensive sets, squeezing efficiency from your ninth and 10th players, or winning the game on the margins—at least not as much as they are about Real Hoops. Arike Ogunbowale taught the Golden State Valkyries that painful lesson Wednesday night, gouging their would-be smothering defense for a WNBA playoff-record 45 points and forcing her Dallas Wings through to a deciding Game 3 in the process.
-That Ogunbowale had both the talent and temperament for this sort of explosion should never have been in doubt. She's notched 41 before, and takes on the burden of volume scoring with a Waitersesque flair. It's impressive, yes, though not always part of a winning formula, and subject to wild variance depending on whether Ogunbowale makes or misses the bad shots she can't help but jack. This year, she's taken a relative backseat as Paige Bueckers has spent her sophomore campaign with the ball in her hands. Game 1 was their season in miniature: Bueckers poured in a hyper-efficient 21 points, while Ogunbowale took only seven shots and wound up a game-worst minus-31. The Valks won by 24. Something had to change. It was Ogunbowale's time.
-Game 2 was fantastic, a 108-100 overtime win for the Wings in which Dallas posed serious questions about the championship viability of the top remaining seed, dictated the tempo, and overcame both a career-high 36 points from Gabby Williams and a 3-for-13 night from Bueckers. It was all because of Ogunbowale.]]></summary>
-        <author>
-            <name>Patrick Redford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Search For Movie History In Upstate New York]]></title>
-        <id>https://defector.com/?p=236573</id>
-        <link href="https://defector.com/a-search-for-movie-history-in-upstate-new-york"/>
-        <updated>2026-10-01T14:32:17.000Z</updated>
-        <summary type="html"><![CDATA[The following is excerpted from Every Time a Bell Rings, a book of essays about It's A Wonderful Life by Lauren Theisen and Emily St. James. It is available for purchase now.
-The bridge in Seneca Falls really does look just like the one that George and Clarence find themselves underneath in It’s a Wonderful Life. It’s short, accessible to pedestrians, made of steel beams that join together to form triangles, and stands just a little bit detached from the town’s main street. I knew when I started writing this book that Seneca Falls claimed to be the real-life inspiration for Bedford Falls, that this New York village with a famous feminist history hosted a festival for the movie every year, and as I started my work, I looked forward, specifically, to standing on that bridge. I knew, of course, that it wasn’t the real bridge, that any kind of location shooting was cost-prohibitive, and that the movie was filmed in California. But I was wondering if I might channel a little of George Bailey in myself, looking out onto the water, reenacting a great American moment of hope rediscovered.
-When I actually went to Seneca Falls and stood on that bridge, however, I found myself less interested in fiction and more attracted, instead, to a plaque that’s hung there for over a century, which commemorates a very real story.]]></summary>
-        <author>
-            <name>Lauren Theisen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Is It OK To Wear The Wally Head?]]></title>
-        <id>https://defector.com/?p=236909</id>
-        <link href="https://defector.com/when-is-it-ok-to-wear-the-wally-head"/>
-        <updated>2026-10-01T13:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Dear Mascot Manners,
-I have a lot of time on my hands now, so I figured I'd write you with an etiquette question. My team, the Boston Red Sox, just got beaten by our archrival New York Yankees. They beat us in two games, 9-0 and 9-2. But before we lost Game 2 Wednesday night, one of our guys, Nick, hit a home run. It got us within six runs. I think most of us would have rather just gotten out of there as quickly as possible.
-But we have a tradition: When you hit a home run, you wear the Wally Head. One of our other guys, Jarren, came up with it last year. It's our "thing." So we made Nick wear the Wally Head after his homer, but I don't think he wanted to. I don't think any of us were particularly into it. Frankly the whole ceremony felt kind of embarrassing.]]></summary>
-        <author>
-            <name>Barry Petchesky</name>
         </author>
     </entry>
     <entry>
@@ -627,16 +701,6 @@ There are unofficial clients, like whatsmeow, that talk directly to WhatsApp's s
         <title type="html"><![CDATA[A Wealthy Russian Businessman Is Helping Fund Trump’s Stupid Ballroom. Nothing Sketchy About That, Right?]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73967876/white-house-ballroom-trump-russia/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73967876/white-house-ballroom-trump-russia/"/>
-        <updated>2026-10-01T00:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Surely, our president will face consequences for this insanity.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Wealthy Russian Businessman Is Helping Fund Trump’s Stupid Ballroom. Nothing Sketchy About That, Right?]]></title>
-        <id>http://www.esquire.com/news-politics/a73967876/white-house-ballroom-trump-russia/</id>
-        <link href="https://www.esquire.com/news-politics/a73967876/white-house-ballroom-trump-russia/"/>
         <updated>2026-10-01T00:24:18.000Z</updated>
         <summary type="html"><![CDATA[Surely, our president will face consequences for this insanity.]]></summary>
         <author>
@@ -755,17 +819,6 @@ o…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Am I Pushing My Kids Enough To Do The Right Extracurriculars?]]></title>
-        <id>https://defector.com/?p=236892</id>
-        <link href="https://defector.com/am-i-pushing-my-kids-enough-to-do-the-right-extracurriculars"/>
-        <updated>2026-09-30T19:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to Minor Dilemmas, where a member of Defector's Parents Council will answer your questions on surviving family life. Have a question? Email us at minordilemmas@defector.com.
-This week, Drew answers a question about extracurricular activities.]]></summary>
-        <author>
-            <name>Drew Magary</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Right-Wing “Intellectuals” Really Want Us to Live in a Corporate Hellscape]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73959346/corporations-alec-big-tech-public-nuisance/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73959346/corporations-alec-big-tech-public-nuisance/"/>
@@ -773,56 +826,6 @@ This week, Drew answers a question about extracurricular activities.]]></summary
         <summary type="html"><![CDATA[A shady conservative lobbying group is fronting a business-friendly assault on the public commons, and we need to fight back.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trump Administration Rolls Back Title IX Protections, Again]]></title>
-        <id>https://defector.com/?p=236726</id>
-        <link href="https://defector.com/the-trump-administration-rolls-back-title-ix-protections-again"/>
-        <updated>2026-09-30T16:24:50.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Education this week formally withdrew updates made during the Joe Biden presidency to the federal law banning discrimination in education based on sex. Specifically, the Education Department is removing language that expanded Title IX protections to cover discrimination based on sexual orientation and gender identity.
-The changes also mark the official return of previous regulations, previously enacted during Donald Trump's first term, that significantly narrowed the types of sexual misconduct and harassment reports schools and universities must investigate.
-Title IX is the federal law passed in the 1970s that banned discrimination based on sex in education. It's widely credited with making the United States a global leader in women's sports as well as forcing schools and universities to investigate reports of sexual harassment and sexual misconduct.]]></summary>
-        <author>
-            <name>Diana Moskovitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OK, What The Hell Is Going On With Drake Maye?]]></title>
-        <id>https://defector.com/?p=236806</id>
-        <link href="https://defector.com/ok-what-the-hell-is-going-on-with-drake-maye"/>
-        <updated>2026-09-30T15:52:41.000Z</updated>
-        <summary type="html"><![CDATA[The Drake Maye Crisis, now seven weeks long stretching back to last season's playoffs, shows no signs of abating. His performance against the Jaguars in Week 3 was his worst yet, and he has now turned the ball over 15 times in his last seven games. What the fuck is going on? Will Maye ever be good again, or has his career been derailed by the un-Christian behavior of his head coach? These questions and many more are the subject of this week's episode of All Ball.
-
-https://art19.com/shows/the-distraction/episodes/86479eed-5de7-4198-bc8c-f3a8c19c1e6f
-
-
-We also address the J.J. McCarthy trade, the welcome resurgence of Case Keenum, and, thanks to listener Zachary, we get deeper intel on the dangers of modern artificial turf. And we do it all in LESS than two hours this time around. In fact, we have a format tweak coming next week that will make our bullshit even faster and bullshittier. We don’t shy away from contact (via Riverside call) here at All Ball. When others go soft, we go hard. It’s what you, the audience, deserve.]]></summary>
-        <author>
-            <name>Drew Magary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Won’t Beat The White Sox Without Beating Grant Taylor]]></title>
-        <id>https://defector.com/?p=236813</id>
-        <link href="https://defector.com/you-wont-beat-the-white-sox-without-beating-grant-taylor"/>
-        <updated>2026-09-30T15:48:36.000Z</updated>
-        <summary type="html"><![CDATA[Looking at the raw numbers from 2026, the Chicago White Sox's stable of pitchers ultimately hover around league average, so I guess I can't start by saying something that feels emotionally true to me, which is "The Sox are going to try to be the first team to win the World Series without any pitchers." But when I think back on this stretch run, as I watched my newly adopted sons try and fail to hold off Cleveland in the AL Central and settle instead for the six-seed in the American League, two images stand out to me: that incredibly clutch Randal Grichuk dinger, and Will Venable walking out to the mound to make yet another pitching change. You don't have to worry about getting in your steps when you manage the White Sox.
-The Sox don't have a rotation so much as they do a skeleton crew: the…]]></summary>
-        <author>
-            <name>Lauren Theisen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accept The Expanding Ball Of Infected Corpses You Cannot Change]]></title>
-        <id>https://defector.com/?p=236776</id>
-        <link href="https://defector.com/resident-evil-and-addiction-review"/>
-        <updated>2026-09-30T15:16:04.000Z</updated>
-        <summary type="html"><![CDATA[“Here are the main things you need to know about the Resident Evil games,” I explained to my friend Liz over the nonsense of the Digger trailer. “There’s a big outbreak of some kind of mutagenic virus. First you get a pistol, then you get a shotgun. A dog usually attacks you. There are locks and you look for keys. You open a lot of drawers. There’s an evil pharmaceutical company called Umbrella. You start in a house and end in a lab.”
-“Got it,” Liz said. “I’ll point at the screen when any of that happens.”
-“You heal yourself with herbs,” I added helpfully.]]></summary>
-        <author>
-            <name>Sophie Abromowitz</name>
         </author>
     </entry>
     <entry>
@@ -842,112 +845,6 @@ BBSnek uses it for quick notes—and it’s great for that—but Org can do that
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manchester City’s Financial Breaches Totaled Over £900 Million Over Nine Seasons]]></title>
-        <id>https://defector.com/?p=236804</id>
-        <link href="https://defector.com/manchester-citys-financial-breaches-totaled-over-900-million-over-nine-seasons"/>
-        <updated>2026-09-30T15:01:21.000Z</updated>
-        <summary type="html"><![CDATA[After Friday's unofficial reports that Manchester City had been found guilty on almost all of the 115 charges of financial rule breaching, it was only a matter of time before the true breadth of those breaches came to light. It was not surprising, save for maybe the almost perfect batting average of the charges, that City was found guilty, but the details are something to behold. The Premier League released its statement on the situation on Tuesday, and the headline number is eye-grabbing: City was found to have circumvented both the league's and UEFA's spending limits by over £900 million between the 2009-10 and 2017-18 seasons. (The investigation, which started in 2019, does not cover anything more recent than the title-winning 2017-18 season.)
-Just to establish a reference point about t…]]></summary>
-        <author>
-            <name>Luis Paez-Pumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brandon Aiyuk's NFL career is already over]]></title>
-        <id>https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full</id>
-        <link href="https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php"/>
-        <updated>2026-09-30T14:52:04.143Z</updated>
-        <summary type="html"><![CDATA[The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. 
-
-Which brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
-        <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
-        <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-09-30T14:52:04.142Z</updated>
-        <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
-
-Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
-
-Your team: San Francisco 49ers.
-
-
-Advertisement
-Article continues below this ad
-
-
-Your 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Anya Taylor-Joy vehicle is so stupid and so good]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php"/>
-        <updated>2026-09-30T14:52:04.140Z</updated>
-        <summary type="html"><![CDATA[Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. 
-
-It knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-09-30T14:52:04.137Z</updated>
-        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
-
-To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steven Spielberg's new film is his best in decades]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php"/>
-        <updated>2026-09-30T14:52:04.132Z</updated>
-        <summary type="html"><![CDATA[I put a question to my SFGATE colleagues just the other day that had them mulling for a bit: What’s the last great movie that Steven Spielberg directed? I’m not talking about a merely good film. The old man can put together a competent picture anytime he likes. I’m talking about an all-timer of a Spielberg movie, something that belongs up there with his best work, which includes “Jaws,” “Raiders of the Lost Ark,” “E.T.,” “Schindler’s List” and … you get the idea. When you’re a director who’s made not just one of the greatest movies of all time but several of them, audience members like me hope for (and oftentimes expect) greatness from you with every subsequent project. Such is the standard that Spielberg, father of the modern blockbuster, set for himself. It’s also a standard that, in my …]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These Are The Times That Try Managers’ Souls]]></title>
-        <id>https://defector.com/?p=236802</id>
-        <link href="https://defector.com/these-are-the-times-that-try-managers-souls"/>
-        <updated>2026-09-30T14:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Every manager understands the prime directive of postseason baseball, which is, "Whatever you do, it's wrong. We'll let you know when."
-Don Mattingly knows this, having danced the dance for nearly a decade now. In his eagerness to get to the ninth inning Tuesday, the Philadelphia Phillies manager summoned his closer Jhoan Duran to begin the seventh for what could have ended up being the white elephant of a three-inning save. That he never got past two was the wrong part, naturally. After a clean sheet in the seventh, Duran allowed a two-out infield single, a hit batsman, and a 100-mph fastball to pass dangerously within Austin Riley's line of sight, and boom, the manager's an idiot, and the Phillies are a game from elimination.
-
-https://www.youtube.com/watch?v=NKoMwf53Xg8]]></summary>
-        <author>
-            <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fever Are Good Enough To Get Under Your Skin]]></title>
-        <id>https://defector.com/?p=236786</id>
-        <link href="https://defector.com/the-fever-are-good-enough-to-get-under-your-skin"/>
-        <updated>2026-09-30T14:02:34.000Z</updated>
-        <summary type="html"><![CDATA[What does the perfect Indiana Fever game look like? Corner any member of the organization to demand an answer to that question, and they would probably describe something like Tuesday's 99-89 victory over the Las Vegas Aces. If you've somehow yet to have your interest piqued by the incendiary potential that this Fever squad brought to the playoffs, then this is the highlight reel for you:
-
-https://www.youtube.com/watch?v=K3vVAcgDb1c
-
-
-What the Fever have over every other team in this year's playoff field is a fully functional and complementary Big Three. In Caitlin Clark they have a defense-breaking shooter who also just so happens to be one of the league's best playmakers and pace-setters. In Kelsey Mitchell they have relentless pure scoring guard, and in Aliyah Boston they have a bruiser who can play off either of the guards and keep sustained pressure on the rim. When all three are clicking, it can feel like they are capable of scoring 130 points.]]></summary>
-        <author>
-            <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Christian Tietze: Watch My EmacsConf Talk: Zettelkasten for Regular Emacs Hackers]]></title>
         <id>https://christiantietze.de/posts/2026/09/watch-zettelkasten-for-regular-emacs-hackers/</id>
         <link href="https://christiantietze.de/posts/2026/09/watch-zettelkasten-for-regular-emacs-hackers/"/>
@@ -962,18 +859,6 @@ the three essential mechanics: write (with effort), connect (with links), and co
 the habits that make it scale over decades: design for use, create structu…]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rice Guy’s Twinnish Blasts]]></title>
-        <id>https://defector.com/?p=236782</id>
-        <link href="https://defector.com/rice-guys-twinnish-blasts"/>
-        <updated>2026-09-30T13:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Let me take you Behind the Blog™ for a moment. The Defector staff is currently assembled in a top-secret location, and a bunch of us were crammed into Lauren's room to watch the end of Red Sox-Yankees. Ben Rice hit a grand slam in the eighth to make it 9-0 New York, his second homer of the game and to nearly the same part of the park. I mustered all of my formidable wit and floated to the assembled bloggers a potential headline: Ben Twice. Everyone groaned at my shit. Pearls before swine. I'll show them, I vowed. Anyway, that's how you got this headline.
-The grand slam was mostly style points; it was Rice's first homer, a solo shot in the fifth inning, that felt like it truly decided the first game of this best-of-three wild card series. Cam Schlittler was dealing for the Yankees; he would finish with six and a third innings of two-hit, 10-strikeout gas. Payton Tolle, Boston's own young and talented arm, was surviving: one run on five hits scattered over his four innings to that point. Tolle recorded two quick outs in the fifth before manager Chad Tracy gave him the hook. It felt like scared managing. Compare to the Yankees letting Schlittler throw a career-high 117 pitches. But Tracy didn't want Rice to get a third look at Tolle's stuff.
-“Not just the pitch count necessarily, but you’re trailing already, you’re moving through the third time [through the order],” Tracy said. “Rice had already hit a double in the gap off of him, and you have a nice lane there for Miller, and obviously he got him."]]></summary>
-        <author>
-            <name>Barry Petchesky</name>
         </author>
     </entry>
     <entry>
@@ -996,6 +881,7 @@ This is just one of three separate ads, totaling $1.5 million so far, that feel 
 What's your favorite Navidrome client for macOS? Navibeat looks pretty good.
 I don't intend to self-host my email, but if I did, this might work: Stalwart Mail & Collaboration Server
 It's a close call between my frustration with tangled cables and my hatred of Bluetooth.
+There's been a few changes to the site. I've changed the colors to look more "normal" (to me) and the layout is now card-based. I didn't love how posts sort of flowed together, so now there is obvious delineation between them.
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
@@ -1055,30 +941,6 @@ The things I like about Linux are abstract. The "I'm in complete control of my c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let’s Remember Some ‘Daily Show’ Correspondents]]></title>
-        <id>https://defector.com/?p=236738</id>
-        <link href="https://defector.com/lets-remember-some-daily-show-correspondents"/>
-        <updated>2026-09-29T16:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Time for your weekly edition of the Defector Funbag. Got something on your mind? Email the Funbag. You can also read Drew over at SFGATE, and buy Drew’s books while you’re at it. Today, we're talking about overly chatty coworkers, Hunter S. Thompson, buying a new car, and more.
-Your letters:
-Todd:]]></summary>
-        <author>
-            <name>Drew Magary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why The Book Thief Risked It All To Scam The Publishing World]]></title>
-        <id>https://defector.com/?p=236757</id>
-        <link href="https://defector.com/why-the-book-thief-risked-it-all-to-scam-the-publishing-world"/>
-        <updated>2026-09-29T16:15:50.000Z</updated>
-        <summary type="html"><![CDATA[For nearly six years, I have been fascinated by the case of the Spine Collector. The publishing world came to the collective realization a few years before the pandemic that a thief was aggressively trying to steal unpublished books from everyone who had access to them for their jobs. What made the case so fascinating was the apparent lack of motive; their methods were explicable and not all that sophisticated, but their reasons for risking jail time were totally opaque, as the books never leaked or appeared on the black market. On this week's episode of Only If You Get Caught, we tackle the tricky question: Why were they doing this?
-To help get an answer and tell the full story, I drafted in Reeves Wiedeman, who co-wrote the definitive series of Spine Collector stories for New York alongside Lila Shapiro. In the time since we recorded our interview, Wiedeman has moved on to The New Yorker, surely a recipient of the Only If You Get Caught bump.
-The book thief's motivations are confusing and inexplicable unless you approach them from the right angle. Knowing what we know now about their identity and motivations, it's clear that the cloistered prestige of the publishing world explains the thefts. Publishing is a strange business riddled with contradictions. Jobs are highly coveted, yet often underpaid. The industry doesn't always know which books are going to sell or how to market them. The system forces authors to take on all manner of odd auxiliary roles, sometimes making it impossible for them to succeed. And yet, there's nothing cooler, to many people, than publishing a book or working on one's release. To understand why the book thief did it, you must understand publishing.]]></summary>
-        <author>
-            <name>Patrick Redford</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Irreal: Aquí Location Finder]]></title>
         <id>https://irreal.org/blog/?p=14114</id>
         <link href="https://irreal.org/blog/?p=14114"/>
@@ -1098,42 +960,6 @@ If you decide to try it out, be sure to take a look at the user manual so see wh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finally, A Shitty Movie Where Muslims Are The Bad Guys]]></title>
-        <id>https://defector.com/?p=236583</id>
-        <link href="https://defector.com/finally-a-shitty-movie-where-muslims-are-the-bad-guys"/>
-        <updated>2026-09-29T14:21:50.000Z</updated>
-        <summary type="html"><![CDATA[I can’t think of a time in my life when the idea of a Muslim terrorist was not the most acceptable societal enemy. As someone who came of age in the wake of 9/11 and the invasions of both Iraq and Afghanistan, I have come to accept hating Muslims as the status quo. On a personal level, it functions sort of like advertising: so ubiquitous that I rarely pay much attention. There just aren’t many situations in my daily life where I’m thinking about how a stranger might perceive my boring existence as threatening. I’m normal. But sometimes I am snapped out of the monotony of Islamophobia and remember the limitless imagination of those who can watch one of the many recent videos of someone in Gaza, carrying around the body parts of a loved one in a plastic bag, and think They deserve this.
-One …]]></summary>
-        <author>
-            <name>Sarah Hagi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Case Keenum Made For Great TV]]></title>
-        <id>https://defector.com/?p=236729</id>
-        <link href="https://defector.com/case-keenum-made-for-great-tv"/>
-        <updated>2026-09-29T14:04:15.000Z</updated>
-        <summary type="html"><![CDATA[For a guy who has spent most of his career as a backup, Case Keenum suddenly has a decent collection of signature wins. OK, maybe "collection" isn't quite right, but as we sit here this morning we can say for sure that the man has at least two. There is of course the Minneapolis Miracle, and now there is the, uh, Midway Masterclass?
-You don't want to overstate an unexpected victory that comes at the expense of an Eagles team that gives away such games as a matter of course, but damn if it didn't feel like a big deal to watch Keenum, pressed into action by Caleb Williams's hamstring injury and Tyson Bagent's concussion, sling the ball Monday night. Perhaps some credit is owed to ESPN's production team, which often goes to embarrassing lengths to hype up every Monday Night Football game, even when circumstance stick them the with an obvious dud. This time, the broadcast went all-in on Keenum, giving him the stage to set up his own sports-movie narrative before kickoff.
-
-https://twitter.com/NFL/status/2104725122536104020]]></summary>
-        <author>
-            <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFL Threatened To Pull Azeez Al-Shaair From Game For Eye Black Memorializing Palestinian Child]]></title>
-        <id>https://defector.com/?p=236006</id>
-        <link href="https://defector.com/nfl-threatened-to-pull-azeez-al-shaair-from-game-for-eye-black-wafaa-akila"/>
-        <updated>2026-09-29T13:39:58.000Z</updated>
-        <summary type="html"><![CDATA[In each week of the NFL season so far, Houston Texans linebacker Azeez Al-Shaair has worn eye black that bears the name of a Palestinian child slain during Israel's genocide in Gaza. When he did it in Week 1, the NFL fined him. During Week 2, a league official threatened to remove him from the game.
-For the Texans' season opener against the Buffalo Bills, Al-Shaair's eye black bore the name of Hind Rajab, a 5-year-old girl who in 2024 was killed by Israeli forces in the Tel al-Hawa neighborhood of Gaza. After surviving an attack on a car she was riding in, Rajab phoned emergency workers to rescue her; the IDF bombed the ambulance, killing the paramedics en route. Weeks later, Rajab was found in the wrecked car, dead alongside six relatives. Israel initially denied that its troops were in the area of the incident, but admitted in August 2026 that its military had opened fire on the car.
-"It's bigger to me. Is a life worth $11,000? I think it's priceless. An innocent man, an innocent woman, an innocent child losing their life is not right," Al-Shaair said, days after that game. "I don't think everybody knows what it's about. I think that was the point because before that, probably most of you guys might not even know who she was. That's kind of the point." Al-Shaair was referencing the $11,941 fine levied by the NFL, which in its rulebook prohibits players from "wearing, displaying, or otherwise conveying personal messages either in writing or illustration, unless such message has been approved in advance by the League office." Dallas Mavericks guard Kyrie Irving volunteered to pay Al-Shaair's fine, and the linebacker later confirmed that the two had been in touch recently.]]></summary>
-        <author>
-            <name>Giri Nathan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Don’t Know What to Make of This Weird New Theory About a 44-Year-Old Cold Case]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73939736/cold-case-tylenol-poisoining-new-theory/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73939736/cold-case-tylenol-poisoining-new-theory/"/>
@@ -1141,19 +967,6 @@ For the Texans' season opener against the Buffalo Bills, Al-Shaair's eye black b
         <summary type="html"><![CDATA[I’m just glad there’s someone out there trying to solve the unsolved.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s The 2026–27 NHL Season Preview. What’s The Worst That Could Happen?]]></title>
-        <id>https://defector.com/?p=235609</id>
-        <link href="https://defector.com/its-the-2026-27-nhl-season-preview-whats-the-worst-that-could-happen"/>
-        <updated>2026-09-29T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Does it still feel a little too early for hockey? Well, too bad! The NHL has expanded to an 84-game schedule, so we're getting September hockey that counts in the standings, and you're about to get briefed on all the teams. Whether you like it or not!
-I've ordered these puppies by how many points they improved or declined by last season, because I did that last year and I liked how it went. I've included that point differential, and their playoff finish if they had one. Then I will catch you up to speed on how things are going with each team, and because I feel like a little bit more of a hater than usual, I've included something they should be afraid of going into this season. Let's preview some hockey!
-
-https://www.youtube.com/watch?v=IpNUR87ZhQQ]]></summary>
-        <author>
-            <name>Lauren Theisen</name>
         </author>
     </entry>
     <entry>
@@ -1177,6 +990,7 @@ I may  write more about it later, but I've been all-in with Bear recently and I 
         <summary type="html"><![CDATA[Control Panel for YouTube
 Control Panel for YouTube is a browser extension which gives you more control over YouTube by adding missing options and UI improvements
 After only a few minutes, this has become my new favorite browser extension.
+(via Dense Discovery #408)
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
@@ -1200,189 +1014,6 @@ After only a few minutes, this has become my new favorite browser extension.
         <summary type="html"><![CDATA[Before Troma became famous for toxic waste, mutant superheroes and outrageous splatter, the company spent several years making something considerably]]></summary>
         <author>
             <name>Schill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congratulations, the Reflecting Pool is now a swamp]]></title>
-        <id>https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php"/>
-        <updated>2026-09-29T00:11:37.008Z</updated>
-        <summary type="html"><![CDATA[The one thing that Washington, D.C., has always had going for it is its beauty. The people who run America from this town have always been an unsightly bunch, but they’ve done their nasty work in a city that has acquired, over the course of this country’s lifespan, an aesthetic like no other. No other major American city looks as regally beautiful as D.C. You and I have a long-standing federal law to thank for this, but we also have a collection of national landmarks clustered in the center of the district that the aforementioned law was written to both protect and to showcase. The Capitol. The Lincoln Memorial. The Washington Monument. These are gorgeous edifices, ones designed to outlast old generations and to inspire newer ones. They are the best of D.C., and therefore the best of Ameri…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
-        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
-        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
-        <updated>2026-09-29T00:11:37.001Z</updated>
-        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
-
-Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
-        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
-        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-09-29T00:11:36.993Z</updated>
-        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
-
-Actually,…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-09-29T00:11:36.972Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
-
-That’s when Anthony Bourdain wo…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump is already hanging Republicans out to dryRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/27/trump-blame-republicans-midterms-loss/91489762007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/27/trump-blame-republicans-midterms-loss/91489762007/"/>
-        <updated>2026-09-29T00:11:00.927Z</updated>
-        <summary type="html"><![CDATA[We’ve now seen the first sign of the inevitable: President Donald Trump, as the Republican Party limps toward a possible midterm election wipeout, will turn on the GOP.
-On his Truth Social account on Aug. 26, Trump shared a profane post from a right-wing influencer that read in part: “I don’t think the GOP fully grasp how badly they are f---ing up right now.”
-The post went on to suggest Republicans in Congress are responsible for undercutting Trump, claiming that “the GOP continues to slow-walk every reform people want.”
-That’s an odd thing for the titular head of the Republican Party to share just a few months out from a pivotal election. Or at least it would be odd if we were dealing with anyone other than Donald Trump.
-Donald Trump will always blame others for his own failures
-
-Tragical…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprise! We're paying for Trump's ballroom after all.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/16/trump-white-house-ballroom-taxpayer-money/90575180007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/16/trump-white-house-ballroom-taxpayer-money/90575180007/"/>
-        <updated>2026-09-29T00:11:00.788Z</updated>
-        <summary type="html"><![CDATA[As a hardworking American who loves his country, I was honored to learn some of my tax dollars will contribute to the construction of President Donald Trump’s $200 million White House ballroom that is now going to cost $600 million.
-On June 16, The Washington Post reported that the price tag on what Trump originally called a “taxpayer-free” ballroom that would be paid for “100% by me and some friends of mine” has patriotically ballooned to $600 million, with about half of that money coming from taxpayers. 
-Some America-hating liberals out there will undoubtedly call that – and please imagine me using heavily sarcastic American-made air quotes here – “an outrageous amount of money to spend” when “high grocery prices” are “making it harder for people to make ends meet.” They’ll whine about h…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's algae-rich Reflecting Pool smells of RFK Jr. to meRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/18/reflecting-pool-algae-green-trump/90595811007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/18/reflecting-pool-algae-green-trump/90595811007/"/>
-        <updated>2026-09-29T00:11:00.759Z</updated>
-        <summary type="html"><![CDATA[The good news about the Lincoln Memorial Reflecting Pool turning greener than Kermit the Frog’s keister is President Donald Trump finally has a swamp to drain.
-I’m kidding, there’s nothing funny about algae breaking out all over the Reflecting Pool immediately after President I’m-A-Builder dumped $14.2 million into beautifying the Washington, DC, landmark so it would appear “American Flag Blue.”
-In fact, shame on the Reflecting Pool for allowing itself it to seem like a failure just as the president agrees to a deal with Iran that also sounds like a failure. Nobody likes a giant, shallow pool that understands how metaphors work.
-Trump should change America's colors to match the green Reflecting Pool
-
-The pool does look less blue and more glow-in-the-dark Slurpee, but that was probably part…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As a Republican lawmaker, there's nothing I can do to rein in TrumpRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/06/blanche-confirmation-cornyn-lame-duck-trump/91188258007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/06/blanche-confirmation-cornyn-lame-duck-trump/91188258007/"/>
-        <updated>2026-09-29T00:11:00.730Z</updated>
-        <summary type="html"><![CDATA[I want all Americans to understand that I, a Republican lawmaker, can do nothing to rein in President Donald Trump.
-I am rendered powerless before the awesome strength of a lame-duck president with a 32% approval rating. My party might control both houses of Congress, and our job description might technically include reining in the executive branch, but still, it’s just not a thing we can do. His gaze alone makes our brains seize up.
-My colleague Sen. John Cornyn, R-Poltroon, made it plain as day recently when he said of Republicans, “There’s nothing we can do to rein in the president.”
-See, I told you so.
-Cornyn, like all good Republicans, caved to Trump's demands
-
-That came after Cornyn and other Republicans on the Senate Judiciary Committee voted to move acting Attorney General Todd Bla…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florida Republican is shocked Trump did the cruel things he promisedRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/17/maria-elvira-salazar-trump-immigration-midterms/91810157007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/17/maria-elvira-salazar-trump-immigration-midterms/91810157007/"/>
-        <updated>2026-09-29T00:11:00.701Z</updated>
-        <summary type="html"><![CDATA[Somebody pinch me. I never thought I’d see the day when a Republican congressional candidate actually criticized President Donald Trump, the God-King, Lord of the MAGA Movement, He Who Must Not Be Scorned. 
-But on Sept. 17, with midterm elections closing in, there was Rep. Maria Elvira Salazar, a Florida Republican, staring straight into the camera for a campaign ad and saying: “Mr. President, some of your immigration enforcement efforts have gone too far.”
-Salazar added: “The same Hispanics who helped you get to the White House in 2024 feel betrayed today.”
-After briefly passing out at her hurling the b-word (betrayed) at Trump, I laughed and thought, “Oh, this is getting delicious.”
-Salazar is one of the first GOP candidates to publicly criticize Trump
-
-The representative’s district in M…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything is bigger in Texas – including Paxton's dumb ideasRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/17/paxton-talarico-senate-campaign-texas-barbecue/90568148007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/17/paxton-talarico-senate-campaign-texas-barbecue/90568148007/"/>
-        <updated>2026-09-29T00:11:00.667Z</updated>
-        <summary type="html"><![CDATA[Texas Attorney General Ken Paxton seems hell-bent on making his race for a U.S. Senate seat against Democratic state Rep. James Talarico one of the dumbest spectacles in American political history.
-Rather than focus on the needs of Texans he might represent, Paxton has zeroed in on impotent suggestions that Talarico isn’t masculine enough to represent the Lone Star State and false claims that the Democrat – GASP! – is somehow not carnivorous enough to serve.
-That latter point is nonsense stemming from false claims that Talarico is a vegan. He has made it clear he’s not. But truth has no place in Paxton’s campaign, which apparently revolves around highlighting goofy Texas stereotypes, then accusing Talarico of not fitting the mold.
-Macho-man Ken Paxton challenges James Talarico to dinner
-Th…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rules for Reflecting Pool: Don't look, don't touch | OpinionRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columns/2026/06/28/reflecting-pool-algae-trump-arrests/90707054007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columns/2026/06/28/reflecting-pool-algae-trump-arrests/90707054007/"/>
-        <updated>2026-09-29T00:11:00.638Z</updated>
-        <summary type="html"><![CDATA[Hello America-loving tourist, and welcome to the beautiful, algae-free Lincoln Memorial Reflecting Pool, brought to you by President Donald J. Trump, the only man powerful enough to make the Reflecting Pool Great Again.
-You’ll notice the pool is surrounded by armed soldiers hoping you don't look at the water. That is for your safety and the safety of the newly refurbished Reflecting Pool, which is glistening and perfect and not at all covered with a thick layer of algae and stray chunks of American-flag-blue paint the media would have you believe exists.
-Before we begin our tour of this remarkable national landmark, I’ll remind everyone that there is no looking at the remarkable national landmark.
-If you didn’t receive blackout goggles when you bought your ticket for the tour, please keep …]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voters' top priority is obvious. Trump touts Iowa steel mill insteadRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/28/trump-iowa-steel-plant-announcement-us-economy-midterms/91920509007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/28/trump-iowa-steel-plant-announcement-us-economy-midterms/91920509007/"/>
-        <updated>2026-09-29T00:11:00.601Z</updated>
-        <summary type="html"><![CDATA[I was at the grocery store the other day wondering what it’s like to be a millionaire who can afford ground beef when a thought popped into my head: “You know what would fix these high food prices? A new steel mill in Iowa that will not start running until 2030 at the earliest!”
-Well, just a day later, on Sept. 28, my prayers were answered. President Donald Trump addressed the small portion of Americans who still have enough money for internet service and announced that a company owned by an Indian conglomerate will build a $15 billion steel plant in Iowa. One where steel production, according to a Wall Street Journal report, “could begin in 2030.” 
-With midterm elections fast approaching, this is excellent news for voters who have cars that run on steel that won’t appear for at least four…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centrist Democrat: I fear my party is moving so far left it might winRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/28/centrist-democrat-mamdani-progressive-socialist/90681634007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/28/centrist-democrat-mamdani-progressive-socialist/90681634007/"/>
-        <updated>2026-09-29T00:11:00.572Z</updated>
-        <summary type="html"><![CDATA[Hello, I am a centrist Democrat who is terrified that progressive liberal candidates keep winning primary elections.
-I am also terrified of my own shadow, but this is somehow worse.
-Suddenly, voters are being won over by liberal candidates ‒ even a few who are democratic socialists! ‒ who aren’t afraid to lean into populist messages with passion and an apparent drive to actually do things that will make people’s lives better. What is that all about? Since when did the things voters want become so important?
-Following the embrace of New York City’s popular democratic socialist Mayor Zohran Mamdani, two democratic socialist candidates and one progressive candidate won their recent congressional primary races. I immediately took to my living room's fainting couch. (Like most centrist Democrat…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This is apparently how a mature president handles trade negotiationsRex Huppke]]></title>
-        <id>https://www.usatoday.com/videos/opinion/columnist/2026/08/27/trump-canada-tariffs-trade-war-republican-midterms/91482315007/-full</id>
-        <link href="https://www.usatoday.com/videos/opinion/columnist/2026/08/27/trump-canada-tariffs-trade-war-republican-midterms/91482315007/"/>
-        <updated>2026-09-29T00:11:00.547Z</updated>
-        <summary type="html"><![CDATA[President Donald Trump decided it's a great time for a trade war with Canada.]]></summary>
-        <author>
-            <name>Rex Huppke</name>
         </author>
     </entry>
     <entry>
@@ -1432,6 +1063,8 @@ With an opt-in cache we can support other workflows that people have been asking
         <link href="https://protesilaos.com/codelog/2026-09-29-comment-guilt-association-omarchy/"/>
         <updated>2026-09-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Raw link: https://www.youtube.com/watch?v=Y6NdZYNCkdk
+UPDATE 2026-10-02 11:22 +0300: A longer clip which better captures
+the vibe is here: https://protesilaos.com/codelog/2026-10-02-omarchy-reasonableness/.
 This is an excerpt from the ‘Root Access’ live stream:
 https://protesilaos.com/codelog/2026-09-27-emacs-live-root-access-show/.
 I was making a broader comment there, but it is only available in the
@@ -1452,18 +1085,6 @@ gets to it.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Breanna Stewart And A’ja Wilson Sit At The Grown-Ups Table]]></title>
-        <id>https://defector.com/?p=236698</id>
-        <link href="https://defector.com/breanna-stewart-and-aja-wilson-sit-at-the-grown-ups-table"/>
-        <updated>2026-09-28T18:31:25.000Z</updated>
-        <summary type="html"><![CDATA[It was many WNBA news cycles ago—but not that many human years ago!—that the league’s central power struggle was shaping up to be one between A’ja Wilson and Breanna Stewart. Since Wilson was drafted in 2018, the two stars have lived atop MVP ballots and together won six of eight WNBA championships. On this very website, in 2022, I anointed them as much:
-Stewart and Wilson, anchors of the Olympic team and the new faces of their sport, should run this league for a while. "Should" is an important qualifier. It wasn't too long ago that WNBA fans imagined epic future playoff battles between Stewart and Elena Delle Donne, battles that have had to stay in the imagination thanks to an Achilles injury, a back injury, and a pandemic. But everyone's health permitting, this is The Rivalry We Care About Now, and it's so extremely awesome to watch.”
-On Sunday, the two would-be rivals were miles away from each other and their games tipped off a few hours apart. Stewart’s 34 points and 12 rebounds carried the Liberty to an upset 91-75 win over the top seeded Lynx in Minnesota. Just as in the regular season and in playoffs past, the Lynx had troublingly few answers for opposing size; the Liberty might be the most aggravating team to watch in the WNBA, but maybe more importantly, they’re also the tallest. Stewart, so hard-nosed and rangy and lanky, almost personally magnifies Minnesota’s flaws. She attacks mismatches and swats shots—on Saturday, she even supplied some throwback threes for extra style points. Solid games from Leonie Fiebich and Han Xu were sufficient help; Stewart doesn’t need much of it. (No matter at all that her team’s lead guard continues to shoot springtime tour dates.)]]></summary>
-        <author>
-            <name>Maitreyi Anantharaman</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Marcin Borkowski: How many screens left]]></title>
         <id>https://mbork.pl/2026-09-28_How_many_screens_left</id>
         <link href="https://mbork.pl/2026-09-28_How_many_screens_left"/>
@@ -1474,31 +1095,6 @@ On Sunday, the two would-be rivals were miles away from each other and their gam
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Team USA Won Brandon McNulty A World Championship With A Tactical Masterclass]]></title>
-        <id>https://defector.com/?p=236665</id>
-        <link href="https://defector.com/team-usa-won-brandon-mcnulty-a-world-championship-with-a-tactical-masterclass"/>
-        <updated>2026-09-28T17:33:23.000Z</updated>
-        <summary type="html"><![CDATA[Inside the hundred-meter mark, after 273.3 kilometers of racing, Brandon McNulty looked back one last time to see the chasing pack behind him sprinting it out for silver. He banged on his handlebars, put his hands to his head, and pumped his fist, not seeming quite sure how he should celebrate his country's first World Championship road race victory in 33 years and the biggest win of his career. McNulty's scattered exuberance tells part of the story, as does his teammate Quinn Simmons coasting in for fourth and Matteo Jorgenson celebrating as he crossed he line in eighth. The Americans raced a perfect race, delivering a shocker in the world's biggest one-day race thanks to one of the best tactical performances you'll ever see.
-An unfortunate byproduct of Tadej Pogacar's typically thrilling dominance is that he obviates or at least neutralizes team tactics. It really doesn't matter how carefully you distribute satellite riders, gouge away at his teammates, or force him to do extra work because he's so much better than everyone in the world that he can almost always go win the races he wants on pure strength. What are you supposed to do nwhen Pogacar is simply riding alone off the front for 70 kilometers, faster than any one team's worth of riders could sanely chase? But Pogacar's recent crash at the Vuelta opened the door not only for Enric Mas to win a bike race instead of nobly and anonymously finish fifth, but for a new world champion for the first time since the Second Pogacar Inquisition began three years ago. There probably won't be many more good chances like this. So, who would step into the vaccuum?
-
-https://www.youtube.com/watch?v=obK7tbfw-dI]]></summary>
-        <author>
-            <name>Patrick Redford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland Beats Israel 3-0 In Game Nobody Wanted]]></title>
-        <id>https://defector.com/?p=236687</id>
-        <link href="https://defector.com/ireland-beats-israel-3-0-in-game-nobody-wanted"/>
-        <updated>2026-09-28T17:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Call ‘em the Badwill Games. Ireland scored three early goals and cruised to a 3-0 win over Israel in the first of two matches between the teams that have already made everybody go ewwwwww. 
-The game, played in Debrecen, Hungary, was the first of two very controversial matches between the national teams as part of the UEFA Nations League competition. Ireland had requested that UEFA ban Israel from the tournament, but that was denied, as was a subsequent appeal to be moved out of the same bracket. 
-A national campaign then formed in Ireland to prevent the matches from happening. A group of 160 Irish athletes signed a petition released late last week calling for the matches to be cancelled. RTE, the Irish national broadcasting network, announced that it would only have limited coverage of the matches. Heimir Hallgrímsson, the Iceland-born manager of the Irish team, defended fielding a squad by saying, "We're not playing with genocide. We're playing against genocide."]]></summary>
-        <author>
-            <name>Dave McKenna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I’m Terrified of What Will Happen to This Country When We Run Out of Water]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73927931/rio-grande-water-war-texas/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73927931/rio-grande-water-war-texas/"/>
@@ -1506,18 +1102,6 @@ A national campaign then formed in Ireland to prevent the matches from happening
         <summary type="html"><![CDATA[How will Americans react when they turn on the taps and nothing comes out?]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Can You Not Be Romantic About An Old Rusty Truck Almost Ruining Your Life?]]></title>
-        <id>https://defector.com/?p=236591</id>
-        <link href="https://defector.com/how-can-you-not-be-romantic-about-an-old-rusty-truck-almost-ruining-your-life"/>
-        <updated>2026-09-28T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[You ever need something so badly it scares you to say it aloud, just because the universe might smell that stench of desperation about you and smite your ass back into the existential garbage time you deserve? The way I’ve been feeling about living in New York City qualifies. When I said goodbye to Lauren Theisen last summer, it was crushing. I had seen that sublime summit and would now regress back to the place I regrettably called home. There is, as it turns out, a reason why writers love New York, and my apartment in Tacoma would have given Julian of Norwich seasonal depression. I knew I had to get back no matter what, but as I’ve documented, my constitution is ill suited for the ‘or bust’ suffixes of life.
-Luckily, life decided to rub my nose in just how shitty stagnancy smelled. My apartment’s toilet exploded sewage everywhere, wafting the Tacoma aroma upon all of my belongings. In case I hadn’t yet gotten the message, my lazy scummy dirtbag fuckface of a property manager decided this was the right time to raise the rent, supplying me the ample spite that would spur the big move. No time like the present. I needed to get rid of everything I could stomach one day buying again, find every latent dime I was owed or could borrow, and claw my way back to the only city really worth getting bled dry to live in. Most importantly, I needed to sell the Lexus.
-In 2004, my uncle made one of the smartest calls that anyone ever got to make on the car market: He bought a brand new Lexus GX 470. It was eye-wateringly expensive, about 80 grand in today’s money, but his construction business was going well, and anyway in his judgment it was sturdier and more comfortable than anything else he test drove. He fucking nailed that one. This was Toyota engineering at the absolute peak of their powers. That GX was no steal, but at few points in history has a family of cars been so utterly far ahead of the competing options in terms of quality as the Toyota SUVs of this era.]]></summary>
-        <author>
-            <name>Lucy Bloom</name>
         </author>
     </entry>
     <entry>
@@ -1550,18 +1134,6 @@ Aquí is now available on MELPA.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drake Maye Looks Dazed And Confused Out There]]></title>
-        <id>https://defector.com/?p=236648</id>
-        <link href="https://defector.com/drake-maye-looks-dazed-and-confused-out-there"/>
-        <updated>2026-09-28T15:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Progress in the NFL is not linear, past success doesn't guarantee future success, regression to the mean is normal and expected—all of the cliches in the world can't possibly rationalize whatever the hell is happening to Drake Maye and the New England Patriots so far this season. Currently sitting at 1-2 after Jacksonville laid down a 35-6 "old-fashioned ass whooping," as Pats safety Kevin Byard III put it, New England is finding life after a division title and a shock Super Bowl run to be, somehow, even harder and more dispiriting that it seemed on paper. Some fall-off was to be expected after a season in which the Pats had the easiest schedule of the century, but what's become of Drake Maye, who looked like a perennial MVP candidate last season, is downright shocking. 
-Maye has been absolute ass so far this season. The stats are bad enough—585 yards, one touchdown, a league-leading six interceptions, two fumbles, a QBR of 45.9—to set off the alarms, but Maye is failing the eye test even harder than that. After looking poised both in the pocket and moving the ball with his feet last season, Maye looks jittery and unsure of his throws so far in 2026, leading to mistakes so jarringly poor that it's becoming easier to write off last year as a fluke than it is to give him grace for a tough schedule and some key injuries.
-A.J. Brown going down for multiple weeks with an ankle injury in the season opener hasn't helped, and Maye didn't force the front office to give Romeo Doubs $17 million a year to fail to get open on almost every play. Meanwhile, the run game, already not a particular strength last season, has been atrocious this time around, with Rhamondre Stevenson and TreVeyon "Just Asking Questions" Henderson combining for 72 yards a game on 3.9 yards per carry.]]></summary>
-        <author>
-            <name>Luis Paez-Pumar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Irreal: A Nice Example Of An Embark Action]]></title>
         <id>https://irreal.org/blog/?p=14112</id>
         <link href="https://irreal.org/blog/?p=14112"/>
@@ -1581,51 +1153,6 @@ If, like me, you’re just beginning to feel your way around Embark, Rodighiero�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Crossword, Sept. 28: You Gonna Remember Me (Themeless)]]></title>
-        <id>https://defector.com/?p=236626</id>
-        <link href="https://defector.com/the-crossword-sept-28-you-gonna-remember-me-themeless"/>
-        <updated>2026-09-28T15:11:22.000Z</updated>
-        <summary type="html"><![CDATA[It's time to wrap up the month with a challenging themeless. Keep an eye out for tricky clues and fun wordplay. This puzzle was constructed by Zachary Edward-Brown, and edited by Hoang-Kim Vu. Zach is a Chicagoan who enjoys playing soccer and basketball and rooting for the Bears. He's always open to collabs.
-Defector crosswords, launched in partnership with our friends at AVCX, run every Monday. If you’re interested in submitting a puzzle to us, you can read our guidelines HERE. The AVCX, an independent puzzles and games outlet, invites you to subscribe, or sample the goods with a two-month free trial: "With an AVCX subscription, you get access to weekly themed and themeless crosswords, minis, cryptics, and trivia, by email or in your favorite app. We have no corporate overlord, and we publish top-flight stuff only. We also pay our people fairly, always. Check us out."]]></summary>
-        <author>
-            <name>Maitreyi Anantharaman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Isn’t Over Until Max Scherzer Says It Is]]></title>
-        <id>https://defector.com/?p=236639</id>
-        <link href="https://defector.com/it-isnt-over-until-max-scherzer-says-it-is"/>
-        <updated>2026-09-28T14:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Pitchers are a kooky breed: superstitious, hypercompetitive, quite often a little bit nuts. It's a personality type that shares a lot with kickers and goalies in other sports. The common threads? First, they have an awful lot of downtime to spend in their own heads. Second, they are, to an extent, competing with themselves—out there all alone, with nothing but their own limitations to battle. Deprived of the warmth of human interaction, sometimes they go downright feral. Whatever works.
-It's worked for Max Scherzer, you'd have to say. Three Cy Youngs, eight all-star appearances, two championship rings, ninth all-time in strikeouts. He got all that hardware by being a real freak. Stalking around the mound after a strikeout like a caged tiger. Warning off managers who might even consider taking him out of a game by activating the threat display of an alarmed hagfish crossed with a territorial canid. "He’s snarling, snot is coming out his mouth, he’s drooling and steam is coming out his ears, his eyes are bloodshot," recalls one teammate, "and he goes: 'You better get in the fucking dugout right now. Don’t you fucking dare come out here.'"
-Scherzer finished off his 19th season on Sunday as a member of the Blue Jays, and if it was an atypical season for the future hall-of-famer, it was quite in line with what you'd expect from a 42-year-old. It was rough, in other words. Scherzer hasn't officially decided on retirement, but with a lockout looming he's talking about it like he has, and anyway he's not returning to Toronto. "We had circled this one, if we were out of it, to still pitch Sunday. It gives me a chance to pitch in front of my kids one more time," he said. It didn't matter that Scherzer would have to throw on short rest. It did matter, though he wouldn't admit it, that he still had a puncher's chance of chasing down Justin Verlander on the all-time strikeout list, after Verlander had returned from six months on the shelf to make one last start the day before.]]></summary>
-        <author>
-            <name>Barry Petchesky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Astros And White Sox Are The Playoff Matchup This Moment Deserves]]></title>
-        <id>https://defector.com/?p=236620</id>
-        <link href="https://defector.com/the-astros-and-white-sox-are-the-playoff-matchup-this-moment-deserves"/>
-        <updated>2026-09-28T14:11:31.000Z</updated>
-        <summary type="html"><![CDATA[It is October-y enough to be October, even though October is still days away, which means it's time to find out how many of you weirdos can hold a grudge that isn't yours to hold. The Houston Astros, American League West champions at 81-81, are officially the worst team ever to make baseball's postseason after edging out two other teams that also would have been the worst teams ever to make baseball's postseason. Now you can all get all fever blistered all over again about Carlos Beltran's crimes against humanity nine years ago.
-The Astros have turned over most of their roster and all of their front office since then, but they remain That Team for people who prize long memories and petty crimes, or just don't like the Astros. Before 2017, nobody really disliked the Astros, if only because you have to cast a shadow to make people feel your chill. They've been good enough since to have earned their enmity. They have the second best record in baseball over the last decade in both the regular and postseasons, and either despite that or because of it a certain segment of the baseball-speaking population seizes up northward from the seater remembering when the Astros beat out victory rhythms in their first championship season thanks to an array of friendly garbage cans and some sign-stealing players who apparently learned how to convey their thievery to each other from John Bradbury.
-In the end, of course, it's all branding. The Astros have been marked as polyrhythmic brigands since their McKinsey Era, even though they only have one player left from the 2017 championship team; that one player is Jose Altuve, so it's the smallest surviving member at that. But hey, at least half of our politics is people trying to re-litigate the Civil War, and history is as toxic as you want to make it. So if you feel chapping down below when the Astros appear in your line of vision, well, get some Benadryl and bite down on the coffee table. They're back.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programming Notes]]></title>
-        <id>https://defector.com/?p=236641</id>
-        <link href="https://defector.com/programming-notes-8"/>
-        <updated>2026-09-28T13:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Prepare to receive precious information. The information is arriving now. This week, the Defector staff will once again be convening in a top-secret and possibly flooded location to conduct our annual meetings and continue charting the future of the company. The only reason you need to know this is because we will be blogging…]]></summary>
-        <author>
-            <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sacha Chua: 2026-09-28 Emacs news]]></title>
         <id>https://sachachua.com/blog/2026/09/2026-09-28-emacs-news/</id>
         <link href="https://sachachua.com/blog/2026/09/2026-09-28-emacs-news/"/>
@@ -1641,18 +1168,6 @@ EmacsATX: Emacs Social https://www.meetup.com/emacsatx/events/316464079/ Thu Oct
 Sacha Chua: Oct 2 - Emacs Chat 31: Pedro A. Aranda Gutierrez (Pr…]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballhalla Got The Playoff Christening It Deserved]]></title>
-        <id>https://defector.com/?p=236627</id>
-        <link href="https://defector.com/ballhalla-got-the-playoff-christening-it-deserved"/>
-        <updated>2026-09-28T13:01:29.000Z</updated>
-        <summary type="html"><![CDATA[The phrase "road playoff game" can have a variety of meanings depending on the circumstances, and the one that Paige Bueckers and her Dallas Wings teammates stepped into on Sunday night was about as daunting as they come. They had to enter Ballhalla, home to the WNBA's loudest fanbase, and take on the two-seeded Golden State Valkyries, owners of the league's most ferocious defense. No thanks.
-"Home playoff game" can have different meanings, too, as last year's Valkyries might tell you. Their surprisingly successful inaugural season ended with a playoff appearance, and the reward for so thoroughly exceeding expectations was an 0-2 sweep at the hands of the Lynx and one home playoff game, played in San Jose because a tennis tournament had dibs on their home arena. Any bitterness that arose from that experience did not carry over into this season, in which the Valks transformed from a plucky expansion squad playing over their heads into the team with the league's best net rating. Things are different, now, and even through the television screen one could sense how much the home crowd had been anticipating this chance to show what a playoff game in Ballhalla feels like.
-Bueckers did her best. In the first quarter, the roar of the crowd was briefly quieted by the Wings' star, who seemed to understand that the best way to short-circuit the self-sustaining process of a locked-in defense drawing energy from and returning it to a locked-in crowd is to go out there and get some tough buckets. Call it a superstar's instinct. And so tough buckets were exactly what Bueckers spent the first quarter collecting. Despite being hounded up and down the court by Gabby Williams, she scored 11 of her team's 20 points in the first quarter on 4-of-5 shooting, and the Wings only trailed by one when it was over. At this point one could detect just the slightest trace of trepidation in the noise of the crowd. Bueckers wasn't actually going to spoil this party, was she?]]></summary>
-        <author>
-            <name>Tom Ley</name>
         </author>
     </entry>
     <entry>
@@ -1685,39 +1200,6 @@ It's currently using only 99 MB of memory. This stuff makes me a little giddy.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GOP has nothing left but bigotry and lies. Rinse and repeat.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/16/trump-socialism-republicans-islamophobia-midterms/91304727007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/16/trump-socialism-republicans-islamophobia-midterms/91304727007/"/>
-        <updated>2026-09-28T10:35:34.011Z</updated>
-        <summary type="html"><![CDATA[Oh look, it’s a Republican lawmaker spouting Islamophobic rhetoric over a Democratic candidate who’s Muslim.
-And over there, it’s President Donald Trump mocking transgender athletes.
-There’s another Republican on the television telling you the economy has never been better.
-And there’s Trump again on your phone screen saying America has full control of the Strait of Hormuz while you’re pumping $4-per-gallon gas.
-Blah. Blah. Blah.
-Trump and Republicans have nothing but lies and stale fearmongering
-
-With high food and gas prices, a weak labor market and an unpopular war started by a wildly unpopular president, the Grand Old Party has little to talk about, save bigotry and bald-faced lies.
-And that routine, as evidenced by polling and low GOP primary turnout, has gotten old. Trump has become …]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Labor Day! Enjoy it while you can still afford to.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/06/labor-day-trump-iran-diesel-gas-prices/91613263007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/06/labor-day-trump-iran-diesel-gas-prices/91613263007/"/>
-        <updated>2026-09-28T10:35:33.950Z</updated>
-        <summary type="html"><![CDATA[It’s Labor Day weekend, and I hope my fellow Americans enjoy laboring, because we’re all going to be doing a lot more of it in order to afford food. And gas. And pretty much everything.
-The long weekend was ushered in by news that diesel fuel prices hit a record high in the United States on Sept. 4, averaging $5.85 per gallon. That’s what people who use diesel to fuel freight trucks and farm equipment call “a lot.”
-The new price-tag-at-the-pump record will invariably translate to higher consumer costs, since the folks who grow and ship food and other goods will be spending more on both the growing and the shipping. (The math on this isn’t difficult.)
-Enjoy Labor Day. Life is about to get even more expensive under Trump.
-
-Jaime Brito, executive director of refining and oil products for Dow …]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monday, September 28, 2026]]></title>
         <id>https://baty.net/journal/28Sep26/</id>
         <link href="https://baty.net/journal/28Sep26/"/>
@@ -1741,30 +1223,6 @@ Speaking of subscriptions, subscription fatigue has a been a thing with me for a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Finings Will Continue Until Morale Worsens]]></title>
-        <id>https://defector.com/?p=236607</id>
-        <link href="https://defector.com/the-finings-will-continue-until-morale-worsens"/>
-        <updated>2026-09-27T18:44:21.000Z</updated>
-        <summary type="html"><![CDATA[When Amon Ra St. Brown scored a second-quarter touchdown today against the New York Jets, he did not simply drop the ball in the end zone and walk off the field without acknowledging any teammates, the crowd, or anyone else. But he should have. The National Football League has fined him nearly $60,000 for four incidences of rampant fun-having (miming smoking) in the Lions' 41-31 Week 2 loss to the Buffalo Bills, so he should deprive the league of that amount of fun in the future.
-Childish? You betcha. Then again, what better time to be snippy with the bosses than game day? You want bland? We'll give you bland. In fact every touchdown today and tomorrow night should be anti-celebrated the same way, just as a way to tell the owners to buy larger undergarments so there isn't much chafing and binding to ruin their days.
-We assume this is an ownership thing, since the owners are the ones who typically decide when touchdown celebrations get too, well, what, exactly? Choreographed? Whimsical? Lurid? Evocative of historical massacres? Disturbing to the youth of America? But even if they're in the clear this time, someone in the league office has decided the players' gift for the terpsichore of muse must be restricted lest the nation become morally compromised any more than it already is as a matter of everyday commerce.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Austin Romaine Will Always Have Saturday]]></title>
-        <id>https://defector.com/?p=236604</id>
-        <link href="https://defector.com/austin-romaine-will-always-have-saturday"/>
-        <updated>2026-09-27T17:51:15.000Z</updated>
-        <summary type="html"><![CDATA[There is a possibility that Austin Romaine will be a fine professional football player, make boatloads of money more than whatever he is taking in as a linebacker at Texas Tech, and maybe get drafted by an NFL team that isn't awful. Maybe he'll be known as more than just The Guy Named After A Lettuce.
-But even if bad luck in the athlete business besets him and none of these things happen, he's still got Saturday, and if that isn't enough to get him free drinks in Lubbock for a decade, then shame on Lubbock for yet another thing.
-Romaine intercepted a pass from Sam Houston State University quarterback Brett Holloway and returned it 15 yards for a touchdown in the Red Raiders' 760-7 (okay, 49-14) win over SHSU on Saturday. Which of course is no big deal. Pick-sixes happen all the time. Most Texas citizens could do it in street clothes, or tell you they could.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Irreal: Outlook To Emacs]]></title>
         <id>https://irreal.org/blog/?p=14110</id>
         <link href="https://irreal.org/blog/?p=14110"/>
@@ -1781,18 +1239,6 @@ The sad truth is that the main difficulty in dealing with Outlook is not the ema
 Regardless, every little bit of help in escaping their maw is welcome. If you’d like to at least deal with emails in an Outlook environment, take a look at Patient_Chance_3795’s post.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stephen Curry Leaves $20 Million In His Work Clothes]]></title>
-        <id>https://defector.com/?p=236598</id>
-        <link href="https://defector.com/stephen-curry-leaves-20-million-in-his-work-clothes"/>
-        <updated>2026-09-27T13:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Stephen Curry has proven himself yet again to be an enemy of the proletariat and an implacable foe of the Third American Dream. And this time, the cost to him and his burgeoning empire was a mere $20,000,000 (give or take the odd day trip to Monte Carlo), the difference between what he could have made over the next two seasons, $136.7 million, and what he'll get. What a sap.
-Curry just re-upped with Golden State The Corporate Name, formerly GSW Sports LLC, for two more years plus a player option that he would be a monumental berk not to exercise ahead of the season he'll turn 41. His 2026–27 salary of $62.6 million will drop to $55.7 million in 2027–28, and $60.2 million in the optional 2028–29 season, in an act that upholds two mostly discarded myths about team/player contracts in the modern age: one, that there is such a thing as a hometown discount, and two, that money can be left on the table without psychic damage to the payee.
-Curry's motivation, as he has stated too many times for cynical hyenas like you, is to leave the boys upstairs some salary-cap room to improve the level of his playmates. This is known as the Reverse Kawhi Leonard, in which someone does work for less money as opposed to doing less work for more money, and also the Backwards Ballmer, in which the salary cap is a thing to be heeded rather than used as loo roll. It's such an old-fashioned play that they may as well move the franchise to Hooterville Junction and make all the customers leave their shoes at the door.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
         </author>
     </entry>
     <entry>
@@ -1830,37 +1276,6 @@ I used it to write a test post, and it worked, first try. The app needed no edit
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Einar Mostad: EWW in Emacs 31 would not use browse-url-generic as browse-url-secondary-browser-function]]></title>
-        <id>https://einar.codeberg.page/eww-in-emacs-31-would-not-use-browse-url-generic-as-browse-url-secondary-browser-function.html</id>
-        <link href="https://einar.codeberg.page/eww-in-emacs-31-would-not-use-browse-url-generic-as-browse-url-secondary-browser-function.html"/>
-        <updated>2026-09-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[(use-package eww                        ; Web browser
-  :config
-  (setopt browse-url-browser-function 'eww-browse-url
-          browse-url-secondary-browser-function 'browse-url-generic
-          browse-url-generic-program "librewolf"
-  ; ...
-
-(use-package eww                        ; Web browser
-  :config
-  (setopt browse-url-browser-function 'eww-browse-url
-          browse-url-secondary-browser-function (lambda () (start-process "librewolf"))
-  ; ...
-
-(use-package eww                        ; Web browser
-  :config
-  (setopt browse-url-browser-function 'eww-browse-url
-          browse-url-secondary-browser-function (lambda () (browse-url-generic))
-          browse-url-generic-program "librewolf"
-  ; ...
-
-(defun eww-browse-with-external-browser (&optional url)
-  "Browse the current URL wi…]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -1989,7 +1404,7 @@ useful at scale if the caching is done asynchronously. I plan …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Supreme Court Has Just Made a Horrendous Voting Rights Decision That Could Drastically Swing the Midterms]]></title>
+        <title type="html"><![CDATA[The Supreme Court Has Just Made a Horrendous Voting-Rights Decision That Could Drastically Swing the Midterms]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73894923/scotus-voting-rights-decision-online-system/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73894923/scotus-voting-rights-decision-online-system/"/>
         <updated>2026-09-25T22:44:13.000Z</updated>
@@ -2011,53 +1426,6 @@ Stay updated: https://emacs-apac.gitlab.io/#stay-updated.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pete Crow-Armstrong Has Answered Every Question]]></title>
-        <id>https://defector.com/?p=236550</id>
-        <link href="https://defector.com/pete-crow-armstrong-has-answered-every-question"/>
-        <updated>2026-09-25T17:44:17.000Z</updated>
-        <summary type="html"><![CDATA[There will probably be some voters who give the National League MVP ballot a hard look and pore over all the possibilities, or just vote for Shohei Ohtani out of pure reflex. Which is fine enough as it goes. This is one of the quirks of democracy: Sometimes you have to let people be wrong for their own reasons, at least until we expand the vote to children above the age of birth, family pets, and animals who live in national parks.
-But it's far more likely that when those votes are counted, the MVP will be Pete Crow-Armstrong. If performance trumps celebrity, the ballots won't have any other name on them. It's OK from time to time to let the obvious be obvious, and if Shohei Ohtani is still Shohei Ohtani, Pete Crow-Armstrong is just as plainly the MVP.
-This is not preaching, mind you, and there's no need for advocacy on the Cubs center fielder's behalf. Crow-Armstrong was having a better season than anyone else even before Ohtani's body started looking into the process of aging, and even today the statistical differences between Crow-Armstrong and the second- and third-most effective players in the league—by WAR, that's pitcher Cristopher Sánchez of the Phillies, and Milwaukee second baseman Brice Turang—are in some cases wider than in any other campaign since Roger Clemens lapped the field in 1997. Indeed, the only argument you can muster, if this is the sort of thing you go for, is whether Crow-Armstrong is having a better season than Houston left fielder Yordan Alvarez, and astonishing as Alvarez's has been—he is slugging an even .600—his season nevertheless might end on Sunday afternoon in the lonely prairies of Yolo County, California. The AL West weighs on a curve in singular ways.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Even The Weather Hates Ed Sheeran]]></title>
-        <id>https://defector.com/?p=236548</id>
-        <link href="https://defector.com/even-the-weather-hates-ed-sheeran"/>
-        <updated>2026-09-25T17:08:53.000Z</updated>
-        <summary type="html"><![CDATA[After Ed Sheeran went through all that trouble to appease New England Patriots owner Robert Kraft, he'll end up not playing at his stadium anyway. The musician's shows, scheduled for Friday and Saturday in Foxborough, Mass., have been canceled because of the incoming nor'easter expected to hit the East Coast this weekend. At least one good thing's coming out of this storm.
-"Due to the severe weather warnings in place in Boston and across New England throughout the weekend and following consultation with local officials, the promoter and tour have made the difficult decision to cancel the Ed Sheeran concerts at Gillette Stadium," the venue's statement read. "The decision was made with the safety of fans, staff and everyone involved in the shows as the top priority." Those who bought tickets will be refunded, and free to spend their money on something equally as compelling, like going to the dentist.
-This weekend's shows were the original reason why Kraft strong-armed (really, weak-armed) Sheeran last week into dropping Macklemore as an opening act on the U.S. portion of his tour. The Patriots owner, a billionaire who has routinely donated money to groups that support Israel and its military, took issue with the rapper's support of Palestine. After Sheeran obliged, then blamed his promoter, the rest of his openers and his backing band ditched him on principle. Many people made fun of the musician for having no spine or scruples. Sheeran's subsequent show was this past Saturday in Philadelphia, where he recited a meaningless statement then cried.]]></summary>
-        <author>
-            <name>Samer Kalaf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paula González-Nasser Gives Location Scouts Their Due]]></title>
-        <id>https://defector.com/?p=236184</id>
-        <link href="https://defector.com/paula-gonzalez-nasser-gives-location-scouts-their-due"/>
-        <updated>2026-09-25T16:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Sofia rises early to drive from Brooklyn to the Manhattan production office where she works as a location scout. She’s tasked with finding spots in which to film an upcoming television pilot: a few apartments and, randomly, a fish store. Her day brings her around the city and in contact with a variety of people—a tech guy who shows her how to hack the system to avoid parking tickets, an old friend she hasn’t seen in years, a man who insists on dinner as recompense when she shows up late to scout his store, whereupon he will not shut the fuck up about his Moby-Dick ripoff novel. This is The Scout, a loosely plotted but deeply resonant portrait of modern New York as related through its inhabitants and their spaces. 
-Writer/director Paula González-Nasser based the film on her own time in the trenches as an NYC location scout for TV series like High Maintenance, Broad City, and Search Party, as well as movies like Never Rarely Sometimes Always. Appropriately, she served as her own scout for this film, which has raked in plaudits since premiering at last year’s Tribeca Festival. Ahead of The Scout’s theatrical release, I sat down with González-Nasser over Zoom to discuss her time as a location scout, how it informed the film, and how she charted a realistic journey through New York. Our conversation has been edited and condensed for time and clarity.]]></summary>
-        <author>
-            <name>Dan Schindel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Make These Games As Stupid As Possible]]></title>
-        <id>https://defector.com/?p=236223</id>
-        <link href="https://defector.com/lets-make-these-games-as-stupid-as-possible"/>
-        <updated>2026-09-25T15:58:34.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Defector College Football Watch Guide, where Israel Daramola and Ray Ratto will tell you which of the weekend’s college football games are worth giving a crap about.
-Ray: In case you missed it, the greatest play since the 109-yard field goal return that won the 2013 Iron Bowl is still resonating around Downmarket College Football America, a moment of pure end-game lunacy between Vanderbilt and North Carolina State that serves to remind us all that the best and maybe only reason to still care about this grand swindle is the way that young folks can pull the radiantly ridiculous out of dull-gray ordinary. In doing so, C.J. Bailey, Miles Capers, and Cayden Daniels combined to remind us that the truest way to save college sports, with or without government intervention, is to ban the adults who can, do, and always will ruin everything. This is the same thing that will save all of youth sports, but nobody has yet figured out how to get the kids to stock the snack bar.
-There were, of course, other things to spice up the weekend, like Ole Miss beating LSU, LSU losing to Ole Miss, and Lane Kiffin having to explain them both. A quarter of the teams are still undefeated, not including Western Michigan, and remarkably no coach has been fired yet. Maybe the athletic directors and donors are too busy worrying about making any expensive purchases while Congress dithers over the Make Players Indentured Servants Again Act, or maybe Bruce Feldman's suggestion that the pool of interim coaches could include Jimbo Fisher and Brian Kelly scares them into paralysis. Or maybe they're all confused that SEC commissioner Greg Sankey didn't hold a press conference to complain that the voters aren't giving Arkansas proper respect for being almost 2-1.]]></summary>
-        <author>
-            <name>Israel Daramola</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Irreal: Quick Look For Emacs]]></title>
         <id>https://irreal.org/blog/?p=14106</id>
         <link href="https://irreal.org/blog/?p=14106"/>
@@ -2071,51 +1439,6 @@ Choi likes the Quick Look functionality but, of course, would like to have it in
 If you like the idea of being able to peek at a file without abandoning your current window, take a look at Choi’s post for the details on how to do it from Dired and Ibuffer windows.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manchester City Found Guilty Of More Than 100 Financial Rule Breaches]]></title>
-        <id>https://defector.com/?p=236519</id>
-        <link href="https://defector.com/manchester-city-found-guilty-of-more-than-100-financial-rule-breaches"/>
-        <updated>2026-09-25T15:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Remember when the Premier League charged Manchester City with over 100 instances of financial maneuvering which ran afoul of league rules? It's possible you've forgotten all about that, since the league's investigation began all the way back in 2019, and the charges were announced in 2023. The long timeline here is owed to City's continued refusal to cooperate with the Premier League and the efforts of their expensive legal teams. But time moves forward nonetheless, and so at long last we hare here, with The Athletic's David Ornstein reporting that City has been found guilty of almost every charge it faced.
-Since it has been three years since the charges were first announced, a refresher is in order. The case is based on the Premier League's belief that City consistently broke the league's…]]></summary>
-        <author>
-            <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Is A Cry For Help]]></title>
-        <id>https://defector.com/?p=236521</id>
-        <link href="https://defector.com/taylor-swift-life-of-a-showgirl-encore-review"/>
-        <updated>2026-09-25T14:27:59.000Z</updated>
-        <summary type="html"><![CDATA[At midnight, Taylor Swift released a four-song update to her latest album, The Life of a Showgirl, which came out last October and had the cultural impact of a Skechers sneaker drop. Despite juicing its commercial success with several variants on the physical copies for sale, responses to the album from critics and fans alike have been lukewarm at best. Certainly nobody that I know liked hearing Travis Kelce’s dick compared to a redwood tree.
-One might think that after reaching the economic pinnacle that was the Eras Tour, the accompanying concert film and Disney+ docuseries, three albums in four years, and a single for the billion-grossing Toy Story 5, Swift would maybe consider chilling for a second. But for better and for worse, this woman is a compulsive writer who must metabolize her …]]></summary>
-        <author>
-            <name>Alex Sujong Laughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eight Teams, Eight Qualms: A Guide To The 2026 WNBA Playoffs]]></title>
-        <id>https://defector.com/?p=236335</id>
-        <link href="https://defector.com/eight-teams-eight-qualms-2026-wnba-playoffs-preview"/>
-        <updated>2026-09-25T13:57:41.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 WNBA playoffs begin on Sunday, following the league’s longest-ever regular season, one in which it felt like any team could win on any given night. (Except the Connecticut Sun.) As an ethical and objective journalist with no real rooting interest, I could be excited on everyone’s behalf. Unfortunately, my objectivity manifests as being nervous on everyone’s behalf for the postseason. Here’s a reason for concern about each team, grouped by first-round matchup.
-(1) Minnesota Lynx: Is the Lynx defense OK?]]></summary>
-        <author>
-            <name>Maitreyi Anantharaman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Packers Are All Fucked Up]]></title>
-        <id>https://defector.com/?p=236505</id>
-        <link href="https://defector.com/the-packers-are-all-fucked-up"/>
-        <updated>2026-09-25T13:11:45.000Z</updated>
-        <summary type="html"><![CDATA[There are certain early-season losses, even hefty ones, that you can write off. Especially if they happen overseas or on a Thursday night, where good teams can be afflicted by all sorts of rest/recovery issues that throw them off balance. But man, if you are a Green Bay Packers fan, I'm not sure how you even begin to cope with what happened last night.
-The Packers lost to the Falcons—the same Falcons who lost their first two games to the Steelers and Panthers by a combined score of 54-16 and did not have a red-zone snap in either of those games—by a score of 35-14. This wasn't one of those games where the bad team wins by multiple scores thanks to fluky turnovers or special teams play, either. This was the Falcons, the Atlanta damn Falcons, the bozos with no good quarterbacks and an inability to get a first down, just destroying the Packers on their own field.
-Atlanta finished the game with 498 total yards, and gained 7.5 yards per play. Bijan Robinson ran for 194 yards on 29 carries. Michael Penix Jr., with his non-functional knees and a general lack of quarterbacking skills, spent his first start of the season just pumping the ball to Drake London, who finished with nine receptions for 194 yards. Kyle Pitts didn't do jack shit.]]></summary>
-        <author>
-            <name>Tom Ley</name>
         </author>
     </entry>
     <entry>
@@ -2138,18 +1461,6 @@ Others floated conspiracy theories accusing the mysterious “they” of trying 
         <summary type="html"><![CDATA[Today we’re listening to Patrick Cowley, an American electronic musician from Buffalo, NY.]]></summary>
         <author>
             <name>Flow State</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canada raises tariffs, Trump threatens a lake. Guess who's winning?Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/25/us-canada-tariffs-trump-rename-lake-ontario/91456826007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/25/us-canada-tariffs-trump-rename-lake-ontario/91456826007/"/>
-        <updated>2026-09-25T03:31:07.488Z</updated>
-        <summary type="html"><![CDATA[Borrowing from the playbook of all master negotiators, President Donald Trump has gained the upper hand in his ongoing trade war with Canada by … wait for it … threatening to rename a lake. 
-On Aug. 25, President Deals McDealington threw down the gauntlet and showed those barbaric Canadians the fate they’ll face if they don’t bend to America’s will: “The United States is giving serious consideration to changing the name of Lake Ontario to Lake America in that we don’t expect to be doing much business with Ontario any longer. Thank you for your attention to this matter!”
-BOOM! What say you now, callous Canucks? You didn’t expect our beloved MAGA president to go hyrdonymic on your a--, did you? The trade war Trump started for no particular reason – the one likely to harm Americans economical…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
         </author>
     </entry>
     <entry>
@@ -2225,32 +1536,6 @@ You can e-mail me at sacha@sachachua.com.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Voters care about gas prices. The GOP is focused on furries.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/24/trump-republicans-midterms-media-ban-gas-prices/91905826007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/24/trump-republicans-midterms-media-ban-gas-prices/91905826007/"/>
-        <updated>2026-09-24T23:00:50.524Z</updated>
-        <summary type="html"><![CDATA[In America right now, the people are shouting, “Gas prices! Food prices! Health care costs!”
-And the Republican Party, six weeks out from the midterm elections, is responding: “What’s that? You want us to fight with the media? Or how about we get mad about this issue nobody has ever heard of because it’s something we made up?”
-It’s as if the words “read the room” never entered the GOP’s lexicon.
-This dynamic was writ large Sept. 23 when the face of the Republican Party, President Donald Trump, turned his attention and more of our taxpayer dollars to a U.S. District Court in Washington, DC. There, a judge heard arguments from CNN, MS NOW and Politico over Trump’s recent decision to ban the news organizations from the White House. 
-Trump, Republicans battle the media, but midterm voters don'…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Racehorse Owner Told To Rename His Hitleresque Steed]]></title>
-        <id>https://defector.com/?p=236458</id>
-        <link href="https://defector.com/racehorse-owner-told-to-rename-his-hitleresque-steed"/>
-        <updated>2026-09-24T21:59:47.000Z</updated>
-        <summary type="html"><![CDATA[The Jockey Club, the leading sanctioning body in what’s left of the sport of horse racing in the U.S., sent out a clear message Wednesday to anybody thinking of naming their horse after Hitler: Don’t name your horse after Hitler. 
-The two-year-old colt Austrian Painter made his racing debut Monday with a win in the third race at Horseshoe Indianapolis Racecourse. Obligatory: He covered the 5 1/2 furlongs in 1:04.97, and paid $9.00. Afterward, the Jockey Club received objections about the victorious newcomer, but these weren't the standard post-race protests about a jockey’s obstructing or dangerous ride or a horse’s drug abuse. No, these complaints were about the horse’s name. Because, as reported by ESPN in its Austrian Painter story, “Hitler was born in Austria and was an artist.”
-He was indeed! Austrian Painter’s owner and breeder is Scott Herbertson, a 58-year-old California native now based in Texas. In 2014, he founded the Herbertson Racing Stable. I could find no Kentucky Derby horses or winners of any other graded stakes race in his barn. But while he’s not a major player in the sport and seems more likely to enter his animals at unglamorous tracks like Horseshoe Indianapolis than Saratoga, Herbertson has spent lots of time in winner's circles. In 2014, the Thoroughbred Owners of California named him to their Rookie of the Year roster. According to Herbertson's page in the racing database Equibase, his horses have finished in the money 351 times in 561 starts, with a very impressive 164 wins. Herbertson's total earnings are now just over $2.5 million. Alas, nothing his horses ever did on the track brought Herbertson anywhere near the attention that this has.]]></summary>
-        <author>
-            <name>Dave McKenna</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Charles Choi: Binding the SPC key in Dired and IBuffer]]></title>
         <id>http://yummymelon.com/devnull/binding-the-spc-key-in-dired-and-ibuffer.html</id>
         <link href="http://yummymelon.com/devnull/binding-the-spc-key-in-dired-and-ibuffer.html"/>
@@ -2294,18 +1579,6 @@ This configuration is definitely a personal preference thing, so YMMV. That said
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Judge Declines To Seal Josh Jacobs Video,  But Cautions Against It Becoming Public]]></title>
-        <id>https://defector.com/?p=236423</id>
-        <link href="https://defector.com/judge-declines-to-seal-josh-jacobs-video-but-cautions-against-it-becoming-public"/>
-        <updated>2026-09-24T20:26:26.000Z</updated>
-        <summary type="html"><![CDATA[Brown County Circuit Judge Marc Hammer ended his temporary seal Thursday on records in Josh Jacobs's domestic-violence criminal case. But that doesn't mean the records, which includes video showing the Green Bay Packers running back throwing his ex-girlfriend to the ground, will immediately become public. Though Hammer unsealed the files, he also had strong words of caution for those who will decide what is released. 
-"Our [state] Constitution provides in part that crime victims are entitled to rights," Hammer said, "to be treated with dignity, respect, courtesy, sensitivity, and fairness." 
-Jacobs pleaded no contest earlier this month to one count of misdemeanor battery and one count of misdemeanor criminal damage to property. Police arrested him in May after they responded to a phone call reporting a disturbance between a man and a woman. When officers talked to the woman, she told them that she and Jacobs had been in a fight and, per police records, he "grabbed her and threw her to the ground and she struck her head, suffering an injury."]]></summary>
-        <author>
-            <name>Diana Moskovitz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How the Hell Did American Stealth-Fighter Parts “Inexplicably” Make Their Way to China?]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73875058/f-35-stealth-fighter-parts-china/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73875058/f-35-stealth-fighter-parts-china/"/>
@@ -2323,484 +1596,6 @@ Jacobs pleaded no contest earlier this month to one count of misdemeanor battery
         <summary type="html"><![CDATA[I respect it, but I’m not 100 percent sure it’ll work.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Sucks To Be Alex Bregman Right Now]]></title>
-        <id>https://defector.com/?p=236418</id>
-        <link href="https://defector.com/it-sucks-to-be-alex-bregman-right-now"/>
-        <updated>2026-09-24T17:36:57.000Z</updated>
-        <summary type="html"><![CDATA[The person in the photo above is not a strange wanderer whose arrival at the local inn coincided with that of a growing pestilence. That is Chicago Cubs third baseman Alex Bregman, photographed in the dugout two nights ago.
-Bregman looks like that because he was struck by a foul ball while standing in the on-deck circle during last Sunday's game against the Reds. He suffered multiple facial fractures, which is obvious by the look of him. Here he is this morning arriving at Wrigley Field:
-
-https://bsky.app/profile/sambernero.bsky.social/post/3mwbixcj6tc2d]]></summary>
-        <author>
-            <name>Tom Ley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting Weezer’s Cringe Masterpiece At 30]]></title>
-        <id>https://defector.com/?p=236296</id>
-        <link href="https://defector.com/revisiting-weezers-cringe-masterpiece-at-30"/>
-        <updated>2026-09-24T17:23:13.000Z</updated>
-        <summary type="html"><![CDATA[The second project is probably always the hardest. This is especially true if it follows a successful debut. You make something great, and by some act of the gods it catches fire and becomes the new, hot thing—a one-in-a-million shot. But then comes the next thing, the followup to your great big deal of a project. It’s a haunting and intense proposition. When I was at NYU for an MFA, I met a lot of famous and successful authors, and I remember one of the pieces of advice was to just write the next book as fast as you can. The more you put it off, the more you will paralyze yourself. 
-There’s no question that Rivers Cuomo felt some paralysis after Weezer's 1994 self-titled album. Known colloquially as The Blue Album, it is a true achievement of '90s power pop-punk. Twelve perfect songs, produced by The Cars' Ric Ocasek, full of nerdy irreverence and offbeat songwriting that manages to stick like it’s the fucking Beatles or something. But on top of this newly signed band releasing a well-constructed album, they became MTV darlings thanks to Spike Jonze's videos for "Undone (The Sweater Song)" and "Buddy Holly."
-
-https://youtu.be/kemivUKb4f4?si=po0-0MLY-g-_PN2k]]></summary>
-        <author>
-            <name>Israel Daramola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sean Payton, After Wrongly Accusing Mike Macdonald Of Cheating, Is Somehow The Only One Not Groveling]]></title>
-        <id>https://defector.com/?p=236367</id>
-        <link href="https://defector.com/sean-payton-after-wrongly-accusing-mike-macdonald-of-cheating-is-somehow-the-only-one-not-groveling"/>
-        <updated>2026-09-24T17:01:18.000Z</updated>
-        <summary type="html"><![CDATA[The NFL schedule is not likely to renew the fading historical rivalry between the Denver Broncos and the Seattle Seahawks. The two teams are now separated by the conference divide, and, though both teams are currently good, you'd be a fool to bet on the Super Bowl producing any particular matchup, especially one featuring Bo Nix's ass. But though proximity cannot suffice, the rivalry was juiced up this week by an out-of-nowhere controversy involving the teams' head coaches and some shit that went down behind the scenes two years ago.
-Mike Macdonald took over as head coach of the Seahawks in January 2024. Months later, in the run-up to the season, Macdonald prepared his team for a Week 1 matchup with the Broncos in part by finding and reviewing fan footage of Denver's training camp. Macdona…]]></summary>
-        <author>
-            <name>Chris Thompson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blitzing All The Time Is Analytics]]></title>
-        <id>https://defector.com/?p=236348</id>
-        <link href="https://defector.com/blitzing-all-the-time-is-analytics"/>
-        <updated>2026-09-24T15:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Drew Magary’s Thursday Afternoon NFL Dick Joke Jamboroo runs every Thursday at Defector during the NFL season. Got something you wanna contribute? Email the Roo. You can also read Drew over at SFGATE, and buy Drew’s books while you’re at it.
-An internet lifetime ago, ESPN football columnist Gregg Easterbrook was one of my go-to reads. Easterbrook was a pundit for The Atlantic by day, but moonlit over at ESPN's Page 2 to write his Tuesday Morning Quarterback column every week during the NFL season. TMQ included tons of snooty jokes that only George Will would find funny, but it also served as the tip of the spear in introducing analytics to the mainstream football discourse. I hate giving Greggggggg credit for anything, because he’s an eternally haughty dipshit. But he was a notable part of my education as a football fan, and I was an easier mark for his shtick back then than I am now.
-For 20-something me, it was worth enduring Easterbrook’s preciousness to read his more entertaining copy, which often recounted strategic errors that NFL teams routinely made simply because those teams hadn’t looked at the data. It was through Easterbrook’s column that I first understood, mathematically, why punting was dumb. And it was Easterbrook who conditioned me to believe that blitzing too often, particularly on third downs, was a recipe for disaster. He had a recurring section in TMQ for failed blitzes titled "Stop Me Before I Blitz Again!" I read that every word of that section, every week. That was because I had watched my own team’s defense get burned in such instances enough times to believe that Easterbrook’s line of thinking was sound, and that his methodology was airtight.]]></summary>
-        <author>
-            <name>Drew Magary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irreal: Confirm-kill-emacs]]></title>
-        <id>https://irreal.org/blog/?p=14104</id>
-        <link href="https://irreal.org/blog/?p=14104"/>
-        <updated>2026-09-24T15:33:05.000Z</updated>
-        <summary type="html"><![CDATA[opines that since the advent of use-short-answers, confirm-kill-emacs should be a boolean. His idea is that confirm-kill-emacs should merely specify whether to ask for confirmation or not and let use-short-answers choose the the particular form of the question if one is requested.
-
-
-00-11 notes that Danrobi1 is misunderstanding the purpose of the confirm-kill-emacs variable: it was never about whether to call yes-or-no-p or y-or-n-p to ask if quitting Emacs is really what you want. What its purpose is and was is to specify a predicate that will decide whether to quit Emacs or not. There’s no reason it even has to communicate with the user. It just has to decide whether to quit or not based on whatever logic is coded into it.
-
-
-I’ve had it set to y-or-n-p for as long as I can remember and haven’t thought about it in all that time. But 00-11’s response got me thinking. I originally set it to y-or-n-p because I kept inadvertently quitting Emacs by fat fingering some other shortcut and I’ve never looked back but there is one problem.
-
-
-If I don’t remember to quit Emacs before rebooting my MacBook Pro, the reboot will hang waiting for Emacs to quit. That usually happens when there’s an OS update that I start off when I go to bed expecting to have a new OS in the morning only to find the system still waiting for Emacs to quit.
-
-
-What if I could detect if my Mac is being rebooted? If I can, I can easily code up a predicate function that quits Emacs if so and calls y-or-n-p if not. The thought just popped into my mind so I haven’t had a chance to research it yet but it seems promising.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NWSL’s Struggling Teams Are Falling Behind]]></title>
-        <id>https://defector.com/?p=236379</id>
-        <link href="https://defector.com/the-nwsls-struggling-teams-are-falling-behind"/>
-        <updated>2026-09-24T15:25:42.000Z</updated>
-        <summary type="html"><![CDATA[The 2026 NWSL season has provided some astonishingly fun soccer, and many off-field successes too: The league has boasted some record attendances, salaries, and goal-scoring this year, not to mention a few signings from at least a couple of the big European clubs it lusts after. But recently there have been too many reminders that although the NWSL has raised its ceiling, the floor is still in hell.
-On Sept. 13, Savannah DeMelo, the star Racing Louisville midfielder who suffered a cardiac arrest during a game in Seattle in September 2025, filed a lawsuit against the team’s medical provider, UofL Health, as well as two of her doctors, for negligence. The lawsuit states that the doctors should have caught the heart condition that was a substantial cause of her cardiac arrest—it was instead caught by doctors in Seattle after the fact.
-The suit stated that DeMelo "has incurred medical, hospital, and other care-related expenses, and will continue to incur such expenses in the future, has lost income, has suffered a permanent impairment in her power to labor and earn money, and has experienced severe physical and mental pain and suffering, and loss of enjoyment of life, and will continue to so suffer into the future."]]></summary>
-        <author>
-            <name>Abigail Segel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thursday, September 24, 2026]]></title>
-        <id>https://baty.net/journal/24Sep26/</id>
-        <link href="https://baty.net/journal/24Sep26/"/>
-        <updated>2026-09-24T14:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Leeloo watching the world go by (2016)
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No One Should Win The AL West]]></title>
-        <id>https://defector.com/?p=236345</id>
-        <link href="https://defector.com/no-one-should-win-the-al-west"/>
-        <updated>2026-09-24T13:46:49.000Z</updated>
-        <summary type="html"><![CDATA[A week ago, we explained in scabrous detail the multiplicity of shortcomings of the American League by focusing on the Central division and blaming it at least indirectly on the Pope's inability to close. But like most short-term trend stories in baseball, it quickly proved to be in error. Defector regrets not just the misidentification but also hiring the nitwit who made the observation. Steps, we assure you, will be taken.
-In fact, it is not the AL Central that was dragging down the class but the AL West, where mediocrity is a possibly unreachable goal rather than a curse and some aggressively mediocre team will win the division. Having committed to this bit so deep into the season, the winner of the division will do well to avoid finishing below .500; there is nothing to do but embrace the AL West of it all.
-A week ago, when we mocked the AL Central, we failed to take into account Cleveland's upcoming series with West Sacramento, which of course the Guardians swept because that's what a baseball team does when the A's come to town. (If you have to go to them, you just win two out of three and feel like you let a golden opportunity pass.) The Guards now lead the division with a gaudy 82-76 record and cannot finish below .500, a familiar late-season push that has elevated them to bland and dull rather than charmingly embarrassing. A suiting division champ, in other words.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[James Dyer: Copy Only What You See: Teaching M-w a Prefix Argument]]></title>
-        <id>https://emacs.dyerdwelling.family/emacs/20260924135500-emacs--copy-only-what-you-see-teaching-m-w-a-prefix-argument/</id>
-        <link href="https://emacs.dyerdwelling.family/emacs/20260924135500-emacs--copy-only-what-you-see-teaching-m-w-a-prefix-argument/"/>
-        <updated>2026-09-24T12:55:00.000Z</updated>
-        <summary type="html"><![CDATA[M-w, and you get more than you bargained for: the kill ring receives the hidden text as well. Folding is only a display trick - the text is still in the buffer, and kill-ring-save dutifully copies every character between the region boundaries, ellipsis and all. Paste that into an email or a chat and the hidden notes come along for the ride.
-
-
-
-The fix, in my config, is a prefix argument: C-u M-w copies only the visible text of the region, leaving everything folded or hidden behind. Plain M-w is unchanged.
-
-
-
-
-
-
-
-
-
-I have been a fan of org-copy-visible ever since I discovered it works outside Org - back in 2023 I was using it in dired with dired-hide-details-mode to copy just the filenames. The only friction was having to remember M-x org-copy-visible instead of my muscle-memory M-w. So I taught my existing my/kill-ring-save wrapper a another trick: hand it a prefix argument and it copies only the visible text.
-
-
-
-M-w has been remapped to a small wrapper for a while, mainly so that pressing it with no active region copies the current line. The new version forwards the prefix argument into a second branch:
-
-
-
-(defun my/kill-ring-save (beg end &optional copy-visible)
-  "Save the region to the kill ring.
-With a prefix argument, copy only the visible text between BEG
-and END, skipping folded or hidden text, like `org-copy-visible'."
-  (interactive (if (use-region-p)
-                   (list (region-beginning) (region-end) current-prefix-arg)
-                 (list (line-beginning-position)
-                       (line-beginning-position 2) current-prefix-arg)))
-  (if copy-visible
-      (org-copy-visible beg end)
-    (kill-ring-save beg end)))
-
-
-[remap kill-ring-save] keeps M-w working everywhere.
-
-
-
-So why org-copy-visible?, I could have written my own invisible-text walker, but org-copy-visible already is one and it ships with Emacs!]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of Our Senators Actually Thinks Airline Pilots Are Secretly Furries]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a73867462/tommy-tuberville-senator-pilots-furries/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a73867462/tommy-tuberville-senator-pilots-furries/"/>
-        <updated>2026-09-24T12:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Try to guess which party he belongs to.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's polls are amazing, and my abs have never looked better!Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/04/trump-approval-polls-lies-truth-social/91156618007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/04/trump-approval-polls-lies-truth-social/91156618007/"/>
-        <updated>2026-09-23T21:06:09.841Z</updated>
-        <summary type="html"><![CDATA[Let’s take a moment to read some actual words posted on social media by the actual president of the United States of America.
-On Aug. 3, Donald Trump wrote on Truth Social: “My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been.”
-It’s an insult to fiction to call that fiction. I’m not sure what you call something more fabricated than fiction – maybe “ludicriction”? – but that’s what Trump’s words are.
-Trump has left reality behind and lives in a fantasy world of great polls
-
-As The New York Times recently reported, “The latest surveys indicate that Mr. Trump is now all but the most unpopular second-term president at this stage of their tenure in the history of polling going back to the 1940s. The only exception is not one that would give Mr. Tr…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leavitt's leaving. Save $200K and let Trump lie for himself.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/14/karoline-leavitt-successor-trump-press-secretary/91298787007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/14/karoline-leavitt-successor-trump-press-secretary/91298787007/"/>
-        <updated>2026-09-23T21:06:09.826Z</updated>
-        <summary type="html"><![CDATA[Now that White House Press Secretary Karoline Leavitt is stepping down to spend more time with her soulless penchant for dishonesty, President Donald Trump has an opportunity to save American taxpayers some money by not replacing her.
-After all, Trump promised to cut down on wasteful government spending, and I can’t imagine anything more wasteful than paying a press secretary to come out and lie on behalf of administration officials whose only skill is lying.
-Does anyone truly think the president needs an employee to amplify his frequent fabrications? The man never shuts up when cameras are around, and he owns his own social media platform. If someone’s going to try to hoodwink me, I prefer they spout their untruths directly and not via some highly paid federal flunky with a smile and an i…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's irresponsible Canada trade war might seal GOP's fateRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/24/us-canada-trade-dispute-tariffs-republicans-midterms/91442611007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/24/us-canada-trade-dispute-tariffs-republicans-midterms/91442611007/"/>
-        <updated>2026-09-23T21:06:09.803Z</updated>
-        <summary type="html"><![CDATA[With the midterm elections looming and Americans plagued by the cost of virtually everything, President Donald Trump decided it’s a great time for a trade war with Canada.
-You all know Canada, right? It’s the big place just north of us. Our close ally. The country known for being incredibly nice. That Canada.
-Trump slapped 50% U.S. tariffs on a number of Canadian goods after trade negotiations fell apart Aug. 22. Then, on Aug. 24, Trump posted additional threats on social media, saying he’ll double tariffs on imported vehicles and auto parts from Canada and adding: “WE DON’T NEED CANADA, THEY NEED US!”
-If I didn’t know better, I’d say Trump is doing more than Democrats to guarantee a Republican electoral wipeout in the midterms.
-Trump's trade war with Canada will make the GOP's life more m…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s White House UFC fight highlights a selfish, failing presidencyRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/14/ufc-white-house-trump-birthday/90524389007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/14/ufc-white-house-trump-birthday/90524389007/"/>
-        <updated>2026-09-23T10:48:16.297Z</updated>
-        <summary type="html"><![CDATA[A more proper title for the heavily sponsored UFC Freedom 250 fight desecrating the White House lawn on June 14 would be: "Donald Trump’s Sad Little Mandatory Birthday Party."
-After all, while the event is cloaked in America’s 250th anniversary iconography, it’s happening on the president’s 80th birthday, it’s a mixed-martial-arts company run by one of his friends, and Trump is the one who foisted the garish event nobody asked for on the American people. 
-Now we have a 92-foot-tall “claw” structure in front of the People’s House, covered in corporate logos ranging from Bud Light to Polymarket and promoting everything from nicotine pouches to crypto.
-To be clear, I have no problem with the UFC. I’m always happy to watch sweaty people kick and punch the tuna salad out of each other for my en…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rules for the algae-covered Reflecting Pool: No touching, no lookingRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/23/reflecting-pool-algae-trump-arrests/90598460007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/23/reflecting-pool-algae-trump-arrests/90598460007/"/>
-        <updated>2026-09-23T10:48:16.279Z</updated>
-        <summary type="html"><![CDATA[Hello America-loving tourist, and welcome to the beautiful, algae-free Lincoln Memorial Reflecting Pool, brought to you by President Donald J. Trump, the only man powerful enough to make the Reflecting Pool Great Again.
-You’ll notice the pool is surrounded by armed soldiers hoping you don't look at the water. That is for your safety and the safety of the newly refurbished Reflecting Pool, which is glistening and perfect and not at all covered with a thick layer of algae and stray chunks of American-flag-blue paint the media would have you believe exists.
-Before we begin our tour of this remarkable national landmark, I’ll remind everyone that there is no looking at the remarkable national landmark.
-If you didn’t receive blackout goggles when you bought your ticket for the tour, please keep …]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pratt seemed like rising GOP star before he lost | OpinionRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columns/2026/06/14/spencer-pratt-election-results-la-mayor-loss-conspiracy-theory/90506066007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columns/2026/06/14/spencer-pratt-election-results-la-mayor-loss-conspiracy-theory/90506066007/"/>
-        <updated>2026-09-23T10:48:16.260Z</updated>
-        <summary type="html"><![CDATA[Former reality TV star Spencer Pratt is out of the Los Angeles mayoral race for two reasons.
-First, and most important, he got fewer votes than two other candidates, incumbent Los Angeles Mayor Karen Bass and LA City Councilwoman Nithya Raman, who will now face off against each other. Second, he’s an unqualified dipstick whom a majority of Los Angelenos understood wasn’t qualified for the job.
-Pratt was endorsed by President Donald Trump and hailed by some MAGA Republicans as a rising star, a political outsider with a winning populist message.
-That was, in a word, wrong.
-
-The Free Press, the conservative publication founded by Bari Weiss, who is presently busy ruining CBS News, ran a piece in May that posed the question: “How did Spencer Pratt, reality TV star and ‘healing’ crystal salesma…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A sarcastic look at the outrage over 'The Odyssey' | OpinionRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columns/2026/08/02/the-odyssey-movie-box-office-accuracy/91094074007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columns/2026/08/02/the-odyssey-movie-box-office-accuracy/91094074007/"/>
-        <updated>2026-09-23T10:48:16.237Z</updated>
-        <summary type="html"><![CDATA[Like most normal, well-adjusted men, I have spent every waking moment since Christopher Nolan’s “The Odyssey” opened in theaters feeling apoplectically angry about Christopher Nolan’s “The Odyssey.”
-I have rage-posted online, noting that by casting people who are different than me, the director ruined a beloved epic poem I never actually read. I have blamed wokeness for creating a world in which an ancient work of absolute fiction can be sullied by what I, making perfect sense, angrily claim to be historical inaccuracies. 
-Yet despite all my productive and intellectual online shouting, the movie has made $652 million worldwide since its July 17 release. And even more frustratingly, I’m still single.
-I'm mad that a fictional movie is historically inaccurate
-
-I struggle to understand these d…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCOTUS Roundup ruling shows how badly MAHA moms got played by TrumpRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/25/roundup-scotus-monsanto-maha-trump/90697847007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/25/roundup-scotus-monsanto-maha-trump/90697847007/"/>
-        <updated>2026-09-23T10:48:16.224Z</updated>
-        <summary type="html"><![CDATA[The easily influenced influencers in the Make America Healthy Again crowd are livid that the U.S. Supreme Court sided with the maker of Roundup weedkiller, rejecting a lawsuit that claimed the herbicide causes cancer.
-And they're feeling betrayed by the president they supported, Donald Trump, because he and his Department of Justice sided with Bayer, the company that bought out longtime Roundup-maker Monsanto.
-MAHA influencer Alex Clark decried the court’s June 25 decision on social media: “For an administration that promised to take on corporate capture and Make America Healthy Again, this is a STUNNING betrayal.”
-MAHA activist Alexandra Muñoz posted on Instagram: “The DOJ’s support of this case has betrayed the American people.” 
-Vani Hari, a MAHA mom who blogs as “The Food Babe,” poste…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump wanted Iran's unconditional surrender. What he got is laughable.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/15/trump-iran-peace-deal-strait-hormuz/90560252007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/15/trump-iran-peace-deal-strait-hormuz/90560252007/"/>
-        <updated>2026-09-23T10:48:16.196Z</updated>
-        <summary type="html"><![CDATA[Way back on March 6, not long after President Donald Trump hurled America into the dumbest war imaginable, our Nobel-Peace-Prize-deficient leader declared on social media: “There will be no deal with Iran except UNCONDITIONAL SURRENDER!”
-That was about the same time he said America’s “excursion” into Iran would take “four to five weeks” and “won’t be difficult.”
-More than 14 weeks, thousands of lost lives and billions upon billions of U.S. taxpayer dollars later, it appears America is the one surrendering.
-Trump is promoting an Iran peace deal that isn't actually a deal
-
-The Trump administration is, of course, spinning an “agreement” with Iran as a peace deal, something it clearly is not. At the moment, the language of the agreement ‒ slated to be officially signed later this week ‒ hasn’t…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tucker Carlson slams Trump, GOP's 'bizarro sex lives.' What changed?Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/24/tucker-carlson-gop-republican-party-trump/90662057007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/24/tucker-carlson-gop-republican-party-trump/90662057007/"/>
-        <updated>2026-09-23T10:48:16.183Z</updated>
-        <summary type="html"><![CDATA[Oft-fired conservative commentator Tucker Carlson, less than two years removed from calling Donald Trump “a wonderful person,” has dropped a new grift, claiming on a recent podcast that he will no longer support the Republican Party.
-He wasn’t gentle about his “I’m out” declaration.
-“I don’t share their values on any level,” Carlson said on the June 18 episode of the “Can’t Be Censored” podcast. “Their personal values, the way they live, greedy, bizarro sex lives, loyal to a foreign country above the United States, it’s like everything I dislike. Beginning with the speaker of the House, Speaker Mike Johnson, and extending to the president and the leaders in the Senate, I have nothing in common with these people at all. I do not share their values, I find their priorities appalling and so I…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump spikes affordable housing bill signing, like a selfish babyRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/06/24/affordable-housing-bill-trump-save-act/90678062007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/06/24/affordable-housing-bill-trump-save-act/90678062007/"/>
-        <updated>2026-09-23T10:48:16.150Z</updated>
-        <summary type="html"><![CDATA[President Donald Trump, in a tantrum that would make a 3-year-old blush, kneecapped his own party and canceled an affordable housing bill signing, saying it “pales in comparison” with an election bill. The one that would benefit one person: Donald Trump.
-The June 24 mess was a perfect encapsulation of the president’s second term, a foolish act by a man focused only on celebrating or protecting himself.
-Republicans had celebrated the bipartisan housing bill, which focuses on lowering housing costs at a time when the word “affordability” is at the top of voters’ minds. The signing would have been a key moment for GOP lawmakers to claim they care about affordability and show they can work with Democrats to get things done.
-But no. Trump derailed the messaging with a social media post cancelin…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All I hear is 'War is bad!' But Big Oil is making bank.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/02/trump-iran-war-oil-company-profits/91113913007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/02/trump-iran-war-oil-company-profits/91113913007/"/>
-        <updated>2026-09-23T10:48:16.112Z</updated>
-        <summary type="html"><![CDATA[It seems all I hear these days are complaints about President Donald Trump’s war with Iran. As a humble oil executive, looking out on the Pacific Ocean from the wrap-around porch of my third mansion, I find these complaints deeply offensive.
-Sure, the word “war” carries many negative connotations. But let’s look at the bottom line, which, in my case, is the oil industry’s bottom line. We’re doing great!
-Just look at this New York Times headline from July 31: “Iran War Drives Oil Profits to Highest Levels in Years.” Huzzah!
-ExxonMobil, Chevron are cashing in on the Iran war
-
-In its second-quarter earnings report released that same day, Chevron showed it made $12.1 billion between April and June, up from $2.5 billion over those same months last year.
-I asked the people who I pay to form a hu…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hong's Wisconsin loss totally ruined my socialist narrativeRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/12/wisconsin-primary-results-crowley-hong-socialism/91273784007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/12/wisconsin-primary-results-crowley-hong-socialism/91273784007/"/>
-        <updated>2026-09-23T10:48:16.085Z</updated>
-        <summary type="html"><![CDATA[I was told radical leftist socialism is on the march. I was told the Midwestern cheese empire of Wisconsin was going to fall into the hands of Marxist cheddar redistributors and that I should bury my 401(k) and my most precious belongings in the backyard.
-State lawmaker Francesca Hong, a democratic socialist, was sure to win the Wisconsin gubernatorial Democratic primary, showing the rest of America that liberals had all but fully slid into communism. This is what the loud voices on Fox News and on the internet told me.
-So imagine my shock – not relief, really, because I enjoy being angry and afraid – when I learned Hong lost the primary to Milwaukee County Executive David Crowley, a candidate boosted by establishment Democrats. 
-Hong's defeat in the Wisconsin primary shakes up my fear of …]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to the Trump vs. Pirro vs. Burgum clown showRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/03/jeanine-pirro-reflecting-pool-trump/91145326007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/03/jeanine-pirro-reflecting-pool-trump/91145326007/"/>
-        <updated>2026-09-23T10:48:16.057Z</updated>
-        <summary type="html"><![CDATA[It takes a special kind of stupid to turn the rehabbing of a national monument like the Lincoln Memorial Reflecting Pool into a full-blown presidential scandal. But President Donald Trump found a way to pull it off, creating a wet, ogre-colored metaphor for his administration’s stumbling lack of focus, casual dishonesty and utter inability to govern.
-In the most recent development, Trump’s Department of Justice on July 31 dropped ridiculous charges it had filed against former Olympian David Hearn, falsely claiming he had ripped up part of the pool’s new lining. You’ll recall the president was rushing to “fix” the Reflecting Pool prior to the July 4 celebration of America’s 250th anniversary. The work was clearly a bust from the start, as algae returned to the pool almost instantly and we a…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's desperate beef import plan proves his tariffs failedRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/23/trump-ground-beef-tariff-waiver-cattle-ranchers/91386869007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/23/trump-ground-beef-tariff-waiver-cattle-ranchers/91386869007/"/>
-        <updated>2026-09-23T10:48:16.035Z</updated>
-        <summary type="html"><![CDATA[In the coming months, when you bite down on a government-subsidized burger made with meat of questionable origin, you’ll have Glorious Leader Donald J. Trump to thank.
-On Aug. 21, the president who loves to call other people communists enraged American cattle ranchers by announcing plans to “allow up to 300,000 metric tons of product for ground beef to be imported with no out of quota tariff. We have a commitment that this beef will be sold at 25 percent below current market prices.”
-Trump posted news of the deal on social media, but of course gave no specific details about who the deal is with, where the meat is coming from or why he’s suddenly admitting that waiving tariffs will, in fact, lower prices for consumers.
-It’s a turducken of hypocrisy.
-Trump importing beef won't help America's…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Trump Strait? President laughs while sending soldiers to die.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/02/iran-trump-strait-hormuz-us-deaths/91582244007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/02/iran-trump-strait-hormuz-us-deaths/91582244007/"/>
-        <updated>2026-09-23T10:48:15.991Z</updated>
-        <summary type="html"><![CDATA[As President Donald Trump’s folly of a war with Iran continues, it seems the whole thing has become a joke to him and his administration.
-On Sept. 2, Trump posted this on his Truth Social account: “Now that we have it under U.S.A. control, should we change the name Hormuz Strait to TRUMP STRAIT??? Like America itself, it would be 'hotter' than ever before!”
-What the hell are you doing, man? This is a war, not the "Washed-Up Reality Gameshow Star Comedy Hour." And maybe ask Americans struggling to afford gas and ground beef whether America is “hotter” than ever before. 
-Trump and his White House act like the Iran war is funny
-The official White House account on X quickly followed up, posting a fake map of the Middle East with the Strait of Hormuz labeled “Trump Strait,” which is a brain-mel…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ossoff stole the GOP's bit, and Republicans took the baitRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/21/trump-natalie-harp-executive-assistant-close/91386769007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/21/trump-natalie-harp-executive-assistant-close/91386769007/"/>
-        <updated>2026-09-23T10:48:15.974Z</updated>
-        <summary type="html"><![CDATA[By now you’ve likely heard of Natalie Harp, President Donald Trump’s executive assistant and personal ego-inflater, a 35-year-old loyalist who appears ever by the president’s side.
-She went from background character in the Trump administration to a national focal point in a blink after Georgia Democratic Sen. Jon Ossoff spoke this line criticizing the president’s preoccupations and the luxury jet he was “gifted” by a foreign country: “He wants to build his ballroom and travel with Natalie on their apparently defenseless flying palace gifted by the emir of Qatar.”
-Questions swirled, and suddenly, Harp was everywhere. America learned how she carries a portable printer so she can show the president printouts of people saying nice things about him. We heard about the time she rode in the trunk…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bribes for votes, a pledge to cheat? Trump's GOP hits new low.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/13/trump-republican-convention-embarrassment-midterms/91695089007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/13/trump-republican-convention-embarrassment-midterms/91695089007/"/>
-        <updated>2026-09-23T10:48:15.939Z</updated>
-        <summary type="html"><![CDATA[If you’re a sane Republican – and yes, I do believe such people exist – the past week had to be monumentally embarrassing.
-President Donald Trump, who’s terrible at pretending to be a conservative, tried to bribe U.S. voters by saying every adult would receive a $5,000 “Trump Dividend” if Republicans win the midterm elections. If it weren’t a complete con, that would cost about $1.3 trillion at a time when the national debt has surpassed $40 trillion.
-So much for fiscal conservatism.
-A ludicrous and embarrassing GOP midterm convention
-
-The president made the embarrassing kickback offer Sept. 9 during an equally embarrassing Republican midterm convention that centered around idolatry of Trump. At the event in Dallas, he implored GOP voters: “Pretend that I am on the ballot.” 
-Does that make…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With beef prices high, Fat Bear Week bears are looking like a snackRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/22/fat-bear-week-beef-prices/91880162007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/22/fat-bear-week-beef-prices/91880162007/"/>
-        <updated>2026-09-22T13:06:20.750Z</updated>
-        <summary type="html"><![CDATA[Fat Bear Week – a tradition unlike any other – has arrived, just in time to raise the spirits of Americans plague by high grocery prices and the exorbitant cost of beef.
-I’m not sure why I mentioned beef there. It’s just that it’s really expensive right now, hitting $7.16 a pound in August. And we’ve apparently got these fat bears that aren’t doing much and …
-You know what, never mind.
-
-This year marks the 12th time that the Katmai National Park and Preserve in Alaska has hosted its chunky bear competition, a wildly popular online contest to pick which brown bear does the best job fattening itself up before hibernating. 
-Gee, those Fat Bear Week bears look delicious
-Park Superintendent Mark Sturm said in a statement: “A new generation of fat bears is taking shape, and they’re off to a stro…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOP has accomplished so little Trump can't even brag about itRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/08/31/ai-photos-trump-approval-rating-republicans-midterms/91489828007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/08/31/ai-photos-trump-approval-rating-republicans-midterms/91489828007/"/>
-        <updated>2026-09-21T21:42:57.973Z</updated>
-        <summary type="html"><![CDATA[You guys remember back when Donald Trump and his Republican Party promised that, if elected, they would clean and regrout the granite at the White House’s north entrance and provide Americans with endless artificial intelligence slop on social media?
-Remember when they swore that, on day one, they would rant about “fake polls” and arbitrarily change the names of large bodies of water? 
-Yeah, I don’t remember that, either. What I recall hearing were promises to lower food and gas prices and usher in an economic Golden Age, along with a guarantee that Trump was “not going to start a war.”
-Oops. The actual promises Trump and Republican lawmakers made haven’t panned out. At all. So now they have nothing to share with the American public beyond the grout and the growling and whatever fake conte…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The ballroom will be built! Thank you, Supreme Court!Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/01/supreme-court-white-house-ballroom-trump/91557432007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/01/supreme-court-white-house-ballroom-trump/91557432007/"/>
-        <updated>2026-09-21T21:42:57.933Z</updated>
-        <summary type="html"><![CDATA[I was working on putting our youngest child up for adoption and draining my retirement account so we could afford potentially tainted ground beef when I learned the joyous news: AMERICA IS GETTING ITS BALLROOM!
-On Aug. 31, the U.S. Supreme Court gave President Donald Trump the green light to continue construction of the $400 million White House ballroom, a guaranteed morale boost for struggling Americans who value unnecessary government grandeur over food.
-Trump celebrated the ruling on Truth Social: “I am pleased to report that the United States Supreme Court has just ruled in favor of the Ballroom/Military Complex being built without any further contingency, doubt, or threat. We are living in the Golden Age of America, and this Building will be one of the Greatest ever constructed in Was…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emotional man can't handle hurt feelings. You pay more because of it.Rex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/21/trump-approval-rating-white-house-press-pool-gas-prices/91874948007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/21/trump-approval-rating-white-house-press-pool-gas-prices/91874948007/"/>
-        <updated>2026-09-21T21:42:57.909Z</updated>
-        <summary type="html"><![CDATA[Gas costs about $4.50 per gallon and Americans are struggling to afford meat, so it’s good to see President Donald Trump laser-focused on … wait for it … banning CNN, MS NOW and Politico from the White House because they hurt his precious feelings.
-That should solve our affordability crisis!
-The news outlets’ crime was accurately reporting the news, none of which is good for Trump, as his approval rating in one poll released Sept. 21 dropped below 30% for the first time.
-Trump can’t face the fact that Americans are mad because their president got us into an intractable war with Iran that spiked fuel prices, and because food prices make trips to the grocery store painful, and because that same president seems to only care about building ballrooms and arches and slapping his name on building…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFK Jr. is busy chasing chemtrails while measles cases soarRex Huppke]]></title>
-        <id>https://www.usatoday.com/story/opinion/columnist/2026/09/20/kennedy-chemtrails-measles-deaths-midterms/91810287007/-full</id>
-        <link href="https://www.usatoday.com/story/opinion/columnist/2026/09/20/kennedy-chemtrails-measles-deaths-midterms/91810287007/"/>
-        <updated>2026-09-20T13:57:50.524Z</updated>
-        <summary type="html"><![CDATA[With measles cases on the rise and midterm elections approaching, I’m sure the Republican Party is thrilled to see Health and Human Services Secretary Robert F. Kennedy Jr. showing his true anti-vaccine-kook colors.
-Kennedy was the keynote speaker Sept. 17 at a convention held by the inaccurately named Children’s Health Defense, a rabidly anti-vaccine, pro-nonsense group Kennedy founded long before President Donald Trump put one of the nation’s leading conspiracy theorists in charge of America’s health.
-As the chief of the HHS, Kennedy has largely stayed away from the group and tried, reportedly under some pressure from the White House, to cool his opposition to proven medical facts. But in his keynote speech, delivered as the nearly 3,500 measles cases this year are already at a 35-year h…]]></summary>
-        <author>
-            <name>Rex Huppke</name>
         </author>
     </entry>
 </feed>
