@@ -2,16 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-04T21:10:31.876Z</updated>
+    <updated>2026-10-05T00:26:02.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
-        <updated>2026-10-04T21:10:31.851Z</updated>
-        <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
+        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
+        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
+        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
+        <updated>2026-10-05T00:25:58.367Z</updated>
+        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
+
+Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brandon Aiyuk's NFL career is already over]]></title>
+        <id>https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full</id>
+        <link href="https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php"/>
+        <updated>2026-10-05T00:25:57.652Z</updated>
+        <summary type="html"><![CDATA[The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. 
+
+Which brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -20,7 +34,7 @@
         <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
         <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
         <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
-        <updated>2026-10-04T21:10:31.841Z</updated>
+        <updated>2026-10-05T00:25:57.649Z</updated>
         <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
 Myung J. Chun/LA Times via Getty Images
 I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
@@ -34,56 +48,8 @@ This Virginia Connects ad plays out in a similar fashion. It opens with an all-A
         <title type="html"><![CDATA[Congratulations, the Reflecting Pool is now a swamp]]></title>
         <id>https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php-full</id>
         <link href="https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php"/>
-        <updated>2026-10-04T21:10:31.796Z</updated>
+        <updated>2026-10-05T00:25:57.648Z</updated>
         <summary type="html"><![CDATA[The one thing that Washington, D.C., has always had going for it is its beauty. The people who run America from this town have always been an unsightly bunch, but they’ve done their nasty work in a city that has acquired, over the course of this country’s lifespan, an aesthetic like no other. No other major American city looks as regally beautiful as D.C. You and I have a long-standing federal law to thank for this, but we also have a collection of national landmarks clustered in the center of the district that the aforementioned law was written to both protect and to showcase. The Capitol. The Lincoln Memorial. The Washington Monument. These are gorgeous edifices, ones designed to outlast old generations and to inspire newer ones. They are the best of D.C., and therefore the best of Ameri…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brandon Aiyuk's NFL career is already over]]></title>
-        <id>https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full</id>
-        <link href="https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php"/>
-        <updated>2026-10-04T21:10:31.782Z</updated>
-        <summary type="html"><![CDATA[The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. 
-
-Which brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steven Spielberg's new film is his best in decades]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php"/>
-        <updated>2026-10-04T21:10:31.772Z</updated>
-        <summary type="html"><![CDATA[I put a question to my SFGATE colleagues just the other day that had them mulling for a bit: What’s the last great movie that Steven Spielberg directed? I’m not talking about a merely good film. The old man can put together a competent picture anytime he likes. I’m talking about an all-timer of a Spielberg movie, something that belongs up there with his best work, which includes “Jaws,” “Raiders of the Lost Ark,” “E.T.,” “Schindler’s List” and … you get the idea. When you’re a director who’s made not just one of the greatest movies of all time but several of them, audience members like me hope for (and oftentimes expect) greatness from you with every subsequent project. Such is the standard that Spielberg, father of the modern blockbuster, set for himself. It’s also a standard that, in my …]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
-        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
-        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-10-04T21:10:31.763Z</updated>
-        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
-
-Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
-
-The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-10-04T21:10:31.760Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
-
-That’s when Anthony Bourdain wo…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -92,7 +58,7 @@ That’s when Anthony Bourdain wo…]]></summary>
         <title type="html"><![CDATA[The new Anya Taylor-Joy vehicle is so stupid and so good]]></title>
         <id>https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php"/>
-        <updated>2026-10-04T21:10:31.755Z</updated>
+        <updated>2026-10-05T00:25:57.646Z</updated>
         <summary type="html"><![CDATA[Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. 
 
 It knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …]]></summary>
@@ -101,10 +67,20 @@ It knows that I want a disheveled Gary Oldman dishing out vicious burns to all o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Steven Spielberg's new film is his best in decades]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php"/>
+        <updated>2026-10-05T00:25:57.643Z</updated>
+        <summary type="html"><![CDATA[I put a question to my SFGATE colleagues just the other day that had them mulling for a bit: What’s the last great movie that Steven Spielberg directed? I’m not talking about a merely good film. The old man can put together a competent picture anytime he likes. I’m talking about an all-timer of a Spielberg movie, something that belongs up there with his best work, which includes “Jaws,” “Raiders of the Lost Ark,” “E.T.,” “Schindler’s List” and … you get the idea. When you’re a director who’s made not just one of the greatest movies of all time but several of them, audience members like me hope for (and oftentimes expect) greatness from you with every subsequent project. Such is the standard that Spielberg, father of the modern blockbuster, set for himself. It’s also a standard that, in my …]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
         <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-10-04T21:10:31.754Z</updated>
+        <updated>2026-10-05T00:25:57.642Z</updated>
         <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
 
 To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
@@ -113,22 +89,10 @@ To wit: Newmark no longer works with Craigslist at all, and spends the bulk of h
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
-        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
-        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
-        <updated>2026-10-04T21:10:31.752Z</updated>
-        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
-
-Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
         <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
         <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-10-04T21:10:31.751Z</updated>
+        <updated>2026-10-05T00:25:57.641Z</updated>
         <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
 
 The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
@@ -137,10 +101,32 @@ The first shot fired in this looming war happened at a seemingly innocuous Cow H
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
+        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
+        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
+        <updated>2026-10-05T00:25:57.640Z</updated>
+        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
+
+Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
+        <updated>2026-10-05T00:25:57.639Z</updated>
+        <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
         <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-10-04T21:10:31.749Z</updated>
+        <updated>2026-10-05T00:25:57.636Z</updated>
         <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
 
 Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
@@ -158,13 +144,23 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
-        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
-        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-10-04T21:10:31.746Z</updated>
-        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
+        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
+        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
+        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
+        <updated>2026-10-05T00:25:57.635Z</updated>
+        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
+        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
+        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
+        <updated>2026-10-05T00:25:57.634Z</updated>
+        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
 
-Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
+That’s when Anthony Bourdain wo…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -173,7 +169,7 @@ Now, woke types might tell you that all of this is bad. But what if I told you t
         <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
         <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
         <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-10-04T21:10:31.741Z</updated>
+        <updated>2026-10-05T00:25:57.255Z</updated>
         <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
 
 Actually,…]]></summary>
@@ -182,11 +178,15 @@ Actually,…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-10-04T21:10:31.730Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
+        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
+        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
+        <updated>2026-10-05T00:25:57.255Z</updated>
+        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
+
+Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
+
+The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -406,7 +406,17 @@ exec emacsclient --create-frame --no-window-system "$@"]]></summary>
         <id>https://sachachua.com/blog/2026/10/oct-2-emacs-chat-31-pedro-a-aranda-gutierrez/</id>
         <link href="https://sachachua.com/blog/2026/10/oct-2-emacs-chat-31-pedro-a-aranda-gutierrez/"/>
         <updated>2026-10-02T23:01:46.000Z</updated>
-        <summary type="html"><![CDATA[paaguti - Codeberg.org
+        <summary type="html"><![CDATA[[2026-10-04 Sun]: Looks like the issue with the hand emoji was
+that there's a regression in TeXLive: LaTeX 2024 produces the PDF with
+the right fonts and colours, but LaTeX 2026 doesn't.
+
+
+
+Links:
+
+
+
+paaguti - Codeberg.org
 Org mailing list
 Video not supported. Thumbnail:
 
@@ -430,15 +440,7 @@ Chapters
 10:37 Switching to FreeSerif, FreeSans, and FreeMono
 12:04 LuaLaTeX is slower
 12:42 The fonts are rendered
-13:42 The farmer on the donkey in front of the train
-15:35 Unicode and LuaLaTeX
-17:00 Emojis
-18:37 Fallback fonts
-21:39 Fallback configuration
-22:47 Selecting fonts
-24:10 Fallbacks
-26:46 The LaTeX produced
-27:21 Character families…]]></summary>
+13:42 The farmer on the donkey…]]></summary>
         <author>
             <name>Planet Emacslife</name>
         </author>
@@ -1194,6 +1196,16 @@ gets to it.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marcin Borkowski: How many screens left]]></title>
+        <id>https://mbork.pl/2026-09-28_How_many_screens_left</id>
+        <link href="https://mbork.pl/2026-09-28_How_many_screens_left"/>
+        <updated>2026-09-28T18:17:26.000Z</updated>
+        <summary type="html"><![CDATA[One of the things I do in Emacs is reading. Sometimes it is an article copied from the internet using org-web-tools, sometimes it is a long answer to my question to an LLM, and sometimes it is an ebook I’m reading using nov.el. Either way, I often like to know how much I have left.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I’m Terrified of What Will Happen to This Country When We Run Out of Water]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73927931/rio-grande-water-war-texas/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73927931/rio-grande-water-war-texas/"/>
@@ -1569,18 +1581,6 @@ Choi likes the Quick Look functionality but, of course, would like to have it in
 If you like the idea of being able to peek at a file without abandoning your current window, take a look at Choi’s post for the details on how to do it from Dired and Ibuffer windows.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clavicular’s charges shows the real danger of MAGA manhood]]></title>
-        <id>https://www.salon.com/2026/09/25/claviculars-charges-shows-the-real-danger-of-maga-manhood/-full</id>
-        <link href="https://www.salon.com/2026/09/25/claviculars-charges-shows-the-real-danger-of-maga-manhood/"/>
-        <updated>2026-09-25T10:45:22.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t long after Braden Peters, better known as “Clavicular,” was arrested on suspicion of raping a 17-year-old girl at his family’s home in Massachusetts that his fellow MAGA influencers started complaining that he was the real victim. 
-“Now we live in a climate where a 19-year-old can’t even sleep with a 16-year-old with a little alcohol involved. Absolutely insane,” said Nick Fuentes, the popular white nationalist podcaster, ignoring the fact that it has long been considered rape to have sex with someone unconscious and unable to consent, as alleged by the criminal complaint against Peters.  
-Others floated conspiracy theories accusing the mysterious “they” of trying to “control” Clavicular, or claiming he is besieged with “women trying to ruin his life with rumors.” Brian Atlas of …]]></summary>
-        <author>
-            <name>Amanda Marcotte - Salon.com</name>
         </author>
     </entry>
 </feed>
