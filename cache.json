@@ -228,7 +228,7 @@
           "description": "What is spook?\n  The Emacs function spook is\n  not what you think it is.  It doesn't make creepy noises, draw scary\n  ASCII art or change the theme to orange on black.  In fact it has\n  nothing at all to do with Halloween, ghosts, monsters, pandemics or\n  IRS audits.\n\n\n\nWhat it does is insert words and phrases into the current buffer \"to\nhelp give your message ... attractiveness for automated keyword\nscanners.\"\n\n\n\nWhat kind of words or phrases might you expect to see?  To find out I\ninvoked spook while composing this content.  Here's what\nit added:\n\n\n\n\n    TELINT Drug North Korea Security Consulting Virii Abu Ghraib Fort\n    Hancock CUD AMEMB Vaccine MARTA racal E.O.D. Blizzard Nigeria\n  \n\n\n\n  It's easy1 to configure spook to insert an alternate set\n  of words and phrases -- just change the file name in the\n  variable spook-phrases-file from \"spook.lines\" to the\n  name of the alternate file.  Unfortunately it must reside in the\n  Emacs data directory; the file's location is fixed.  The variable\n  can be found in the Spook customization group, whose parent group is\n  Games.\n\n\n\n  Even with only 72 lines in its source code file,2 spook\ndemonstrates how to insert one or more random lines from a file into\nthe current buffer.\n\n\n\n  1 It's \"easy\" if you have Administrator permissions.\n\n\n\n  2 The 72 lines is the entire spook.el file; the first 48%\nof the file provides the usual comments that describe the GNU GPL,\nauthor, maintainer info as well as documentation.",
           "link": "https://ray-on-emacs.blogspot.com/2026/10/what-is-spook.html",
           "publishedOn": "2026-10-02T02:17:46.693Z",
-          "wordCount": null,
+          "wordCount": 3395,
           "title": "Raymond Zeitler: What is spook?",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "One of the most fun things you can do with Emacs is to build an interface for another piece of software. It is the Lisp version of running Doom on any device. It is also quite useful, because you can connect it to other tools in the gnu's editor and build more pleasant workflows.\nThe big question: can I chat on WhatsApp from Emacs? Spoiler: I made it, with some limitations.\nNo way in\nContext: I work on macOS. It matters, because the solution depends on it.\nMeta offers no API for this, and the macOS desktop app has no bridge at all: no open ports, no gRPC, no AppleScript dictionary. Nothing.\nThere are unofficial clients, like whatsmeow, that talk directly to WhatsApp's servers by pretending to be a device. They work, but your account ends up depending on software Meta does not authorize, an…",
           "link": "http://en.andros.dev/blog/782e8f3b/how-i-built-a-whatsapp-client-for-emacs-without-an-api/",
           "publishedOn": "2026-10-01T07:52:08.000Z",
-          "wordCount": 1609,
+          "wordCount": 1614,
           "title": "Andros Fenollosa: How I built a WhatsApp client for Emacs without an API",
           "imageUrl": "https://img.andros.dev/IAvijQN1JKJJdxO-RHNOM0eF83U=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/dima-solomin-upBKRmHJrCI-unsplash.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "org-todo is C-c\nC-t.  Today I learned about another command with a similar\nkeybinding (C-c C-x C-t) --\norg-toggle-timestamp-overlays.  Note the C-x\nin the middle.\n\n\n\nWhen I pressed that key combination (inadvertently), all the\nYYYY-MM-DD timestamps in the buffer were converted to the MM/DD/YYYY\nformat.  This was unacceptable -- I needed to change them back.\nHowever undo did not revert the timestamps; it just undid\nthe last edit.  Furthermore, these undesired timestamps couldn't be\nedited and were impervious to org-shiftright.  I was\nconfused yet again.\n\n\n\nI didn't even know how this happened.  So I\ninvoked view-lossage as a kind reader once suggested 1\nand discovered org-toggle-timestamp-overlays.\n\n\n\nThe docstring was no help – it's self-evident that it would \"Toggle\nthe use of custom time stamp formats.\"  Eager to clock out of my task,\nI didn't care to learn more.  All I wanted to do was undo the effect.\n\n\n\nI figured that since it toggles the timestamp, all I had to do was\ninvoke it again to toggle it back.  Nope.  Well, a nice message\nappears, saying \"Time stamp overlays removed.\"  Yet the timestamps\nlooked the same.\n\n\n\nUndaunted, I figured I'd reload the buffer with org-mode-restart.\nThat had no effect.  To finally fix this, I deleted the buffer and\nrevisited the file.\n\n\n\nA command like this surely is in the same category as upcase-region,\nwhich is disabled by default.  And so this is why I added\n  (put 'org-toggle-timestamp-overlays 'disabled t) to my init file.\n\n\n\n  1 See https://ray-on-emacs.blogspot.com/2026/05/emacs-view-commands.html",
           "link": "https://ray-on-emacs.blogspot.com/2026/09/now-org-toggle-timestamp-overlays-is.html",
           "publishedOn": "2026-10-01T00:19:28.313Z",
-          "wordCount": null,
+          "wordCount": 3570,
           "title": "Raymond Zeitler: Now org-toggle-timestamp-overlays is Disabled",
           "imageUrl": null
         },
@@ -431,16 +431,6 @@
           "wordCount": 108,
           "title": "Emacs APAC: CANCELED Announcing Emacs Asia-Pacific (APAC) virtual meetup, Saturday, September 26, 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://irreal.org/blog/?p=14106",
-          "author": null,
-          "description": "Quick Look for Emacs from Charles Choi. MacOS has the notion of a Quick Look to peek at a file without invoking a heavier weight application such as an editor. It’s more than just dumping text onto the screen. It can deal with text, PDFs, HTML, various video files, ODF, Microsoft file types, and many others.\n\n\nChoi likes the Quick Look functionality but, of course, would like to have it in Emacs too. It’s not clear how to do this in general but it’s trivially easy to do it for Dired and Ibuffer. Choi solves the problem by binding dired-display-file and ibuffer-visit-buffer-other-window-noselect to the Space key. These commands open the file in another window so they’re more than just open the file as usual in Emacs.\n\n\nIf you like the idea of being able to peek at a file without abandoning your current window, take a look at Choi’s post for the details on how to do it from Dired and Ibuffer windows.",
-          "link": "https://irreal.org/blog/?p=14106",
-          "publishedOn": "2026-09-25T15:43:33.000Z",
-          "wordCount": 1358,
-          "title": "Irreal: Quick Look For Emacs",
-          "imageUrl": null
         }
       ]
     },
@@ -452,20 +442,20 @@
         {
           "id": "https://defector.com/?p=237148",
           "author": "Chris Thompson",
-          "description": "Bryan Baker, closer for the Tampa Bay Rays, encountered a new problem on the mound Saturday night. He'd been summoned to record the final three outs of Game 1 of the ALDS and to preserve and finish a franchise-all-timer of a gem from teammate Drew Rasmussen, who'd pitched eight shutout innings of miraculous one-hit baseball against the New York Yankees' depleted but still fearsome lineup. \nBaker, working out pitch-sequencing with catcher Liam Hicks, found that he was having trouble making out the sounds coming from the little PitchCom speaker buzzing right next to his ear. After a 1–1 fastball nicked the outside of the zone against pinch-hitter Giancarlo Stanton, Baker had to cup his glove over his ear to hear the call.\n\"That was probably the most electric crowd I've ever played in front of,\" Baker said after the game, a 1–0 Rays victory. \"Still kind of digesting it.\"",
+          "description": "Bryan Baker, closer for the Tampa Bay Rays, encountered a new problem on the mound Saturday night. He'd been summoned to record the final three outs of Game 1 of the ALDS and to preserve and finish a franchise all-timer of a gem from teammate Drew Rasmussen, who'd pitched eight shutout innings of miraculous one-hit baseball against the New York Yankees' depleted but still fearsome lineup.\nBaker, working out pitch-sequencing with catcher Liam Hicks, found that he was having trouble making out the sounds coming from the little PitchCom speaker buzzing right next to his ear. After a 1–1 fastball nicked the outside of the zone against pinch hitter Giancarlo Stanton, Baker had to cup his glove over his ear to hear the call.\n\"That was probably the most electric crowd I've ever played in front of,\" Baker said after the game, a 1–0 Rays victory. \"Still kind of digesting it.\"",
           "link": "https://defector.com/they-packed-the-trop-and-were-treated-to-a-gem",
           "publishedOn": "2026-10-04T17:16:02.000Z",
-          "wordCount": 5956,
+          "wordCount": 5954,
           "title": "They Packed The Trop And Were Treated To A Gem",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2298446092.jpg"
         },
         {
           "id": "https://defector.com/?p=237133",
           "author": "Chris Thompson",
-          "description": "Ty France talks like a guy who is pretty sure he'd socked a game-winning dinger. \"I stood there and watched it, and it was going,\" France said Saturday, of his ninth-inning moonshot. \"It was staying fair.\" The ball did, in fact, stay fair: Soaring down the left field line, France's fly bonked off a roof cable and dropped, well inside fair territory and directly into the glove of Milwaukee's Jackson Chourio, for San Diego's second out of the ninth inning. \nFrance stood in disbelief, peering and pointing at the approximate spot where his heroic moment was thwarted by an impermeable ceiling. The umpires got together, discussed the stadium's ground rules, and came to a pretty quick conclusion: The ball was fair when it bonked, and thus in play when it fell, and Chourio caught it, and France was out. The Padres went on to lose, 3–2. Sorry.\n\nhttps://www.youtube.com/watch?v=T6a-SnWptd0",
+          "description": "Ty France talks like a guy who is pretty sure he'd socked a game-winning dinger. \"I stood there and watched it, and it was going,\" France said Saturday, of his ninth-inning moonshot. \"It was staying fair.\" The ball did, in fact, stay fair: Soaring down the left-field line, France's fly bonked off a roof cable and dropped, well inside fair territory and directly into the glove of Milwaukee's Jackson Chourio, for San Diego's second out of the ninth inning.\nFrance stood in disbelief, peering and pointing at the approximate spot where his heroic moment was thwarted by an impermeable ceiling. The umpires got together, discussed the stadium's ground rules, and came to a pretty quick conclusion: The ball was fair when it bonked, and thus in play when it fell, and Chourio caught it, and France was out. The Padres went on to lose, 3–2. Sorry.\n\nhttps://www.youtube.com/watch?v=T6a-SnWptd0",
           "link": "https://defector.com/ty-france-and-the-padres-thwarted-by-good-old-reality",
           "publishedOn": "2026-10-04T14:36:01.000Z",
-          "wordCount": 6328,
+          "wordCount": 6307,
           "title": "Ty France And The Padres Thwarted By Good Old Reality",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2297923977.jpg"
         },
@@ -662,200 +652,6 @@
       "articles": []
     },
     {
-      "title": "Amanda Marcotte - Salon.com",
-      "feedUrl": "https://rss-funnel.onrender.com/salon-amanda-marcotte.xml",
-      "siteUrl": "https://www.salon.com/writer/amanda_marcotte",
-      "articles": [
-        {
-          "id": "https://www.salon.com/2026/10/02/cornell-assault-case-shows-metoo-didnt-go-far-enough/-full",
-          "author": null,
-          "description": "Jane Doe, a former Cornell University student who has filed a civil lawsuit alleging gang rape at the hands of seven Chi Phi fraternity members, has struggled since she first reported the incident to the police in November 2024, a few weeks after night a frat party turned ugly. “Her life has been destroyed,” her attorney Thomas Giuffra told CNN’s Jake Tapper. Unlike most of the alleged assailants, Doe left college after what Giuffra has described as a “horrifying” semester in which she had to attend classes “where she saw these guys on a fairly regular basis.” \nShe was not from “a wealthy family,” he said. “This was her dream and it was taken away from her at a young age in just a horrific fashion.”\nBut according to some on the right, Doe has not suffered enough for reporting her alleged a…",
-          "link": "https://www.salon.com/2026/10/02/cornell-assault-case-shows-metoo-didnt-go-far-enough/",
-          "publishedOn": "2026-10-02T10:45:59.000Z",
-          "wordCount": 2624,
-          "title": "Cornell assault case shows #MeToo didn’t go far enough",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/10/Cornell-University-2297900394.jpg"
-        },
-        {
-          "id": "https://www.salon.com/2026/09/30/trump-cant-trick-americans-into-loving-him/-full",
-          "author": null,
-          "description": "Donald Trump has never been one for subtlety, so it follows that his taxpayer-funded “public service announcement” instructing Americans to love him would literally feature a gospel choir singing the words “Love Me.” Along with many of his closest allies, the president is a fan of pseudo-science, so perhaps he believes the repetition will have a hypnotic effect on viewers, reversing through pop psychology trickery the free-fall that has beset his approval ratings.\nThis is just one of three separate ads, totaling $1.5 million so far, that feel less like a sincere effort to persuade voters and more like an expensive effort by the White House to soothe the temperamental 80-year-old. Either way, what’s indisputable is that Trump is becoming increasingly frustrated that the chicanery he has use…",
-          "link": "https://www.salon.com/2026/09/30/trump-cant-trick-americans-into-loving-him/",
-          "publishedOn": "2026-09-30T10:30:02.000Z",
-          "wordCount": 2076,
-          "title": "Trump can’t trick Americans into loving him",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/09/Donald-Trump-2296657910.jpg"
-        },
-        {
-          "id": "https://www.salon.com/2026/09/28/wife-school-cant-fix-maga-husbands/-full",
-          "author": null,
-          "description": "How hard is it to enjoy your husband’s company? According to content made for Christian conservative women, the heaviest cross they may bear is learning to feel affection for their spouses — or at least fake it well enough to buy some peace at home. That’s what I learned perusing the growing field of influencers offering would-be tradwives advice on how to make MAGA marriages work. \n“Normalize liking your husband,” reads a T-shirt sold by Savanna Stone, a 21-year-old self-proclaimed marriage expert who has been selling content preaching marital submission with the backing of shady far-right funders. At first blush, that may seem like a trifling concept. But, as Stone makes clear in her video content, her definition of liking or even loving a husband is both laborious and ascetic to an extr…",
-          "link": "https://www.salon.com/2026/09/28/wife-school-cant-fix-maga-husbands/",
-          "publishedOn": "2026-09-28T10:45:09.000Z",
-          "wordCount": 2381,
-          "title": "Wife school can’t fix MAGA husbands",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/09/wedding-cake-topper-divide-578201051.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Drew Magary, Columnist - SFGATE",
-      "feedUrl": "https://rss-funnel.onrender.com/sfgate-drew-magary.xml",
-      "siteUrl": "https://www.sfgate.com/author/drew-magary/",
-      "articles": [
-        {
-          "id": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full",
-          "author": null,
-          "description": "Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  \n\nYes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…",
-          "link": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php",
-          "publishedOn": "2026-10-05T00:25:58.367Z",
-          "wordCount": 177,
-          "title": "It's easy to blame the USMNT's World Cup crashout on one man. So I will.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full",
-          "author": null,
-          "description": "The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. \n\nWhich brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…",
-          "link": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php",
-          "publishedOn": "2026-10-05T00:25:57.652Z",
-          "wordCount": 177,
-          "title": "Brandon Aiyuk's NFL career is already over",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/tech/article/data-centers-22356298.php-full",
-          "author": null,
-          "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
-          "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-05T00:25:57.649Z",
-          "wordCount": 177,
-          "title": "If you don't hate data centers yet, boy do I have news for you",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php-full",
-          "author": null,
-          "description": "The one thing that Washington, D.C., has always had going for it is its beauty. The people who run America from this town have always been an unsightly bunch, but they’ve done their nasty work in a city that has acquired, over the course of this country’s lifespan, an aesthetic like no other. No other major American city looks as regally beautiful as D.C. You and I have a long-standing federal law to thank for this, but we also have a collection of national landmarks clustered in the center of the district that the aforementioned law was written to both protect and to showcase. The Capitol. The Lincoln Memorial. The Washington Monument. These are gorgeous edifices, ones designed to outlast old generations and to inspire newer ones. They are the best of D.C., and therefore the best of Ameri…",
-          "link": "https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php",
-          "publishedOn": "2026-10-05T00:25:57.648Z",
-          "wordCount": 177,
-          "title": "Congratulations, the Reflecting Pool is now a swamp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full",
-          "author": null,
-          "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
-          "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-05T00:25:57.646Z",
-          "wordCount": 177,
-          "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php-full",
-          "author": null,
-          "description": "I put a question to my SFGATE colleagues just the other day that had them mulling for a bit: What’s the last great movie that Steven Spielberg directed? I’m not talking about a merely good film. The old man can put together a competent picture anytime he likes. I’m talking about an all-timer of a Spielberg movie, something that belongs up there with his best work, which includes “Jaws,” “Raiders of the Lost Ark,” “E.T.,” “Schindler’s List” and … you get the idea. When you’re a director who’s made not just one of the greatest movies of all time but several of them, audience members like me hope for (and oftentimes expect) greatness from you with every subsequent project. Such is the standard that Spielberg, father of the modern blockbuster, set for himself. It’s also a standard that, in my …",
-          "link": "https://www.sfgate.com/sf-culture/article/disclosure-day-review-22298388.php",
-          "publishedOn": "2026-10-05T00:25:57.643Z",
-          "wordCount": 177,
-          "title": "Steven Spielberg's new film is his best in decades",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
-          "author": null,
-          "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
-          "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-05T00:25:57.642Z",
-          "wordCount": 177,
-          "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
-          "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-05T00:25:57.641Z",
-          "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
-          "author": null,
-          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
-          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-05T00:25:57.640Z",
-          "wordCount": 177,
-          "title": "California is on fire and these people are profiting off it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
-          "author": null,
-          "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
-          "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-05T00:25:57.639Z",
-          "wordCount": 177,
-          "title": "'The Odyssey' wants you to suffer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
-          "author": null,
-          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
-          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-05T00:25:57.636Z",
-          "wordCount": 177,
-          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-05T00:25:57.635Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
-          "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-05T00:25:57.634Z",
-          "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
-          "author": null,
-          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
-          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-05T00:25:57.255Z",
-          "wordCount": 177,
-          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
-          "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-05T00:25:57.255Z",
-          "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
       "title": "News-Politics - Esquire",
       "feedUrl": "https://www.esquire.com/rss/news-politics.xml",
       "siteUrl": "https://www.esquire.com/news-politics/",
@@ -876,7 +672,7 @@
           "description": "Attorney general Todd Blanche will really do anything his puppeteers tell him, huh?",
           "link": "https://www.esquire.com/news-politics/politics/a73985111/doj-trump-vance-todd-blanche-nixon-watergate/",
           "publishedOn": "2026-10-01T21:26:28.000Z",
-          "wordCount": 19611,
+          "wordCount": 19662,
           "title": "Instead of Doing Anything Valuable, the DOJ Is Trying to Recast Richard Nixon as the Victim of Watergate",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/97d42ff9-f816-4101-a9e4-8385848728a2.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -886,7 +682,7 @@
           "description": "I’m now convinced that the president lives on an entirely different plane of reality from you and me.",
           "link": "https://www.esquire.com/news-politics/politics/a73983994/trump-time-interview-unhinged-unstable/",
           "publishedOn": "2026-10-01T20:12:29.000Z",
-          "wordCount": 20883,
+          "wordCount": 20851,
           "title": "Trump Has Just Given What Might Be His Most Unstable Interview Yet",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/06c01ed5-eacb-4aff-a378-b655cb96ee54.jpeg?crop=1xw:0.750065223063xh;center,top&resize=1200:*"
         },
@@ -906,7 +702,7 @@
           "description": "Surely, our president will face consequences for this insanity.",
           "link": "https://www.esquire.com/news-politics/politics/a73967876/white-house-ballroom-trump-russia/",
           "publishedOn": "2026-10-01T00:24:18.000Z",
-          "wordCount": 6373,
+          "wordCount": 17933,
           "title": "A Wealthy Russian Businessman Is Helping Fund Trump’s Stupid Ballroom. Nothing Sketchy About That, Right?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7e9e013b-9efb-4180-92cc-c048e81ccff9.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -926,7 +722,7 @@
           "description": "A shady conservative lobbying group is fronting a business-friendly assault on the public commons, and we need to fight back.",
           "link": "https://www.esquire.com/news-politics/politics/a73959346/corporations-alec-big-tech-public-nuisance/",
           "publishedOn": "2026-09-30T19:12:05.000Z",
-          "wordCount": 19795,
+          "wordCount": 18901,
           "title": "Right-Wing “Intellectuals” Really Want Us to Live in a Corporate Hellscape",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fc2b0349-c881-496d-accf-c6448a443e2c.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -936,7 +732,7 @@
           "description": "Optimists are saying he’s stepping off the Trump train. Pessimists have a more realistic guess.",
           "link": "https://www.esquire.com/news-politics/politics/a73947918/sam-alito-scotus-decision-suncor-energy/",
           "publishedOn": "2026-09-29T20:21:32.000Z",
-          "wordCount": 18681,
+          "wordCount": 18665,
           "title": "Why the Hell Is Justice Alito Excused from a Key Supreme Court Decision Next Week?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5c651e2b-a305-4c24-86d9-aaede5d3796c.jpeg?crop=1xw:0.666666666667xh;center,top&resize=1200:*"
         },
@@ -946,7 +742,7 @@
           "description": "A ridiculous line of questioning left the former special counsel looking dazed and confused.",
           "link": "https://www.esquire.com/news-politics/politics/a73944812/jack-smith-hearing-hawkeyes-eric-schmitt/",
           "publishedOn": "2026-09-29T18:00:18.000Z",
-          "wordCount": 18044,
+          "wordCount": 18043,
           "title": "After an Obnoxious Tirade at the Jack Smith Hearing, This GOP Congressman Should Trade His Senate Seat for Clown School",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3ae36264-2482-4a6e-9f62-f0ed436071c0.jpeg?crop=1xw:0.750052334101xh;center,top&resize=1200:*"
         },
@@ -956,7 +752,7 @@
           "description": "I’m just glad there’s someone out there trying to solve the unsolved.",
           "link": "https://www.esquire.com/news-politics/politics/a73939736/cold-case-tylenol-poisoining-new-theory/",
           "publishedOn": "2026-09-29T13:21:25.000Z",
-          "wordCount": 17652,
+          "wordCount": 17636,
           "title": "I Don’t Know What to Make of This Weird New Theory About a 44-Year-Old Cold Case",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c570c616-89bc-47f1-9456-54313f063974.jpeg?crop=1xw:0.750070761393xh;center,top&resize=1200:*"
         },
@@ -966,7 +762,7 @@
           "description": "These foodborne-illness outbreaks have certainly put the Republican party in a sh*tty situation.",
           "link": "https://www.esquire.com/news-politics/politics/a73931845/foodborne-illness-midterm-elections-voters/",
           "publishedOn": "2026-09-28T21:18:47.000Z",
-          "wordCount": 18045,
+          "wordCount": 18029,
           "title": "I Never Thought “Explosive Diarrhea” Would Become a Reason to Vote Blue, but Here We Are",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/561e4d41-fc52-4f39-8638-6fdc0329abb6.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -976,7 +772,7 @@
           "description": "How will Americans react when they turn on the taps and nothing comes out?",
           "link": "https://www.esquire.com/news-politics/politics/a73927931/rio-grande-water-war-texas/",
           "publishedOn": "2026-09-28T16:53:16.000Z",
-          "wordCount": 19918,
+          "wordCount": 19902,
           "title": "I’m Terrified of What Will Happen to This Country When We Run Out of Water",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f9d45631-7e52-4cf4-8638-6dca7f35eaf6.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -1003,6 +799,22 @@
       "feedUrl": "https://www.flowstate.fm/feed",
       "siteUrl": "https://www.flowstate.fm",
       "articles": [
+        {
+          "id": "https://www.flowstate.fm/p/midori-hirano-interview",
+          "author": "Flow State",
+          "description": "Today we’re listening to Midori Hirano, a Japanese composer and pianist based in Berlin.",
+          "link": "https://www.flowstate.fm/p/midori-hirano-interview",
+          "publishedOn": "2026-10-05T07:03:39.000Z",
+          "wordCount": null,
+          "title": "Midori Hirano (Interview)",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/$s_!grIA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f48ca0f-6ab8-4b31-9a44-5b1b06cd0591_3840x2160.jpeg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!grIA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9f48ca0f-6ab8-4b31-9a44-5b1b06cd0591_3840x2160.jpeg"
+        },
         {
           "id": "https://www.flowstate.fm/p/shinichi-atobe-4ba",
           "author": "Flow State",
