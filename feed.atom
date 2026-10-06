@@ -2,16 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-06T16:30:01.993Z</updated>
+    <updated>2026-10-06T22:21:34.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
+        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
+        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
+        <updated>2026-10-06T22:21:26.650Z</updated>
+        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+
+That’s when Anthony Bourdain wo…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Congratulations, the Reflecting Pool is now a swamp]]></title>
         <id>https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php-full</id>
         <link href="https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php"/>
-        <updated>2026-10-06T16:30:01.976Z</updated>
+        <updated>2026-10-06T22:21:26.647Z</updated>
         <summary type="html"><![CDATA[The one thing that Washington, D.C., has always had going for it is its beauty. The people who run America from this town have always been an unsightly bunch, but they’ve done their nasty work in a city that has acquired, over the course of this country’s lifespan, an aesthetic like no other. No other major American city looks as regally beautiful as D.C. You and I have a long-standing federal law to thank for this, but we also have a collection of national landmarks clustered in the center of the district that the aforementioned law was written to both protect and to showcase. The Capitol. The Lincoln Memorial. The Washington Monument. These are gorgeous edifices, ones designed to outlast old generations and to inspire newer ones. They are the best of D.C., and therefore the best of Ameri…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
+        <updated>2026-10-06T22:21:26.642Z</updated>
+        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
+
+To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
+        <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
+        <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
+        <updated>2026-10-06T22:21:26.628Z</updated>
+        <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
+Myung J. Chun/LA Times via Getty Images
+I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
+
+This Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
+        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
+        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
+        <updated>2026-10-06T22:21:26.625Z</updated>
+        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
+
+Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -20,7 +70,7 @@
         <title type="html"><![CDATA[Brandon Aiyuk's NFL career is already over]]></title>
         <id>https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php"/>
-        <updated>2026-10-06T16:30:01.975Z</updated>
+        <updated>2026-10-06T22:21:26.624Z</updated>
         <summary type="html"><![CDATA[The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. 
 
 Which brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…]]></summary>
@@ -32,94 +82,8 @@ Which brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recen
         <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
         <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
-        <updated>2026-10-06T16:30:01.974Z</updated>
+        <updated>2026-10-06T22:21:26.621Z</updated>
         <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
-        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
-        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
-        <updated>2026-10-06T16:30:01.970Z</updated>
-        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
-
-Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-10-06T16:30:01.969Z</updated>
-        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
-
-To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
-        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
-        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-10-06T16:30:01.968Z</updated>
-        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
-
-Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
-        <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
-        <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
-        <updated>2026-10-06T16:30:01.967Z</updated>
-        <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
-Myung J. Chun/LA Times via Getty Images
-I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
-
-This Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-10-06T16:30:01.966Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
-
-That’s when Anthony Bourdain wo…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
-        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
-        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
-        <updated>2026-10-06T16:30:01.964Z</updated>
-        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
-
-This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
-
-I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-10-06T16:30:01.963Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -128,7 +92,7 @@ I have stayed at many hotels in San Francisco, but all of them were hotel hotels
         <title type="html"><![CDATA[The new Anya Taylor-Joy vehicle is so stupid and so good]]></title>
         <id>https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php"/>
-        <updated>2026-10-06T16:30:01.961Z</updated>
+        <updated>2026-10-06T22:21:26.620Z</updated>
         <summary type="html"><![CDATA[Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. 
 
 It knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …]]></summary>
@@ -137,15 +101,47 @@ It knows that I want a disheveled Gary Oldman dishing out vicious burns to all o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
-        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
-        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-10-06T16:30:01.960Z</updated>
-        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
+        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
+        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
+        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
+        <updated>2026-10-06T22:21:26.618Z</updated>
+        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
 
-Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
+The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
+        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
+        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
+        <updated>2026-10-06T22:21:26.617Z</updated>
+        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
 
-The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
+Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
+        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
+        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
+        <updated>2026-10-06T22:21:26.614Z</updated>
+        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
+        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
+        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
+        <updated>2026-10-06T22:21:26.612Z</updated>
+        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
+
+Actually,…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -154,7 +150,7 @@ The croissant in question is dubbed “brown butter cornmeal twice-baked,” and
         <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
         <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-10-06T16:30:01.958Z</updated>
+        <updated>2026-10-06T22:21:26.610Z</updated>
         <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
 
 Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
@@ -172,27 +168,116 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-10-06T16:30:01.954Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
+        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
+        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
+        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
+        <updated>2026-10-06T22:21:26.605Z</updated>
+        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
 
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
+
+The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
-        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
-        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-10-06T16:30:01.948Z</updated>
-        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
+        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
+        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
+        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
+        <updated>2026-10-06T22:21:26.598Z</updated>
+        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
 
-Actually,…]]></summary>
+This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
+
+I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m Convinced That Pete Hegseth Doesn’t Actually Care About Our Armed Service Members]]></title>
+        <id>http://www.esquire.com/news-politics/politics/a74057113/pete-hegseth-military-medical-systems-middle-east/</id>
+        <link href="https://www.esquire.com/news-politics/politics/a74057113/pete-hegseth-military-medical-systems-middle-east/"/>
+        <updated>2026-10-06T20:57:03.000Z</updated>
+        <summary type="html"><![CDATA[If the Secretary of Talking About War would take a few hours off from preparing Instagram videos, he’d notice that the military medical system is failing his troops in the Middle East.]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuck Bucket Lists]]></title>
+        <id>https://defector.com/?p=237468</id>
+        <link href="https://defector.com/fuck-bucket-lists"/>
+        <updated>2026-10-06T20:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Time for your weekly edition of the Defector Funbag. Got something on your mind? Email the Funbag. You can also read Drew over at SFGATE, and buy Drew’s books while you’re at it. Today, we're talking about dumb PA announcers, selling yourself, coaches, and their hobbies, and more.
+Your letters:
+Jeff:]]></summary>
+        <author>
+            <name>Drew Magary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I Got Friends That Will Hurt Her”: Court Documents Describe Audio Recordings And Video Footage Tyreek Hill Wants Kept Out Of His Divorce Trial]]></title>
+        <id>https://defector.com/?p=237333</id>
+        <link href="https://defector.com/tyreek-hill-divorce-trial-domestic-violence"/>
+        <updated>2026-10-06T19:56:30.000Z</updated>
+        <summary type="html"><![CDATA[To hear powerhouse sports agent Drew Rosenhaus tell it, his client, the once-electric receiver Tyreek Hill, could sign with a new NFL team at any moment. From a football-only perspective, the agent’s optimism makes sense. With so many teams losing starters to injuries, any football fan would expect a veteran like Hill to get a…]]></summary>
+        <author>
+            <name>Diana Moskovitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Yankees Look Meek And Flubby]]></title>
+        <id>https://defector.com/?p=237389</id>
+        <link href="https://defector.com/the-yankees-look-meek-and-flubby"/>
+        <updated>2026-10-06T18:58:11.000Z</updated>
+        <summary type="html"><![CDATA[You've been fighting it off as best you can, but the weight of the evidence is starting to hit your hips, knees and ankles in a series of small electric spasms. You've tried to explain it away as "Well, the league's weird this year," and while you're right no matter what league you're referring to, the disorientation is still there and getting worse.
+The Tampa Bay Rays look like they are going to win their American League Division Series, but that's not the thing that's making you nickname your persistent migraine as though it were a mischievous nephew. It's that they're making the New York Yankees look like the Los Angeles Angels, which is not just laughing at the power of branding but making a fresh mockery of a town that already has to put up with the Mets.
+The Rays gnaw at a game like hyperactive beavers, eschewing home runs (except for Junior Caminero) and embracing the annoying little things that modern baseball once disdained: speed, defense, and even the occasional bunt. The Yankees have struggled with stuff like catching the ball or throwing it in a useful direction, which have always been in fashion. That is how Game 2, a 5-2 Rays win, played out Monday night. The Yankees' four errors were spectacular, the second-most put up by the team in its 448 all-time postseason games, highlighted but by no means concluded by Jazz Chisholm Jr.'s comprehensive mangling of a double-play pivot on the Rays' third at-bat of the game. Had it not been for Ben Rice's two solo homers, the Yankees would have looked utterly Angelic in all the worst ways.]]></summary>
+        <author>
+            <name>Ray Ratto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Can’t Allow Climate Change to Become a Solely Federal Problem, or We’re Screwed]]></title>
+        <id>http://www.esquire.com/news-politics/politics/a74050457/scotus-suncor-v-boulder-hearings/</id>
+        <link href="https://www.esquire.com/news-politics/politics/a74050457/scotus-suncor-v-boulder-hearings/"/>
+        <updated>2026-10-06T18:17:38.000Z</updated>
+        <summary type="html"><![CDATA[The Supreme Court has begun hearings on a key case, and depending on its ruling, major climate decisions could fall into the hands of our “drill, baby, drill” president.]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irreal: The Power Of Plain Text]]></title>
+        <id>https://irreal.org/blog/?p=14129</id>
+        <link href="https://irreal.org/blog/?p=14129"/>
+        <updated>2026-10-06T17:53:04.000Z</updated>
+        <summary type="html"><![CDATA[extolling the power of plain text. It’s a notion that’s familiar to all us Emacs users and even more so to Org users. We Org users (or more generally Markdown and other markup users) can write plain text and have it formatted for output in a variety of ways. The point is, the text stays text and is readable even without the formatting.
+
+
+As nickb says, text written today will still be readable 50 years from now. Sure, UTF-8 and the other Unicode formats can and do add new characters from time to time but text written today will have the same meaning even if new characters are added.
+
+
+The most important aspect is that you’ll own your data no matter what programs come and go. Emacs isn’t going anywhere but even if it did, it wouldn’t matter. Text will still be readable and something like Org or Markdown will still make intended formatting obvious even if Org and Markdown no longer exist.
+
+
+Nickb acknowledges that text is not the right answer for everything. You wouldn’t, for example, want to represent a photograph in plain text and there are lots of other examples. Still, for many applications, plain text is not only sufficient but probably the better solution.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Defector Reads A Book Is Spooked By Some ‘Incidents Around The House’]]></title>
+        <id>https://defector.com/?p=237246</id>
+        <link href="https://defector.com/incidents-around-the-house-defector-reads-a-book"/>
+        <updated>2026-10-06T16:47:59.000Z</updated>
+        <summary type="html"><![CDATA[The first thing I have to warn you is that if you purchase Josh Malerman's Incidents Around The House, it will have a sticker on it saying it's a movie now. If that's a dealbreaker, there's no escaping it, because the movie is coming out next week and because it features one of the all-time fucked-up jump scares in a trailer. I almost can't believe that was allowed. Anyway, yes, this is the book that Other Mommy is based on. But several Defector staffers have previously read it and won't shut up about how good it is.
+The second thing to warn you about is that this book is scary. I am not a baby, and I read a decent amount of horror, and it's been a long, long time since I read anything that had me jumpy about leaving my bed in the middle of the night. My all-time favorites are Shirley Jackson's The Haunting of Hill House and Michael McDowell's The Elementals, and I won't really hesitate to put Incidents up there with those. It's not postmodern/lit/"elevated horror," like so many of today's horror novelists seem to aspire to. This is the classic shit.
+Incidents Around The House is narrated by Bela, an 8-year-old girl who for some time has been visited by ... something that lives in her closet, but is not confined to it. She calls this something Other Mommy, because it looks like her mother—mostly, and sometimes—and it asks her, in increasingly threatening tones, if it can go inside her heart. She tells her parents about Other Mommy, and the book is about them not trying to figure out what it is, but rather if there is any way to escape it.]]></summary>
+        <author>
+            <name>Barry Petchesky</name>
         </author>
     </entry>
     <entry>
@@ -218,6 +303,18 @@ The workout was symbolic of a philosophy that head coach Greg Powers, the only m
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[James Cherti: How to Make the Emacs UI Feel More Responsive]]></title>
+        <id>https://www.jamescherti.com/emacs-user-interface-better-responsiveness-and-latency/</id>
+        <link href="https://www.jamescherti.com/emacs-user-interface-better-responsiveness-and-latency/"/>
+        <updated>2026-10-06T15:38:52.000Z</updated>
+        <summary type="html"><![CDATA[When I first changed from Vim to Emacs a few years ago, the editor's user interface felt sluggish. I quickly learned that the Emacs UI itself is not slow, rather, its default settings can make it feel that way. To restore the instant feedback loop I was accustomed to, I needed to enhance Emacs defaults. (FYI: Enhancing default settings is what drove me to develop minimal-emacs.d)
+The configurations below are the result of my tuning process to enhance the perceived Emacs UI responsiveness and latency. These settings are best treated as independent experiments. I recommend testing these adjustments iteratively.
+Before we dive in, please consider sharing this article on your website/blog, Mastodon, Reddit, X, or your preferred social media platforms. Sharing it will help fellow Emacs users to…]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[This Worm Has No Ifs And Many Butts]]></title>
         <id>https://defector.com/?p=237226</id>
         <link href="https://defector.com/this-worm-has-no-ifs-and-many-butts"/>
@@ -233,8 +330,8 @@ The workout was symbolic of a philosophy that head coach Greg Powers, the only m
         <link href="https://defector.com/lebron-james-is-commuting-in-a-fanatics-helicopter"/>
         <updated>2026-10-06T15:02:30.000Z</updated>
         <summary type="html"><![CDATA[LeBron James wasn't pretending. He really is taking daily helicopter rides from his home in New York City to the offices of his new employer, the Philadelphia 76ers. Since the start of October, the LeBron James Express (call sign N6FN) has made 18 trips between Northeast Philadelphia Airport and the Manhattan West 30th Street Heliport, plus a dozen or more shorter jaunts to and from Belmar, Teterboro, Wings Field Airport, and Philadelphia International.
-Because of the availability of realtime flight-tracking information, it has been possible for people on the ground to note that the helicopter shuttling James back and forth from work each day is plastered with graphics for the slap-dick but ever-expanding sports and e-commerce company Fanatics. Fanatics, which now runs an events operation, a video production studio, retail sportsbooks, and an online prediction market, was founded and is run by first-class celebrity hobnobber and would-be world-conqueror Michael Rubin, a native Philadelphian. Rubin was formerly a limited partner in Harris Blitzer Sports & Entertainment (HBSE), the sports and venue management company that owns the 76ers. 
-Someone who works for LeBron told Front Office Sports on Monday that access to Fanatics' "corporate aviation" is part of a sponsorship deal. "It’s a feature in many of their deals with their largest athletes and we appreciate their partnership as LeBron splits his time between New York and Philadelphia," the person said. Because Rubin sold his shares of HBSE back in 2022, and because James signed his present sponsorship deal with Fanatics back in 2024, this particular benefit of playing for the 76ers is not considered circumvention of the salary cap. It is merely a benefit of being in business with Fanatics while working in Philadelphia, for the favorite team of a man who at one time or another has owned some or all of both enterprises.]]></summary>
+Because of the availability of realtime flight-tracking information, it has been possible for people on the ground to note that the helicopter shuttling James back and forth from work each day is plastered with graphics for the slapdick but ever-expanding sports and e-commerce company Fanatics. Fanatics, which now runs an events operation, a video production studio, retail sportsbooks, and an online prediction market, was founded and is run by first-class celebrity hobnobber and would-be world conqueror Michael Rubin, a native Philadelphian. Rubin was formerly a limited partner in Harris Blitzer Sports & Entertainment (HBSE), the sports and venue management company that owns the 76ers.
+Someone who works for LeBron told Front Office Sports on Monday that access to Fanatics' "corporate aviation" is part of a sponsorship deal. "It’s a feature in many of their deals with their largest athletes and we appreciate their partnership as LeBron splits his time between New York and Philadelphia," the source said. Because Rubin sold his shares of HBSE back in 2022, and because James signed his present sponsorship deal with Fanatics back in 2024, this particular benefit of playing for the 76ers is not considered circumvention of the salary cap. It is merely a benefit of being in business with Fanatics while working in Philadelphia, for the favorite team of a man who at one time or another has owned some or all of both enterprises.]]></summary>
         <author>
             <name>Chris Thompson</name>
         </author>
@@ -396,15 +493,13 @@ Lest that stat be blamed on the young Mystics’ nerves, consider the 32 points 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phoebe Bridgers Showed Us How To See In The Dark]]></title>
-        <id>https://defector.com/?p=237289</id>
-        <link href="https://defector.com/phoebe-bridgers-showed-us-how-to-see-in-the-dark"/>
-        <updated>2026-10-05T19:21:36.000Z</updated>
-        <summary type="html"><![CDATA[PHILADELPHIA — When the lights went out, a crisp, adolescent shriek rose from all sides of the arena, anticipating her arrival. But she did not come, not just yet. Instead, a silence fell heavy and unsettled where the shrieking had been, as if making space for the ball at the other end of the arena, descending ever so slowly, blinking blue, pulsing as if it were alive. More than 40,000 eyes fixated on the descending orb. It was round, but not a perfect sphere, with bumps and craters on its surface like a morning star weapon with all of its spikes truncated, or a children’s bumble ball powder coated in black. 
-Though I was on the other side of the arena, and thousands of people were between me and the ball, it was dark, and there was nothing but air to separate us. I looked at the ball the way I look at the moon: with an awe bordering on reverence. Then it followed the same slow path back up into the rafters, and for a little while, I forgot about it. 
-On the main stage a large half-circle dome rested atop the space where Phoebe Bridgers would eventually emerge, like the kind of mesh tents that protect food from the bites of prowling bugs. As the ball on one side of the arena disappeared, the tent on the other lit up. The shrieks began again. And then it lifted, lights gleaming from the edge of it straight down so that Bridgers' black dress was awash in so much light that it looked gray, and the whole dome had the appearance of a UFO lifting off the ground in a movie.]]></summary>
+        <title type="html"><![CDATA[Marcin Borkowski: Emacs Lock mode]]></title>
+        <id>https://mbork.pl/2026-10-05_Emacs_Lock_mode</id>
+        <link href="https://mbork.pl/2026-10-05_Emacs_Lock_mode"/>
+        <updated>2026-10-05T19:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Today I only have a short tip. Sometimes you may have an important Emacs buffer you don’t want to kill accidentally. (For example, it might be an Eshell buffer with a long-running process, or a scratch buffer not associated with any file where you have some notes – although that is obviously asking for trouble.)]]></summary>
         <author>
-            <name>Kelsey McKinney</name>
+            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -432,42 +527,6 @@ shazam.el - Interface for Shazam music recognition.
 All the above efforts have been an exploration of malleable computing using Emacs as the main orchestration tool. I plan on posting a more technical deep dive reflecting this work in the not too distant future. That said, if you’re a macOS user who uses Emacs and Triode, I encourage you to give triode.el a try. Also, consider this a plug for Triode app, a well-designed app that does a great job of taking advantage of the Cocoa frameworks to provide internet radio across different devices provided by Apple.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patience Is Paying Off For Bryce Young]]></title>
-        <id>https://defector.com/?p=237213</id>
-        <link href="https://defector.com/patience-is-paying-off-for-bryce-young"/>
-        <updated>2026-10-05T16:40:50.000Z</updated>
-        <summary type="html"><![CDATA[I'm not sure when we fell into the collective delusion that first-round quarterbacks should be capable of leading an NFL team on Day 1. Was it induced by the take economy? Is this sports radio's fault? Did Joe Burrow's early success create this standard? I can understand certain teams like the Browns or Jets believing it necessary to have their top draft pick run the offense right away, because they have little hope otherwise, but what's everyone else's excuse? While you may get Andrew Luck or Lamar Jackson on occasion, often these teams just end up stunting the growth of potential stars, who end up having to rehab their careers and abilities elsewhere.
-I was thinking about these things Sunday night while watching Bryce Young have arguably the best game of his career for the Carolina Panthers, against the Detroit Lions. Young led the Panthers to a 32-26 win while throwing for 329 yards and two touchdowns on 29-of-41 passing. Second-year wide receiver Tetairoa McMillan was the biggest beneficiary, accounting for 43 percent of the Panthers' total yardage. He caught 14 passes for 192 yards, and accounted for those two TD passes.
-Young and McMillan's chemistry has been building since last season, and never was it more useful than when last night's game was on the line. Despite outplaying the Lions for most of the game, the Panthers were in a spot of trouble late in the fourth quarter. After Detroit scored and cut the lead to six, Young and the offense took over on their own 36-yard line with 3:38 left to play. At the very least, the Panthers needed to get a first down and force a few timeouts out of the Lions. A one-yard run by Chuba Hubbard forced the first burned timeout, and then a penalty followed by an incompletion put Young in a tough spot. Suddenly it was third-and-14, only 22 seconds had come off the clock, and Young was scrambling to avoid pressure. That's when he saw McMillan near the sideline, and made an absurd throw to invite an incredible catch:]]></summary>
-        <author>
-            <name>Israel Daramola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Case Against Exceptionalism]]></title>
-        <id>https://defector.com/?p=237219</id>
-        <link href="https://defector.com/the-case-against-exceptionalism"/>
-        <updated>2026-10-05T16:27:09.000Z</updated>
-        <summary type="html"><![CDATA[The first line in a Min Jin Lee novel gives you the whole story. In Free Food For Millionaires, it’s “Competence can be a curse.” In her follow-up, Pachinko, it’s “History has failed us, but no matter.” Both establish the thesis and themes of the novels, and of her larger project of writing about the Korean diasporic experience. 
-The first line of Lee’s latest novel, American Hagwon, does the same: “The rules of engagement have changed already.” The novel, which came out last week nearly a decade after Pachinko was published, situates her characters—and by extension, the Korean diaspora—at a point of transition where they must adapt. Ever concerned with the financial realities of Korean families, in American Hagwon, Lee considers the cost, both economic and human, of a people striving to elevate itself.
-American Hagwon tells the story of a community centered around a hagwon founded in Los Angeles by Korean immigrants. Hagwons are cram schools that are incredibly popular in South Korea, and in the U.S. among Korean communities. They exist to supplement the day-to-day education students get at school. Students often attend them every day after school and late into the night, doing extra work to get ahead academically and to prepare for the highly competitive exams required for admission to the top Korean universities, as well as elite American universities.]]></summary>
-        <author>
-            <name>Alex Sujong Laughlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlanta’s Least Heralded Relievers Did The Most]]></title>
-        <id>https://defector.com/?p=237220</id>
-        <link href="https://defector.com/atlantas-least-heralded-relievers-did-the-most"/>
-        <updated>2026-10-05T16:06:13.000Z</updated>
-        <summary type="html"><![CDATA[The Atlanta Braves are not the best team in this postseason, but there do seem to be more of them than anyone else. Manager Walt Weiss has appeared blithely unconcerned by the math that demonstrates that the more pitching changes a team makes, the greater the likelihood that some of them will turn to shit.
-And yet Weiss persists, because these are the tools that have been provided for him. After the attrition of the regular season, he has at his disposal three discernible starting pitchers; the best of those, Chris Sale, already had to close out one game against the Phillies in Atlanta's wild-card win, and has not yet started in the team's NLDS. In a more normal environment, this "all hands on deck" strategy would be pointing toward a very predictable outcome: a mutiny by the crew.
-But Sunday was the acme of that plan to date. The Braves beat the Dodgers, 3-2, in Game 2 of the National League Division Series, because of stellar work by a 32-year-old ultra-journeyman whose career has been dominated by surgery rehab, and a 21-year-old puppy who fetches whatever is thrown his way because that's what 21-year-olds get to do this time of year. More or less everyone in the Atlanta bullpen was called upon to contribute to the team's most important game of the year so far, and more or less everyone did.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
         </author>
     </entry>
     <entry>
@@ -549,6 +608,17 @@ The nice part is that I'm in complete control of the software that my Fediverse 
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jon Ossoff’s not-so-secret weapon against JD Vance and Marco Rubio]]></title>
+        <id>https://www.salon.com/2026/10/05/jon-ossoffs-not-so-secret-weapon-against-jd-vance-and-marco-rubio/-full</id>
+        <link href="https://www.salon.com/2026/10/05/jon-ossoffs-not-so-secret-weapon-against-jd-vance-and-marco-rubio/"/>
+        <updated>2026-10-05T10:45:52.000Z</updated>
+        <summary type="html"><![CDATA[For more than a year, journalists Maggie Haberman and Jonathan Swan had been trying — and largely failing — to raise awareness about the very strange story of Donald Trump and his aide Natalie Harp. Shortly after the 2024 election, the New York Times journalists published a profile of the lithe blonde in her early 30s, complete with photos of her gazing at Trump adoringly, explaining how she left him love letters with language like, “You are all that matters to me.” On Aug. 16, Haberman was still trying to raise the issue during an appearance on MS NOW, describing Harp as Trump’s “human binky.”
+But in the end, it was Sen. Jon Ossoff, D-Ga., who woke up much of the public to this disturbing relationship by mentioning Harp on the campaign trail. “He doesn’t want to do the job,” the senator s…]]></summary>
+        <author>
+            <name>Amanda Marcotte - Salon.com</name>
         </author>
     </entry>
     <entry>
@@ -966,6 +1036,18 @@ The true believers…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cornell assault case shows #MeToo didn’t go far enough]]></title>
+        <id>https://www.salon.com/2026/10/02/cornell-assault-case-shows-metoo-didnt-go-far-enough/-full</id>
+        <link href="https://www.salon.com/2026/10/02/cornell-assault-case-shows-metoo-didnt-go-far-enough/"/>
+        <updated>2026-10-02T10:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Jane Doe, a former Cornell University student who has filed a civil lawsuit alleging gang rape at the hands of seven Chi Phi fraternity members, has struggled since she first reported the incident to the police in November 2024, a few weeks after night a frat party turned ugly. “Her life has been destroyed,” her attorney Thomas Giuffra told CNN’s Jake Tapper. Unlike most of the alleged assailants, Doe left college after what Giuffra has described as a “horrifying” semester in which she had to attend classes “where she saw these guys on a fairly regular basis.” 
+She was not from “a wealthy family,” he said. “This was her dream and it was taken away from her at a young age in just a horrific fashion.”
+But according to some on the right, Doe has not suffered enough for reporting her alleged a…]]></summary>
+        <author>
+            <name>Amanda Marcotte - Salon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shinichi Atobe]]></title>
         <id>https://www.flowstate.fm/p/shinichi-atobe-4ba</id>
         <link href="https://www.flowstate.fm/p/shinichi-atobe-4ba"/>
@@ -1340,6 +1422,17 @@ the habits that make it scale over decades: design for use, create structu…]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump can’t trick Americans into loving him]]></title>
+        <id>https://www.salon.com/2026/09/30/trump-cant-trick-americans-into-loving-him/-full</id>
+        <link href="https://www.salon.com/2026/09/30/trump-cant-trick-americans-into-loving-him/"/>
+        <updated>2026-09-30T10:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Donald Trump has never been one for subtlety, so it follows that his taxpayer-funded “public service announcement” instructing Americans to love him would literally feature a gospel choir singing the words “Love Me.” Along with many of his closest allies, the president is a fan of pseudo-science, so perhaps he believes the repetition will have a hypnotic effect on viewers, reversing through pop psychology trickery the free-fall that has beset his approval ratings.
+This is just one of three separate ads, totaling $1.5 million so far, that feel less like a sincere effort to persuade voters and more like an expensive effort by the White House to soothe the temperamental 80-year-old. Either way, what’s indisputable is that Trump is becoming increasingly frustrated that the chicanery he has use…]]></summary>
+        <author>
+            <name>Amanda Marcotte - Salon.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wednesday, September 30, 2026]]></title>
         <id>https://baty.net/journal/30Sep26/</id>
         <link href="https://baty.net/journal/30Sep26/"/>
@@ -1552,6 +1645,16 @@ gets to it.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marcin Borkowski: How many screens left]]></title>
+        <id>https://mbork.pl/2026-09-28_How_many_screens_left</id>
+        <link href="https://mbork.pl/2026-09-28_How_many_screens_left"/>
+        <updated>2026-09-28T18:17:26.000Z</updated>
+        <summary type="html"><![CDATA[One of the things I do in Emacs is reading. Sometimes it is an article copied from the internet using org-web-tools, sometimes it is a long answer to my question to an LLM, and sometimes it is an ebook I’m reading using nov.el. Either way, I often like to know how much I have left.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I’m Terrified of What Will Happen to This Country When We Run Out of Water]]></title>
         <id>http://www.esquire.com/news-politics/politics/a73927931/rio-grande-water-war-texas/</id>
         <link href="https://www.esquire.com/news-politics/politics/a73927931/rio-grande-water-war-texas/"/>
@@ -1643,6 +1746,17 @@ It's currently using only 99 MB of memory. This stuff makes me a little giddy.
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wife school can’t fix MAGA husbands]]></title>
+        <id>https://www.salon.com/2026/09/28/wife-school-cant-fix-maga-husbands/-full</id>
+        <link href="https://www.salon.com/2026/09/28/wife-school-cant-fix-maga-husbands/"/>
+        <updated>2026-09-28T10:45:09.000Z</updated>
+        <summary type="html"><![CDATA[How hard is it to enjoy your husband’s company? According to content made for Christian conservative women, the heaviest cross they may bear is learning to feel affection for their spouses — or at least fake it well enough to buy some peace at home. That’s what I learned perusing the growing field of influencers offering would-be tradwives advice on how to make MAGA marriages work. 
+“Normalize liking your husband,” reads a T-shirt sold by Savanna Stone, a 21-year-old self-proclaimed marriage expert who has been selling content preaching marital submission with the backing of shady far-right funders. At first blush, that may seem like a trifling concept. But, as Stone makes clear in her video content, her definition of liking or even loving a husband is both laborious and ascetic to an extr…]]></summary>
+        <author>
+            <name>Amanda Marcotte - Salon.com</name>
         </author>
     </entry>
     <entry>
@@ -1764,16 +1878,6 @@ I used it to write a test post, and it worked, first try. The app needed no edit
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thirdback]]></title>
-        <id>https://foxtrot.com/?p=6301</id>
-        <link href="https://foxtrot.com/2026/09/27/thirdback/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=thirdback"/>
-        <updated>2026-09-27T05:01:00.000Z</updated>
-        <summary type="html"><![CDATA[FoxTrot by Bill Amend | October 4, 2026]]></summary>
-        <author>
-            <name>Bill Amend</name>
         </author>
     </entry>
 </feed>
