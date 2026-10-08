@@ -2,197 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-07T19:44:40.831Z</updated>
+    <updated>2026-10-08T00:01:01.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Congratulations, the Reflecting Pool is now a swamp]]></title>
-        <id>https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/trump-reflecting-pool-22306630.php"/>
-        <updated>2026-10-07T19:44:40.808Z</updated>
-        <summary type="html"><![CDATA[The one thing that Washington, D.C., has always had going for it is its beauty. The people who run America from this town have always been an unsightly bunch, but they’ve done their nasty work in a city that has acquired, over the course of this country’s lifespan, an aesthetic like no other. No other major American city looks as regally beautiful as D.C. You and I have a long-standing federal law to thank for this, but we also have a collection of national landmarks clustered in the center of the district that the aforementioned law was written to both protect and to showcase. The Capitol. The Lincoln Memorial. The Washington Monument. These are gorgeous edifices, ones designed to outlast old generations and to inspire newer ones. They are the best of D.C., and therefore the best of Ameri…]]></summary>
+        <title type="html"><![CDATA[Sacha Chua: Des commandes vocales pour ajouter des tâches sur Emacs]]></title>
+        <id>https://sachachua.com/blog/2026/10/des-commandes-vocales-sur-emacs-pour-ajouter-des-taches/</id>
+        <link href="https://sachachua.com/blog/2026/10/des-commandes-vocales-sur-emacs-pour-ajouter-des-taches/"/>
+        <updated>2026-10-07T19:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Watch on YouTube
+
+
+
+Liens :
+
+
+
+Orukeet pour la reconnaissance vocale parce qu'il est assez rapide et assez précis.
+sachac/whisper.el
+speech-input
+
+
+0:00 Introduction
+
+Je veux vous présenter ma petite expérience de la reconnaissance vocale pour dicter dans Emacs et pour les contrôler. J'utilise le modèle Orukeet pour la reconnaissance vocale parce qu'il est assez rapide et assez précis. Je l'intègre dans Emacs en utilisant mes bibliothèques sachac/whisper.el et speech-input. J'ai récemment créé des commandes vocales pour ajouter des éléments à ma liste de tâches. C'est étonnement utile parce que ça réduit la charge cognitive liée à la mémorisation des raccourcis clavier. Je vais vous montrer cela. 
+
+0:37 Ajouter des tâches
+
+
+Je presse la touche zéro du pavé numérique avant et après avoir dit « Rappelle-moi demain de préparer une présentation pour Emacs Paris sur les commandes vocales. » La fonction crée une tâche dans ma boîte de réception. La tâche est planifiée pour demain. Il y a un lien vers l'enregistrement 
+
+1:09 D'autres dates
+
+
+« Rappelez-moi demain de préparer une présentation pour Emacs Paris sur les commandes vocales », la capture d'écran et le contexte de tâche. Ça m'aident si j'ai été mal comprise ou si j'ai besoin de contexte. De la même manière, je peux dire « Rappelle-moi la semaine prochaine de faire la paperasse pour l'école. » « Rappelle-moi aujourd'hui de créer une vidéo sur mes commandes vocales. » 
+
+1:59 Basculer à une tâche
+
+
+Je peux aussi créer une tâche et déclencher le suivi du temps (ou clock in). Par exemple, je peux dire « Commence à implémenter la génération des questions. » 
+
+2:15 Retrouver le fil de mes pensées
+
+
+Si je perds le fil de mes pensées : « j'en étais où ? » Ça m'affiche les tâches récentes. 
+
+2:27 Je faisais quoi ?
+
+
+« Je faisais quoi ? » Ça bascule sur la tâche actuelle. Voilà des commandes vocales pour ajouter des tâches.
+
+View Org source for this post
+You can e-mail me at sacha@sachachua.com.]]></summary>
         <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
-        <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
-        <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
-        <updated>2026-10-07T19:44:40.785Z</updated>
-        <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
-Myung J. Chun/LA Times via Getty Images
-I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
-
-This Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brandon Aiyuk's NFL career is already over]]></title>
-        <id>https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full</id>
-        <link href="https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php"/>
-        <updated>2026-10-07T19:44:40.784Z</updated>
-        <summary type="html"><![CDATA[The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. 
-
-Which brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
-        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
-        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
-        <updated>2026-10-07T19:44:40.783Z</updated>
-        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
-
-Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
-        <updated>2026-10-07T19:44:40.775Z</updated>
-        <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-10-07T19:44:40.759Z</updated>
-        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
-
-To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Anya Taylor-Joy vehicle is so stupid and so good]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php"/>
-        <updated>2026-10-07T19:44:40.753Z</updated>
-        <summary type="html"><![CDATA[Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. 
-
-It knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-10-07T19:44:40.735Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
-
-That’s when Anthony Bourdain wo…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
-        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
-        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-10-07T19:44:40.734Z</updated>
-        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
-
-Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-10-07T19:44:40.706Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
-        <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
-        <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-10-07T19:44:40.689Z</updated>
-        <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
-
-Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
-
-Your team: San Francisco 49ers.
-
-
-Advertisement
-Article continues below this ad
-
-
-Your 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
-        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
-        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-10-07T19:44:40.675Z</updated>
-        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
-
-Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
-
-The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-10-07T19:44:40.673Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
-
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
-        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
-        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
-        <updated>2026-10-07T19:44:40.652Z</updated>
-        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
-
-This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
-
-I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
-        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
-        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-10-07T19:44:40.647Z</updated>
-        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
-
-Actually,…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
+            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -238,6 +102,22 @@ This week, Chris answers a question about a child who simply will not play alone
         <summary type="html"><![CDATA[I have tried over the past year and change to find a succinct way to tell this story and instead only keep coming up with longer and more elaborate versions. So: way back in law school I read a lot of John Buchan novels. If you are not familiar with John Buchan, know that he wrote a series of thrillers, one of which was made into a Hitchcock movie, and that he was also Governor General of Canada. Reading Buchan was not the first time I had heard of him; when I was a small child I had a set of E. Nesbit books published by (I think) Puffin and in the back pages they would advertise other books for young readers and Buchan was basically always in there along with, I’m pretty sure, H. Rider Haggard’s She, which paints a somewhat strange picture of what Puffin thought small children needed, boo…]]></summary>
         <author>
             <name>Felix Kent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried to move my notes out of Emacs. I failed. Again.]]></title>
+        <id>https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/</id>
+        <link href="https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/"/>
+        <updated>2026-10-07T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Every so often I suffer from what I call "Emacs Fatigue". It's closely related to "Text File Fatigue". Using Emacs tends to pull one toward using it for everything, which is what I'd done. Then, I simply grow tired of staring at the same thing every day. When this happens, I "decide" to uproot my life and move my notes into something else. This time, that something else was Bear.
+Bear is great. It's solid, beautiful, and refreshingly simple. It syncs flawlessly (for free) and runs on macOS and iOS. It's also inexpensive. It uses an SQLite database, which doesn't bother me. Databases are great at this stuff. All the "But but what if the database...?!" talk is mostly hearsay anyway.
+The thing that made me twitchy was that it felt like my notes were "in there". It's not the database. It's the fact that everything is in an app, and that app makes me need to use that app. This is how I'd started to feel about Emacs, but mostly due to Org mode.
+Bear is macOS and iOS only, which should be fine for someone like me who has "decided" to live on macOS. And yet, Linux continues to emit a low-grade hum in the back of my head that I can't ignore.
+If I don't want my notes in Org mode files, but I'm still drawn toward Emacs, what should I do? Denote! That's where they'd all started in the first place, but as .org not .md. I'd nearly forgotten that Denote handles Markdown files natively. One Emacs configuration change and I was back where I belong. And since Bear notes are already Markdown, all it took was an export and a (Claude Code-assisted) conversion script for file names, links, and attachments.
+So yes, I've done that thing where I quit using Emacs only to come crawling back later. I know better, but knowing better doesn't stop me. Maybe I'll work on a sync/bridge between Denote and Bear. That would be neat.
+✍️ Reply by email]]></summary>
+        <author>
+            <name>baty.net</name>
         </author>
     </entry>
     <entry>
@@ -313,8 +193,8 @@ Chua’s solution strikes me as an example of Emacs at its best. The problem it 
         <id>https://defector.com/?p=237509</id>
         <link href="https://defector.com/content-machines-review"/>
         <updated>2026-10-07T15:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Every season, there’s a particular sort of novel that elicits its own genre of disdain. It’s somehow “too personal” and also lacking in “depth.” It’s called things like indulgent, trashy, lazy, artless, frivolous, embarrassing, or perhaps just very online. This is the mauvais genre of our times, the gimmick of the not-quite-memoir, autofiction. Over the summer, as Rachel Cusk’s Life of M: A Novel  took its turn, Grace Byron remarked that by now, speculation over the genre’s boundaries of fact and fiction is “its own bloodsport.” Since its rise in the 2010s, “the only thing trendier and triter than writing autofiction is hating autofiction,” as Sanjena Sathian put it in 2022. But why, if it is so silly and unserious, does this genre seem to pose such an enduring threat?
-To perennial debates…]]></summary>
+        <summary type="html"><![CDATA[Every season, there’s a particular sort of novel that elicits its own genre of disdain. It’s somehow “too personal” and also lacking in “depth.” It’s called things like indulgent, trashy, lazy, artless, frivolous, embarrassing, or perhaps just very online. This is the mauvais genre of our times, the gimmick of the not-quite-memoir, autofiction. Over the summer, as Rachel Cusk’s Life of M: A Novel took its turn, Grace Byron remarked that by now, speculation over the genre’s boundaries of fact and fiction is “its own bloodsport.” Since its rise in the 2010s, “the only thing trendier and triter than writing autofiction is hating autofiction,” as Sanjena Sathian put it in 2022. But why, if it is so silly and unserious, does this genre seem to pose such an enduring threat?
+To perennial debates …]]></summary>
         <author>
             <name>Madeline Lane-McKinley</name>
         </author>
@@ -440,17 +320,6 @@ Regarding "vibe-coded" apps, my current feeling is this... If an app works the w
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pete Hegseth’s holy war on “weirdos” targets most Americans]]></title>
-        <id>https://www.salon.com/2026/10/07/pete-hegseths-holy-war-on-weirdos-targets-most-americans/-full</id>
-        <link href="https://www.salon.com/2026/10/07/pete-hegseths-holy-war-on-weirdos-targets-most-americans/"/>
-        <updated>2026-10-07T10:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Pete Hegseth is odd. This isn’t just a personal opinion, though there’s no doubt that he gets widely mocked for his carefully cultivated public persona, which is a mix of megachurch preacher, gym rat and Robert Duvall’s napalm-huffing character in “Apocalypse Now.” The fact that the defense secretary is different is simply a statistical reality.
-It’s not just that he’s a white evangelical Christian, a group that, according to PRRI, makes up only 13% of the population. Hegseth’s church, the Communion of Reformed Evangelical Churches, is extreme even for the right, with a leader who argues against women’s suffrage and teaches that slavery was the height of “mutual intimacy and harmony” between the races. Even within MAGA, those remain fringe positions, despite great efforts by some Christian…]]></summary>
-        <author>
-            <name>Amanda Marcotte - Salon.com</name>
         </author>
     </entry>
     <entry>
@@ -805,17 +674,6 @@ The nice part is that I'm in complete control of the software that my Fediverse 
 ✍️ Reply by email]]></summary>
         <author>
             <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jon Ossoff’s not-so-secret weapon against JD Vance and Marco Rubio]]></title>
-        <id>https://www.salon.com/2026/10/05/jon-ossoffs-not-so-secret-weapon-against-jd-vance-and-marco-rubio/-full</id>
-        <link href="https://www.salon.com/2026/10/05/jon-ossoffs-not-so-secret-weapon-against-jd-vance-and-marco-rubio/"/>
-        <updated>2026-10-05T10:45:52.000Z</updated>
-        <summary type="html"><![CDATA[For more than a year, journalists Maggie Haberman and Jonathan Swan had been trying — and largely failing — to raise awareness about the very strange story of Donald Trump and his aide Natalie Harp. Shortly after the 2024 election, the New York Times journalists published a profile of the lithe blonde in her early 30s, complete with photos of her gazing at Trump adoringly, explaining how she left him love letters with language like, “You are all that matters to me.” On Aug. 16, Haberman was still trying to raise the issue during an appearance on MS NOW, describing Harp as Trump’s “human binky.”
-But in the end, it was Sen. Jon Ossoff, D-Ga., who woke up much of the public to this disturbing relationship by mentioning Harp on the campaign trail. “He doesn’t want to do the job,” the senator s…]]></summary>
-        <author>
-            <name>Amanda Marcotte - Salon.com</name>
         </author>
     </entry>
     <entry>
@@ -1233,18 +1091,6 @@ The true believers…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cornell assault case shows #MeToo didn’t go far enough]]></title>
-        <id>https://www.salon.com/2026/10/02/cornell-assault-case-shows-metoo-didnt-go-far-enough/-full</id>
-        <link href="https://www.salon.com/2026/10/02/cornell-assault-case-shows-metoo-didnt-go-far-enough/"/>
-        <updated>2026-10-02T10:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Jane Doe, a former Cornell University student who has filed a civil lawsuit alleging gang rape at the hands of seven Chi Phi fraternity members, has struggled since she first reported the incident to the police in November 2024, a few weeks after night a frat party turned ugly. “Her life has been destroyed,” her attorney Thomas Giuffra told CNN’s Jake Tapper. Unlike most of the alleged assailants, Doe left college after what Giuffra has described as a “horrifying” semester in which she had to attend classes “where she saw these guys on a fairly regular basis.” 
-She was not from “a wealthy family,” he said. “This was her dream and it was taken away from her at a young age in just a horrific fashion.”
-But according to some on the right, Doe has not suffered enough for reporting her alleged a…]]></summary>
-        <author>
-            <name>Amanda Marcotte - Salon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shinichi Atobe]]></title>
         <id>https://www.flowstate.fm/p/shinichi-atobe-4ba</id>
         <link href="https://www.flowstate.fm/p/shinichi-atobe-4ba"/>
@@ -1619,17 +1465,6 @@ the habits that make it scale over decades: design for use, create structu…]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trump can’t trick Americans into loving him]]></title>
-        <id>https://www.salon.com/2026/09/30/trump-cant-trick-americans-into-loving-him/-full</id>
-        <link href="https://www.salon.com/2026/09/30/trump-cant-trick-americans-into-loving-him/"/>
-        <updated>2026-09-30T10:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Donald Trump has never been one for subtlety, so it follows that his taxpayer-funded “public service announcement” instructing Americans to love him would literally feature a gospel choir singing the words “Love Me.” Along with many of his closest allies, the president is a fan of pseudo-science, so perhaps he believes the repetition will have a hypnotic effect on viewers, reversing through pop psychology trickery the free-fall that has beset his approval ratings.
-This is just one of three separate ads, totaling $1.5 million so far, that feel less like a sincere effort to persuade voters and more like an expensive effort by the White House to soothe the temperamental 80-year-old. Either way, what’s indisputable is that Trump is becoming increasingly frustrated that the chicanery he has use…]]></summary>
-        <author>
-            <name>Amanda Marcotte - Salon.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wednesday, September 30, 2026]]></title>
         <id>https://baty.net/journal/30Sep26/</id>
         <link href="https://baty.net/journal/30Sep26/"/>
@@ -1925,48 +1760,6 @@ EmacsATX: Emacs Social https://www.meetup.com/emacsatx/events/316464079/ Thu Oct
 Sacha Chua: Oct 2 - Emacs Chat 31: Pedro A. Aranda Gutierrez (Pr…]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Swift wrapper for my little CMS]]></title>
-        <id>https://baty.net/posts/2026/09/a-swift-wrapper-for-my-little-cms/</id>
-        <link href="https://baty.net/posts/2026/09/a-swift-wrapper-for-my-little-cms/"/>
-        <updated>2026-09-28T11:36:23.000Z</updated>
-        <summary type="html"><![CDATA[I didn't want the Baty.net Editor to be just another tab buried in my browser, so I had Claude make me a real Mac app out of it.
-In a normal world, the only way I'd be able to split a website into its own app would be "Add to Dock" via Safari. That would work, but it would mean that running the local Node server for Eleventy was a separate step from the app. It would also only have Safari's default menus.
-I wanted something nicer, so I had Claude build me a Swift wrapper. I suppose I could have used something like Electron, but my Mac Mini only has 16 GB of memory, so Electron would be too heavy.
-It took Claude Code 15 minutes to wrap the thing, create the app, add an icon, write the readme, and commit all of it. What a world.
-
-When I launch the app, it starts the server automatically. Also, there are actual menus.
-
-It's currently using only 99 MB of memory. This stuff makes me a little giddy.
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wife school can’t fix MAGA husbands]]></title>
-        <id>https://www.salon.com/2026/09/28/wife-school-cant-fix-maga-husbands/-full</id>
-        <link href="https://www.salon.com/2026/09/28/wife-school-cant-fix-maga-husbands/"/>
-        <updated>2026-09-28T10:45:09.000Z</updated>
-        <summary type="html"><![CDATA[How hard is it to enjoy your husband’s company? According to content made for Christian conservative women, the heaviest cross they may bear is learning to feel affection for their spouses — or at least fake it well enough to buy some peace at home. That’s what I learned perusing the growing field of influencers offering would-be tradwives advice on how to make MAGA marriages work. 
-“Normalize liking your husband,” reads a T-shirt sold by Savanna Stone, a 21-year-old self-proclaimed marriage expert who has been selling content preaching marital submission with the backing of shady far-right funders. At first blush, that may seem like a trifling concept. But, as Stone makes clear in her video content, her definition of liking or even loving a husband is both laborious and ascetic to an extr…]]></summary>
-        <author>
-            <name>Amanda Marcotte - Salon.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monday, September 28, 2026]]></title>
-        <id>https://baty.net/journal/28Sep26/</id>
-        <link href="https://baty.net/journal/28Sep26/"/>
-        <updated>2026-09-28T09:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Red Bench (2015)
-My little SSG CMS has changed the way I feel about writing on this blog. I'm sure it's a reaction to Text File Fatigue. I've hit a wall with looking at everything I read and write via Emacs. I'm bored with it, so writing in this clean, simple little web UI is refreshing.
-Speaking of subscriptions, subscription fatigue has a been a thing with me for a while. My rule now is that unless you're providing me with infrastructure, storage, or some other service that has ongoing costs for you, I'm not paying a subscription fee. An app that I download once and then just does what it does, all by itself, should not require a monthly payment from me. LLMs have gotten so good at creating useful, personal tools that the first thing I think when I see that an app has an unnecessary subscription is, "I guess I'll just make my own."
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
         </author>
     </entry>
 </feed>
