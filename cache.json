@@ -6,6 +6,16 @@
       "siteUrl": "https://baty.net/index.xml",
       "articles": [
         {
+          "id": "https://baty.net/posts/2026/10/small-prophets-tv/",
+          "author": null,
+          "description": "\"Small Prophets\" (Apple TV) has exactly my kind of vibe. After 2 episodes it's my new favorite show. Probably because it was created by Mackenzie Crooke, who also did the great \"Detectorists\".\n✍️ Reply by email",
+          "link": "https://baty.net/posts/2026/10/small-prophets-tv/",
+          "publishedOn": "2026-10-11T10:28:23.000Z",
+          "wordCount": 102,
+          "title": "Small Prophets (TV)",
+          "imageUrl": "https://baty.net/img/2026/20261011-small-prophets-card.jpg"
+        },
+        {
           "id": "https://baty.net/journal/10Oct26/",
           "author": null,
           "description": "Freight Elevator (2011)\nThis is fun: Triple-A Minesweeper\nIt's my grandson's 3rd birthday. He's so great I can hardly stand it.\nThe complicateder I make things, the oftener things break, and the difficulter they are to fix.\n✍️ Reply by email",
@@ -185,7 +195,7 @@
         {
           "id": "https://www.jamescherti.com/restore-emacs-tree-sitter-syntax-highlighting-in-indirect-buffers/",
           "author": null,
-          "description": "In Emacs 31+, an issue appeared where creating an indirect buffer from a base buffer running a tree-sitter major mode results in a loss of syntax highlighting. I reported this issue, but the Emacs maintainers will not fix it (hopefully, they will see the benefit of fixing it one day, once they find a way to fix the architecture). This means that users who depend on indirect buffers are left without a solution. To address this, I wrote a workaround that fixes syntax highlighting in cloned indirect buffers that use tree-sitter in Emacs >= 31. (See below.) Note: I published … Continue reading →\nRelated posts:\n\noutline-indent.el - A modern indentation-based folding mode for Emacs\npersist-text-scale.el - Persist and Restore the Text Scale\nbufferfile: Rename, delete, or copy files and update the…",
+          "description": "In Emacs 31+, an issue appeared where creating an indirect buffer from a base buffer running a tree-sitter major mode results in a loss of syntax highlighting. I reported this issue, but the Emacs maintainers will not fix it (hopefully, they will see the benefit of fixing it one day, once they find a way to fix the architecture). This means that users who depend on indirect buffers are left without a solution. To address this, I wrote a workaround that fixes syntax highlighting in cloned indirect buffers that use tree-sitter in Emacs >= 31. (See below.) Note: I published … Continue reading →",
           "link": "https://www.jamescherti.com/restore-emacs-tree-sitter-syntax-highlighting-in-indirect-buffers/",
           "publishedOn": "2026-10-08T12:45:56.000Z",
           "wordCount": 2313,
@@ -295,10 +305,10 @@
         {
           "id": "https://www.jamescherti.com/emacs-user-interface-better-responsiveness-and-latency/",
           "author": null,
-          "description": "When I first changed from Vim to Emacs a few years ago, the editor's user interface felt sluggish. I quickly learned that the Emacs UI itself is not slow, rather, its default settings can make it feel that way. To restore the instant feedback loop I was accustomed to, I needed to enhance Emacs defaults. (FYI: Enhancing default settings is what drove me to develop minimal-emacs.d) The configurations below are the result of my tuning process to enhance the perceived Emacs UI responsiveness and latency. These settings are best treated as independent experiments. I recommend testing these adjustments iteratively. Before … Continue reading →\nRelated posts:\n\nOptimizing Emacs startup - Guide to deferred package loading with use-package\nConfiguring Emacs Eglot for Better Performance and Latency\nMe…",
+          "description": "When I first changed from Vim to Emacs a few years ago, the editor's user interface felt sluggish. I quickly learned that the Emacs UI itself is not slow. Its default settings can make it feel that way. To restore the instant feedback loop I was used to, I needed to enhance Emacs defaults. (FYI: Enhancing default settings is what drove me to develop minimal-emacs.d) The configurations below are the result of my tuning process to enhance the perceived Emacs UI responsiveness and latency. These settings are best treated as independent experiments. I recommend testing these adjustments iteratively. Before we … Continue reading →",
           "link": "https://www.jamescherti.com/emacs-user-interface-better-responsiveness-and-latency/",
           "publishedOn": "2026-10-06T15:38:52.000Z",
-          "wordCount": 3042,
+          "wordCount": 3339,
           "title": "James Cherti: How to Make the Emacs UI Feel More Responsive",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -441,36 +451,6 @@
           "wordCount": 1567,
           "title": "Irreal: 🥩 Red Meat Friday: True Believers",
           "imageUrl": null
-        },
-        {
-          "id": "https://ray-on-emacs.blogspot.com/2026/10/what-is-spook.html",
-          "author": null,
-          "description": "What is spook?\n  The Emacs function spook is\n  not what you think it is.  It doesn't make creepy noises, draw scary\n  ASCII art or change the theme to orange on black.  In fact it has\n  nothing at all to do with Halloween, ghosts, monsters, pandemics or\n  IRS audits.\n\n\n\nWhat it does is insert words and phrases into the current buffer \"to\nhelp give your message ... attractiveness for automated keyword\nscanners.\"\n\n\n\nWhat kind of words or phrases might you expect to see?  To find out I\ninvoked spook while composing this content.  Here's what\nit added:\n\n\n\n\n    TELINT Drug North Korea Security Consulting Virii Abu Ghraib Fort\n    Hancock CUD AMEMB Vaccine MARTA racal E.O.D. Blizzard Nigeria\n  \n\n\n\n  It's easy1 to configure spook to insert an alternate set\n  of words and phrases -- just change the file name in the\n  variable spook-phrases-file from \"spook.lines\" to the\n  name of the alternate file.  Unfortunately it must reside in the\n  Emacs data directory; the file's location is fixed.  The variable\n  can be found in the Spook customization group, whose parent group is\n  Games.\n\n\n\n  Even with only 72 lines in its source code file,2 spook\ndemonstrates how to insert one or more random lines from a file into\nthe current buffer.\n\n\n\n  1 It's \"easy\" if you have Administrator permissions.\n\n\n\n  2 The 72 lines is the entire spook.el file; the first 48%\nof the file provides the usual comments that describe the GNU GPL,\nauthor, maintainer info as well as documentation.",
-          "link": "https://ray-on-emacs.blogspot.com/2026/10/what-is-spook.html",
-          "publishedOn": "2026-10-02T02:17:46.693Z",
-          "wordCount": null,
-          "title": "Raymond Zeitler: What is spook?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://protesilaos.com/codelog/2026-10-02-omarchy-reasonableness/",
-          "author": null,
-          "description": "Raw link: https://www.youtube.com/watch?v=gPaaFJQWVj8\nThis is a summary of comments I made at the ‘Root Access’ podcast.\nThey are on the topic of whether to use Omarchy or not on the basis of\nhow one feels about its author.\nI personally prefer the complete episode because clips can distort the\nvide of the event, such as by making me look angry when in fact we are\nlaughing throughout: https://protesilaos.com/codelog/2026-09-27-emacs-live-root-access-show/.\nAbout ‘Root Access’\nRoot Access is a live conversation with Linkarzu, CEO members, and\ninvited guests about tech, tools, workflows, and what they’re\nbuilding. Guests can share their projects before we dive into the\ndiscussion. Everyone is welcome to watch live and join the chat; the\nfull replay stays public.\nSupport @linkarzu\nWhat’s the “Linkarzu CEOs Monthly Hangout” Podcast\n@linkarzu YouTube memembers\nAll the ‘Root Access’ episodes",
-          "link": "https://protesilaos.com/codelog/2026-10-02-omarchy-reasonableness/",
-          "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 250,
-          "title": "Protesilaos: About Omarchy and reasonableness",
-          "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
-        },
-        {
-          "id": "https://protesilaos.com/codelog/2026-10-02-emacs-ai-copyright-politics/",
-          "author": null,
-          "description": "Raw link: https://www.youtube.com/watch?v=LCWWdcu8Wx8\nThis is a summary of comments I made at the ‘Root Access’ podcast.\nThey are on the topic of AI-generated contributions to Emacs and the\nwider discussion on free software politics.\nI personally prefer the complete episode because clips can distort the\nvide of the event, such as by making me look angry when in fact we are\nlaughing throughout: https://protesilaos.com/codelog/2026-09-27-emacs-live-root-access-show/.\nAbout ‘Root Access’\nRoot Access is a live conversation with Linkarzu, CEO members, and\ninvited guests about tech, tools, workflows, and what they’re\nbuilding. Guests can share their projects before we dive into the\ndiscussion. Everyone is welcome to watch live and join the chat; the\nfull replay stays public.\nSupport @linkarzu\nWhat’s the “Linkarzu CEOs Monthly Hangout” Podcast\n@linkarzu YouTube memembers\nAll the ‘Root Access’ episodes",
-          "link": "https://protesilaos.com/codelog/2026-10-02-emacs-ai-copyright-politics/",
-          "publishedOn": "2026-10-02T00:00:00.000Z",
-          "wordCount": 259,
-          "title": "Protesilaos: About Emacs, AI contributions, and the politics of copyright",
-          "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
         }
       ]
     },
@@ -671,16 +651,6 @@
           "wordCount": 3649,
           "title": "Saturday 80s Jam: Flashdance…What a Feeling – Irene Cara",
           "imageUrl": null
-        },
-        {
-          "id": "https://stuffthatinterestsme.net/?p=3790",
-          "author": "Schill",
-          "description": "You’re weekly dose of funny and silly pictures and memes.",
-          "link": "https://stuffthatinterestsme.net/friday-funnies-5/",
-          "publishedOn": "2026-10-02T00:29:14.000Z",
-          "wordCount": 1250,
-          "title": "Friday Funnies",
-          "imageUrl": null
         }
       ]
     },
@@ -743,21 +713,11 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
-          "author": null,
-          "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
-          "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-11T08:18:25.736Z",
-          "wordCount": 177,
-          "title": "'The Odyssey' wants you to suffer",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full",
           "author": null,
           "description": "The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. \n\nWhich brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…",
           "link": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php",
-          "publishedOn": "2026-10-11T08:18:25.728Z",
+          "publishedOn": "2026-10-11T16:09:05.126Z",
           "wordCount": 177,
           "title": "Brandon Aiyuk's NFL career is already over",
           "imageUrl": null
@@ -767,9 +727,19 @@
           "author": null,
           "description": "Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  \n\nYes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…",
           "link": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php",
-          "publishedOn": "2026-10-11T08:18:25.725Z",
+          "publishedOn": "2026-10-11T16:09:05.111Z",
           "wordCount": 177,
           "title": "It's easy to blame the USMNT's World Cup crashout on one man. So I will.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
+          "author": null,
+          "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
+          "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
+          "publishedOn": "2026-10-11T16:09:05.099Z",
+          "wordCount": 177,
+          "title": "'The Odyssey' wants you to suffer",
           "imageUrl": null
         },
         {
@@ -777,7 +747,7 @@
           "author": null,
           "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
           "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-11T08:18:25.722Z",
+          "publishedOn": "2026-10-11T16:09:05.084Z",
           "wordCount": 177,
           "title": "If you don't hate data centers yet, boy do I have news for you",
           "imageUrl": null
@@ -787,7 +757,7 @@
           "author": null,
           "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
           "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-11T08:18:25.717Z",
+          "publishedOn": "2026-10-11T16:09:05.082Z",
           "wordCount": 177,
           "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
           "imageUrl": null
@@ -797,7 +767,7 @@
           "author": null,
           "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
           "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-11T08:18:25.708Z",
+          "publishedOn": "2026-10-11T16:09:05.045Z",
           "wordCount": 177,
           "title": "California is on fire and these people are profiting off it",
           "imageUrl": null
@@ -807,9 +777,19 @@
           "author": null,
           "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
           "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-11T08:18:25.706Z",
+          "publishedOn": "2026-10-11T16:09:05.043Z",
           "wordCount": 177,
           "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "author": null,
+          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
+          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
+          "publishedOn": "2026-10-11T16:09:05.026Z",
+          "wordCount": 177,
+          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
         },
         {
@@ -817,7 +797,7 @@
           "author": null,
           "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
           "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-11T08:18:25.705Z",
+          "publishedOn": "2026-10-11T16:09:05.025Z",
           "wordCount": 177,
           "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
@@ -827,29 +807,9 @@
           "author": null,
           "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
           "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-11T08:18:25.704Z",
+          "publishedOn": "2026-10-11T16:09:05.025Z",
           "wordCount": 177,
           "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
-          "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-11T08:18:25.703Z",
-          "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-11T08:18:25.699Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -857,9 +817,19 @@
           "author": null,
           "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
           "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-11T08:18:25.698Z",
+          "publishedOn": "2026-10-11T16:09:05.010Z",
           "wordCount": 177,
           "title": "I found one of America's best croissants in San Francisco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
+          "author": null,
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-10-11T16:09:04.996Z",
+          "wordCount": 177,
+          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -867,7 +837,7 @@
           "author": null,
           "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
           "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-11T08:18:25.694Z",
+          "publishedOn": "2026-10-11T16:09:04.993Z",
           "wordCount": 177,
           "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
           "imageUrl": null
@@ -877,7 +847,7 @@
           "author": null,
           "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
           "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-10-11T08:18:25.690Z",
+          "publishedOn": "2026-10-11T16:09:04.969Z",
           "wordCount": 177,
           "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
@@ -887,7 +857,7 @@
           "author": null,
           "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
           "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-10-11T08:18:25.684Z",
+          "publishedOn": "2026-10-11T16:09:04.966Z",
           "wordCount": 177,
           "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
           "imageUrl": null
@@ -915,7 +885,7 @@
           "description": "One particularly crazy Republican out of Nevada wants to verify voters’ identities by “measuring their heartbeats.”",
           "link": "https://www.esquire.com/news-politics/politics/a74082152/midterm-elections-republican-candidates/",
           "publishedOn": "2026-10-08T17:25:21.000Z",
-          "wordCount": 19743,
+          "wordCount": 19778,
           "title": "Is It Just Me, or Has the GOP Produced More Loony Midterm Candidates Than Ever Before?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bc1aa1c4-9c45-497d-9111-cf49082ef54f.jpeg?crop=1xw:0.724xh;0xw,0.276xh&resize=1200:*"
         },
@@ -935,7 +905,7 @@
           "description": "Right-wing crazies from around the world are starting to find him useful. That’s more than a little dangerous.",
           "link": "https://www.esquire.com/news-politics/politics/a74068854/trump-republika-srpska-poland-defense-minister-meeting-allies/",
           "publishedOn": "2026-10-07T18:42:39.000Z",
-          "wordCount": 18578,
+          "wordCount": 18581,
           "title": "Trump’s Making Allies with All the Wrong People in All the Wrong Places",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/76e2c9d5-7e21-460a-8a58-58e0b046b0e7.jpeg?crop=1xw:0.749902037618xh;center,top&resize=1200:*"
         },
@@ -945,7 +915,7 @@
           "description": "Turns out the North Dakota governor’s residence doubles as a haunted house.",
           "link": "https://www.esquire.com/news-politics/politics/a74065870/north-dakota-governors-residence-burial-ground/",
           "publishedOn": "2026-10-07T14:53:29.000Z",
-          "wordCount": 17532,
+          "wordCount": 17535,
           "title": "Maybe We Shouldn’t Construct Government Buildings on Burial Grounds",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/dfd03d1e-a837-4e6b-b785-3b4426d7e50a.jpeg?crop=1xw:0.749920458161xh;center,top&resize=1200:*"
         },
@@ -1008,16 +978,6 @@
           "wordCount": 24187,
           "title": "Russell Vought and His Budgeting Cronies Are Using This Sketchy Loophole to Control Government Spending",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b7cc4227-e157-486e-a245-7e9033a422d9.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a73985111/doj-trump-vance-todd-blanche-nixon-watergate/",
-          "author": null,
-          "description": "Attorney general Todd Blanche will really do anything his puppeteers tell him, huh?",
-          "link": "https://www.esquire.com/news-politics/politics/a73985111/doj-trump-vance-todd-blanche-nixon-watergate/",
-          "publishedOn": "2026-10-01T21:26:28.000Z",
-          "wordCount": 19895,
-          "title": "Instead of Doing Anything Valuable, the DOJ Is Trying to Recast Richard Nixon as the Victim of Watergate",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/97d42ff9-f816-4101-a9e4-8385848728a2.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         }
       ]
     },
