@@ -143,12 +143,42 @@
       "siteUrl": "https://planet.emacslife.com/",
       "articles": [
         {
+          "id": "https://www.jamescherti.com/emacs-org-ibullets/",
+          "author": null,
+          "description": "The org-ibullet Emacs package provides a minor mode that enhances org-mode by displaying headings bullets as UTF-8 characters. Features Replace standard Org mode bullets with visually appealing UTF-8 characters. Customizable bullet list for different heading levels. Supports inline tasks with appropriate bullet representation. Configurable face for bullets to match your theme. Installation Install with straight (preferred) To install org-ibullets with straight.el: It if hasn't already been done, add the straight.el bootstrap code to your init file. Add the following code to the Emacs init file: (use-package org-ibullets :commands org-ibullets-mode :straight (org-ibullets :type git :host github :repo \"jamescherti/org-ibullets.el\") :hook (org-mode . … Continue reading →",
+          "link": "https://www.jamescherti.com/emacs-org-ibullets/",
+          "publishedOn": "2026-10-12T17:30:47.000Z",
+          "wordCount": 2343,
+          "title": "James Cherti: org-ibullets - Display Org mode heading stars as UTF-8 bullets",
+          "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
+        },
+        {
+          "id": "https://www.jamescherti.com/emacs-wizard-el/",
+          "author": null,
+          "description": "The wizard Emacs package provides a collection of useful Emacs functions. The philosophy behind this package is simple: use the built-in functions Emacs already provides to do what complex third-party packages do. Instead of rewriting complex logic from scratch or adding heavy external dependencies, wizard uses built-in Emacs functions to deliver practical features. (For example, to highlighting TODO, it uses the built-in hi-lock) Features Overview Visuals & Highlighting Symbol highlight: (wizard-toggle-highlight-at-point) toggles highlighting for the symbol under your cursor or the active selection. It is a lightweight alternative to the highlight-symbol package. Native TODO highlighting: (wizard-hl-todo-mode 1) automatically highlights codetags … Continue reading →",
+          "link": "https://www.jamescherti.com/emacs-wizard-el/",
+          "publishedOn": "2026-10-12T17:19:21.000Z",
+          "wordCount": 3162,
+          "title": "James Cherti: wizard.el - A Lightweight suite of useful Emacs functions",
+          "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
+        },
+        {
+          "id": "https://sachachua.com/blog/2026/10/2026-10-12-emacs-news/",
+          "author": null,
+          "description": "Upcoming events (iCal file, Org):\n\nEmacs.si (in person): Emacs.si meetup #10 2026 (v #živo) https://dogodki.kompot.si/events/df5d39f6-4d78-4841-b207-ef2c9e60bd5c Mon Oct 12 1900 CET\nEmacs Paris: S: Emacs workshop in Paris (online) https://emacs-doctor.com/ Tue Oct 13 0830 America/Vancouver - 1030 America/Chicago - 1130 America/Toronto - 1530 Etc/UTC - 1730 Europe/Berlin - 2100 Asia/Kolkata - 2330 Asia/Singapore\nEmacs Berlin: In-Person-Only Emacs-Berlin Stammtisch https://emacs-berlin.org/ Tue Oct 13 1900 Europe/Berlin\nOrgMeetup (virtual) https://orgmode.org/worg/orgmeetup.html Wed Oct 14 0900 America/Vancouver - 1100 America/Chicago - 1200 America/Toronto - 1600 Etc/UTC - 1800 Europe/Berlin - 2130 Asia/Kolkata – Thu Oct 15 0000 Asia/Singapore\nOrgDevMeetup https://bbb.emacsverse.org/rooms/o…",
+          "link": "https://sachachua.com/blog/2026/10/2026-10-12-emacs-news/",
+          "publishedOn": "2026-10-12T11:58:28.000Z",
+          "wordCount": 1149,
+          "title": "Sacha Chua: 2026-10-12 Emacs news",
+          "imageUrl": null
+        },
+        {
           "id": "https://protesilaos.com/codelog/2026-10-12-emacs-live-denote-data-testing/",
           "author": null,
           "description": "Raw link: https://www.youtube.com/watch?v=5xNWU8EcUeI\n[ The stream will be recorded. You can watch it later. ]\nThis evening I will do a live stream where I will continue developing\nthe new denote-data feature for denote: it is an opt-in, in-memory\ncache with no dependencies that speeds up all sorts of operations.\nI have made lots of improvements to it and it is already looking very\npromising, though I plan to develop it further and eventually write\nert tests for it.\nI will keep the chat on the side and shall respond to any questions\nabout my programming but also any other issue (the other day I did a\n5-hour live stream on the topic of “ask me anything” because my live\nstreams tend to be that, anyway—recording here:\nhttps://protesilaos.com/codelog/2026-10-08-ask-me-anything-emacs-tech-politics-life/).",
           "link": "https://protesilaos.com/codelog/2026-10-12-emacs-live-denote-data-testing/",
           "publishedOn": "2026-10-12T00:00:00.000Z",
-          "wordCount": 266,
+          "wordCount": 250,
           "title": "Protesilaos: Emacs ‘denote-data’ testing live today, 2026-10-12, at 16:00 Europe/Athens",
           "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
         },
@@ -168,9 +198,19 @@
           "description": "1. I did have this post from Curtis McHale about the future of Emacs interaction in my TODO queue so I decided to do a quick write up about it.\n\n\nMcHale’s contention is that we use keyboards because they’re the best way of interfacing with computers. He points to everybody’s favorite keyboard replacement, voice input, but notes that even on Star Trek—that arguably popularized the idea—Captain Picard still tells his crew members where he wants to go and they type in the commands at their control stations.\n\n\nAs I said in my last post on the matter. my written thoughts are always much better organized than my verbal ones so moving to spoken input would be a net loss for me. Still, it will be interesting to see how things play out.\n\n\nFootnotes: \n1 \n\n\n\nOK, OK. Maybe that overstates my usual efforts. I blame whatever sickness I have for that.",
           "link": "https://irreal.org/blog/?p=14143",
           "publishedOn": "2026-10-11T17:24:04.000Z",
-          "wordCount": 1372,
+          "wordCount": 1380,
           "title": "Irreal: Will The Emacs Keyboard Die?",
           "imageUrl": null
+        },
+        {
+          "id": "https://francopasut.netlify.app/post/toc_automatic_blogger/",
+          "author": null,
+          "description": "1. Introduction\n2. TOC Container\n3. JavaScript code for TOC generation\n4. Styling the TOC using CSS\n5. Does it work only in Blogger?\n1. Introduction\nEvery now and then, I use Blogger as a personal system for publishing articles.\nThe articles are structured with sections and subsections and an initial table of contents.\nThe articles are mainly written in Org Mode using Emacs.\nIn this case, the table of contents is generated by the writing system itself during the conversion phase from Org Mode to HTML.",
+          "link": "https://francopasut.netlify.app/post/toc_automatic_blogger/",
+          "publishedOn": "2026-10-11T00:00:00.000Z",
+          "wordCount": 764,
+          "title": "D.V.F.P.: Automatic TOC in BLOGGER articles via HTML code",
+          "imageUrl": "https://francopasut.netlify.app/post/toc_automatic_blogger/featured.jpeg"
         },
         {
           "id": "https://list.orgmode.org/87ecdxj2av.fsf@localhost",
@@ -208,7 +248,7 @@
           "description": "quick post on Sacha’s solution to a problem posed by David Pape. I thought it was a nice solution but then 0-_-0_ pointed out that abo-abo had already solved this problem with his tiny library. So I wrote about that and prepared to move on.\n\n\nI was not allowed to. Frequent commenter Phil remarked in my original post that he would use a keyboard macro. He suggested that that would make sense for those of us who who seldom need to enter a sequence of ranges like Pape. In Pape’s case this was something that he needed to do a lot so a solution like Sacha’s or abo-abo’s make sense. I agree with Phil. A keyboard macro is exactly how I would solve this problem given that I seldom have it.\n\n\nThis seems pretty obvious and might not be worth writing about except that Phil’s solution showed me something that I didn’t know: You can set the initial value of the counter with a Ctrl+u n where n is the desired initial value. That’s a lot easier than using Ctrl+x Ctrl+k Ctrl+c to do the job.\n\n\nAs a final note, I think that Phil had a typo in his macro. As far as I can tell it should be\n\nC-u 47 <f3> # <f3> , SPC <f4> <f4> <f4> <f4> <f4> <f4> <f4> <f4>\n\n\nAt least that’s what works for me.\n\n\nIt turns out that I regularly use a macro with a counter so I’m really happy to learn that the counter can be set so easily.\n\n\nUpdate [2026-10-10 Sat 12:12]: Fixed link.",
           "link": "https://irreal.org/blog/?p=14135",
           "publishedOn": "2026-10-09T15:34:21.000Z",
-          "wordCount": 1471,
+          "wordCount": 1469,
           "title": "Irreal: Still More On Entering Ranges",
           "imageUrl": null
         },
@@ -218,7 +258,7 @@
           "description": "on Sacha Chua’s solution for entering number ranges, 0-_-0_ points out that a solution already exists. That solution is abo-abo’s tiny library. I vaguely remember seeing tiny when abo-abo released it 13 years ago but I never followed up and used it. Still, anything from abo-abo is worth taking a look at and, in any event, we now have two solutions to the problem.\n\n\nAbo-abo’s solution brings to mind another Emacs lesson: very often, if you need some functionality, there’s a good chance that it already exists. Of course, that’s not the same as being easily discoverable. An internal function can usually be discovered through the on-line documentation but a third party library like tiny won’t appear in that documentation until it’s loaded.\n\n\nThat’s it for today. I just wanted to tell the rest of the story from yesterday.",
           "link": "https://irreal.org/blog/?p=14133",
           "publishedOn": "2026-10-08T15:33:30.000Z",
-          "wordCount": 1350,
+          "wordCount": 1348,
           "title": "Irreal: More On Number Ranges",
           "imageUrl": null
         },
@@ -228,7 +268,7 @@
           "description": "In Emacs 31+, an issue appeared where creating an indirect buffer from a base buffer running a tree-sitter major mode results in a loss of syntax highlighting. I reported this issue, but the Emacs maintainers will not fix it (hopefully, they will see the benefit of fixing it one day, once they find a way to fix the architecture). This means that users who depend on indirect buffers are left without a solution. To address this, I wrote a workaround that fixes syntax highlighting in cloned indirect buffers that use tree-sitter in Emacs >= 31. (See below.) Note: I published … Continue reading →",
           "link": "https://www.jamescherti.com/restore-emacs-tree-sitter-syntax-highlighting-in-indirect-buffers/",
           "publishedOn": "2026-10-08T12:45:56.000Z",
-          "wordCount": 2313,
+          "wordCount": 2315,
           "title": "James Cherti: Fixing the Emacs 31+ Tree-sitter syntax highlighting issue in indirect buffers (The Emacs maintainers will not fix it, so I did)",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -258,7 +298,7 @@
           "description": "Raw link: https://www.youtube.com/watch?v=KuxjRH6RF0U\n[ The stream will be recorded. You can watch it later. ]\nThis Saturday, 10 October 2026, at 16:00 Europe/Athens time, I will do\nan “ask me anything” live stream. I have been meaning to do this for a\nlong time, but I never found the chance for it.\nAsk me a question about anything—literally ANYTHING—and I will\ngive you an honest answer (e.g. Emacs, philosophy, technology,\nkeyboards, politics, the hut, Français, and more!). It does not matter\nif the question is personal or sensitive. I will give you a complete\nanswer to the best of my abilities. If you need any ideas, check the\nrest of my website, where I write at length on a broad range of\ntopics.\nThe plan is to do a live stream for at least 1 hour. If there are many\nquestions, I will extend it to 2-3 hour or, generally, for as long as\nneeded. And if there are no questions, then I can do something related\nto Emacs or close the stream earlier—no problem!",
           "link": "https://protesilaos.com/codelog/2026-10-08-ask-me-anything-emacs-tech-politics-life/",
           "publishedOn": "2026-10-08T00:00:00.000Z",
-          "wordCount": 324,
+          "wordCount": 308,
           "title": "Protesilaos: Live: Ask me ANYTHING (2026-10-10 16:00 Europe/Athens)",
           "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
         },
@@ -288,7 +328,7 @@
           "description": "very nice solution to a problem posed by David Pape: how can we enter a range of numbers as list of distinct numbers in Emacs? Pape’s specific problem was entering the numbers of error reports that a Git commit closes. Rather than entering something like\n\ncloses: 47, 48, 49, 50, 51, 70\n\n\nhe’d like to enter something like\n\ncloses: 47-51 70\n\n\nand call an Emacs function to have it expanded into the first example.\n\n\nChua has a very nice solution that covers that case as well things like\n\n47-51, 70\n\n\nor even\n\n5-15/2\n\n\nto expand into the sequence\n\n5, 7, 9, 11, 13, 15\n\n\nMost of the heavy lifting is done by the number-sequence function. The rest of the work is parsing the input string into either a single number or a range of numbers that number-sequence can work on.\n\n\nChua’s solution strikes me as an example of Emacs at its best. The problem it solves is not earth shattering. It’s simply a bit of friction in a user’s everyday workflow but Emacs easily provides a solution that makes the friction disappear. Take a look at her code. It not only shows an ingenious solution to the problem but also demonstrates the power of Emacs and Elisp to make the application of that genius simple.",
           "link": "https://irreal.org/blog/?p=14131",
           "publishedOn": "2026-10-07T15:40:09.000Z",
-          "wordCount": 1427,
+          "wordCount": 1425,
           "title": "Irreal: Inserting Number Ranges As A List",
           "imageUrl": null
         },
@@ -318,7 +358,7 @@
           "description": "Raw link: https://www.youtube.com/watch?v=fGjH82DeF7c\n[ The stream will be recorded. You can watch it later. ]\nThis is a spontaneous live stream. I am working on a new feature for\nmy ‘denote’ Emacs package. The idea is to implement an optional\nin-memory cache that can help speed up certain operations.",
           "link": "https://protesilaos.com/codelog/2026-10-07-emacs-live-denote-data-development/",
           "publishedOn": "2026-10-07T00:00:00.000Z",
-          "wordCount": 203,
+          "wordCount": 187,
           "title": "Protesilaos: Emacs: spontaneous live new ‘denote-data’ feature (2026-10-07 at 18:00 Europe/Athens)",
           "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
         },
@@ -328,7 +368,7 @@
           "description": "extolling the power of plain text. It’s a notion that’s familiar to all us Emacs users and even more so to Org users. We Org users (or more generally Markdown and other markup users) can write plain text and have it formatted for output in a variety of ways. The point is, the text stays text and is readable even without the formatting.\n\n\nAs nickb says, text written today will still be readable 50 years from now. Sure, UTF-8 and the other Unicode formats can and do add new characters from time to time but text written today will have the same meaning even if new characters are added.\n\n\nThe most important aspect is that you’ll own your data no matter what programs come and go. Emacs isn’t going anywhere but even if it did, it wouldn’t matter. Text will still be readable and something like Org or Markdown will still make intended formatting obvious even if Org and Markdown no longer exist.\n\n\nNickb acknowledges that text is not the right answer for everything. You wouldn’t, for example, want to represent a photograph in plain text and there are lots of other examples. Still, for many applications, plain text is not only sufficient but probably the better solution.",
           "link": "https://irreal.org/blog/?p=14129",
           "publishedOn": "2026-10-06T17:53:04.000Z",
-          "wordCount": 1425,
+          "wordCount": 1423,
           "title": "Irreal: The Power Of Plain Text",
           "imageUrl": null
         },
@@ -338,17 +378,17 @@
           "description": "When I first changed from Vim to Emacs a few years ago, the editor's user interface felt sluggish. I quickly learned that the Emacs UI itself is not slow. Its default settings can make it feel that way. To restore the instant feedback loop I was used to, I needed to enhance Emacs defaults. (FYI: Enhancing default settings is what drove me to develop minimal-emacs.d) The configurations below are the result of my tuning process to enhance the perceived Emacs UI responsiveness and latency. These settings are best treated as independent experiments. I recommend testing these adjustments iteratively. Before we … Continue reading →",
           "link": "https://www.jamescherti.com/emacs-user-interface-better-responsiveness-and-latency/",
           "publishedOn": "2026-10-06T15:38:52.000Z",
-          "wordCount": 3339,
+          "wordCount": 3341,
           "title": "James Cherti: How to make the Emacs UI feel more responsive",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
         {
           "id": "https://sachachua.com/blog/2026/10/emacs-lisp-parse-page-ranges-insert-issue-references/",
           "author": null,
-          "description": "David Pape asked:\n\n\n\n\nI just typed\n\n\n\n>Closes: #47, #48, #49, #50, #51, #52, #53, #54\n\n\n\ninto a commit description, all by hand.\n\n\n\nIs there a way in Emacs to expand some kind of range description to make this easier? 😅\n\n\n\nI want to expand strings like \"5-10, 15-18, 3\" into numbers.\n\n\n\n\nHmm, could be useful. It reminds me of how page ranges work, which will be handy if I want to tinker with PDFs. Let's see if something like this works:\n\n\n\n\n(defun sacha-parse-page-range (s)\n  \"Parse a page range string and return a list of numbers.\nEx: 1-5\n2-4, 6-10\n1 4 7-9\n3-11/2   - this one specifies an increment\"\n  (seq-mapcat\n   (lambda (part)\n     (let ((nums (mapcar 'string-to-number (split-string part \" *[-/] *\"))))\n       (if (= (length nums) 1)\n           nums\n         (number-sequence (elt nums 0) (elt nums 1) (elt nums 2)))))\n   (split-string s \"[, \\t\\n\\r]+\")))\n\n(ert-deftest sacha-parse-page-range ()\n  (should (equal (sacha-parse-page-range \"5-10\")\n                 '(5 6 7 8 9 10)))\n  (should (equal (sacha-parse-page-range \"1-5, 8\")\n                 '(1 2 3 4 5 8)))\n  (should (equal (sacha-parse-page-range \"1 4 7-9\")\n                 '(1 4 7 8 9)))\n  (should (equal (sacha-parse-page-range \"3-11/2\")\n                 '(3 5 7 9 11))))\n\n(defun sacha-issue-range (range)\n  \"Expand RANGE to a list of issues and insert them.\"\n  (interactive \"MRange (ex: 1-5, 7): \")\n  (let ((s (mapconcat (lambda (n) (format \"#%d\" n))\n                      (sacha-parse-page-range range)\n                      \", \")))\n    (when (called-interactively-p 'any)\n      (insert s))\n    s))\n\nThis is part of my EmacsConfiguration.\nView Org source for this post\nYou can e-mail me at sacha@sachachua.com.",
+          "description": "David Pape asked:\n\n\n\n\nI just typed\n\n\n\n>Closes: #47, #48, #49, #50, #51, #52, #53, #54\n\n\n\ninto a commit description, all by hand.\n\n\n\nIs there a way in Emacs to expand some kind of range description to make this easier? 😅\n\n\n\nI want to expand strings like \"5-10, 15-18, 3\" into numbers.\n\n\n\n\nHmm, could be useful. It reminds me of how page ranges work, which will be handy if I want to tinker with PDFs. Let's see if something like this works:\n\n\n\n\n(defun sacha-parse-page-range (s)\n  \"Parse a page range string and return a list of numbers.\nEx: 1-5\n2-4, 6-10\n1 4 7-9\n3-11/2   - this one specifies an increment\"\n  (seq-mapcat\n   (lambda (part)\n     (let ((nums (mapcar 'string-to-number (split-string part \" *[-/] *\"))))\n       (if (= (length nums) 1)\n           nums\n         (number-sequence (elt nums 0) (elt nums 1) (elt nums 2)))))\n   (split-string s \"[, \\t\\n\\r]+\")))\n\n(ert-deftest sacha-parse-page-range ()\n  (should (equal (sacha-parse-page-range \"5-10\")\n                 '(5 6 7 8 9 10)))\n  (should (equal (sacha-parse-page-range \"1-5, 8\")\n                 '(1 2 3 4 5 8)))\n  (should (equal (sacha-parse-page-range \"1 4 7-9\")\n                 '(1 4 7 8 9)))\n  (should (equal (sacha-parse-page-range \"3-11/2\")\n                 '(3 5 7 9 11))))\n\n(defun sacha-issue-range (range)\n  \"Expand RANGE to a list of issues and insert them.\"\n  (interactive \"MRange (ex: 1-5, 7): \")\n  (let ((s (mapconcat (lambda (n) (format \"#%d\" n))\n                      (sacha-parse-page-range range)\n                      \", \")))\n    (when (called-interactively-p 'any)\n      (insert s))\n    s))\n\nHow to use abo-abo/tiny to expand \"m47, 54|#%d\"\nInserting Number Ranges As A List | Irreal\nMore On Number Ranges | Irreal\nStill More On Entering Ranges | Irreal\nThis is part of my EmacsConfiguration.\nView Org source for this post\nYou can e-mail me at sacha@sachachua.com.",
           "link": "https://sachachua.com/blog/2026/10/emacs-lisp-parse-page-ranges-insert-issue-references/",
           "publishedOn": "2026-10-05T21:30:38.000Z",
-          "wordCount": 374,
+          "wordCount": 405,
           "title": "Sacha Chua: Emacs Lisp: Parse page ranges, insert issue references",
           "imageUrl": null
         },
@@ -378,7 +418,7 @@
           "description": "What’s the future of Emacs? He asks that question in the context of assuming that Emacs will continue to exist for any timeline that matters to us. But how, he asks, will we use it?\n\n\nThe answer that will occur to most of us is speech mediated input á la Star Trek TNG. We’ll simply tell Emacs what we want it to do and it will do it. But think about that for a moment. Would you really want to dictate the code for your latest program to the computer? Or would you even want to dictate your documentation, story, or letter to your computer?\n\n\nSure, you could say something like, “Computer write a program to do such and such.” but then you’re not using Emacs at all. The same for asking the computer to write something for you. That—more or less—is here today but most of us don’t like the results and, again, we’re not really using Emacs in those situations.\n\n\nFor my part, my written thoughts are always much better organized than my spoken ones so even with  capable voice input, I’d much prefer to use the keyboard. Maiorana agrees. He points back to a couple of episodes from Tales From the Darkside1 in which people use the keyboard to do magic with the computer. For him, Meta+x is the spell that enables the magic and he’s very attached to it. Like me, he doesn’t anticipate abandoning the keyboard.\n\n\nWhat do you think? Will we still use the keyboard or will we move on to something better?\n\n\nFootnotes: \n1 \n\n\n\nYou can find Mookie and Pookie and Word Processor of the Gods in the Internet Archive.",
           "link": "https://irreal.org/blog/?p=14126",
           "publishedOn": "2026-10-05T15:11:13.000Z",
-          "wordCount": 1481,
+          "wordCount": 1479,
           "title": "Irreal: The Future Of Emacs",
           "imageUrl": null
         },
@@ -388,7 +428,7 @@
           "description": "looking into your crystal ball. I'd love to see what you're looking forward to exploring. Thanks to George Jones for hosting!\n\n\n\nUpcoming events (iCal file, Org):\n\nEmacs.si (in person): Emacs.si meetup #10 2026 (v #živo) https://dogodki.kompot.si/events/df5d39f6-4d78-4841-b207-ef2c9e60bd5c Mon Oct 5 1900 CET\nAtelier Emacs Montpellier (in person) https://lebib.org/date/atelier-emacs Fri Oct 9 1800 Europe/Paris\nEmacs Berlin: In-Person-Only Emacs-Berlin Stammtisch https://emacs-berlin.org/ Tue Oct 13 1900 Europe/Berlin\nOrgMeetup (virtual) https://orgmode.org/worg/orgmeetup.html Wed Oct 14 0900 America/Vancouver - 1100 America/Chicago - 1200 America/Toronto - 1600 Etc/UTC - 1800 Europe/Berlin - 2130 Asia/Kolkata – Thu Oct 15 0000 Asia/Singapore\n\nBeginner:\n\nA list of Emacs learning materials an…",
           "link": "https://sachachua.com/blog/2026/10/2026-10-05-emacs-news/",
           "publishedOn": "2026-10-05T14:01:16.000Z",
-          "wordCount": 1008,
+          "wordCount": 1009,
           "title": "Sacha Chua: 2026-10-05 Emacs news",
           "imageUrl": null
         },
@@ -398,7 +438,7 @@
           "description": "Version 1.4.0 of the doric-themes, which is currently in\ndevelopment, will include two new themes that draw inspiration from\nnatural settings.\nThe Doric project is all about restraining the use of colour and being\ndeliberate about the application of typographic styles. The result is\na minimalist aesthetic that can make it easier to focus on the\ncontents of the Emacs buffer.\nBelow are samples of the two themes. For accurate results, click to\nenlarge the image.\ndoric-meadow\n\n\n\n\ndoric-mountain\n\n\n\n\nSources\nThe Doric themes use few colours and will appear monochromatic in many\ncontexts. They are my most minimalist themes. Styles involve the\ncareful use of typographic features and subtleties in colour gradients\nto establish a consistent rhythm.\nIf you want maximalist themes in terms of colour, check my ef-themes\npackage. For something in-between, which I would consider the best\n“default theme” for a text editor, opt for my modus-themes.\nPackage name (GNU ELPA): doric-themes\nSample pictures: https://protesilaos.com/emacs/doric-themes-pictures\nGit repository: https://github.com/protesilaos/doric-themes\nBackronym: Doric Only Really Intensifies Conservatively … themes.",
           "link": "https://protesilaos.com/codelog/2026-10-05-emacs-doric-meadow-doric-mountain/",
           "publishedOn": "2026-10-05T00:00:00.000Z",
-          "wordCount": 300,
+          "wordCount": 284,
           "title": "Protesilaos: Emacs: ‘doric-meadow’ and ‘doric-mountain’ coming to the ‘doric-themes’",
           "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
         },
@@ -428,7 +468,7 @@
           "description": "informative post from Ankit Gadiya about unwanted nested frames in Emacs. The TL;DR is that Gadiya runs Ghostel as his Emacs shell in TUI and demon mode. That works well but he has a script that calls emacsclient to load a file. There’s nothing special about it; it’s just what you’d expect it to be but when he runs it from with Ghostel, it creates a nested frame in the Ghostel frame rather than replacing the Ghostel frame.\n\n\nThe solution is pretty simple. Gadiya changed his script to check if he was in Ghostel, and if so, calls emacsclient with a parameter to reuse the current frame. You can check Gadiya’s post for the details.\n\n\nFor me, the most interesting aspect was how he checked if he was in Ghostel. It turns out that Emacs sets the environment variable INSIDE_EMACS when it’s running a shell or subprocess. I didn’t know that so I learned something new from Gadiya’s post.\n\n\nUpdate [2026-10-05 Mon 11:15]: Added link to Gadiya’s post.",
           "link": "https://irreal.org/blog/?p=14124",
           "publishedOn": "2026-10-04T14:58:04.000Z",
-          "wordCount": 1368,
+          "wordCount": 1366,
           "title": "Irreal: Nested Emacs Frames",
           "imageUrl": null
         },
@@ -448,28 +488,8 @@
           "description": "has a solution: persist-text-scale.el.\n\n\nThe TL;DR is that once you set a new font scale for a buffer, it persists across sessions and furthermore you can arrange for all buffers of a certain class to have the same scale settings. That’s perfect. You can, for example, arrange to have all the buffers you use for writing or reading text be in a larger text while keeping other buffers in the default or even smaller text.\n\n\nTake a look at the GitHub repository linked above for the details. You might also want to check out the comments in Cherti’s Emacs subreddit announcement where he answers some questions on what he’s trying to accomplish with the package. If you’d like to have certain buffers rendered in a larger (or smaller) font, this package may be just what you need.",
           "link": "https://irreal.org/blog/?p=14122",
           "publishedOn": "2026-10-03T14:09:37.000Z",
-          "wordCount": 1457,
+          "wordCount": 1455,
           "title": "Irreal: Persisting Text Scale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://ankit.earth/blog/fix-nested-emacs-frames/",
-          "author": null,
-          "description": "Earlier this year I added Ghostel to my\nEmacs configuration. Ghostel is a terminal emulator for Emacs that uses\nGhostty's engine underneath. It is a delight to use\nespecially with the TUI applications.\nNested Emacs frame problem\nI use Emacs in daemon\nmode,\nand then use emacsclient to open new frames from the daemon. To use the same\nEmacs daemon when opening files through other programs such as git, sops, I have\na small shell script ee configured as my default EDITOR. It opens a new\nEmacs frame in the terminal.\n#!/bin/sh\n\nexec emacsclient --create-frame --no-window-system \"$@\"\n\nWhen I run this script from Ghostel, it opens a nested Emacs frame in Ghostel's\nterminal session.\n\nSolution\nEmacs sets an environment variable INSIDE_EMACS for shells and subprocesses.\nThe script use this variable to check if it is launched from Ghostel and use the\n--reuse-frame flag to open the new buffer in the current frame.\n#!/bin/sh\n\nif [ \"$INSIDE_EMACS\" = \"ghostel\" ]\nthen\n  exec emacsclient --reuse-frame \"$@\"\nfi\n\nexec emacsclient --create-frame --no-window-system \"$@\"",
-          "link": "https://ankit.earth/blog/fix-nested-emacs-frames/",
-          "publishedOn": "2026-10-03T00:00:00.000Z",
-          "wordCount": 253,
-          "title": "Ankit Gadiya: Fix nested Emacs frames",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sachachua.com/blog/2026/10/oct-2-emacs-chat-31-pedro-a-aranda-gutierrez/",
-          "author": null,
-          "description": "[2026-10-04 Sun]: Looks like the issue with the hand emoji was\nthat there's a regression in TeXLive: LaTeX 2024 produces the PDF with\nthe right fonts and colours, but LaTeX 2026 doesn't.\n\n\n\nLinks:\n\n\n\npaaguti - Codeberg.org\nOrg mailing list\nVideo not supported. Thumbnail:\n\n\n\n\nView in the Internet Archive, watch or comment on YouTube, read the transcript online, download the transcript (VTT or TXT), or e-mail me.\n\n\nChapters\n\n0:00 Opening\n1:24 Setting things up\n2:33 Local variables\n3:56 Mini export menu\n4:17 Basic output with different fonts\n4:49 Adding a code block as source\n6:18 The problem with exporting Unicode\n7:45 Trying a different font\n9:05 LuaLaTeX\n10:37 Switching to FreeSerif, FreeSans, and FreeMono\n12:04 LuaLaTeX is slower\n12:42 The fonts are rendered\n13:42 The farmer on the donkey…",
-          "link": "https://sachachua.com/blog/2026/10/oct-2-emacs-chat-31-pedro-a-aranda-gutierrez/",
-          "publishedOn": "2026-10-02T23:01:46.000Z",
-          "wordCount": 8032,
-          "title": "Sacha Chua: Emacs Chat 31: Pedro A. Aranda Gutierrez",
           "imageUrl": null
         }
       ]
@@ -480,12 +500,52 @@
       "siteUrl": "https://defector.com/",
       "articles": [
         {
+          "id": "https://defector.com/?p=238117",
+          "author": "Israel Daramola",
+          "description": "At times it really does feel like time is moving faster than ever, and even things that happened a year ago might as well have happened 10 years ago. But it is important to maintain perspective, and understand that time and history have to play their parts before we can properly recognize moments for what they meant at the time they happened. With that said, it can feel a little strange to begin reevaluating the legacy of Nick Saban, football coach, and the Saban era of Alabama football a mere three years after his surprise retirement from the team and college football in general. The man is just started getting comfortable as on-air ESPN talent, finding time to evaluate games and banter with human Red Bull can Pat McAfee, in between his actual work as minister of propaganda for archaic college sports bills.\nThe truth is we aren’t removed enough from the Saban era to understand what his time there meant for the sport, that particular team, or the city of Tuscaloosa at large. But the content machine needs to eat constantly in order to maintain value for an increasingly shrinking number of investors, and so it must be fed. So Nick Saban, come on down for your glossy, incredibly long, fussy, overproduced, myth-making, hagiographic sports documentary project.\nThe new six-part ESPN documentary, Saban, is the officially authorized story of Nick Saban as championship coach of the Alabama Crimson Tide, alongside some other stops at Toledo, Michigan State, and a national championship at LSU. If you’ve watched enough modern sports documentaries, and Lord knows we have, then you already know what to expect: a lot of inspiration-core, thinly veiled sponcon in which the product is the star of the documentary themselves.",
+          "link": "https://defector.com/saban-has-nothing-to-say-about-its-subject-or-the-world-he-helped-create",
+          "publishedOn": "2026-10-12T17:55:24.000Z",
+          "wordCount": 8013,
+          "title": "‘Saban’ Has Nothing To Say About Its Subject Or The World He Helped Create",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/MV5BOWUyNDExNTQtMGJkZC00ZWRlLWFjYjItMGRlMmE1MWZhMWNiXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=238218",
+          "author": "Tom Ley",
+          "description": "The lead-up to Sunday's game between Liverpool and Manchester City could not have felt more strange. Here were the two teams that have defined approximately the last decade of the Premier League, who have been each other's fiercest rivals while setting new standards for excellence on the pitch, meeting in a meaningless game. It was meaningless in a figurative sense, in that the primary reason for anyone tuning in was to see how the Anfield crowd would greet their guests in their first game since City was found guilty of 114 financial rule breaches. It was likely meaningless in a literal sense, too, as the points City gained from its 3-0 win are likely to be wiped out by whatever considerable punishment the Premier League eventually doles out.\nDue to this year's supersized international break, Premier League fans have had nothing to do but use the last three weeks to stew in their feelings of grievance. Spend enough time thinking about those 114 guilty verdicts, and the £900 million in phony sponsorship money which City used to establish itself as lords of the competition, and it's hard not to come away feeling that everything about the last decade would have been different—especially for your team—if not for these fraudsters.\nThis game eventually had to be played, though, and once it started, so much of the venom that built up over the last few weeks seemed to dissipate. The visiting City fans, defiant and armed with their inflatable bananas, entered the stadium via police escort. The Liverpool fans provided plenty of roaring and chanting early on, but eventually there was just a soccer game to watch. And a fairly boring one at that: A cagey first half in which neither team created many chances ended 0-0, and the game was eventually decided by Ryan Gravenberch's sending off in the 62nd minute, which gave City's attackers all the space they needed to eventually put three goals past Liverpool's defense.",
+          "link": "https://defector.com/what-kind-of-villain-will-manchester-city-be",
+          "publishedOn": "2026-10-12T15:52:44.000Z",
+          "wordCount": 5456,
+          "title": "What Kind Of Villain Will Manchester City Be?",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2299697271.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=238225",
+          "author": "Maitreyi Anantharaman",
+          "description": "You heard it here first: It's time to play our Monday crossword. This week's puzzle was constructed by Jeremy Venook and edited by Hoang-Kim Vu.\nDefector crosswords, launched in partnership with our friends at AVCX, run every Monday. If you’re interested in submitting a puzzle to us, you can read our guidelines HERE.",
+          "link": "https://defector.com/the-crossword-oct-12-ripped-from-the-headlines",
+          "publishedOn": "2026-10-12T15:00:00.000Z",
+          "wordCount": 3742,
+          "title": "The Crossword, Oct. 12: Ripped From The Headlines",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2297920929.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=238221",
+          "author": "Ray Ratto",
+          "description": "The idea that the Milwaukee Brewers can keep playing the same game over and over again and getting the same result is an interesting one. It's probably not a sustainable one, because baseball does not tend to operate that way, but you keep watching for something different from them, and it always turns out the same.\nThis would be a problem for them if they were somehow failing at this playoff thing, but rather they seem to have it down pat. Through five games, the formula is simple: Starting pitcher goes four innings, the same four relievers maintain the status quo, the hitters make three runs stand up in victory, and then everyone goes to the clubhouse for a beer and shower and comes back again the next day to do it again.\nSurely this cannot be sustained, if only because at some point Abner Uribe's arm will accordion back into his chest cavity. At some point in this postseason they either have to break out a 10-run game, get blown out the same way, have the bullpen melt into slag ... or maybe Jacob Misiorowski throws a three-hit complete game shutout just for giggles and candy.",
+          "link": "https://defector.com/the-brewers-will-just-keep-doing-this-until-someone-stops-them",
+          "publishedOn": "2026-10-12T13:35:04.000Z",
+          "wordCount": 5655,
+          "title": "The Brewers Will Just Keep Doing This Until Someone Stops Them",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2299250286.jpg"
+        },
+        {
           "id": "https://defector.com/?p=238140",
           "author": "Israel Daramola",
           "description": "We're in Landover, Maryland. It's the New York Giants taking on the Washington Commanders: a divisional rivalry game on a rainy Sunday afternoon with two teams desperate to win the NFC East, but in bad shape thanks to injuries and general haplessness. The Commanders got their quarterback back just in time for this matchup, with Jayden Daniels returning from injuring his arm a couple weeks ago. The Giants are still led by Jameis Winston and the natural chicanery he brings. Together these two teams accounted for some of the worst football of the afternoon. Winston threw for 326 yards and three touchdowns, but lost a fumble—at least he didn't throw multiple interceptions in this one. Daniels threw for 199 yards but rushed for another 103 yards and two TDs.\nBut that's not why you're here. That's not enough to compel you to read a blog about the Giants and Commanders. In their overtime period, with under two minutes left of a game that neither side seemed particularly interested in winning, the Commanders defense caused a fumble by Cam Skattebo. The plays that followed included a reception by Terry McLaurin for 16 yards, a run by Daniels for another 16 yards, and a pass to Treylon Burks for 13 yards, putting the Commanders firmly in field goal range. With under a minute left, Rachaad White ran the ball for a couple of yards, which kept the clock moving.\nMakes sense, right? Run the clock down so you can kick it with as little time available as possible. The offense seemed to run a lot of clock off before their next play, but no matter. These are professionals; they know what they're doing. Daniels knows there's no timeouts left. He's the reason for that, as he called the last timeout earlier in overtime. It'll be fine.",
           "link": "https://defector.com/well-thats-the-dumbest-thing-ive-seen-in-some-time",
           "publishedOn": "2026-10-11T22:24:11.000Z",
-          "wordCount": 5344,
+          "wordCount": 5236,
           "title": "Well, That’s The Dumbest Thing I’ve Seen In Some Time",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2299704490.jpg"
         },
@@ -495,17 +555,17 @@
           "description": "To paraphrase one of the greats, it's not easy living up to the standards of Jaguars Junction. It's not just about the losing; any team can lose a game, especially in the NFL. It's also not about the penalties. The yellow flags come for all of us. No, to feel truly welcome in Jaguars Junction, one must not just lose but lose with panache. One must fail in a way that makes everyone stand up, point at the screen, and say aloud, \"Are you kidding me?\" One must collapse in a fashion that defies all logic and science, which is a given for the Florida Man. You could call it je ne sais quoi, though when Florida is involved, it demands a French-Canadian accent.\nAnd yet, as one of Defector's resident Floridians, your dear author has no choice but to welcome the Philadelphia Eagles to this perhaps not illustrious but certainly noted shrine to humiliation. Their flop from across the pond on Sunday demands it. What follows is no less than my journalistic duty.\nBy all reasonable accounts, the Jaguars appeared on Sunday poised to continue their fine and upstanding tradition of losing in both creative and heartbreaking fashion. Technically, near the end of the fourth quarter, the Jags were leading. But spiritually, they were already showing signs of returning to form when kicker Cam Little—who has one of the strongest legs in the league—missed the extra point, making their advantage two points instead of three. As Little's kick hooked left, I could hear the theme music to Jaguars Junction playing in my ears. The Hamilton Nolan bat signal began to warm up. At least, in a cruel and unreliable world, this one truism would remain.",
           "link": "https://defector.com/welcome-the-philadelphia-eagles-to-jaguars-junction",
           "publishedOn": "2026-10-11T20:26:55.000Z",
-          "wordCount": 5915,
+          "wordCount": 5803,
           "title": "Welcome The Philadelphia Eagles To Jaguars Junction",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2298309669-e1791740839493.jpeg"
         },
         {
           "id": "https://defector.com/?p=238081",
           "author": "Israel Daramola",
-          "description": "There's no point in trying to predict how a Red River Rivalry game will go. Texas and Oklahoma have aligned themselves to this eternal blood feud, some Pat Garrett and Billy the Kid shit. It doesn't matter what the records next to their names say or what the expectations for each team are, because this game will almost certainly go the opposite of what you expect and end in a knife fight in the mud. On Saturday, Oklahoma came out of that fight as the last man standing.\n\nhttps://youtu.be/KLxPeYzbp_4?si=FaBU0Ub4x4xoz8OU\n\n\nThe Sooners beat the No. 1 ranked Texas Longhorns, 27-24. With the game tied throughout much of the fourth quarter, Arch Manning threw his second interception with about 19 seconds left in regulation. After a couple of incredible passes by John Mateer to get within range, Oklahoma kicker Tate Sandell got the chance for a 47-yard field goal at the end of regulation to put the Sooners over the top.",
+          "description": "There's no point in trying to predict how a Red River Rivalry game will go. Texas and Oklahoma have aligned themselves to this eternal blood feud, some Pat Garrett and Billy the Kid shit. It doesn't matter what the records next to their names say or what the expectations for each team are, because this game will almost certainly go the opposite of what you expect, and end in a knife fight in the mud. On Saturday, Oklahoma came out of that fight as the last man standing.\n\nhttps://youtu.be/KLxPeYzbp_4?si=FaBU0Ub4x4xoz8OU\n\n\nThe Sooners beat the No. 1 ranked Texas Longhorns, 27-24. With the game tied throughout much of the fourth quarter, Arch Manning threw his second interception with about 19 seconds left in regulation. After a couple of incredible passes by John Mateer to get within field goal range, Oklahoma kicker Tate Sandell got the chance for a 47-yard field goal at the end of regulation to put the Sooners over the top.",
           "link": "https://defector.com/ou-texas-is-the-last-truly-bonkers-college-football-rivalry",
           "publishedOn": "2026-10-11T17:37:32.000Z",
-          "wordCount": 5410,
+          "wordCount": 5347,
           "title": "OU-Texas Is The Last Truly Bonkers College Football Rivalry",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2299061109.jpg"
         },
@@ -515,7 +575,7 @@
           "description": "The Chicago White Sox had been given oodles of credit for overcoming the three worst years in their history (throwing the 1919 World Series aside). When they plowed remorselessly and successfully through their first four postseason games this fall, you could sense that magic was being conjured in the least explicable way. They'd been kissed on the forehead by the same gods that had pummeled them repeatedly. They were going to be a team of destiny, whether or not they liked or understood it.\nBut these White Sox are made of sterner stuff than that, and the thing that made them charming—their return from bulk failure to national quasi-relevance—was turned on its head Saturday in spectacular style. They had boiled down their 2023, 2024, and 2025 seasons into one evening's work, an homage to their own abjectness condensed into two hours and 36 minutes. Last night was just a montage of them getting their steps in, almost all of it walking to and from their own dugout. \nThere's no point in being clever about this either. In the game that they needed to win to advance to the American League Championship Series and make all their suffering worthwhile, they struck out 21 times. Twenty-one. In nine innings. They were allotted 27 outs and did the least they could possibly do with those outs, nearly 78 percent of the time. Nobody has ever done that before in a nine-inning game in the 156-year history of the game as counted by those psychos at Baseball Reference—regular season or playoffs. In the game that could have made them the most improbable underdog in the history of dogs, they went out like, well, dogs.",
           "link": "https://defector.com/the-white-sox-lean-into-the-windy-in-windy-city",
           "publishedOn": "2026-10-11T16:32:02.000Z",
-          "wordCount": 6229,
+          "wordCount": 6159,
           "title": "The White Sox Lean Into The “Windy” In “Windy City”",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2299602069-e1791733560965.jpg"
         },
@@ -525,7 +585,7 @@
           "description": "In early 2019, Tyreek Hill was already proof of just how far athletic talent can take you. Yes, he had pleaded guilty to domestic abuse in college, including signing a document in which he said he placed his pregnant girlfriend in a headlock. Yes, he was then dismissed by Oklahoma State, transferring to Division II…",
           "link": "https://defector.com/tyreek-hill-2019-child-abuse-investigation",
           "publishedOn": "2026-10-09T18:43:18.000Z",
-          "wordCount": 7916,
+          "wordCount": 7938,
           "title": "New Details Emerge About 2019 Child Abuse Investigation Involving Tyreek Hill",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2194708326-e1791421104186.jpeg"
         },
@@ -535,49 +595,9 @@
           "description": "The relationship between sports and the place where those games are played is largely a matter of fans developing a strong but mostly manageable addiction to their own pheromones. Ritual and iconography matter more than the actual results when the results don't meet the need; the first two are stable and reliable in a way the third will never be. It has always been thus.\nAnd so Mike Ditka, whose death at age 86 was announced by his family Friday morning, was and remains still Chicago in ways that no other figure in any other city could manage. Ditka explained Chicago's view of itself from head to toe, vocal inflections to hand gestures, minor local biases to general worldview. Chicago is Ditka just as Ditka was Chicago, and that self-reverential truth will remain true even after he's gone.\nDitka was quite literally the face of the Bears from the moment he left the University of Pittsburgh to seek his fortune in football 65 years ago. His helmet with the white single-bar facemask and his gashed-up face behind it was the image of choice in their 1963 championship, the one that interrupted the Decade of Lombardi. Ditka's contractual intransigence in the face of the team's iconic (and iconically vice-gripped) owner, George Halas, reinforced that status despite the six-year endgame in Philadelphia and then Dallas that completed his playing career. Even Ditka's Super Bowl championship with Dallas in 1971 felt a bit odd, in that Why is that Chicago guy celebrating next to Roger Staubach? kind of way. He sent himself into exile rather than take what Halas was offering, but Ditka never really left.",
           "link": "https://defector.com/mike-ditka-forever-chicago",
           "publishedOn": "2026-10-09T18:09:23.000Z",
-          "wordCount": 6242,
+          "wordCount": 6104,
           "title": "Mike Ditka, Forever Chicago",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-1046181240.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=237917",
-          "author": "Sabrina Imbler",
-          "description": "Geriatric Jonathan has made the news again, this time for having his genome sequenced. The Aldabra giant tortoise, who is estimated to be 194 years old, is the oldest known land animal on the planet. (The ocean, which teems with glass sponges thousands of years old and Greenland sharks that have been swimming for centuries, takes longevity to different extremes.) As such, it is understandable why scientists would want to sequence Jonathan's genome. He's lived a long freaking time.\nYet many of the headlines heralding this new inquiry into Jonathan's venerable age, which was published in Science Advances, have made me laugh with their implications that we may follow in Jonathan's closely spaced footsteps. Consider Reuters: \"A 194-year-old tortoise, world's oldest land animal, may hold clues to longer life.\" Or take The Times: \"Has 194-year-old tortoise Jonathan taught us the secret to longer life?\" What are the clues and secrets to Jonathan's extremely long life? Mainly there is one: Jonathan is a turtle.\nI can hardly blame these publications for this headline format; the blueprint was in the press releases issued by the University of Cambridge and Vanderbilt University, both of which framed Jonathan as potentially holding the secret to a long and healthy life, which he very well could! The headline in IFLScience—\"We Finally Know How Jonathan The Tortoise, The World's Oldest Land Animal, Is Still Alive And Kicking At 194\"—is easily answered the same way. Jonathan the tortoise is alive and kicking because he had the good luck to be born an Aldabra giant tortoise. Were Jonathan a human guy, he would not be alive.",
-          "link": "https://defector.com/the-secret-to-living-194-years-is-being-a-turtle",
-          "publishedOn": "2026-10-09T16:48:38.000Z",
-          "wordCount": 5834,
-          "title": "The Secret To Living 194 Years Is Being A Turtle",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-863814170.jpeg"
-        },
-        {
-          "id": "https://defector.com/?p=238006",
-          "author": "Lucy Bloom",
-          "description": "During a Sept. 28 press conference, Mariners president of baseball operations Jerry Dipoto stated unprompted that if he had been fired following this season, it would have been justified. This is an extremely funny thing to say when you have not lost your job, especially when contextualized by your firings of five of your colleagues in the surrounding 48 hours, all of whom you hired. The difference between having your hypothetical firing rendered justifiable and having your walking papers actually handed to you is, uh, the whole dang thing.\nThis is the sports executive equivalent of If I Did It, an implied admission of guilt issued directly after having gotten away with that shit. Like O.J., Dipoto will not elude fate forever; nobody with his job ever really does. I do find it sort of inte…",
-          "link": "https://defector.com/whats-to-be-done-with-jerry-dipoto",
-          "publishedOn": "2026-10-09T16:24:59.000Z",
-          "wordCount": 7310,
-          "title": "What’s To Be Done With Jerry Dipoto?",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2269264516.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=237798",
-          "author": "Rafaela Bassili",
-          "description": "Having leisurely picked it up one day without expecting to be taken in, Jon Krakauer’s Into Thin Air arrested me from the first page. “Among my five teammates who reached the top [of Mount Everest], four … perished in a rogue storm,” Krakauer writes. “By the time I’d descended to Base Camp nine climbers from four expeditions were dead, and three more lives would be lost before the month was out.” Twelve deaths seemed to me a Shakespearean number. But the more I read about mountaineering, the more I realized that there was nothing extraordinary, per se, about tragedy in the mountains. On Everest alone, as many as 10 people die on average every year, a number that keeps climbing as temperatures rise. Krakauer’s book is so affecting because he refuses to look at this fact with nonchalance.\nIn that, Krakauer seems to be a bit of an outlier. Nonchalance is a common trait in adventurers whose impossible feats break through to the mainstream; consider Alex Honnold’s maddeningly blasé attitude toward his own chances in Free Solo. For those of us who are fearful, this ability to repress or at least temper the fear of death is the root of our fascination with extreme sports athletes. Most depictions of their exploits ask an obvious question: Why do this? But that’s a deceiving question, because the answer, at least as far as the psychologies on display are concerned, is equally obvious: Why not? When he was asked why he wanted to climb Mount Everest, George Mallory—the English mountaineer who was among the first to break trail on Everest, and who died on his third attempt to summit the mountain in 1924—famously replied: “Because it is there.” But the rest of his quote is just as telling a glimpse into the reasoning of the high-elevation climber. The urge, he said, is “a part, I suppose, of man’s desire to conquer the universe.”",
-          "link": "https://defector.com/the-last-first-winter-k2-review",
-          "publishedOn": "2026-10-09T15:44:15.000Z",
-          "wordCount": 7806,
-          "title": "Another Mountaineering Documentary That Asks: What Is Wrong With These People?",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/K2.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=237692",
-          "author": "Israel Daramola",
-          "description": "Welcome to the Defector College Football Watch Guide, where Israel Daramola and Ray Ratto will tell you which of the weekend’s college football games are worth giving a crap about.\nRay: You'll have to wade through a fair amount of mediocre slop to get to the actual prize this week. That would be the Georgia-Alabama blood feud; the rest of it is just college football. The outcome in that game will go a long way toward pissing off one fan base while making the other completely insufferable—that is, if the hurricane permits the game to be played at all.\nIf you're just in it for the hate, there's always Texas at Oklahoma, although OU has taken a profound backward step of late and Steve Sarkisian is his own bad time in your living room. Now that the games are winnowing themselves down to a few bangers per week, we have elected to be more selective with our viewing habits; yes, there is college football five nights per week until Halloween, but that doesn't mean we or you or anyone else should be consuming most of it. We'll still do it, mind you—the regular season starts at the end of November anyway, and games of little notice still have their charms. They just have a more difficult task making themselves seen amid all this inventory.",
-          "link": "https://defector.com/we-now-know-for-sure-that-we-know-nothing-for-certain",
-          "publishedOn": "2026-10-09T15:23:23.000Z",
-          "wordCount": 8263,
-          "title": "We Now Know For Sure That We Know Nothing For Certain",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2295588832.jpg"
         }
       ]
     },
@@ -671,16 +691,6 @@
           "wordCount": 2916,
           "title": "Song Battle: Judas Priest – “Breaking the Law” vs. Iron Maiden – “Run to the Hills”",
           "imageUrl": null
-        },
-        {
-          "id": "https://stuffthatinterestsme.net/?p=3819",
-          "author": "Schill",
-          "description": "Few songs capture the sheer optimism of the early 1980s quite like Irene Cara’s “Flashdance… What a Feeling.” It is",
-          "link": "https://stuffthatinterestsme.net/saturday-80s-jam-flashdance-what-a-feeling-irene-cara/",
-          "publishedOn": "2026-10-03T00:00:12.000Z",
-          "wordCount": 3648,
-          "title": "Saturday 80s Jam: Flashdance…What a Feeling – Irene Cara",
-          "imageUrl": null
         }
       ]
     },
@@ -733,13 +743,23 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full",
+          "id": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full",
           "author": null,
-          "description": "The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. \n\nWhich brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…",
-          "link": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php",
-          "publishedOn": "2026-10-12T08:38:09.720Z",
+          "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
+          "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
+          "publishedOn": "2026-10-12T19:37:42.970Z",
           "wordCount": 177,
-          "title": "Brandon Aiyuk's NFL career is already over",
+          "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
+          "author": null,
+          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
+          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
+          "publishedOn": "2026-10-12T19:37:42.962Z",
+          "wordCount": 177,
+          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
           "imageUrl": null
         },
         {
@@ -747,19 +767,29 @@
           "author": null,
           "description": "Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  \n\nYes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…",
           "link": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php",
-          "publishedOn": "2026-10-12T08:38:09.681Z",
+          "publishedOn": "2026-10-12T19:37:42.960Z",
           "wordCount": 177,
           "title": "It's easy to blame the USMNT's World Cup crashout on one man. So I will.",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
+          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
           "author": null,
-          "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
-          "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-12T08:38:09.676Z",
+          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
+          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
+          "publishedOn": "2026-10-12T19:37:42.956Z",
           "wordCount": 177,
-          "title": "'The Odyssey' wants you to suffer",
+          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php-full",
+          "author": null,
+          "description": "The NFL has had itself one miserable offseason. You may have been too busy watching America self-immolating to notice, but the football men have been behaving incredibly badly of late. Falcons edge rusher James Pearce got arrested for allegedly being a psycho boyfriend to Chicago Sky forward Rickea Jackson. The Denver Broncos have a sudden, and grotesque, DV problem on their hands. Terrion Arnold just got dropped by the Lions after being arrested on suspicion of kidnapping. And New England coach Mike Vrabel can’t seem to keep his little Pat Patriot in his trousers. All of it either has been ugly or has served as a portent of more ugliness to come. \n\nWhich brings us to the curious story of 49ers wideout Brandon Aiyuk, whose recent behavior has gone from maddening to outright frightening. Ju…",
+          "link": "https://www.sfgate.com/49ers/article/brandon-aiyuk-career-over-22327356.php",
+          "publishedOn": "2026-10-12T19:37:42.954Z",
+          "wordCount": 177,
+          "title": "Brandon Aiyuk's NFL career is already over",
           "imageUrl": null
         },
         {
@@ -767,29 +797,29 @@
           "author": null,
           "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
           "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-12T08:38:09.669Z",
+          "publishedOn": "2026-10-12T19:37:42.952Z",
           "wordCount": 177,
           "title": "If you don't hate data centers yet, boy do I have news for you",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full",
+          "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
           "author": null,
-          "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
-          "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-12T08:38:09.667Z",
+          "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
+          "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
+          "publishedOn": "2026-10-12T19:37:42.951Z",
           "wordCount": 177,
-          "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
+          "title": "'The Odyssey' wants you to suffer",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
           "author": null,
-          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
-          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-12T08:38:09.648Z",
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-10-12T19:37:42.949Z",
           "wordCount": 177,
-          "title": "California is on fire and these people are profiting off it",
+          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -797,7 +827,7 @@
           "author": null,
           "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
           "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-12T08:38:09.643Z",
+          "publishedOn": "2026-10-12T19:37:42.948Z",
           "wordCount": 177,
           "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
           "imageUrl": null
@@ -807,49 +837,9 @@
           "author": null,
           "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
           "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-12T08:38:09.636Z",
+          "publishedOn": "2026-10-12T19:37:42.946Z",
           "wordCount": 177,
           "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
-          "author": null,
-          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
-          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-12T08:38:09.635Z",
-          "wordCount": 177,
-          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
-          "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-12T08:38:09.598Z",
-          "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-12T08:38:09.587Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
-          "author": null,
-          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
-          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-12T08:38:09.585Z",
-          "wordCount": 177,
-          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
           "imageUrl": null
         },
         {
@@ -857,19 +847,19 @@
           "author": null,
           "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
           "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-12T08:38:09.582Z",
+          "publishedOn": "2026-10-12T19:37:42.945Z",
           "wordCount": 177,
           "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
           "author": null,
-          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
-          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-10-12T08:38:09.555Z",
+          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
+          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
+          "publishedOn": "2026-10-12T19:37:42.942Z",
           "wordCount": 177,
-          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "title": "California is on fire and these people are profiting off it",
           "imageUrl": null
         },
         {
@@ -877,9 +867,29 @@
           "author": null,
           "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
           "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-10-12T08:38:09.550Z",
+          "publishedOn": "2026-10-12T19:37:42.938Z",
           "wordCount": 177,
           "title": "San Francisco's best hotel cannot be killed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "author": null,
+          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
+          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
+          "publishedOn": "2026-10-12T19:37:42.932Z",
+          "wordCount": 177,
+          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
+          "author": null,
+          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
+          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
+          "publishedOn": "2026-10-12T19:37:42.929Z",
+          "wordCount": 177,
+          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
         }
       ]
@@ -889,6 +899,26 @@
       "feedUrl": "https://www.esquire.com/rss/news-politics.xml",
       "siteUrl": "https://www.esquire.com/news-politics/",
       "articles": [
+        {
+          "id": "http://www.esquire.com/news-politics/politics/a74111250/ilhan-omar-doj-dhs-trump/",
+          "author": null,
+          "description": "Xenophobia and racism almost certainly played a role in why her residence was searched by homeland security agents.",
+          "link": "https://www.esquire.com/news-politics/politics/a74111250/ilhan-omar-doj-dhs-trump/",
+          "publishedOn": "2026-10-12T19:33:53.000Z",
+          "wordCount": 18290,
+          "title": "There Are So Many Things Wrong with What the DOJ Is Doing to Rep. Ilhan Omar",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e0eaaec7-0fc6-411b-9734-bc0ef078af45.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
+        },
+        {
+          "id": "http://www.esquire.com/news-politics/politics/a74109016/white-house-disinformation-right-wing-media/",
+          "author": null,
+          "description": "Senate candidate James Talarico never checked himself into a mental-health clinic in early October, but right-wing media sure took that BS story and ran with it.",
+          "link": "https://www.esquire.com/news-politics/politics/a74109016/white-house-disinformation-right-wing-media/",
+          "publishedOn": "2026-10-12T15:45:45.000Z",
+          "wordCount": 19168,
+          "title": "The White House Disinformation Machine Is Doing Its Best to Derail a Potentially Huge Midterm Swing",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3366019b-a879-4691-b7b0-3b2ea90216bf.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
+        },
         {
           "id": "http://www.esquire.com/news-politics/a74094839/cassidy-hutchinson-testimony-justice-department-grand-jury/",
           "author": null,
@@ -905,7 +935,7 @@
           "description": "One particularly crazy Republican out of Nevada wants to verify voters’ identities by “measuring their heartbeats.”",
           "link": "https://www.esquire.com/news-politics/politics/a74082152/midterm-elections-republican-candidates/",
           "publishedOn": "2026-10-08T17:25:21.000Z",
-          "wordCount": 19803,
+          "wordCount": 19810,
           "title": "Is It Just Me, or Has the GOP Produced More Loony Midterm Candidates Than Ever Before?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/bc1aa1c4-9c45-497d-9111-cf49082ef54f.jpeg?crop=1xw:0.724xh;0xw,0.276xh&resize=1200:*"
         },
@@ -935,7 +965,7 @@
           "description": "Turns out the North Dakota governor’s residence doubles as a haunted house.",
           "link": "https://www.esquire.com/news-politics/politics/a74065870/north-dakota-governors-residence-burial-ground/",
           "publishedOn": "2026-10-07T14:53:29.000Z",
-          "wordCount": 18395,
+          "wordCount": 17518,
           "title": "Maybe We Shouldn’t Construct Government Buildings on Burial Grounds",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/dfd03d1e-a837-4e6b-b785-3b4426d7e50a.jpeg?crop=1xw:0.749920458161xh;center,top&resize=1200:*"
         },
@@ -988,16 +1018,6 @@
           "wordCount": 18599,
           "title": "Justice Sam Alito Thinks It Took “Courage” to Strip Women of Their Right to Abortion",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5c651e2b-a305-4c24-86d9-aaede5d3796c.jpeg?crop=1xw:0.666666666667xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a73998608/russell-vought-omb-pocket-recessions-congress-budget/",
-          "author": null,
-          "description": "Why the hell are Republican senators letting it happen?",
-          "link": "https://www.esquire.com/news-politics/politics/a73998608/russell-vought-omb-pocket-recessions-congress-budget/",
-          "publishedOn": "2026-10-02T21:00:03.000Z",
-          "wordCount": 24187,
-          "title": "Russell Vought and His Budgeting Cronies Are Using This Sketchy Loophole to Control Government Spending",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b7cc4227-e157-486e-a245-7e9033a422d9.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         }
       ]
     },
