@@ -2,15 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-17T03:03:38.093Z</updated>
+    <updated>2026-10-17T08:15:29.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
+        <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
+        <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
+        <updated>2026-10-17T08:15:24.829Z</updated>
+        <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
+Myung J. Chun/LA Times via Getty Images
+I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
+
+This Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
+        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
+        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
+        <updated>2026-10-17T08:15:24.828Z</updated>
+        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
+
+Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
+        <updated>2026-10-17T08:15:24.827Z</updated>
+        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
+
+To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
+        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
+        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
+        <updated>2026-10-17T08:15:24.824Z</updated>
+        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The new Anya Taylor-Joy vehicle is so stupid and so good]]></title>
         <id>https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php"/>
-        <updated>2026-10-17T03:03:38.067Z</updated>
+        <updated>2026-10-17T08:15:24.823Z</updated>
         <summary type="html"><![CDATA[Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. 
 
 It knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …]]></summary>
@@ -19,11 +67,75 @@ It knows that I want a disheveled Gary Oldman dishing out vicious burns to all o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
+        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
+        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
+        <updated>2026-10-17T08:15:24.822Z</updated>
+        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+
+That’s when Anthony Bourdain wo…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
+        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
+        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
+        <updated>2026-10-17T08:15:24.821Z</updated>
+        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
+
+The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
+        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
+        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
+        <updated>2026-10-17T08:15:24.820Z</updated>
+        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
+
+Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
         <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
-        <updated>2026-10-17T03:03:38.000Z</updated>
+        <updated>2026-10-17T08:15:24.819Z</updated>
         <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
+        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
+        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
+        <updated>2026-10-17T08:15:24.818Z</updated>
+        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
+
+Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
+
+The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
+        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
+        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
+        <updated>2026-10-17T08:15:24.817Z</updated>
+        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
+
+This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
+
+I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -32,7 +144,7 @@ It knows that I want a disheveled Gary Oldman dishing out vicious burns to all o
         <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
         <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-10-17T03:03:37.996Z</updated>
+        <updated>2026-10-17T08:15:24.815Z</updated>
         <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
 
 Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
@@ -50,85 +162,13 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
-        <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
-        <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
-        <updated>2026-10-17T03:03:37.980Z</updated>
-        <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
-Myung J. Chun/LA Times via Getty Images
-I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
+        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
+        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
+        <updated>2026-10-17T08:15:24.329Z</updated>
+        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
 
-This Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
-        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
-        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-10-17T03:03:37.971Z</updated>
-        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
-
-Actually,…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-10-17T03:03:37.958Z</updated>
-        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
-
-To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
-        <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
-        <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
-        <updated>2026-10-17T03:03:37.955Z</updated>
-        <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
-
-Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-10-17T03:03:37.954Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
-
-That’s when Anthony Bourdain wo…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
-        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
-        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-10-17T03:03:37.947Z</updated>
-        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
-
-Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-10-17T03:03:37.942Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+On the surface, he makes for an attractive candidate. Hilto…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -137,7 +177,7 @@ Now, woke types might tell you that all of this is bad. But what if I told you t
         <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
         <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
-        <updated>2026-10-17T03:03:37.936Z</updated>
+        <updated>2026-10-17T08:15:24.328Z</updated>
         <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
 
 Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
@@ -148,55 +188,25 @@ This movie arrives in theaters with plenty of deserved Oscar buzz. But in this c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-10-17T03:03:37.929Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
+        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
+        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
+        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
+        <updated>2026-10-17T08:15:24.328Z</updated>
+        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
 
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+Actually,…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
-        <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
-        <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-10-17T03:03:37.926Z</updated>
-        <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
-
-Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
-
-The croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…]]></summary>
+        <title type="html"><![CDATA[Marcin Borkowski: Using timers to perform weekly tasks]]></title>
+        <id>https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks</id>
+        <link href="https://mbork.pl/2026-10-17_Using_timers_to_perform_weekly_tasks"/>
+        <updated>2026-10-17T05:55:56.000Z</updated>
+        <summary type="html"><![CDATA[There are some things I do on a regular basis, and of course I try to automate as much as possible so that I don’t need to remember them. One of these things is a weekly review. A part of my weekly review is checking how much time I’d spent on various things during the past week.]]></summary>
         <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
-        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
-        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
-        <updated>2026-10-17T03:03:37.920Z</updated>
-        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
-
-This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
-
-I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
-        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
-        <updated>2026-10-17T03:03:37.902Z</updated>
-        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
-
-On the surface, he makes for an attractive candidate. Hilto…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
+            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -207,6 +217,30 @@ On the surface, he makes for an attractive candidate. Hilto…]]></summary>
         <summary type="html"><![CDATA[Released in 1989, Richard Marx’s “Right Here Waiting” became one of the defining romantic ballads of the late 1980s. It]]></summary>
         <author>
             <name>Schill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protesilaos: Emacs live extracting the Modus themes core at 2026-10-17 14:30 Europe/Athens]]></title>
+        <id>https://protesilaos.com/codelog/2026-10-17-emacs-live-modus-core/</id>
+        <link href="https://protesilaos.com/codelog/2026-10-17-emacs-live-modus-core/"/>
+        <updated>2026-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Raw link: https://www.youtube.com/watch?v=vKGf3lP6eRQ
+[ The stream will be recorded. You can watch it later. ]
+Today, Saturday, 17 October 2026, at 14:30 Europe/Athens, I will work
+on my modus-themes for Emacs.
+About a year ago I turned them into a framework that theme developers
+can rely on. Lots of themes have been built on top of Modus since
+then.
+What I want to do this year is extract the core Modus that other
+themes need into its own library. This way, we can have a separation
+of concerns between what is the framework proper and what are
+modus-themes (modus-operandi, modus-vivendi, etc.).
+I expect to work on this for 3 hours or more.
+I will have the chat open in case someone has a question about what I
+am programming or ANYTHING else they might want to ask me.
+making a donation.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -1492,141 +1526,6 @@ questions, I will extend it to 2-3 hour or, generally, for as long as
 needed. And if there are no questions, then I can do something related
 to Emacs or close the stream earlier—no problem!
 making a donation.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sacha Chua: Des commandes vocales pour ajouter des tâches sur Emacs]]></title>
-        <id>https://sachachua.com/blog/2026/10/des-commandes-vocales-sur-emacs-pour-ajouter-des-taches/</id>
-        <link href="https://sachachua.com/blog/2026/10/des-commandes-vocales-sur-emacs-pour-ajouter-des-taches/"/>
-        <updated>2026-10-07T19:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Watch on YouTube
-
-
-
-Liens :
-
-
-
-Orukeet pour la reconnaissance vocale parce qu'il est assez rapide et assez précis.
-sachac/whisper.el
-speech-input
-
-
-0:00 Introduction
-
-Je veux vous présenter ma petite expérience de la reconnaissance vocale pour dicter dans Emacs et pour les contrôler. J'utilise le modèle Orukeet pour la reconnaissance vocale parce qu'il est assez rapide et assez précis. Je l'intègre dans Emacs en utilisant mes bibliothèques sachac/whisper.el et speech-input. J'ai récemment créé des commandes vocales pour ajouter des éléments à ma liste de tâches. C'est étonnement utile parce que ça réduit la charge cognitive liée à la mémorisation des raccourcis clavier. Je vais vous montrer cela. 
-
-0:37 Ajouter des tâches
-
-
-Je presse la touche zéro du pavé numérique avant et après avoir dit « Rappelle-moi demain de préparer une présentation pour Emacs Paris sur les commandes vocales. » La fonction crée une tâche dans ma boîte de réception. La tâche est planifiée pour demain. Il y a un lien vers l'enregistrement 
-
-1:09 D'autres dates
-
-
-« Rappelez-moi demain de préparer une présentation pour Emacs Paris sur les commandes vocales », la capture d'écran et le contexte de tâche. Ça m'aident si j'ai été mal comprise ou si j'ai besoin de contexte. De la même manière, je peux dire « Rappelle-moi la semaine prochaine de faire la paperasse pour l'école. » « Rappelle-moi aujourd'hui de créer une vidéo sur mes commandes vocales. » 
-
-1:59 Basculer à une tâche
-
-
-Je peux aussi créer une tâche et déclencher le suivi du temps (ou clock in). Par exemple, je peux dire « Commence à implémenter la génération des questions. » 
-
-2:15 Retrouver le fil de mes pensées
-
-
-Si je perds le fil de mes pensées : « j'en étais où ? » Ça m'affiche les tâches récentes. 
-
-2:27 Je faisais quoi ?
-
-
-« Je faisais quoi ? » Ça bascule sur la tâche actuelle. Voilà des commandes vocales pour ajouter des tâches.
-
-View Org source for this post
-You can e-mail me at sacha@sachachua.com.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump’s Making Allies with All the Wrong People in All the Wrong Places]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a74068854/trump-republika-srpska-poland-defense-minister-meeting-allies/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a74068854/trump-republika-srpska-poland-defense-minister-meeting-allies/"/>
-        <updated>2026-10-07T18:42:39.000Z</updated>
-        <summary type="html"><![CDATA[Right-wing crazies from around the world are starting to find him useful. That’s more than a little dangerous.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curtis McHale: Emacs Carnival - Will we change how we interact with Emacs?]]></title>
-        <id>https://curtismchale.ca/2026/10/07/emacs-carnival-will-we-change-how-we-interact-with-emacs</id>
-        <link href="https://curtismchale.ca/2026/10/07/emacs-carnival-will-we-change-how-we-interact-with-emacs"/>
-        <updated>2026-10-07T17:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Will voice kill the keyboard. No. Will the way we interact with Emacs, and computers in general, change drastically? No.
-Star Trek has a mythical AI/computer that responds to voice commands and interacts with you to clarify or note other work that may pertain to what you wanted. Evidently the interface is so ubiquitous that Scotty talks to a mouse noting it's "quaint" to need to push it and type on a keyboard to interact with a computer.
-But if we watch the bridge of any Star Trek show people aren't talking the whole time. They're tapping screens to get the computer to do things for them. Theoretically the captain could tell the ship where he wants to go and let the computer do it, but he issues a command and then someone types in the needed commands to the ship so it goes in the expected direction.
-I work at home in a solo office space. I could talk to my computer and it would disturb no one, except me. I'd be unable to listen to music on my stereo at the same time just in case the computer couldn't understand my words versus the song.
-I don't think keyboards are going anywhere any time soon. They provide an unambiguous interface to your computer that doesn't disturb others. I think that those loving Emacs interactions like they use it will continue to do so as they do now because it's the most efficient way to control the Emacs interface.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried to move my notes out of Emacs. I failed. Again.]]></title>
-        <id>https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/</id>
-        <link href="https://baty.net/posts/2026/10/i-tried-to-move-my-notes-out-of-emacs-i-failed/"/>
-        <updated>2026-10-07T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Every so often I suffer from what I call "Emacs Fatigue". It's closely related to "Text File Fatigue". Using Emacs tends to pull one toward using it for everything, which is what I'd done. Then, I simply grow tired of staring at the same thing every day. When this happens, I "decide" to uproot my life and move my notes into something else. This time, that something else was Bear.
-Bear is great. It's solid, beautiful, and refreshingly simple. It syncs flawlessly (for free[1]) and runs on macOS and iOS. It's also inexpensive. It uses an SQLite database, which doesn't bother me. Databases are great at this stuff. All the "But but what if the database...?!" talk is mostly hearsay anyway.
-The thing that made me twitchy was that it felt like my notes were "in there". It's not the database. It's the fact that everything is in an app, and that app makes me need to use that app. This is how I'd started to feel about Emacs, but mostly due to Org mode.
-Bear is macOS and iOS only, which should be fine for someone like me who has "decided" to live on macOS. And yet, Linux continues to emit a low-grade hum in the back of my head that I can't ignore.
-If I don't want my notes in Org mode files, but I'm still drawn toward Emacs, what should I do? Denote! That's where they'd all started in the first place, but as .org not .md. I'd nearly forgotten that Denote handles Markdown files natively. One Emacs configuration change and I was back where I belong. And since Bear notes are already Markdown, all it took was an export and a (Claude Code-assisted) conversion script for file names, links, and attachments.
-So yes, I've done that thing where I quit using Emacs only to come crawling back later. I know better, but knowing better doesn't stop me. Maybe I'll work on a sync/bridge between Denote and Bear. That would be neat.
-It was pointed out that Bear isn't free, so syncing isn't free. True, but I guess meant that it's not a paid extra. ↩︎
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Irreal: Inserting Number Ranges As A List]]></title>
-        <id>https://irreal.org/blog/?p=14131</id>
-        <link href="https://irreal.org/blog/?p=14131"/>
-        <updated>2026-10-07T15:40:09.000Z</updated>
-        <summary type="html"><![CDATA[very nice solution to a problem posed by David Pape: how can we enter a range of numbers as list of distinct numbers in Emacs? Pape’s specific problem was entering the numbers of error reports that a Git commit closes. Rather than entering something like
-
-closes: 47, 48, 49, 50, 51, 70
-
-
-he’d like to enter something like
-
-closes: 47-51 70
-
-
-and call an Emacs function to have it expanded into the first example.
-
-
-Chua has a very nice solution that covers that case as well things like
-
-47-51, 70
-
-
-or even
-
-5-15/2
-
-
-to expand into the sequence
-
-5, 7, 9, 11, 13, 15
-
-
-Most of the heavy lifting is done by the number-sequence function. The rest of the work is parsing the input string into either a single number or a range of numbers that number-sequence can work on.
-
-
-Chua’s solution strikes me as an example of Emacs at its best. The problem it solves is not earth shattering. It’s simply a bit of friction in a user’s everyday workflow but Emacs easily provides a solution that makes the friction disappear. Take a look at her code. It not only shows an ingenious solution to the problem but also demonstrates the power of Emacs and Elisp to make the application of that genius simple.]]></summary>
         <author>
             <name>Planet Emacslife</name>
         </author>
