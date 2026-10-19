@@ -268,7 +268,7 @@
           "description": "Setting up a Python development environment in Emacs with Eglot and python-lsp-server (pylsp) requires telling the language server which plugins to run and which ones to ignore. While you can set eglot-workspace-configuration globally, doing so forces every Python project you open using Emacs to use the same toolchain and formatting rules. Placing the configuration in a .dir-locals.el file applies these Emacs buffer settings and Eglot workspace settings to files within the project's directory tree. The indentation settings and fill-column can be chosen to match the conventions configured in pyproject.toml, while Ruff reads its own configuration from that file when applicable. … Continue reading →",
           "link": "https://www.jamescherti.com/emacs-eglot-python-dir-locals-el-and-pylsp/",
           "publishedOn": "2026-10-16T16:30:14.000Z",
-          "wordCount": 2588,
+          "wordCount": 2640,
           "title": "James Cherti: Configuring Emacs Eglot for Python with .dir-locals.el, python-lsp-server (Pylsp), and ruff",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -368,7 +368,7 @@
           "description": "Org Social is so simple it looks like it was born before the internet. A single plain text file, an editor and a host are enough to interact with other people.\nTo \"create an account\", you just create a plain text file in any editor. Your \"database\" is your own hierarchy of posts. Your \"algorithm\" is however you decide to sort other people's posts. There is no \"character limit\". Your \"server\" is any hosting or web server. Your \"interface\" is your favorite editor. And if you want to \"delete your account\", you just delete the file. And of course, the syntax is richer than Markdown and just as easy to learn: Org Mode. You share and edit wherever you want, and you use it as a microblog, a journal, a forum, a bulletin board or a blog. Your file, your rules.\nBehind it there is infrastructure that…",
           "link": "http://en.andros.dev/blog/6c165f77/org-social-the-social-network-that-survives-its-own-infrastructure/",
           "publishedOn": "2026-10-14T15:12:18.000Z",
-          "wordCount": 2921,
+          "wordCount": 2917,
           "title": "Andros Fenollosa: Org Social: the social network that survives its own infrastructure",
           "imageUrl": "https://img.andros.dev/lO4rHtFcmp5pDRbWBepGddVAOVI=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/org-social.png"
         },
@@ -522,10 +522,10 @@
         {
           "id": "https://defector.com/?p=238851",
           "author": "Kelsey McKinney",
-          "description": "This article contains spoilers for You Can See Everything\nAbout halfway into Nathan Fielder and Lance Oppenheim’s new A24 movie You Can See Everything, there is a scene that plays like a memory. Nathan Fielder stands, in the present of the movie, inside a San Diego ocean-front house looking out at the crashing waves, remembering. Then, playing for the viewer: two unidentifiable people in the ocean, frolicking, swimming in the icy cold waves, a blonde woman and a brunette man, both tall, both smiling. The camaraderie between them is undeniable.",
+          "description": "This article contains spoilers for You Can See Everything.\nAbout halfway into Nathan Fielder and Lance Oppenheim’s new A24 movie You Can See Everything, there is a scene that plays like a memory. Nathan Fielder stands, in the present of the movie, inside a San Diego ocean-front house looking out at the crashing waves, remembering. Then, playing for the viewer: two unidentifiable people in the ocean, frolicking, swimming in the icy cold waves, a blonde woman and a brunette man, both tall, both smiling. The camaraderie between them is undeniable.",
           "link": "https://defector.com/good-art-is-worth-waiting-for",
           "publishedOn": "2026-10-18T20:17:02.000Z",
-          "wordCount": 6809,
+          "wordCount": 6802,
           "title": "Good Art Is Worth Waiting For",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/Screenshot-2026-10-18-at-12.34.05-PM.png"
         },
@@ -535,17 +535,17 @@
           "description": "SAN FRANCISCO — Technically, every basketball game is zero-sum. An offensive rebound is a missed defensive rebound; a basket scored is a basket conceded. But you never feel that fact more acutely than in a game between the Atlanta Dream and the Golden State Valkyries, two teams built to chase the same advantages. The Valkyries' 68-64 win in the first game of the WNBA Finals on Saturday afternoon set up the central tension of this series: It isn’t really possible for Atlanta and Golden State to play well at the same time. \nOr at least it isn't possible for them to look good at the same time. Saturday's low-scoring game felt more enriching than enjoyable. Call it cruciferous hoops. The two teams combined to shoot 46-of-142 from the field and 11-of-58 from three, making Game 1 one of the worst-shooting Finals games in league history.\nTo some extent, this is what a Dream-Valkyries Finals has to look like. Each side had three players named to the All-Defense teams this year, accounting for six of 10 selections. Awards can get a little circular—voters tend to reward good defensive teams with more picks—but the defensive star power in this series is real. Rhyne Howard led the league in steals this season; Gabby Williams and Angel Reese are switchy, chaos-making rovers; rim protector extraordinaire Kiah Stokes keeps an almost hermetic commitment to only playing this side of the ball; and point guards Veronica Burton and Jordin Canada are the best defenders at their position.",
           "link": "https://defector.com/in-game-1-the-dream-and-the-valkyries-tried-to-see-how-gross-they-could-get",
           "publishedOn": "2026-10-18T17:56:48.000Z",
-          "wordCount": 5815,
+          "wordCount": 5806,
           "title": "In Game 1, The Dream And The Valkyries Tried To See How Gross They Could Get",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2300717731.jpg"
         },
         {
           "id": "https://defector.com/?p=238838",
           "author": "Lauren Theisen",
-          "description": "Nobody got laid at BYU last night, but it looked like a fun party all the same. The eighth-ranked Cougars hosted the No. 2 Notre Dame Fighting Irish in the big primetime slot on Saturday, and they stayed undefeated by squeaking out a 28-24 win. There was some fourth-quarter distress when BYU threw an interception just after surrendering their lead. But quarterback Bear Bachmeier—who wears No. 47 because he says he embodies a \"fullback mentality\"—took advantage of an Irish three-and-out to pilot a go-ahead drive that concluded with less than two minutes to play. The defense still needed a stop, but they allowed the Irish to creep all the way down to the eight-yard line before mustering an incompletion as time expired. The Mormons flooded the field, and a program that barely missed last year's playoff celebrated a signature win.\n\nhttps://www.youtube.com/watch?v=Fc3pV2hcAs4\n\n\nBut wait. The top story from this game on Sunday morning was not BYU's epic triumph, but the fact that the officials apparently ended the action too early. In a passive-voice statement released by the Big 12, the conference said that, in actuality, \"it was determined that time remained on the clock when the ball hit the ground and the play was incorrectly cleared by the replay officiating crew\" on Notre Dame's final snap. \"The Conference will conduct a complete review of its end-of-game officiating process in advance of next week's games,\" the statement said. The crew's supposed error means the Irish should have enjoyed one more shot to gain eight yards and avoid defeat, instead of dodging the most sober field-rushers in college football history on their way back to the locker room. The fact that we know this, I think, is supposed to be progress.",
+          "description": "Nobody got laid at BYU last night, but it looked like a fun party all the same. The eighth-ranked Cougars hosted the No. 2 Notre Dame Fighting Irish in the big primetime slot Saturday, and they stayed undefeated by squeaking out a 28-24 win. There was some fourth-quarter distress when BYU threw an interception just after surrendering their lead. But quarterback Bear Bachmeier—who wears No. 47 because he says he embodies a \"fullback mentality\"—took advantage of an Irish three-and-out to pilot a go-ahead drive that concluded with less than two minutes to play. The defense still needed a stop, but they allowed the Irish to creep all the way down to the eight-yard line before mustering an incompletion as time expired. The Mormons flooded the field, and a program that barely missed last year's playoff celebrated a signature win.\n\nhttps://www.youtube.com/watch?v=Fc3pV2hcAs4\n\n\nBut wait. The top story from this game on Sunday morning was not BYU's epic 28-24 triumph, but the fact that the officials apparently ended the action too early. In a passive-voice statement released by the Big 12, the conference said that, in actuality, \"it was determined that time remained on the clock when the ball hit the ground and the play was incorrectly cleared by the replay officiating crew\" on Notre Dame's final snap. \"The Conference will conduct a complete review of its end-of-game officiating process in advance of next week's games,\" the statement said. The crew's supposed error means the Irish should have enjoyed one more shot to gain eight yards and avoid defeat, instead of dodging the most sober field-rushers in college football history on their way back to the locker room. The fact that we know this, I think, is supposed to be progress.",
           "link": "https://defector.com/whats-the-point-of-all-these-reviews",
           "publishedOn": "2026-10-18T16:56:12.000Z",
-          "wordCount": 5554,
+          "wordCount": 5538,
           "title": "What’s The Point Of All These Reviews?",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2300244120_de15d2-e1792335828169.jpg"
         },
@@ -565,7 +565,7 @@
           "description": "ESPN is reporting that ESPN and the College Football Playoff are close to a deal to expand the playoff field to 24 teams in 2027. This news arrives merely two years after the field already expanded from four teams to 12. Not only was this expansion inevitable, but it is unlikely to be the last we see.\nFor now, we are on the cusp of a 24-team playoff, which comes as ESPN and the CFP have been negotiating a big new deal for the network to continue broadcasting the games. According to ESPN's reporting, this new deal will do away with Power 4 conference championship games and start the season a week earlier. Details are reportedly being finalized, but ESPN describes the current composition for the 24-team field as 19 at-large bids, the Power 4 conference champions \"as determined by each league,\" and the highest-ranked Group of 6 team.\nThe Big Ten has been a leading proponent for this change, and its commissioner Tony Pettiti pushed back against complaints that further expansion would dilute and devalue the product and the games. He argues that the new system would include \"tiered incentives.\" According to ESPN, seeds 1 through 8 would get a first-round bye, followed by a home game. Teams seeded from 9 through 16 would get a first-round home game, while teams seeded 17 and lower should be vying for a higher ranking, both to stay in competition and to get that first-round home game. Cool.",
           "link": "https://defector.com/the-cfp-is-expanding-for-the-same-reason-the-pcsa-is-gaining-momentum",
           "publishedOn": "2026-10-16T16:17:29.000Z",
-          "wordCount": 4917,
+          "wordCount": 4895,
           "title": "The CFP Is Expanding For The Same Reason The PCSA Is Gaining Momentum",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2254204465.jpg"
         },
@@ -585,7 +585,7 @@
           "description": "And so ends the Los Angeles Dodgers' reign as baseball's most overwhelming boogeyman. The poster kids for the omnipotence of money, the belief that having the best player means being the best team, the power of the big market over all it surveys—all of that feels less important at this moment than the ability to do the things the Milwaukee Brewers do better than anyone else. The same old song has been replaced, for the moment, by this:\n\nhttps://www.youtube.com/watch?v=7Xzmeye6MaY\n\n\nYes, meet your new overlords. The Brewers pack extraordinary amounts of baseball into every game, play it better than anyone else, and supposedly have no interest in hitting home runs. It was fitting, then, that they gave the nation a little tweak on the cheek Thursday night en route to sweeping the Dodgers out of the postseason when the final run they scored in their 6-4 win came on a moonshot from noted Boston Red Sox ex-pat and devoted homer avoider David Hamilton. The Brewers did all the things that made them the best team in baseball this season, and mostly kept the Dodgers from doing the things that won them the last two World Series—and then they did the stuff that contemporary winning baseball teams do, too, in a typically unpredictable way.",
           "link": "https://defector.com/smart-can-win-milwaukee-brewers-nlcs",
           "publishedOn": "2026-10-16T15:22:11.000Z",
-          "wordCount": 5920,
+          "wordCount": 5916,
           "title": "Smart Can Win",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2299748559.jpg"
         },
@@ -595,7 +595,7 @@
           "description": "Welcome back to The Not-So-Great Defector Bake Off, where Kelsey and Chris attempt to complete the technical challenges from the newest season of The Great British Bake Off in their own home kitchens, with the same time parameters as the professional-grade bakers competing on the show.\nIt's nice having Nigella Lawson in the tent. She is cheerful and radiates serenity, and she takes those big glorious bites. She makes you want to bake and to eat. She even makes you want to share the things you bake with others, so that they too can take a huge cheek-bulging bite of something messy and crumbly and you two can giggle together at the decadence of it all.",
           "link": "https://defector.com/the-not-so-great-defector-bake-off-exults-eventually-in-the-freedom-of-audience-choice-week",
           "publishedOn": "2026-10-16T14:05:41.000Z",
-          "wordCount": 15744,
+          "wordCount": 15740,
           "title": "The Not-So-Great Defector Bake Off Exults, Eventually, In The Freedom Of Audience Choice Week",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/Screenshot-2026-10-15-at-12.39.50-PM.png"
         },
@@ -605,7 +605,7 @@
           "description": "The model of Donald Trump currently on display is fussy and sour, poached to glossy and unappetizing gumminess in his own luxurious bathwater; he is also, to all appearances, miserable. It is hard to say whether the adoration of his admirers or the revulsion of a large and growing portion of the American populace has been worse for him in that regard, but neither seems to have done him much good. \nThe Trump currently maundering and free-associating through 110-minute performances at various swing-state event spaces is manic or wan but mostly just dull—a mean old dunce listing his gripes, telling weird lies, and talking about dumb stuff he saw on TV. People suffer and die as a direct result of how much he sucks, every day, and he is still somehow the most boring old rich guy imaginable. Not…",
           "link": "https://defector.com/what-is-the-mob-movie-donald-trump-saw-with-a-gangster-named-alan-jones-in-it",
           "publishedOn": "2026-10-16T13:01:52.000Z",
-          "wordCount": 7504,
+          "wordCount": 7508,
           "title": "What Is The Mob Movie Donald Trump Saw With A Gangster Named “Alan Jones” In It?",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2298464376.jpg"
         },
@@ -615,7 +615,7 @@
           "description": "L.A. Material is an independent news organization aimed at filling some holes in the Los Angeles news landscape and making that fascinating, fragmented city more legible. You can learn more, and subscribe, at lamaterial.com. This story originally ran at the site on Sept. 30.\nI had been going to Dodger Stadium with my dad for about 30 years before he pointed them out to me. “See that?” he asked, gesturing toward two rectangular panels of concrete on a far wall of the main seating structure. They looked almost like friezes, carved with inscrutable designs. My dad had been wondering about them for decades.\nTurns out the pieces he’d spotted are just the beginning. Eventually I’d locate more custom bas-relief sculptures around the park—about a dozen in total. Smaller ones visible from the field-level entrances. Massive, multi-story pieces that wrap around certain outside corners of the building. They’re subtle: abstract scenes unadorned with color, camouflaged into the rest of their concrete environments, in some cases obscured by trees and bushes.",
           "link": "https://defector.com/the-secret-history-of-dodger-stadiums-mysterious-concrete-murals",
           "publishedOn": "2026-10-15T19:36:36.000Z",
-          "wordCount": 8544,
+          "wordCount": 8540,
           "title": "The Secret History Of Dodger Stadium’s Mysterious Concrete Murals",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/George-Nocito-image-8-—-courtesy-of-Dasha-Layne-1.png"
         }
@@ -643,6 +643,16 @@
       "feedUrl": "https://stuffthatinterestsme.net/feed/",
       "siteUrl": "https://stuffthatinterestsme.net",
       "articles": [
+        {
+          "id": "https://stuffthatinterestsme.net/?p=4207",
+          "author": "Schill",
+          "description": "Two songs. Two bands. Two very different snapshots of British life. Pulp’s “Common People” and Blur’s “Parklife” are two of",
+          "link": "https://stuffthatinterestsme.net/song-battle-pulp-common-people-vs-blue-parklife/",
+          "publishedOn": "2026-10-19T00:38:59.000Z",
+          "wordCount": 2947,
+          "title": "Song Battle: Pulp – “Common People”  Vs Blue – “Parklife”",
+          "imageUrl": null
+        },
         {
           "id": "https://stuffthatinterestsme.net/?p=3825",
           "author": "Schill",
@@ -764,33 +774,13 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
           "author": null,
-          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
-          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-10-18T23:55:22.788Z",
+          "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
+          "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
+          "publishedOn": "2026-10-19T03:20:09.427Z",
           "wordCount": 177,
-          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-18T23:55:22.787Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
-          "author": null,
-          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
-          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-18T23:55:22.785Z",
-          "wordCount": 177,
-          "title": "California is on fire and these people are profiting off it",
+          "title": "'The Odyssey' wants you to suffer",
           "imageUrl": null
         },
         {
@@ -798,19 +788,9 @@
           "author": null,
           "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
           "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-18T23:55:22.784Z",
+          "publishedOn": "2026-10-19T03:20:09.422Z",
           "wordCount": 177,
           "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
-          "author": null,
-          "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
-          "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-18T23:55:22.781Z",
-          "wordCount": 177,
-          "title": "'The Odyssey' wants you to suffer",
           "imageUrl": null
         },
         {
@@ -818,29 +798,9 @@
           "author": null,
           "description": "Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  \n\nYes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…",
           "link": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php",
-          "publishedOn": "2026-10-18T23:55:22.780Z",
+          "publishedOn": "2026-10-19T03:20:09.419Z",
           "wordCount": 177,
           "title": "It's easy to blame the USMNT's World Cup crashout on one man. So I will.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
-          "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-18T23:55:22.777Z",
-          "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
-          "author": null,
-          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
-          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-10-18T23:55:22.776Z",
-          "wordCount": 177,
-          "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
         },
         {
@@ -848,19 +808,9 @@
           "author": null,
           "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
           "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-18T23:55:22.775Z",
+          "publishedOn": "2026-10-19T03:20:09.412Z",
           "wordCount": 177,
           "title": "If you don't hate data centers yet, boy do I have news for you",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
-          "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-18T23:55:22.773Z",
-          "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
@@ -868,29 +818,39 @@
           "author": null,
           "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
           "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-18T23:55:22.771Z",
+          "publishedOn": "2026-10-19T03:20:09.409Z",
           "wordCount": 177,
           "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
           "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-18T23:55:22.769Z",
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-10-19T03:20:09.408Z",
           "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
+          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
           "author": null,
-          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
-          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-10-18T23:55:22.766Z",
+          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
+          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
+          "publishedOn": "2026-10-19T03:20:09.406Z",
           "wordCount": 177,
-          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
+          "title": "California is on fire and these people are profiting off it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
+          "author": null,
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-10-19T03:20:09.404Z",
+          "wordCount": 177,
+          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -898,9 +858,39 @@
           "author": null,
           "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
           "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-18T23:55:22.762Z",
+          "publishedOn": "2026-10-19T03:20:09.404Z",
           "wordCount": 177,
           "title": "Why Your Team Sucks 2026: San Francisco 49ers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "author": null,
+          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
+          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
+          "publishedOn": "2026-10-19T03:20:09.403Z",
+          "wordCount": 177,
+          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
+          "author": null,
+          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
+          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
+          "publishedOn": "2026-10-19T03:20:09.401Z",
+          "wordCount": 177,
+          "title": "I found one of America's best croissants in San Francisco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
+          "author": null,
+          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
+          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
+          "publishedOn": "2026-10-19T03:20:09.397Z",
+          "wordCount": 177,
+          "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
         },
         {
@@ -908,9 +898,29 @@
           "author": null,
           "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
           "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-18T23:55:22.758Z",
+          "publishedOn": "2026-10-19T03:20:09.395Z",
           "wordCount": 177,
           "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "author": null,
+          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
+          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
+          "publishedOn": "2026-10-19T03:20:09.390Z",
+          "wordCount": 177,
+          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
+          "author": null,
+          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
+          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
+          "publishedOn": "2026-10-19T03:20:09.386Z",
+          "wordCount": 177,
+          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
           "imageUrl": null
         }
       ]
@@ -926,7 +936,7 @@
           "description": "Bend has done more than its part watering the tree of liberty.",
           "link": "https://www.esquire.com/news-politics/politics/a74163781/bend-oregon-school-shooting/",
           "publishedOn": "2026-10-16T21:50:26.000Z",
-          "wordCount": 22413,
+          "wordCount": 22410,
           "title": "Another Tragic Reminder: Too. Many. Damn. Guns.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/21a57638-9bf6-4229-a4ac-2b4611f1a4bf.jpeg?crop=1xw:0.749951200468xh;center,top&resize=1200:*"
         },
@@ -966,7 +976,7 @@
           "description": "This conspiratorial threat has been a bogeyman for the do-your-own-research techno-right for so long that it dates back to when Newt Gingrich was considered a political visionary.",
           "link": "https://www.esquire.com/news-politics/politics/a74133141/emp-theory-iran-war-trump-administration/",
           "publishedOn": "2026-10-14T14:41:00.000Z",
-          "wordCount": 18946,
+          "wordCount": 18949,
           "title": "The Ridiculous Tinfoil-Hat Theory That May Have Pushed the Trump Administration to Start the War with Iran",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9cf4b333-d741-4567-9220-6f2b5f06a9c5.jpeg?crop=1xw:0.754739814441xh;center,top&resize=1200:*"
         },
@@ -986,7 +996,7 @@
           "description": "Chants of “USA!” rang out at the president’s Ohio rally after a MAGA goon punched a protester in the face. Bet you can’t guess who got high-fived and who got escorted out of the venue.",
           "link": "https://www.esquire.com/news-politics/politics/a74123337/trump-rally-violence/",
           "publishedOn": "2026-10-13T20:03:02.000Z",
-          "wordCount": 18520,
+          "wordCount": 18517,
           "title": "Trump’s Fundamental Electoral Strategy Is Violence",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/60ae6af0-4409-4416-8974-52f27859dd9a.jpeg?crop=1xw:0.75xh;0xw,0.044xh&resize=1200:*"
         },
