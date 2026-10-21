@@ -114,16 +114,6 @@
           "wordCount": 109,
           "title": "Sunday, October 11, 2026",
           "imageUrl": "https://baty.net/img/2026/20261011-working-on-founders-new-building.webp"
-        },
-        {
-          "id": "https://baty.net/posts/2026/10/leaning-into-how-my-brain-works/",
-          "author": null,
-          "description": "For much of my life, I've thought that I wanted to be someone else. Or at least be a person like someone else. Sometimes I'd even try to be that person. \"That person\" has usually been whomever I happened to be reading or watching something about. It's never worked.\nInstead, maybe I shouldn't work so hard at being whatever kind of person I find interesting this week. Maybe I should be the kind of person I already am. Except, what kind even is that?\nFair question! The short answer is that I like the discovery phase of everything.\nI love movies in which something strange is going on and people are trying to figure out what's happening. The problem is that I lose interest once they figure out what's happening and begin solving, killing, or running from whatever it is.\nSame with video games. Th…",
-          "link": "https://baty.net/posts/2026/10/leaning-into-how-my-brain-works/",
-          "publishedOn": "2026-10-11T15:15:55.000Z",
-          "wordCount": 642,
-          "title": "Leaning into how my brain works",
-          "imageUrl": "https://baty.net/img/opengraph.jpg"
         }
       ]
     },
@@ -178,7 +168,7 @@
           "description": "[request] flags:--- replies:1",
           "link": "https://list.orgmode.org/283c4914-dd42-4ce8-b61d-4b90274b4a0e@gmail.com",
           "publishedOn": "2026-10-18T06:24:30.000Z",
-          "wordCount": null,
+          "wordCount": 686,
           "title": "Org Mode requests: [RFC] a small patch for the brave on emacs32",
           "imageUrl": null
         },
@@ -218,7 +208,7 @@
           "description": "Using Eglot for code formatting reduces the number of dependencies in your Emacs configuration. Instead of installing and configuring third-party Emacs package, Eglot handles formatting directly through the active LSP server, which ensures the formatting logic matches the active language server's configuration and that the editor and the server are synchronized. While you can add eglot-format-buffer directly to the global before-save-hook, doing so will format every file you save, which can cause unexpected behavior in buffers that are not managed by Eglot. The correct method is to add the format function to a buffer-local hook, and only when Eglot is … Continue reading →",
           "link": "https://www.jamescherti.com/emacs-eglot-auto-format-buffer-on-save/",
           "publishedOn": "2026-10-17T12:48:43.000Z",
-          "wordCount": 2125,
+          "wordCount": 2178,
           "title": "James Cherti: Auto format code on save with Emacs Eglot",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -358,7 +348,7 @@
           "description": "Org Social is so simple it looks like it was born before the internet. A single plain text file, an editor and a host are enough to interact with other people.\nTo \"create an account\", you just create a plain text file in any editor. Your \"database\" is your own hierarchy of posts. Your \"algorithm\" is however you decide to sort other people's posts. There is no \"character limit\". Your \"server\" is any hosting or web server. Your \"interface\" is your favorite editor. And if you want to \"delete your account\", you just delete the file. And of course, the syntax is richer than Markdown and just as easy to learn: Org Mode. You share and edit wherever you want, and you use it as a microblog, a journal, a forum, a bulletin board or a blog. Your file, your rules.\nBehind it there is infrastructure that…",
           "link": "http://en.andros.dev/blog/6c165f77/org-social-the-social-network-that-survives-its-own-infrastructure/",
           "publishedOn": "2026-10-14T15:12:18.000Z",
-          "wordCount": 2921,
+          "wordCount": 2917,
           "title": "Andros Fenollosa: Org Social: the social network that survives its own infrastructure",
           "imageUrl": "https://img.andros.dev/lO4rHtFcmp5pDRbWBepGddVAOVI=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/org-social.png"
         },
@@ -418,7 +408,7 @@
           "description": "Upcoming events (iCal file, Org):\n\nEmacs.si (in person): Emacs.si meetup #10 2026 (v #živo) https://dogodki.kompot.si/events/df5d39f6-4d78-4841-b207-ef2c9e60bd5c Mon Oct 12 1900 CET\nEmacs Paris: S: Emacs workshop in Paris (online) https://emacs-doctor.com/ Tue Oct 13 0830 America/Vancouver - 1030 America/Chicago - 1130 America/Toronto - 1530 Etc/UTC - 1730 Europe/Berlin - 2100 Asia/Kolkata - 2330 Asia/Singapore\nEmacs Berlin: In-Person-Only Emacs-Berlin Stammtisch https://emacs-berlin.org/ Tue Oct 13 1900 Europe/Berlin\nOrgMeetup (virtual) https://orgmode.org/worg/orgmeetup.html Wed Oct 14 0900 America/Vancouver - 1100 America/Chicago - 1200 America/Toronto - 1600 Etc/UTC - 1800 Europe/Berlin - 2130 Asia/Kolkata – Thu Oct 15 0000 Asia/Singapore\nOrgDevMeetup https://bbb.emacsverse.org/rooms/o…",
           "link": "https://sachachua.com/blog/2026/10/2026-10-12-emacs-news/",
           "publishedOn": "2026-10-12T11:58:28.000Z",
-          "wordCount": 1173,
+          "wordCount": 1175,
           "title": "Sacha Chua: 2026-10-12 Emacs news",
           "imageUrl": null
         },
@@ -485,7 +475,7 @@
           "description": "Five years ago this fall, The Athletic published a feature in which NWSL players Mana Shim and Sinead Farrelly opened up about their abusive former Portland Thorns coach, Paul Riley. The story prompted an investigation into how the NWSL handled reports of abuse, and by the end of that year, half of the league's head coaches either resigned or were fired, along with league commissioner Lisa Baird.\nI met Shim while on tour for Normal Gossip in 2023, and I was curious to talk to her about how she made the decision to go public with her experiences when there are so many reasons not to, like the fragility of the then-nascent league and the potential repercussions she might experience. And there were the identity questions. She had dedicated her entire life to soccer, so what happened when she decided to walk away? How did she find her way back on new terms after everything that had happened?\nThis season finale of Try Hard is a bit heavier than the other episodes this season, but I wanted to end on it because I was so inspired by Shim's courage, not only to make herself vulnerable by speaking up, but in daring to imagine a new version of her life after spending so many years chasing a singular goal.",
           "link": "https://defector.com/mana-shim-walked-away-from-soccer-then-she-rebuilt-her-life",
           "publishedOn": "2026-10-20T17:40:34.000Z",
-          "wordCount": 4402,
+          "wordCount": 4489,
           "title": "Mana Shim Walked Away From Soccer, Then She Rebuilt Her Life",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/mana-blog-header.png"
         },
@@ -525,7 +515,7 @@
           "description": "Without knowing for sure whether this is actually true, we can still surmise that the Washington Commanders felt better about losing Monday night's game than they did about their delightfully grotesque tie against the Giants in Week 5. And we are almost certain the San Francisco 49ers felt worse in victory. Their record stayed spotless, but in making their escape, they caught a glimpse of the grim future that is in their front yard.\nIf you chose to avoid last night's Commanders–49ers game in the shadows of Hell's Substation, you are finding out today what happens when the scoreboard lies, and also when it becomes permissible to lie about the scoreboard. The practical truth is that the 49ers won 23-17, and remain one of the NFL's three undefeated teams. The victory broadened their lead in the NFC West to half the schedule—a margin of three games over the barely tenable Seattle Seahawks after six weeks of action. The math here is nearly unassailable, but hold on a moment while we assail it.\nBy losing, the Commanders managed not only to drop from 1-4-1, the fourth-worst record in the sport, but to complete a second consecutive week of winless football from the entire NFC East. Those divisional rivals pulled together to lose six games outright and tie a seventh in humiliating fashion. This is the first time an entire division has gone without a single team winning in back-to-back weeks since the AFL-NFL merger in 1970, and almost certainly the first time ever, though we suspect nobody is bored enough to give that research a go. Only one team in the division, the New York Giants, has a winning record, and none of them have a positive point differential. After six weeks, the NFC East has fashioned itself as a hideous homage to the American League West, the new standard for no standards at all.",
           "link": "https://defector.com/some-wins-feel-more-like-losses",
           "publishedOn": "2026-10-20T16:06:15.000Z",
-          "wordCount": 5680,
+          "wordCount": 5793,
           "title": "Some Wins Feel More Like Losses",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2300555032.jpg"
         },
@@ -535,7 +525,7 @@
           "description": "After listening to a critique of the Miss America pageant on a public radio station, Barbara Hammer declared herself a feminist. Then she left her husband. Then she became a lesbian. This was the early 1970s, and it wasn’t long before someone gifted baby gay Hammer a Super-8 and she commenced pointing it—lovingly, relentlessly—at every human crease and crevice in her life. Around this time, Hammer started writing down her name and address and placing them in balloons for others to find. “Otherwise I’d be lost in the world,” she said of the practice in an “exit interview,” given just before she died in 2019. \nBrydie O’Connor’s Barbara Forever  is one of these balloons; a documentary worthy of its iconic subject, that captures and arranges fragments of Barbara for us to turn over in our hand…",
           "link": "https://defector.com/barbara-forever-wont-let-you-forget",
           "publishedOn": "2026-10-20T14:57:20.000Z",
-          "wordCount": 7215,
+          "wordCount": 7297,
           "title": "‘Barbara Forever’ Won’t Let You Forget",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/BARBARA_FOREVER.png"
         },
@@ -545,7 +535,7 @@
           "description": "A Weird Star is a classic place-setter in fiction. Put a Weird Star in the sky, even if it never has anything to do with the plot, and you know we're somewhere different and alien. Anything that's clearly not our Sun, and you're cooking with gas. Maybe it's a binary system, and there's two suns. Maybe it's large and looming. Maybe it's even flickering, like Jack Vance used, to excellent effect. But rarely do authors fuck around with color. A star is white, or red if it's going out soon, or, if the planet is question is truly fucked, the star is blue because that's the hottest color there is. Those are the colors of stars, we figured. Not even sci-fi authors could conceive of a mechanism to get some new tints in there.\nAs is often the case, the real universe turns out to be stranger than imagination. Stars, under the right circumstances, can appear to observers on their orbiting planets in a wide spectrum of colors, from hot pink to the green of cucumber lime Gatorade. \"Imagine standing on a planet and looking up at a green star,\" said Mark Hollands, an astrophysicist at the University of Warwick and lead author on the study. I'm imagining it, Mark! It rocks!\nThe paper, published last week in RAS Techniques and Instruments, doesn't rely on having found some new stars lit up like Christmas lights. Instead, it's a breakthrough in modeling. Traditionally, stars are modeled as putting out black-body radiation. Black bodies are mathematical conveniences, idealized objects: perfectly opaque and non-reflective, and emitting light in all wavelengths. Black bodies do not actually exist, but stars are close enough to that the models work for most purposes, which is the important thing. In black-body radiation, light will only ever vary depending on the temperature of the object, going from red to white to blue as the object gets hotter. Play around with the burners on your stove to grasp this immediately.",
           "link": "https://defector.com/i-love-the-colorful-stars",
           "publishedOn": "2026-10-20T14:17:53.000Z",
-          "wordCount": 5463,
+          "wordCount": 5542,
           "title": "I Love The Colorful Stars",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/wd_colours_final_credit_mark-hollands_university-of-warwick.jpeg"
         },
@@ -584,6 +574,16 @@
       "siteUrl": "https://stuffthatinterestsme.net",
       "articles": [
         {
+          "id": "https://stuffthatinterestsme.net/?p=3913",
+          "author": "Schill",
+          "description": "Anne Hathaway is an American actress known for moving comfortably between romantic comedies, dramas, musicals, action films, and prestige productions.",
+          "link": "https://stuffthatinterestsme.net/humpday-hottie-anne-hathaway/",
+          "publishedOn": "2026-10-21T00:48:53.000Z",
+          "wordCount": 1534,
+          "title": "Humpday Hottie: Anne Hathaway",
+          "imageUrl": null
+        },
+        {
           "id": "https://stuffthatinterestsme.net/?p=4222",
           "author": "Schill",
           "description": "There are horror movies about families. There are horror movies about killers. And then there are Troma movies, where the",
@@ -597,10 +597,10 @@
           "id": "https://stuffthatinterestsme.net/?p=4207",
           "author": "Schill",
           "description": "Two songs. Two bands. Two very different snapshots of British life. Pulp’s “Common People” and Blur’s “Parklife” are two of",
-          "link": "https://stuffthatinterestsme.net/song-battle-pulp-common-people-vs-blue-parklife/",
+          "link": "https://stuffthatinterestsme.net/song-battle-pulp-common-people-vs-blur-parklife/",
           "publishedOn": "2026-10-19T00:38:59.000Z",
           "wordCount": 2947,
-          "title": "Song Battle: Pulp – “Common People”  Vs Blue – “Parklife”",
+          "title": "Song Battle: Pulp – “Common People”  Vs Blur – “Parklife”",
           "imageUrl": null
         },
         {
@@ -728,19 +728,9 @@
           "author": null,
           "description": "Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  \n\nYes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…",
           "link": "https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php",
-          "publishedOn": "2026-10-20T22:55:51.996Z",
+          "publishedOn": "2026-10-21T03:23:10.890Z",
           "wordCount": 177,
           "title": "It's easy to blame the USMNT's World Cup crashout on one man. So I will.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/tech/article/data-centers-22356298.php-full",
-          "author": null,
-          "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
-          "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-20T22:55:51.993Z",
-          "wordCount": 177,
-          "title": "If you don't hate data centers yet, boy do I have news for you",
           "imageUrl": null
         },
         {
@@ -748,79 +738,9 @@
           "author": null,
           "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
           "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-20T22:55:51.988Z",
+          "publishedOn": "2026-10-21T03:23:10.883Z",
           "wordCount": 177,
           "title": "'The Odyssey' wants you to suffer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full",
-          "author": null,
-          "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
-          "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-20T22:55:51.987Z",
-          "wordCount": 177,
-          "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
-          "author": null,
-          "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
-          "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-20T22:55:51.984Z",
-          "wordCount": 177,
-          "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
-          "author": null,
-          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
-          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-20T22:55:51.983Z",
-          "wordCount": 177,
-          "title": "California is on fire and these people are profiting off it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
-          "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-20T22:55:51.982Z",
-          "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
-          "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-20T22:55:51.980Z",
-          "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-20T22:55:51.978Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
-          "author": null,
-          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
-          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-20T22:55:51.976Z",
-          "wordCount": 177,
-          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
         },
         {
@@ -828,29 +748,79 @@
           "author": null,
           "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
           "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-20T22:55:51.972Z",
+          "publishedOn": "2026-10-21T03:23:10.882Z",
           "wordCount": 177,
           "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
+          "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
           "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-20T22:55:51.969Z",
+          "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
+          "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
+          "publishedOn": "2026-10-21T03:23:10.880Z",
           "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
+          "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
           "author": null,
-          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
-          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-10-20T22:55:51.966Z",
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-10-21T03:23:10.878Z",
           "wordCount": 177,
-          "title": "San Francisco's best hotel cannot be killed",
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
+          "author": null,
+          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
+          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
+          "publishedOn": "2026-10-21T03:23:10.876Z",
+          "wordCount": 177,
+          "title": "California is on fire and these people are profiting off it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/tech/article/data-centers-22356298.php-full",
+          "author": null,
+          "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
+          "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
+          "publishedOn": "2026-10-21T03:23:10.875Z",
+          "wordCount": 177,
+          "title": "If you don't hate data centers yet, boy do I have news for you",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
+          "author": null,
+          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
+          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
+          "publishedOn": "2026-10-21T03:23:10.873Z",
+          "wordCount": 177,
+          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full",
+          "author": null,
+          "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
+          "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
+          "publishedOn": "2026-10-21T03:23:10.872Z",
+          "wordCount": 177,
+          "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "author": null,
+          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
+          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
+          "publishedOn": "2026-10-21T03:23:10.871Z",
+          "wordCount": 177,
+          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
         },
         {
@@ -858,9 +828,39 @@
           "author": null,
           "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
           "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-10-20T22:55:51.955Z",
+          "publishedOn": "2026-10-21T03:23:10.868Z",
           "wordCount": 177,
           "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
+          "author": null,
+          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
+          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
+          "publishedOn": "2026-10-21T03:23:10.866Z",
+          "wordCount": 177,
+          "title": "I found one of America's best croissants in San Francisco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
+          "author": null,
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-10-21T03:23:10.863Z",
+          "wordCount": 177,
+          "title": "Andrew Luck is just another bureaucrat now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
+          "author": null,
+          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
+          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
+          "publishedOn": "2026-10-21T03:23:10.858Z",
+          "wordCount": 177,
+          "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
         },
         {
@@ -868,7 +868,7 @@
           "author": null,
           "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
           "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-10-20T22:55:51.952Z",
+          "publishedOn": "2026-10-21T03:23:10.852Z",
           "wordCount": 177,
           "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
           "imageUrl": null
@@ -906,7 +906,7 @@
           "description": "Everything about the review of this heartbreaking case is fishy.",
           "link": "https://www.esquire.com/news-politics/politics/a74194675/mississippi-attorney-general-kohen-wiley-shot-killed-police/",
           "publishedOn": "2026-10-20T17:16:39.000Z",
-          "wordCount": 19519,
+          "wordCount": 20232,
           "title": "In a Totally Cruel Decision, Mississippi AG Finds No Wrongdoing in the Despicable Police Shooting of a One-Year-Old Boy",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/37c3a051-e427-4d1f-8999-ba158b3ff0cc.jpeg?crop=1xw:0.749xh;0xw,0.251xh&resize=1200:*"
         },
@@ -1016,7 +1016,7 @@
           "description": "The president’s handpicked Senate candidate just turned up in a video of a New Year’s Eve party in Dubai. With two fugitives. And a woman who wasn’t his wife. Game knows game, man.",
           "link": "https://www.esquire.com/news-politics/politics/a74120136/ken-paxton-texas-partying/",
           "publishedOn": "2026-10-13T15:25:01.000Z",
-          "wordCount": 17554,
+          "wordCount": 18837,
           "title": "Trump’s Elevation of Ken Paxton Gets a Little Dumber Every Single Day",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/49517dff-a580-4773-a091-525861ed17f8.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
