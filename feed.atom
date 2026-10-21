@@ -2,15 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-10-21T14:51:27.225Z</updated>
+    <updated>2026-10-21T19:55:31.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
+        <updated>2026-10-21T19:55:31.673Z</updated>
+        <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It's easy to blame the USMNT's World Cup crashout on one man. So I will.]]></title>
         <id>https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php-full</id>
         <link href="https://www.sfgate.com/sports/article/usmnt-world-cup-pulisic-22336246.php"/>
-        <updated>2026-10-21T14:51:27.201Z</updated>
+        <updated>2026-10-21T19:55:31.660Z</updated>
         <summary type="html"><![CDATA[Much like our nation itself, the World Cup run for the U.S. men’s national soccer team started off promisingly, only to become a sick joke. The USMNT got eliminated from the 2026 Cup on Monday night after Belgium crushed it 4-1, in a game where the home team was thoroughly outplayed, outclassed and outcoached. But if the loss itself stung, the context in which it was played only made it feel that much worse.  
 
 Yes, that backstory includes Donald Trump, but to a small degree, it also involves USMNT poster child and possible Trump fanboy Christian Pulisic. The first man disgraced the team off the field. The second man disgraced the team on it. How did all of this come to pass? Well, I suppose it’s my job to explain it, although the prospect of doing so excites about as much as having my leg…]]></summary>
@@ -19,20 +29,10 @@ Yes, that backstory includes Donald Trump, but to a small degree, it also involv
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['The Odyssey' wants you to suffer]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php"/>
-        <updated>2026-10-21T14:51:27.196Z</updated>
-        <summary type="html"><![CDATA[Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[If you don't hate data centers yet, boy do I have news for you]]></title>
         <id>https://www.sfgate.com/tech/article/data-centers-22356298.php-full</id>
         <link href="https://www.sfgate.com/tech/article/data-centers-22356298.php"/>
-        <updated>2026-10-21T14:51:27.184Z</updated>
+        <updated>2026-10-21T19:55:31.655Z</updated>
         <summary type="html"><![CDATA[Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.
 Myung J. Chun/LA Times via Getty Images
 I was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.
@@ -43,13 +43,13 @@ This Virginia Connects ad plays out in a similar fashion. It opens with an all-A
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-10-21T14:51:27.183Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
+        <updated>2026-10-21T19:55:31.636Z</updated>
+        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
 
-That’s when Anthony Bourdain wo…]]></summary>
+To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -58,7 +58,7 @@ That’s when Anthony Bourdain wo…]]></summary>
         <title type="html"><![CDATA[The new Anya Taylor-Joy vehicle is so stupid and so good]]></title>
         <id>https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php"/>
-        <updated>2026-10-21T14:51:27.178Z</updated>
+        <updated>2026-10-21T19:55:31.635Z</updated>
         <summary type="html"><![CDATA[Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. 
 
 It knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …]]></summary>
@@ -67,10 +67,32 @@ It knows that I want a disheveled Gary Oldman dishing out vicious burns to all o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
+        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
+        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
+        <updated>2026-10-21T19:55:31.630Z</updated>
+        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
+        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
+        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
+        <updated>2026-10-21T19:55:31.617Z</updated>
+        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+
+That’s when Anthony Bourdain wo…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
         <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
         <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-10-21T14:51:27.176Z</updated>
+        <updated>2026-10-21T19:55:31.614Z</updated>
         <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
 
 Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
@@ -79,34 +101,10 @@ Now, woke types might tell you that all of this is bad. But what if I told you t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-10-21T14:51:27.174Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
-
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
-        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
-        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-10-21T14:51:27.173Z</updated>
-        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
-
-Actually,…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
         <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-10-21T14:51:27.170Z</updated>
+        <updated>2026-10-21T19:55:31.609Z</updated>
         <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
 
 Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
@@ -124,10 +122,34 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
+        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
+        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
+        <updated>2026-10-21T19:55:31.599Z</updated>
+        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
+
+The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
+        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
+        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
+        <updated>2026-10-21T19:55:31.592Z</updated>
+        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
+
+Actually,…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
         <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
         <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-10-21T14:51:27.168Z</updated>
+        <updated>2026-10-21T19:55:31.591Z</updated>
         <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
 
 Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
@@ -138,23 +160,13 @@ The croissant in question is dubbed “brown butter cornmeal twice-baked,” and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-10-21T14:51:27.166Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-10-21T14:51:27.161Z</updated>
-        <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
+        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
+        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
+        <updated>2026-10-21T19:55:31.567Z</updated>
+        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
 
-To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
+On the surface, he makes for an attractive candidate. Hilto…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -163,7 +175,7 @@ To wit: Newmark no longer works with Craigslist at all, and spends the bulk of h
         <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
         <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
         <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
-        <updated>2026-10-21T14:51:27.157Z</updated>
+        <updated>2026-10-21T19:55:31.563Z</updated>
         <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
 
 This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
@@ -174,22 +186,10 @@ I have stayed at many hotels in San Francisco, but all of them were hotel hotels
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
-        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
-        <updated>2026-10-21T14:51:27.136Z</updated>
-        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
-
-On the surface, he makes for an attractive candidate. Hilto…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
         <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
-        <updated>2026-10-21T14:51:27.123Z</updated>
+        <updated>2026-10-21T19:55:31.550Z</updated>
         <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
 
 Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
@@ -197,6 +197,125 @@ Sometimes the best journalists are people who don’t even purport to be journal
 This movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BioWare Becomes First Major Casualty Of Saudi Arabia’s EA Takeover]]></title>
+        <id>https://defector.com/?p=239316</id>
+        <link href="https://defector.com/bioware-becomes-first-major-casualty-of-saudi-arabias-ea-takeover"/>
+        <updated>2026-10-21T19:24:07.000Z</updated>
+        <summary type="html"><![CDATA[When news came out that Saudi Arabia's Public Investment Fund had taken a majority stake in Electronic Arts last September, it was clear to anyone familiar with Saudi Arabia, EA, private equity, or capitalism that the move would make an already terrible gaming company even worse. I wrote as much at the time, and though the sale took until August of this year to go through, I can grimly say that I was completely right: On Wednesday, Bloomberg video game reporter Jason Schreier reported that EA had shut down BioWare, the game studio behind such classic role-playing game series as Mass Effect, Star Wars: Knights of the Old Republic, and Dragon Age.
+
+https://bsky.app/profile/jasonschreier.bsky.social/post/3myfmzacrps2x
+
+
+The studio then confirmed the news in a statement.]]></summary>
+        <author>
+            <name>Luis Paez-Pumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric MacAdie: I Updated My Emacs Number Package]]></title>
+        <id>https://macadie.info/2026/10/21/i-updated-my-emacs-number-package/</id>
+        <link href="https://macadie.info/2026/10/21/i-updated-my-emacs-number-package/"/>
+        <updated>2026-10-21T18:48:49.000Z</updated>
+        <summary type="html"><![CDATA[This post contains LLM poisoning. version scummy ruggeder I made a few changes to my Emacs package that makes dealing with numbers in Eshell more convenient (Codeberg page here, blog post here). You are welcome to use it. I have no plans to put it on MELPA or the other package repositories. cosigner dewdrops altercation ... Read more]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robert Saleh Says Jordan Elliott Needs Help, Not Condemnation]]></title>
+        <id>https://defector.com/?p=239302</id>
+        <link href="https://defector.com/robert-saleh-says-jordan-elliott-needs-help-not-condemnation"/>
+        <updated>2026-10-21T18:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Tennessee Titans defensive tackle Jordan Elliott was a surprise inactive for Sunday's game, not traveling with the team. Head coach Robert Saleh told reporters only that Elliott was "dealing with personal stuff." On Tuesday, the Titans released Elliott, along with a cryptic statement referencing an "incident." One never wants to have an incident, but the lack of detail only made the whole thing more mysterious.
+Later that day, we finally got enough detail to say, Oh yeah, that'll do it. As first reported by Austin Stanley and Easton Freeze of AtoZSports.com and Aaron Wilson of KPRC, last week Elliott got into a practice beef with a teammate and left to go get his gun.
+Elliott and offensive tackle JC Latham got into a fight during drills at the Titans' facility, the reports say, and Elliott was told by coaches to leave the field. He left the building, going out to the players' parking lot with the intention of retrieving a gun from his car. Defensive lineman John Franklin-Myers, a real hero here, was able to talk Elliott out of getting the gun, and he never brought it back into the building.]]></summary>
+        <author>
+            <name>Barry Petchesky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada Rightfully Decides That It Will Never Be the 51st State]]></title>
+        <id>http://www.esquire.com/news-politics/politics/a74205809/canada-51st-state-trump-carney/</id>
+        <link href="https://www.esquire.com/news-politics/politics/a74205809/canada-51st-state-trump-carney/"/>
+        <updated>2026-10-21T18:00:19.000Z</updated>
+        <summary type="html"><![CDATA[Unfortunately, that doesn’t mean the president’s influence hasn’t wafted its way to our northern neighbor like a toxic cloud.]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Digger’ Is Smug, Cynical, And Perfectly Timed]]></title>
+        <id>https://defector.com/?p=239172</id>
+        <link href="https://defector.com/digger-is-smug-cynical-and-perfectly-timed"/>
+        <updated>2026-10-21T17:10:34.000Z</updated>
+        <summary type="html"><![CDATA[On the night of May 10, 1968, the most storied night in the last century of French of civil unrest, nearly 40,000 students faced off against policemen in the Latin Quarter of Paris—one of the largest crowds the city's swelling protest movement had yet assembled. Famously, cobblestones were torn up from the streets to erect barricades. By the time morning broke, hundreds of demonstrators had been beaten bloody or arrested anyway. That same evening, the Cannes Film Festival opened with a ceremony hosted by retired actress Grace Kelly, Princess of Monaco, and a screening of a restored edition of Gone With the Wind.
+That juxtaposition quickly led to calls for the festival’s suspension. On May 18, after a week of resistance from Cannes’s organizers, a group of filmmakers and guests led by the directors Francois Truffaut and Jean-Luc Godard held a press conference demanding a closure. “There isn’t one film showing the problems going on today among workers and students⁠—not one, whether by Forman, myself, Polanski, or Francois,” Godard said. “There are none. We’re behind the times. Our student comrades set an example by getting their heads bashed in last week.” 
+There were grumbles in the crowd at this, and Godard’s patience snapped. “We’re talking solidarity with students and workers, and you’re talking dolly shots and close-ups!” he yelled. “You’re assholes!”]]></summary>
+        <author>
+            <name>Osita Nwanevu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do I Stop My Kid From Crashing Out Over Trying New Activities?]]></title>
+        <id>https://defector.com/?p=239275</id>
+        <link href="https://defector.com/how-do-i-stop-my-kid-from-crashing-out-over-trying-new-activities"/>
+        <updated>2026-10-21T16:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to Minor Dilemmas, where a member of Defector's Parents Council will answer your questions on surviving family life. Have a question? Email us at minordilemmas@defector.com.
+This week, Ray answers a question on how to deal with your child's tantrums over trying new activities.]]></summary>
+        <author>
+            <name>Ray Ratto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Review Of All The Stuff That Happened Last NBA Season]]></title>
+        <id>https://defector.com/?p=239283</id>
+        <link href="https://defector.com/a-review-of-all-the-stuff-that-happened-last-nba-season"/>
+        <updated>2026-10-21T16:39:21.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of Nothing But Respect, the discerning listener can hear me and Harry, both of whom are recovering from minor illnesses, losing our voices over the course of an hour and a half. We had a lot to talk about, including the fact that we finally played basketball together, the ongoing WNBA Finals, Michael Porter Jr.'s podcasting habits, and, finally, the main event: a recap of the 2025-26 NBA season, from its inception through to the start of this current season. The logic here is that so much stuff happens in an NBA season that the best way to preview an upcoming season isn't to make predictions but to lay out the historical record.
+You can find Nothing But Respect in Apple Podcasts or whatever podcast app you use. Follow the show on Instagram, and contact the Broke Jumper Tip Line at (347) 380-6426. Thanks for listening!]]></summary>
+        <author>
+            <name>Patrick Redford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Fire Emblem Is Too Much Fire Emblem?]]></title>
+        <id>https://defector.com/?p=238931</id>
+        <link href="https://defector.com/how-much-fire-emblem-is-too-much-fire-emblem"/>
+        <updated>2026-10-21T15:45:02.000Z</updated>
+        <summary type="html"><![CDATA[When I was on the fence about buying a Nintendo Switch 2, I held off with the self-aware knowledge that I would eventually cave come September. I knew that Fire Emblem: Fortune's Weave would break me. I needed to play this game like my life depended on it.
+
+https://www.youtube.com/watch?v=kmF38S_0vPs
+
+
+A month (and a few days) after release, I have 70-plus hours played on Fortune's Weave, and I wish it were double the amount. Still, though, 70 hours is a huge amount; aside from World of Warcraft, I simply don't spend 70 hours on a single video game anymore. (The last "long" game I played was another strategy role-playing game, but even the Final Fantasy Tactics remake only took me 36 hours to complete.) Fire Emblem is different, though. More than perhaps any video game series I have devoted chunks of my life to, Fire Emblem finds its way into both my waking thoughts and my sleeping nightmares. I began to see spreadsheets in the dark, thinking about ways to best build my virtual army of adorable murderers. I sought out the magic lightning Levin Swords in my deepest fantasies; words like "troubadour" and maybe-not-words like "bardinger" took on new meaning. I became obsessed, as fellow Defectorite Kathryn could prove by producing even a portion of the many messages I have sent her about this game in just over a month.]]></summary>
+        <author>
+            <name>Luis Paez-Pumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I’ve Never Studied the Body of a Man Before,” Says Trump Before Describing Jon Husted’s Ass in Gross Detail]]></title>
+        <id>http://www.esquire.com/news-politics/politics/a74204322/trump-jon-husted-body-comments/</id>
+        <link href="https://www.esquire.com/news-politics/politics/a74204322/trump-jon-husted-body-comments/"/>
+        <updated>2026-10-21T15:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Maybe the president and his favorite senator should run off into the sunset together. It would save us all a lot of grief.]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How The Rams Being 2-4 Relates To The Troy Aikman Saga]]></title>
+        <id>https://defector.com/?p=239251</id>
+        <link href="https://defector.com/how-the-rams-being-2-4-relates-to-the-troy-aikman-saga"/>
+        <updated>2026-10-21T14:57:54.000Z</updated>
+        <summary type="html"><![CDATA[In case you didn’t read about it, or you didn’t hear the hints firsthand, Joe Buck and Troy Aikman are reportedly getting divorced. The Monday Night Football broadcast team is the longest-tenured booth duo in NFL history, even moving together from Fox to ESPN as a package deal four years ago. But Buck re-upped with the four-letter for a mint earlier this year, while Aikman, whose contract expires at the end of this season, was left to dangle. This perhaps represented the first time in history that Aikman did not say, “I completely agree with you, Joe,” to his longtime colleague. In fact, the men reportedly almost came to blows over Buck’s supposed betrayal. JUICY!
+Believe those reports if you like (I do), but either way, Aikman has already openly talked about his “next landing spot,” which means there’s gonna be a big fat vacancy in the MNF booth for ESPN to fill come this spring. What does that have to do with the Rams being the biggest disappointment in football? THAT, dear friends, is one of the Big Questions that Arif Hasan and I tackle on this week’s episode of All Ball.
+
+https://art19.com/shows/the-distraction/episodes/4484213c-a363-48a6-8228-1a6454eaa898]]></summary>
+        <author>
+            <name>Drew Magary</name>
         </author>
     </entry>
     <entry>
@@ -216,7 +335,7 @@ Every transcription app I found required a pretty expensive subscription… so I
         <id>http://www.esquire.com/news-politics/politics/a74204043/fbi-public-corruption-kao-graham/</id>
         <link href="https://www.esquire.com/news-politics/politics/a74204043/fbi-public-corruption-kao-graham/"/>
         <updated>2026-10-21T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[The CEO of naval firm went to prison for bribing public officials, but why aren’t the people who took his company’s money? In Trump’s America, I guess we’ll never know.]]></summary>
+        <summary type="html"><![CDATA[The CEO of a naval firm went to prison for bribing public officials, but why aren’t the people who took his company’s money? In Trump’s America, I guess we’ll never know.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
         </author>
@@ -298,18 +417,6 @@ Unfortunately for Hedges, almost nothing about the Guardians can be honestly des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mana Shim Walked Away From Soccer, Then She Rebuilt Her Life]]></title>
-        <id>https://defector.com/?p=238949</id>
-        <link href="https://defector.com/mana-shim-walked-away-from-soccer-then-she-rebuilt-her-life"/>
-        <updated>2026-10-20T17:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Five years ago this fall, The Athletic published a feature in which NWSL players Mana Shim and Sinead Farrelly opened up about their abusive former Portland Thorns coach, Paul Riley. The story prompted an investigation into how the NWSL handled reports of abuse, and by the end of that year, half of the league's head coaches either resigned or were fired, along with league commissioner Lisa Baird.
-I met Shim while on tour for Normal Gossip in 2023, and I was curious to talk to her about how she made the decision to go public with her experiences when there are so many reasons not to, like the fragility of the then-nascent league and the potential repercussions she might experience. And there were the identity questions. She had dedicated her entire life to soccer, so what happened when she decided to walk away? How did she find her way back on new terms after everything that had happened?
-This season finale of Try Hard is a bit heavier than the other episodes this season, but I wanted to end on it because I was so inspired by Shim's courage, not only to make herself vulnerable by speaking up, but in daring to imagine a new version of her life after spending so many years chasing a singular goal.]]></summary>
-        <author>
-            <name>Alex Sujong Laughlin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trump Is Suing the BBC for a Ridiculous Reason—and a Hilariously Obnoxious Amount of Money]]></title>
         <id>http://www.esquire.com/news-politics/politics/a74194827/trump-lawsuit-bbc-jack-smith/</id>
         <link href="https://www.esquire.com/news-politics/politics/a74194827/trump-lawsuit-bbc-jack-smith/"/>
@@ -320,18 +427,6 @@ This season finale of Try Hard is a bit heavier than the other episodes this sea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Angel Reese Crafted Her Masterpiece]]></title>
-        <id>https://defector.com/?p=239122</id>
-        <link href="https://defector.com/angel-reese-crafted-her-masterpiece"/>
-        <updated>2026-10-20T17:21:05.000Z</updated>
-        <summary type="html"><![CDATA[SAN FRANCISCO — Like its sludgy predecessor and by design, Game 2 of the WNBA Finals was played as if in the mud. Clean dribbling of the ball was prohibited, the two participants collaborated on 33 turnovers, and the Atlanta Dream finished one missed three-pointer beyond joining the Golden State Valkyries with an identical, gross 21-for-61 shooting night. Ballhalla's famous resolve was tested, as its stars spent the night dribbling sideways for 23 seconds before hoisting terrible shots. But through it all, directly in the middle of the fray on both ends of the court, there was one player who gradually revealed herself to be the game's protagonist, the one gleefully forcing the Valks down into the mud. There was Angel Reese, dominating the biggest game of her career and seizing control of the WNBA Finals for her team.
-The stats tell some of the story: Reese finished with 30 points, 16 rebounds, and two blocks, got to the line 11 times, and finished as the only Atlanta player who made at least half their shot attempts. But the way her dominance was felt in the building was truly remarkable. Reese may as well have been the only player on the court. The San Francisco crowd puts a little extra energy into booing Reese, not out of a sense of culture-war conscription the way, say, an Indiana crowd would, but rather because she causes them the most pain.
-Both these Finals teams are set up with the primary objective of preventing opponents from playing basketball, which played out for everyone in Game 1 and for the Valkyries in Game 2. Reese was the one player who was getting anything easy: If she got a touch with momentum or against anyone who wasn't Kiah Stokes, she was getting to the rim. If she pulled down an offensive rebound, the Valks may as well have started setting up their offense at the other end. In a series otherwise entirely populated with people moving sideways, Reese is direct. When she's on the court, she demands attention.]]></summary>
-        <author>
-            <name>Patrick Redford</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In a Totally Cruel Decision, Mississippi AG Finds No Wrongdoing in the Despicable Police Shooting of a One-Year-Old Boy]]></title>
         <id>http://www.esquire.com/news-politics/politics/a74194675/mississippi-attorney-general-kohen-wiley-shot-killed-police/</id>
         <link href="https://www.esquire.com/news-politics/politics/a74194675/mississippi-attorney-general-kohen-wiley-shot-killed-police/"/>
@@ -339,41 +434,6 @@ Both these Finals teams are set up with the primary objective of preventing oppo
         <summary type="html"><![CDATA[Everything about the review of this heartbreaking case is fishy.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket Was Allowing Bets On  Sexual Assault Cases Until People Started Asking Questions]]></title>
-        <id>https://defector.com/?p=239089</id>
-        <link href="https://defector.com/polymarket-was-allowing-bets-on-sexual-assault-cases-until-people-started-asking-questions"/>
-        <updated>2026-10-20T16:52:16.000Z</updated>
-        <summary type="html"><![CDATA[For nearly three weeks, a real bet a person could place on the Polymarket gambling app was on "Any of the Cornell 7 charged with a felony sex crime?" The Cornell 7 refers to seven defendants in a civil lawsuit filed last month by a former Cornell University student who said she was gang-raped by several fraternity members.
-No criminal charges have been filed, but after the lawsuit drew national attention, a local prosecutor said on Sept. 28 that his office would reopen the criminal investigation. Two days later, on Sept. 30, a market opened up on the popular gambling platform (though technically it is a "prediction market") to bet on the results of the investigation. The market was not available to bettors in the United States version of the app, but the bet itself was very easy to find. I just punched "Cornell 7" into the search bar and found it pretty easily.]]></summary>
-        <author>
-            <name>Diana Moskovitz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s Your Lamest Daydream?]]></title>
-        <id>https://defector.com/?p=239137</id>
-        <link href="https://defector.com/whats-your-lamest-daydream"/>
-        <updated>2026-10-20T16:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Time for your weekly edition of the Defector Funbag. Got something on your mind? Email the Funbag. Today, we're talking about hockey, Jane Austen, Steven Spielberg, how to start dating, and more.
-Drew is off this week, and I'm your substitute. I write about hockey, baseball, and a bunch of other stuff here at Defector. I also just published a book of essays about the movie It's A Wonderful Life, called Every Time A Bell Rings, which I co-wrote with the amazing critic and novelist Emily St. James. It's a great gift for Christmas, but there is no greater gift than being able to answer your letters. So let's get to it.
-Ryan:]]></summary>
-        <author>
-            <name>Lauren Theisen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Wins Feel More Like Losses]]></title>
-        <id>https://defector.com/?p=239138</id>
-        <link href="https://defector.com/some-wins-feel-more-like-losses"/>
-        <updated>2026-10-20T16:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Without knowing for sure whether this is actually true, we can still surmise that the Washington Commanders felt better about losing Monday night's game than they did about their delightfully grotesque tie against the Giants in Week 5. And we are almost certain the San Francisco 49ers felt worse in victory. Their record stayed spotless, but in making their escape, they caught a glimpse of the grim future that is in their front yard.
-If you chose to avoid last night's Commanders–49ers game in the shadows of Hell's Substation, you are finding out today what happens when the scoreboard lies, and also when it becomes permissible to lie about the scoreboard. The practical truth is that the 49ers won 23-17, and remain one of the NFL's three undefeated teams. The victory broadened their lead in the NFC West to half the schedule—a margin of three games over the barely tenable Seattle Seahawks after six weeks of action. The math here is nearly unassailable, but hold on a moment while we assail it.
-By losing, the Commanders managed not only to drop from 1-4-1, the fourth-worst record in the sport, but to complete a second consecutive week of winless football from the entire NFC East. Those divisional rivals pulled together to lose six games outright and tie a seventh in humiliating fashion. This is the first time an entire division has gone without a single team winning in back-to-back weeks since the AFL-NFL merger in 1970, and almost certainly the first time ever, though we suspect nobody is bored enough to give that research a go. Only one team in the division, the New York Giants, has a winning record, and none of them have a positive point differential. After six weeks, the NFC East has fashioned itself as a hideous homage to the American League West, the new standard for no standards at all.]]></summary>
-        <author>
-            <name>Ray Ratto</name>
         </author>
     </entry>
     <entry>
@@ -402,17 +462,6 @@ jcs-kill-cookies when I quit elfeed so I don’t have to remember to do it manua
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘Barbara Forever’ Won’t Let You Forget]]></title>
-        <id>https://defector.com/?p=238670</id>
-        <link href="https://defector.com/barbara-forever-wont-let-you-forget"/>
-        <updated>2026-10-20T14:57:20.000Z</updated>
-        <summary type="html"><![CDATA[After listening to a critique of the Miss America pageant on a public radio station, Barbara Hammer declared herself a feminist. Then she left her husband. Then she became a lesbian. This was the early 1970s, and it wasn’t long before someone gifted baby gay Hammer a Super-8 and she commenced pointing it—lovingly, relentlessly—at every human crease and crevice in her life. Around this time, Hammer started writing down her name and address and placing them in balloons for others to find. “Otherwise I’d be lost in the world,” she said of the practice in an “exit interview,” given just before she died in 2019. 
-Brydie O’Connor’s Barbara Forever is one of these balloons: a documentary worthy of its iconic subject, that captures and arranges fragments of Barbara for us to turn over in our hands…]]></summary>
-        <author>
-            <name>Sohini Desai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Documentation-Driven Development]]></title>
         <id>https://gomakethings.com/articles/documentation-driven-development/</id>
         <link href="https://gomakethings.com/articles/documentation-driven-development/"/>
@@ -423,18 +472,6 @@ I decided the easiest thing to do was document how the new component would work�
 It was an entirely ADHD-driven decision, but it unlocked something for me!]]></summary>
         <author>
             <name>Go Make Things</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Love The Colorful Stars]]></title>
-        <id>https://defector.com/?p=238899</id>
-        <link href="https://defector.com/i-love-the-colorful-stars"/>
-        <updated>2026-10-20T14:17:53.000Z</updated>
-        <summary type="html"><![CDATA[A Weird Star is a classic place-setter in fiction. Put a Weird Star in the sky, even if it never has anything to do with the plot, and you know we're somewhere different and alien. Anything that's clearly not our Sun, and you're cooking with gas. Maybe it's a binary system, and there's two suns. Maybe it's large and looming. Maybe it's even flickering, like Jack Vance used, to excellent effect. But rarely do authors fuck around with color. A star is white, or red if it's going out soon, or, if the planet is question is truly fucked, the star is blue because that's the hottest color there is. Those are the colors of stars, we figured. Not even sci-fi authors could conceive of a mechanism to get some new tints in there.
-As is often the case, the real universe turns out to be stranger than imagination. Stars, under the right circumstances, can appear to observers on their orbiting planets in a wide spectrum of colors, from hot pink to the green of cucumber lime Gatorade. "Imagine standing on a planet and looking up at a green star," said Mark Hollands, an astrophysicist at the University of Warwick and lead author on the study. I'm imagining it, Mark! It rocks!
-The paper, published last week in RAS Techniques and Instruments, doesn't rely on having found some new stars lit up like Christmas lights. Instead, it's a breakthrough in modeling. Traditionally, stars are modeled as putting out black-body radiation. Black bodies are mathematical conveniences, idealized objects: perfectly opaque and non-reflective, and emitting light in all wavelengths. Black bodies do not actually exist, but stars are close enough to that the models work for most purposes, which is the important thing. In black-body radiation, light will only ever vary depending on the temperature of the object, going from red to white to blue as the object gets hotter. Play around with the burners on your stove to grasp this immediately.]]></summary>
-        <author>
-            <name>Barry Petchesky</name>
         </author>
     </entry>
     <entry>
@@ -1473,16 +1510,6 @@ OrgMeetup (virtual) https://orgmode.org/worg/orgmeetup.html Wed Oct 14 0900 Amer
 OrgDevMeetup https://bbb.emacsverse.org/rooms/o…]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windy & Carl]]></title>
-        <id>https://www.flowstate.fm/p/windy-and-carl-aa5</id>
-        <link href="https://www.flowstate.fm/p/windy-and-carl-aa5"/>
-        <updated>2026-10-12T07:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Today we’re listening to Windy & Carl, an American space rock duo consisting of Windy Weber and Carl Hultgren.]]></summary>
-        <author>
-            <name>Flow State</name>
         </author>
     </entry>
 </feed>
