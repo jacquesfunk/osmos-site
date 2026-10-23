@@ -133,6 +133,16 @@
       "siteUrl": "https://planet.emacslife.com/",
       "articles": [
         {
+          "id": "https://emacs-apac.gitlab.io/announcements/october-2026/",
+          "author": null,
+          "description": "This month’s Emacs Asia-Pacific (APAC)\nvirtual meetup is scheduled for Saturday, October\n24, 2026 with BigBlueButton and #emacs\non Libera Chat IRC. The timing will be 1400 to 1500 IST.\nThe meetup might get extended by 30 minutes if there is any talk, this\npage will be updated accordingly.\nIf you would like to give a demo or talk (maximum 20 minutes) on GNU\nEmacs or any variant, please contact bhavin192 on Libera Chat with\nyour talk details:",
+          "link": "https://emacs-apac.gitlab.io/announcements/october-2026/",
+          "publishedOn": "2026-10-23T21:38:52.000Z",
+          "wordCount": 214,
+          "title": "Emacs APAC: Announcing Emacs Asia-Pacific (APAC) virtual meetup, Saturday, October 24, 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://irreal.org/blog/?p=14169",
           "author": null,
           "description": "dictating into Emacs. She starts by quoting Matt Weber on how he writes better than he speaks. Chua can relate and so can I. We both feel the same way. As I’ve said before, “…my written thoughts are always much better organized than my spoken ones…”.\n\n\nBeing who she is, Chua resolved to fix this by arranging to dictate her posts into Emacs. As you can imagine, she encountered all sorts of problems along the way but was mainly able to find solutions for them. You can check her post—and Weber’s—to see how they’re doing that.\n\n\nWhen I read Chua’s post, I thought, “maybe I should do that too” but then I realized that I don’t want to dictate my text. The truth is, I enjoy writing a lot more than I do speaking and I especially enjoy writing with Emacs. Although it’s not always obvious, I do a lot of revising on my posts as I write them and I usually try to make a final editing pass at least one day after I’ve written them. Speaking, on the other hands, feels more like “one and done” to me. I know that I could dictate a post and then edit the result but it’s not the same. And in any event, as I say, I enjoy writing a lot more than I enjoy talking.\n\n\nI suppose, as Chua says, the day may come when ever encroaching old age, disease, or accident may make typing hard or impossible and I may be forced to consider dictation but until then, I’m happy to continue typing my text.",
@@ -418,7 +428,7 @@
           "description": "Org Social is so simple it looks like it was born before the internet. A single plain text file, an editor and a host are enough to interact with other people.\nTo \"create an account\", you just create a plain text file in any editor. Your \"database\" is your own hierarchy of posts. Your \"algorithm\" is however you decide to sort other people's posts. There is no \"character limit\". Your \"server\" is any hosting or web server. Your \"interface\" is your favorite editor. And if you want to \"delete your account\", you just delete the file. And of course, the syntax is richer than Markdown and just as easy to learn: Org Mode. You share and edit wherever you want, and you use it as a microblog, a journal, a forum, a bulletin board or a blog. Your file, your rules.\nBehind it there is infrastructure that…",
           "link": "http://en.andros.dev/blog/6c165f77/org-social-the-social-network-that-survives-its-own-infrastructure/",
           "publishedOn": "2026-10-14T15:12:18.000Z",
-          "wordCount": 2932,
+          "wordCount": 2918,
           "title": "Andros Fenollosa: Org Social: the social network that survives its own infrastructure",
           "imageUrl": "https://img.andros.dev/lO4rHtFcmp5pDRbWBepGddVAOVI=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/org-social.png"
         }
@@ -435,7 +445,7 @@
           "description": "Welcome to the Defector College Football Watch Guide, where Israel Daramola and Ray Ratto will tell you which of the weekend’s college football games are worth giving a crap about.\nIsrael: We had ourselves the hell week of all hell weeks last Saturday. And in the aftermath, the top of the sport is upside down and everyone sounds incoherent—babbling and whining about which teams are good and which are bad, in tones you can otherwise only find from Old Testament prophets. Is Florida secretly good? Is Texas truly a tire fire? Is it going to come out that Cooper Manning never even showed Arch a football before college? Why can't Notre Dame close? Why would Oregon bench Dylan Raiola, just to play him in the fourth quarter against his former school? How did we end up with a first-ranked Miami? These are the questions left to us in the wake of some near-unprecedented football mayhem. The two directions left to go from here are either set the universal order right or make shit go even more left. I know what I choose.\nRay: After the pyro-spectacular of last weekend, with all those ranked teams either losing outright or barely escaping defeat, something needed to be done to restore normalcy. And so Maryland fired head coach Mike Locksley on Tuesday. Locksley is most recently noted for having guided the Terps to 12 consecutive conference losses, seven of the last eight by double digits, and the most recent coming against Rutgers. The last and decisive one was just a seven-point loss, but it may as well have been 49 when you apply the added \"You lost to RUTGERS?\" metric.",
           "link": "https://defector.com/now-is-the-time-for-hysteria",
           "publishedOn": "2026-10-23T17:55:00.000Z",
-          "wordCount": 8955,
+          "wordCount": 8957,
           "title": "Now Is The Time For Hysteria",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2300696247.jpg"
         },
@@ -445,17 +455,17 @@
           "description": "Most owners of sports teams are wise enough to understand that their reputations will never be better than when their teams are winning. If they're fortunate enough to see that team capture a championship, they know that it's easy image rehabilitation. Just show some basic appreciation, sprinkle it around to everyone in the organization, and try not to say much aside from \"We did it\" and \"Thank you.\" That way, the public will momentarily forget how you made your money off predatory mortgages or whatever.\nJames Dolan has chosen a different path. Since June, when the New York Knicks won their first title in 53 years, the owner has done his best to make the victory lap as unpleasant as possible for all involved. At the championship ceremony, in a juiceless and mercifully short speech, Dolan took swipes at New York City Mayor Zohran Mamdani and—for some reason—Knicks fans under the age of 53. He brought back notable creep Isiah Thomas, and appointed him to the team's board of directors. He scheduled a fundraiser for Republican gubernatorial candidate Bruce Blakeman right before a Knicks preseason game, and has sued Wired magazine for reporting on the invasive surveillance technology he uses at Madison Square Garden. He's also played hardball in contract talks with the very stars who won a championship. It's rare to have a title-winning team begin its subsequent season on such a sour note.\nBut wait, there's more: According to Joe Vardon of The Athletic, the Knicks' pregame ceremony ahead of Tuesday's season opener was a bit more ceremonial than it appeared. Team president Leon Rose opened a box to show off his sparkly championship ring, but nobody on the coaching staff did, because their boxes were empty. They didn't have rings yet, and it was still unclear who would actually receive one. From the article:",
           "link": "https://defector.com/james-dolan-finds-innovative-new-way-to-be-cruel-and-cheap",
           "publishedOn": "2026-10-23T16:54:00.000Z",
-          "wordCount": 4919,
+          "wordCount": 4921,
           "title": "James Dolan Finds Innovative New Way To Be Cruel And Cheap",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2281618398-e1792768715463.jpg"
         },
         {
           "id": "https://defector.com/?p=239611",
           "author": "Alex Sujong Laughlin",
-          "description": "I've been watching the \"available storage\" bars on my various digital storage systems creep up over the last couple years with a growing sense of dread. Each percentage point is a tick closer to an upgrade to my package—money I'll have to pay Apple, Google, and Dropbox to continue to store my digital life. Maybe more importantly, I'm aware of just how much stuff I produce every day, and as the mess grows, I wonder if I should do something about it. On worse days, I think maybe I should just succumb to the digital hoarder house I've built for myself.\n\n\nIt is probably my obsession with my own death, paired with the ever-present anxiety about whether the way I spend my days truly matters at all, that has led to an interest in personal archiving practices. My life's work amounts to several terabytes' worth of mp3s, wavs, text files, and jpegs that live on server space I pay to lease somewhere in the world. I like the idea of my work being accessible after I'm gone, and for a long time I trusted the infrastructure of the internet to do that archival work for me. But if the last 20 years have taught us anything, it's that only dummies blindly trust big tech to operate in their best interest.",
+          "description": "I've been watching the \"available storage\" bars on my various digital storage systems creep up over the last couple years, with a growing sense of dread. Each percentage point is a tick closer to an upgrade to my package—money I'll have to pay Apple, Google, and Dropbox to continue to store my digital life. Maybe more importantly, I'm aware of just how much stuff I produce every day, and as the mess grows, I wonder if I should do something about it. On worse days, I think maybe I should just succumb to the digital hoarder house I've built for myself.\n\n\nIt is probably my obsession with my own death, paired with the ever-present anxiety about whether the way I spend my days truly matters at all, that has led to an interest in personal archiving practices. My life's work amounts to several terabytes' worth of mp3s, wavs, text files, and jpegs that live on server space I pay to lease somewhere in the world. I like the idea of my work being accessible after I'm gone, and for a long time I trusted the infrastructure of the internet to do that archival work for me. But if the last 20 years have taught us anything, it's that only dummies blindly trust big tech to operate in their best interest.",
           "link": "https://defector.com/how-can-i-hang-on-to-my-digital-life",
           "publishedOn": "2026-10-23T16:36:39.000Z",
-          "wordCount": 8418,
+          "wordCount": 8413,
           "title": "How Can I Hang On To My Digital Life?",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2216724236.jpg"
         },
@@ -465,7 +475,7 @@
           "description": "I don't know if Elizabeth Koch would fashion herself a personal essayist, but she has certainly dabbled in the form. In an 11-part essay published in Smith Magazine in 2007, the billionaire's daughter who describes herself as \"apolitical\" wrote about a trip she took to Japan with her boyfriend at the time, Todd. The essay opens with her and Todd buying candy-flavored drinks from a vending machine. They buy eight, take a sip from each, and then discard them on top of a mailbox, where Koch includes the following exchange.\n\"Just line them up on top of the machine,\" I say. \"Maybe a homeless person will find them.\"\nWe look around. No sign of a homeless person.\n\"What do you think they do with their homeless people here?\"\n\"They probably hide them wherever they hide the trash,\" Todd says. I laugh, and try to take his arm, but he rips it away from me.\nIt is probably unsurprising that this is what Koch presumes passes for affectionate banter between her and Todd. Much of the essay appears to be a direct transcript between Koch and Todd, in which she quotes him saying \"It's just up here\" and \"Huh.\" The two get into a fight after Koch buys Todd an expensive pair of headphones—a reminder to both of her unfathomable net worth—after which Todd walks away. Koch then wanders the streets and sees two Japanese people with albinism. \"Their skin is pinkish and their hair is white and their bodies are lumpy, and I wonder what it would be like to be stripped of tone and color in a city where most everyone looks the same,\" Koch writes, before deciding to photograph the people—the photo appears in the body of the essay—so that she and Todd can talk about them later. She laments her privilege and its terrible, burdensome baggage. \"I'm angry that those girls on the playground in sixth grade called me a rich bitch when they knew nothing about me except my last name,\" Koch writes, patently unaware that she is proving their thesis correct.",
           "link": "https://defector.com/catapult-elizabeth-koch-into-the-sun",
           "publishedOn": "2026-10-23T16:10:56.000Z",
-          "wordCount": 6189,
+          "wordCount": 6050,
           "title": "Catapult Elizabeth Koch Into The Sun",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-1478810197.jpg"
         },
@@ -475,17 +485,17 @@
           "description": "Welcome back to The Not-So-Great Defector Bake Off, where Kelsey and Chris attempt to complete the technical challenges from the newest season of The Great British Bake Off in their own home kitchens, with the same time parameters as the professional-grade bakers competing on the show. This week, Kelsey was unable to participate in the challenge, due to scheduling.\nBread Week never quite delivers. It's annoying, because bread-making is the quintessence of baking, and bread is considered by historians and whatnot to be one of humankind's very oldest prepared foods. A baking challenge that did not give proper space for straightforward bread-making would be, in a word, baloney. Also it just kicks ass to make a good loaf of bread, it's a proud accomplishment. A good homemade loaf of bread increases your Human Heritage score by one unit. You can reach into the past and link hands with the ancients by tying a good knot, or fashioning a clean dovetail joint, sure, but you cannot eat those things, and they do not smell good in your kitchen. Bake bread.",
           "link": "https://defector.com/the-not-so-great-defector-bake-off-fails-to-rise-for-bread-week",
           "publishedOn": "2026-10-23T15:53:03.000Z",
-          "wordCount": 10703,
+          "wordCount": 10712,
           "title": "The Not-So-Great Defector Bake Off Fails To Rise For Bread Week",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/Screenshot-2026-10-23-at-9.55.53-AM.png"
         },
         {
           "id": "https://defector.com/?p=239320",
           "author": "Sabrina Imbler",
-          "description": "This week, one of Robert F. Kennedy Jr.'s most malevolent plots was finally brought to a halt when police in Guinea-Bissau raided the offices of Danish researchers who intended to carry out a hepatitis B vaccine trial that would have endangered thousands of newborn children in Africa and condemned some of them to an early, agonizing death. The trial was to be funded with $1.6 million from the Centers for Disease Control and Prevention.\nThis hopefully marks the end one of the most unethical research projects proposed in recent memory. (There is, by the way, some stiff competition there, what with the National Institute of Justice's recent announcement that it will fund $1 million in research into possible links between \"gender dysphoria and violent crime.\") If you had not heard of the Guinea-Bissau trial until now, you might be thinking, well, why do I need to know about a shitty trial that is now cancelled? To that I would say: It's important to pay attention to the kind of straightforwardly evil machinations RFK Jr. is trying to pull off to advance his anti-vaccine agenda, because he's very likely going to try to do something like this again.\nA huge part of the reason the Guinea-Bissau trial has flown largely under the radar—with the notable exception of ongoing coverage at The Guardian and Rolling Stone—is because it would take place in Africa and on African children, a population that, despite not living in the U.S., has already become a casualty of our stupid and monstrous government doing stupid and monstrous things with our tax dollars. So anyway, here is what happened. Sorry it is so long. It is intricately evil.",
+          "description": "This week, one of Robert F. Kennedy Jr.'s most malevolent plots was finally brought to a halt when police in Guinea-Bissau raided the offices of Danish researchers who intended to carry out a hepatitis B vaccine trial that would have endangered thousands of newborn children in Africa and condemned some of them to an early, agonizing death. The trial was to be funded with $1.6 million from the Centers for Disease Control and Prevention.\nThis hopefully marks the end one of the most unethical research projects proposed in recent memory. (There is, by the way, some stiff competition there, what with the National Institute of Justice's recent announcement that it will fund $1 million in research into possible links between \"gender dysphoria and violent crime.\") If you had not heard of the Guinea-Bissau trial until now, you might be thinking, well, why do I need to know about a shitty trial that is now cancelled? To that I would say: It's important to pay attention to the kind of straightforwardly evil machinations RFK Jr. is trying to pull off to advance his anti-vaccine agenda, because he's very likely going to try to do something like this again.\nA huge part of the reason the Guinea-Bissau trial has flown largely under the radar—with the notable exception of ongoing coverage at The Guardian and Rolling Stone—is because it would take place in Africa and on African children, a population that, despite not living in the U.S., has already become a casualty of our stupid and monstrous government doing stupid and monstrous things with our tax dollars. So anyway, here's what happened. Sorry it is so long. It is intricately evil.",
           "link": "https://defector.com/the-u-s-funded-plan-to-kill-infants-in-africa-by-withholding-vaccines-has-been-thwarted",
           "publishedOn": "2026-10-23T14:46:05.000Z",
-          "wordCount": 8412,
+          "wordCount": 8407,
           "title": "The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/rfk.jpeg"
         },
@@ -505,7 +515,7 @@
           "description": "Update (1 p.m. ET): He's a Devil.\nConnor Hellebuyck goes back on the Winnipeg Jets payroll today, which must come as a great source of joy and satisfaction to ... well, who, exactly?\nHellebuyck is, as you may remember from that burst of not-entirely-misguided patriotism you felt back in February during the Winter Olympics, the goalie for the gold medal–winning U.S. men's hockey team. He is also the longtime goalie of the Winnipeg Jets, kind of, and by acclaim the finest practitioner of that extremely difficult job on earth. Well, until lately.",
           "link": "https://defector.com/the-connor-hellebuyck-showdown-is-about-to-get-expensive-for-the-jets",
           "publishedOn": "2026-10-23T14:04:00.000Z",
-          "wordCount": 5872,
+          "wordCount": 5869,
           "title": "The Connor Hellebuyck Showdown Is About To Get Expensive For The Jets",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2270133577.jpg"
         },
@@ -515,7 +525,7 @@
           "description": "ATLANTA — The shooting gods may be weeping, but these WNBA Finals are a steal lover's delight. Jordin Canada, at 5-foot-6, shoots the gap and sneaks behind the unsuspecting. Angel Reese, who can time up a dribble better than anyone, favors the on-ball poke-away to punish players foolish enough to try to cross her over. Against would-be kickouts and outlets, Rhyne Howard makes plays you might see from a defensive back in zone coverage. She’s locked in on the quarterback’s eyes before she jumps the route and picks off the pass. \nSteals have swung the possession game for the Atlanta Dream in these playoffs, and so far have swung series for them, too. They came away with 16 steals to open the first round against the Washington Mystics and followed those up with another 10 in Game 2. Across three games against the veteran New York Liberty in the semifinals, the Dream logged another 26. And after only having five steals to show for their efforts in Game 1 of the Finals, Atlanta’s first loss of the postseason, the Dream seem to have regained their penchant for pilfering on the way to taking a 2-1 series lead. The Golden State Valkyries were on the wrong end of 14 steals in Game 2 and nine in Game 3. “We always say, ‘thieves in the night,’” a smiling Reese told me the day before Game 1. She said her teammate Allisha Gray has another saying: “We’ll steal the drawers off you.”",
           "link": "https://defector.com/these-wnba-finals-are-made-of-steal",
           "publishedOn": "2026-10-23T13:44:35.000Z",
-          "wordCount": 6346,
+          "wordCount": 6386,
           "title": "These WNBA Finals Are Made Of Steal",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2283517962.jpg"
         },
@@ -525,7 +535,7 @@
           "description": "Like a tuna fish sandwich, quaint has a shelf life. Also like a tuna fish sandwich, it's definitely shorter than four days. All the charms of two teams meeting in the World Series that have never won a championship before have played themselves out in the time between the last playoff game and the next one. The amusements that come with two lower-half payrolls making baseball's radicalized reigning billionaires look like the amoral sludge smugglers they are are pretty much done, too. To put it as simply as possible, our culture doesn't have four days of anticipation in it before boredom starts to creep into emotional ennui. Replacing all that abstracted fussing with some actual baseball is a good deal for all involved.\nThe World Series starts tonight, and the field has been cleared of dist…",
           "link": "https://defector.com/here-comes-the-fun-part",
           "publishedOn": "2026-10-23T13:09:20.000Z",
-          "wordCount": 5191,
+          "wordCount": 5229,
           "title": "Here Comes The Fun Part",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2300558071.jpg"
         }
@@ -641,73 +651,26 @@
       "articles": []
     },
     {
-      "title": "Amanda Marcotte - Salon.com",
-      "feedUrl": "https://rss-funnel.onrender.com/salon-amanda-marcotte.xml",
-      "siteUrl": "https://www.salon.com/writer/amanda_marcotte",
-      "articles": [
-        {
-          "id": "https://www.salon.com/2026/10/23/ramaswamys-ad-exposes-magas-obsession-with-parental-estrangement/-full",
-          "author": null,
-          "description": "As soon as Vivek Ramaswamy released an ad celebrating a woman accused of backing a fugitive rapist, the widespread assumption among the pundit class was that it would backfire on him. Ohio’s Republican gubernatorial candidate is falling behind in the polls against his Democratic opponent, Dr. Amy Acton, in a race that threatens to turn long-red Ohio blue.\nIn a move reeking of desperation, Ramaswamy’s campaign ran a spot featuring Acton’s elderly mother, Donna Arthur, calling her daughter a “liar” and suggesting she suffers from severe mental illness. But it took almost no time at all before the record was widely corrected, with extensive media reports showing the facts in black-and-white: In 1978, Arthur sided with her husband, Cledith, when he was charged with raping his 12-year-old stepd…",
-          "link": "https://www.salon.com/2026/10/23/ramaswamys-ad-exposes-magas-obsession-with-parental-estrangement/",
-          "publishedOn": "2026-10-23T10:45:15.000Z",
-          "wordCount": 2265,
-          "title": "Ramaswamy’s ad exposes MAGA’s obsession with parental estrangement",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/10/vivek-ramaswamy-ohio-2299892077.jpg"
-        },
-        {
-          "id": "https://www.salon.com/2026/10/21/jd-vance-is-americas-worst-insult-comedian/-full",
-          "author": null,
-          "description": "Theories abound as to why JD Vance, once a promising Yale Law graduate with a best-selling memoir, went MAGA. Some argue that it was always a mistake to confuse the vice president’s cosmopolitanism for intellectual sophistication, pointing out that “Hillbilly Elegy” is a bad book that panders to ugly right-wing stereotypes about his working class family of origin. Others suggest he is an empty shell who will become whatever it takes to gain money and power, as evidenced by his constantly shifting attitudes about race and religion. The truth likely falls in the “why not both?” arena. After all, empty and insecure people have often been drawn to far-right ideologies. \nBut there is one under-appreciated possibility for the MAGA turn of a man who once called Donald Trump “America’s Hitler”: th…",
-          "link": "https://www.salon.com/2026/10/21/jd-vance-is-americas-worst-insult-comedian/",
-          "publishedOn": "2026-10-21T10:45:29.000Z",
-          "wordCount": 2321,
-          "title": "JD Vance is America’s worst insult comedian",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/10/JD-Vance-2299489296.jpg"
-        },
-        {
-          "id": "https://www.salon.com/2026/10/19/abdul-el-sayeds-fighting-style-terrifies-maga/-full",
-          "author": null,
-          "description": "Jesse Watters can’t seem to stop admiring Dr. Abdul El-Sayed. The Fox News host loves to talk about how Michigan’s Democratic nominee for the Senate is “in great shape” and how “Abdul . . . beat the machine” — meaning the party establishment’s candidate, Rep. Haley Stevens — in a hard-fought primary. During an interview in August, Watters clearly enjoyed El-Sayed’s jokes and blunt speech, which included calling his opponent, former Rep. Mike Rogers, a “beta,” and asking the host if he was circumcised when Watters tried to corner him on gender-affirming surgery for minors. The next day, Watters made no bones about El-Sayed’s appeal. “I like him,” he said. “I don’t want to like him. I like him for some stupid reason.”\nBut the reason was obvious. The doctor-turned-politician has an aggressive…",
-          "link": "https://www.salon.com/2026/10/19/abdul-el-sayeds-fighting-style-terrifies-maga/",
-          "publishedOn": "2026-10-19T10:45:07.000Z",
-          "wordCount": 1943,
-          "title": "Abdul El-Sayed’s fighting style terrifies MAGA",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/10/Abdul-El-Sayed-2299565498-1.jpg"
-        },
-        {
-          "id": "https://www.salon.com/2026/10/16/the-real-reason-maga-fears-ilhan-omar/-full",
-          "author": null,
-          "description": "Donald Trump and his MAGA followers are obsessed with Somali-Americans. The president frequently rants about immigrants from the easternmost African country and their children, using racist rhetoric that would not be out of place at a Ku Klux Klan rally. At a campaign event Monday in Ohio, ostensibly to boost Sen. Jon Husted’s campaign against Democratic challenger Sherrod Brown, Trump fixated at length on Somali-Americans. They “don’t have pants to wear,” he claimed, but then he also expressed anger that they drive “Mercedes Benz and BMWs.” He accused them of being “low IQ” and alleged that they “plundered, ransacked and destroyed” Minnesota, a state with a large Somali immigrant population.\nThe president’s remarks followed past comments in which he called Somali immigrants “garbage” and …",
-          "link": "https://www.salon.com/2026/10/16/the-real-reason-maga-fears-ilhan-omar/",
-          "publishedOn": "2026-10-16T10:45:27.000Z",
-          "wordCount": 2380,
-          "title": "The real reason MAGA fears Ilhan Omar",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/10/Ilhan-Omar-2273039217.jpg"
-        },
-        {
-          "id": "https://www.salon.com/2026/10/14/trumps-new-qanon-press-secretary-exposes-his-desperation/-full",
-          "author": null,
-          "description": "Even by first-day-on-the-job standards, Donald Trump‘s new press secretary is shockingly incompetent. Katie Zacharia has some media experience as a cable news pundit, albeit mostly on far-right channels like Newsmax and One America News. She’s even had a communications job before, when she replaced the infamous Tricia McLaughlin as the spokesperson for the Department of Homeland Security. But her stint there lasted only six weeks, which in retrospect should have been the first sign of trouble. \nAt her first White House briefing on Tuesday, Zacharia kicked things off by haltingly reading a lengthy statement about how she hopes to “only build on, only amplify, and only multiply, to the extent possible, all of the wins” of Trump’s second term.\nThe situation only grew worse. Zacharia took ques…",
-          "link": "https://www.salon.com/2026/10/14/trumps-new-qanon-press-secretary-exposes-his-desperation/",
-          "publishedOn": "2026-10-14T10:45:27.000Z",
-          "wordCount": 2227,
-          "title": "Trump’s new QAnon press secretary exposes his desperation",
-          "imageUrl": "https://www.salon.com/app/uploads/2026/10/Katie-Zacharia-2299991919.jpg"
-        }
-      ]
-    },
-    {
       "title": "Drew Magary, Columnist - SFGATE",
       "feedUrl": "https://rss-funnel.onrender.com/sfgate-drew-magary.xml",
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
+          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
+          "author": null,
+          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
+          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
+          "publishedOn": "2026-10-23T22:53:43.615Z",
+          "wordCount": 177,
+          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
           "author": null,
           "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
           "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-23T19:47:10.095Z",
+          "publishedOn": "2026-10-23T22:53:43.603Z",
           "wordCount": 177,
           "title": "'The Odyssey' wants you to suffer",
           "imageUrl": null
@@ -717,19 +680,9 @@
           "author": null,
           "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
           "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-23T19:47:10.091Z",
+          "publishedOn": "2026-10-23T22:53:43.597Z",
           "wordCount": 177,
           "title": "If you don't hate data centers yet, boy do I have news for you",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full",
-          "author": null,
-          "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
-          "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-23T19:47:10.089Z",
-          "wordCount": 177,
-          "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
           "imageUrl": null
         },
         {
@@ -737,9 +690,19 @@
           "author": null,
           "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
           "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-23T19:47:10.063Z",
+          "publishedOn": "2026-10-23T22:53:43.584Z",
           "wordCount": 177,
           "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php-full",
+          "author": null,
+          "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
+          "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
+          "publishedOn": "2026-10-23T22:53:43.583Z",
+          "wordCount": 177,
+          "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
           "imageUrl": null
         },
         {
@@ -747,19 +710,9 @@
           "author": null,
           "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
           "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-23T19:47:10.061Z",
+          "publishedOn": "2026-10-23T22:53:43.576Z",
           "wordCount": 177,
           "title": "California is on fire and these people are profiting off it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
-          "author": null,
-          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
-          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-23T19:47:10.060Z",
-          "wordCount": 177,
-          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
         },
         {
@@ -767,7 +720,7 @@
           "author": null,
           "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
           "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-23T19:47:10.057Z",
+          "publishedOn": "2026-10-23T22:53:43.549Z",
           "wordCount": 177,
           "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
@@ -777,9 +730,19 @@
           "author": null,
           "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
           "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-23T19:47:10.032Z",
+          "publishedOn": "2026-10-23T22:53:43.546Z",
           "wordCount": 177,
           "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
+          "author": null,
+          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
+          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
+          "publishedOn": "2026-10-23T22:53:43.522Z",
+          "wordCount": 177,
+          "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
@@ -787,7 +750,7 @@
           "author": null,
           "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
           "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-23T19:47:10.030Z",
+          "publishedOn": "2026-10-23T22:53:43.520Z",
           "wordCount": 177,
           "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
@@ -797,19 +760,9 @@
           "author": null,
           "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
           "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-23T19:47:10.009Z",
+          "publishedOn": "2026-10-23T22:53:43.519Z",
           "wordCount": 177,
           "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
-          "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-23T19:47:10.007Z",
-          "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
@@ -817,7 +770,7 @@
           "author": null,
           "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
           "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-10-23T19:47:10.004Z",
+          "publishedOn": "2026-10-23T22:53:43.490Z",
           "wordCount": 177,
           "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
           "imageUrl": null
@@ -827,7 +780,7 @@
           "author": null,
           "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
           "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-10-23T19:47:10.001Z",
+          "publishedOn": "2026-10-23T22:53:43.476Z",
           "wordCount": 177,
           "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
@@ -837,7 +790,7 @@
           "author": null,
           "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
           "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-10-23T19:47:09.983Z",
+          "publishedOn": "2026-10-23T22:53:43.474Z",
           "wordCount": 177,
           "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
           "imageUrl": null
@@ -847,7 +800,7 @@
           "author": null,
           "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
           "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-10-23T19:47:09.977Z",
+          "publishedOn": "2026-10-23T22:53:43.470Z",
           "wordCount": 177,
           "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
           "imageUrl": null
@@ -860,12 +813,22 @@
       "siteUrl": "https://www.esquire.com/news-politics/",
       "articles": [
         {
+          "id": "http://www.esquire.com/news-politics/politics/a74234721/hegseth-eisenhower-globes-elections-2026/",
+          "author": null,
+          "description": "The ratfcking has just begun.",
+          "link": "https://www.esquire.com/news-politics/politics/a74234721/hegseth-eisenhower-globes-elections-2026/",
+          "publishedOn": "2026-10-23T22:22:50.000Z",
+          "wordCount": 24911,
+          "title": "We Need to Prepare Ourselves for One of the Most Intensely Monitored Elections in American History",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/13ce8c41-403c-47b5-9b47-6947bb0b9938.jpeg?crop=1xw:0.749xh;0xw,0.1xh&resize=1200:*"
+        },
+        {
           "id": "http://www.esquire.com/news-politics/politics/a74221699/trump-bbc-deposition/",
           "author": null,
           "description": "Good luck.",
           "link": "https://www.esquire.com/news-politics/politics/a74221699/trump-bbc-deposition/",
           "publishedOn": "2026-10-22T21:51:47.000Z",
-          "wordCount": 19209,
+          "wordCount": 19273,
           "title": "The Legal System Is Taking Another Shot at Forcing Trump to Tell the Truth About January 6",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1154271f-4897-4fa5-bf0b-4bfe0ff5bd1c.jpeg?crop=1xw:0.750059283851xh;center,top&resize=1200:*"
         },
@@ -875,7 +838,7 @@
           "description": "It is that time in the election cycle when we look around the country for the strange and wonderful about representative democracy.",
           "link": "https://www.esquire.com/news-politics/politics/a74218671/elections-state-senate/",
           "publishedOn": "2026-10-22T17:04:50.000Z",
-          "wordCount": 23236,
+          "wordCount": 23218,
           "title": "When You’ve Got 6,000 State Senate Seats to Fill, You’re Occasionally Going to Elect a Homophobic Sauerkraut Salesman",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/75390d51-cb17-445e-b13d-dfadfb749931.jpeg?crop=1xw:0.75xh;0xw,0.25xh&resize=1200:*"
         },
@@ -885,7 +848,7 @@
           "description": "The gubernatorial candidate has associated himself with the vilest, most inhumane advertisement in the history of American politics.",
           "link": "https://www.esquire.com/news-politics/politics/a74208658/vivek-ramaswamy-political-ad-amy-acton/",
           "publishedOn": "2026-10-21T20:12:25.000Z",
-          "wordCount": 20472,
+          "wordCount": 20470,
           "title": "Sorry, JD Vance—Vivek Ramaswamy Just Took the Title of Ohio’s Most Unlikable Politician",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/69a60453-20f5-4d4a-8f7d-80753859e2c9.jpeg?crop=1xw:0.75006989097xh;center,top&resize=1200:*"
         },
@@ -895,7 +858,7 @@
           "description": "Unfortunately, that doesn’t mean the president’s influence hasn’t wafted its way to our northern neighbor like a toxic cloud.",
           "link": "https://www.esquire.com/news-politics/politics/a74205809/canada-51st-state-trump-carney/",
           "publishedOn": "2026-10-21T18:00:19.000Z",
-          "wordCount": 19066,
+          "wordCount": 19064,
           "title": "Canada Rightfully Decides That It Will Never Be the 51st State",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/364f0b2a-b2d5-4b13-acdc-1082bf9eb944.jpeg?crop=1xw:0.750148720999xh;center,top&resize=1200:*"
         },
@@ -905,7 +868,7 @@
           "description": "Maybe the president and his favorite senator should run off into the sunset together. It would save us all a lot of grief.",
           "link": "https://www.esquire.com/news-politics/politics/a74204322/trump-jon-husted-body-comments/",
           "publishedOn": "2026-10-21T15:20:41.000Z",
-          "wordCount": 18076,
+          "wordCount": 17901,
           "title": "“I’ve Never Studied the Body of a Man Before,” Says Trump Before Describing Jon Husted’s Ass in Gross Detail",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2ae46114-a15e-4fbb-9741-39de90ec88a4.jpeg?crop=1xw:0.69058856191xh;center,top&resize=1200:*"
         },
@@ -915,7 +878,7 @@
           "description": "The CEO of a naval firm went to prison for bribing public officials, but why aren’t the people who took his company’s money? In Trump’s America, I guess we’ll never know.",
           "link": "https://www.esquire.com/news-politics/politics/a74204043/fbi-public-corruption-kao-graham/",
           "publishedOn": "2026-10-21T13:24:09.000Z",
-          "wordCount": 19042,
+          "wordCount": 19040,
           "title": "The President Sure Cut the FBI’s Public Corruption Teams at a Convenient Time",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1316698d-f186-4b19-b726-a67b2e428c65.jpeg?crop=1xw:0.749839914621xh;center,top&resize=1200:*"
         },
@@ -925,7 +888,7 @@
           "description": "I feel like I just stepped out of a time machine.",
           "link": "https://www.esquire.com/news-politics/politics/a74195722/oj-simpson-accomplice-new-evidence/",
           "publishedOn": "2026-10-20T19:26:07.000Z",
-          "wordCount": 19262,
+          "wordCount": 19288,
           "title": "You’re Telling Me We’re Still Finding Evidence Against O.J. Simpson After All This Time?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e9f6f88e-6169-4dc1-9147-44e0173337eb.jpeg?crop=1xw:0.751492537313xh;center,top&resize=1200:*"
         },
@@ -935,7 +898,7 @@
           "description": "My guess is that this comedy extravaganza comes to a close long before it gets to trial.",
           "link": "https://www.esquire.com/news-politics/politics/a74194827/trump-lawsuit-bbc-jack-smith/",
           "publishedOn": "2026-10-20T17:27:39.000Z",
-          "wordCount": 18689,
+          "wordCount": 19226,
           "title": "Trump Is Suing the BBC for a Ridiculous Reason—and a Hilariously Obnoxious Amount of Money",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/96a342d9-ee96-44f0-814a-747a1ad11d2e.jpeg?crop=1xw:0.749583333333xh;center,top&resize=1200:*"
         },
@@ -945,7 +908,7 @@
           "description": "Everything about the review of this heartbreaking case is fishy.",
           "link": "https://www.esquire.com/news-politics/politics/a74194675/mississippi-attorney-general-kohen-wiley-shot-killed-police/",
           "publishedOn": "2026-10-20T17:16:39.000Z",
-          "wordCount": 20034,
+          "wordCount": 20032,
           "title": "In a Totally Cruel Decision, Mississippi AG Finds No Wrongdoing in the Despicable Police Shooting of a One-Year-Old Boy",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/37c3a051-e427-4d1f-8999-ba158b3ff0cc.jpeg?crop=1xw:0.749xh;0xw,0.251xh&resize=1200:*"
         },
@@ -955,7 +918,7 @@
           "description": "What tipped them off? The blatant subservience to Putin, or his pointless meddling in Israeli politics?",
           "link": "https://www.esquire.com/news-politics/politics/a74183638/republicans-midterm-elections-trump/",
           "publishedOn": "2026-10-19T19:39:14.000Z",
-          "wordCount": 19080,
+          "wordCount": 19078,
           "title": "It Took Republicans This Long to Realize That Trump Is a Cancer to Their Political Party?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e968cc1a-fea7-4ae5-a669-d34a718a009b.jpeg?crop=1xw:0.761795166858xh;center,top&resize=1200:*"
         },
@@ -965,7 +928,7 @@
           "description": "The alleged “mastermind” of the 9/11 attacks is scheduled for trial in 2028, but we’ll see if that actually happens.",
           "link": "https://www.esquire.com/news-politics/politics/a74183518/khalid-sheikh-mohammed-legal-farce/",
           "publishedOn": "2026-10-19T19:28:13.000Z",
-          "wordCount": 19582,
+          "wordCount": 18982,
           "title": "The Legal Proceedings Against Khalid Sheikh Mohammed Have Become an Extended Farce",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7da851b6-0c3b-4451-bd61-30a02ac9d5c1.jpeg?crop=1xw:0.716737495914xh;center,top&resize=1200:*"
         },
@@ -975,7 +938,7 @@
           "description": "He’s thirty-five years old. Loves movies. Works two jobs. Wants to meet the right person. But because he has Down syndrome, someone told him he’s different.",
           "link": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
           "publishedOn": "2026-10-19T11:00:00.000Z",
-          "wordCount": 29853,
+          "wordCount": 29867,
           "title": "In Gabe Kavookjian’s Life, Most People Are the Same. But Not Him.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f762144b-25e4-49ae-8c17-f7a981e7a723.jpg?crop=0.706xw:0.529xh;0.259xw,0.305xh&resize=1200:*"
         },
@@ -985,7 +948,7 @@
           "description": "Bend has done more than its part watering the tree of liberty.",
           "link": "https://www.esquire.com/news-politics/politics/a74163781/bend-oregon-school-shooting/",
           "publishedOn": "2026-10-16T21:50:26.000Z",
-          "wordCount": 22696,
+          "wordCount": 22654,
           "title": "Another Tragic Reminder: Too. Many. Damn. Guns.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/21a57638-9bf6-4229-a4ac-2b4611f1a4bf.jpeg?crop=1xw:0.749951200468xh;center,top&resize=1200:*"
         },
@@ -995,7 +958,7 @@
           "description": "A White House spokesperson called them “a wide array of great American companies and generous individuals.” I call them a bunch of influence-buying grifters.",
           "link": "https://www.esquire.com/news-politics/politics/a74151149/white-house-ballroom-donors-trumo/",
           "publishedOn": "2026-10-15T23:15:02.000Z",
-          "wordCount": 19173,
+          "wordCount": 19130,
           "title": "You’re Not Gonna Like the List of Donors Fronting the Bill for Trump’s Big, Ugly Ballroom",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/faf18ec6-f9ba-49a5-9d93-a6e6b9c60e1b.jpeg?crop=1xw:0.75xh;0xw,0.123xh&resize=1200:*"
         },
@@ -1005,7 +968,7 @@
           "description": "A disastrous new press secretary. Whispers of a new chief of staff. A feud between the president and old lawyers. We have to endure two more years of this?",
           "link": "https://www.esquire.com/news-politics/politics/a74148310/trump-administration-wiley-zacharia-guilfoyle/",
           "publishedOn": "2026-10-15T18:46:40.000Z",
-          "wordCount": 19646,
+          "wordCount": 20262,
           "title": "I’m Both Elated and Terrified to Hear That Trump’s Administration Is Coming Unstrung",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/090d1565-07ba-4e90-a945-ba07b3cd5c84.jpeg?crop=1xw:0.75xh;0xw,0.028xh&resize=1200:*"
         },
@@ -1015,7 +978,7 @@
           "description": "And you’ll never guess the pale pile of evil he brought in to help.",
           "link": "https://www.esquire.com/news-politics/politics/a74137391/trump-elon-musk-ukraine-russia-war/",
           "publishedOn": "2026-10-14T21:33:52.000Z",
-          "wordCount": 19689,
+          "wordCount": 19640,
           "title": "Trump Wants to Sell Ukraine Out for a Couple Days’ Worth of Diesel Fuel",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6e504195-8c9f-4437-9d35-f5cf1e571ebf.jpeg?crop=1xw:0.75006626027xh;center,top&resize=1200:*"
         },
@@ -1025,7 +988,7 @@
           "description": "This conspiratorial threat has been a bogeyman for the do-your-own-research techno-right for so long that it dates back to when Newt Gingrich was considered a political visionary.",
           "link": "https://www.esquire.com/news-politics/politics/a74133141/emp-theory-iran-war-trump-administration/",
           "publishedOn": "2026-10-14T14:41:00.000Z",
-          "wordCount": 19330,
+          "wordCount": 19311,
           "title": "The Ridiculous Tinfoil-Hat Theory That May Have Pushed the Trump Administration to Start the War with Iran",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9cf4b333-d741-4567-9220-6f2b5f06a9c5.jpeg?crop=1xw:0.754739814441xh;center,top&resize=1200:*"
         }
