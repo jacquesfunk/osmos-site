@@ -108,17 +108,17 @@
           "description": "0 This mimics the\nbehavior of a web browser that displays the URL in the status bar.\n\n\n\nWithin Emacs, I try to avoid the mouse as much as possible.  I already\nconfigured Emacs so that pressing ENTER on a link follows the\nlink.1 But this method doesn't provide a way to preview the\nlink before following it.  I wondered, \"What if Emacs displayed a\ntooltip whenever point is on a link?\"\n\n\n\nThe answer came to me immediately; \"It would be darn annoying.\"\n\n\n\nSo I decided that the user should invoke a function to \"display\ntooltip at point.\"  It didn't take long for me to find a solution on\nStack Exchange, \"farynaio/org-link-copy.\"2 The function's\nprimary purpose is to add the URL to the kill-ring.  But it also shows\nthe URL in a message that indicates the URL was copied.  It works\nperfectly.\n\n\n\nHow…",
           "link": "https://ray-on-emacs.blogspot.com/2026/10/a-point-based-tooltip-for-emacs.html",
           "publishedOn": "2026-10-24T21:28:21.479Z",
-          "wordCount": 2997,
+          "wordCount": 3652,
           "title": "Raymond Zeitler: A Point-Based Tooltip for Emacs",
           "imageUrl": null
         },
         {
           "id": "https://sachachua.com/blog/2026/10/upcoming-chat-with-linkarzu-about-using-emacs-for-25-years/",
           "author": null,
-          "description": "linkarzu about Emacs and life.\nHe's more of a Vim person than an Emacs person, so I'll try to share things that are generally useful. He's called it: \"Why Sacha Chua Still Lives in Emacs After 20+ Years.\"\n\n\n\n\nWatch on YouTube\n\n\n\n[2026-10-29 Thu 08:00] (America/Toronto, -0400) = Thu Oct 29 0800H EDT / 0700H CDT / 0600H MDT / 0500H PDT / 1200H UTC / 1300H CET / 1400H EET / 1730H IST / 2000H +08 / 2100H JST\n\n\n\nI am not sure my eyebrows have ever done that, but linkarzu does like his thumbnails, so we'll let that pass. =)\n\n\n\nI put together some sketches to help me organize my thoughts.\nHis channel uses dark mode, so let's experiment with dark mode in my sketches too.\nI want to think about things so that the relevant resources are readily available and so that I can express myself more concisel…",
+          "description": "[2026-10-25 Sun]: Ha, I accidentally left in some raw transcription output. Serves me right for not scrolling down.\nAlso, I've added a summary image.\n\n\n\n\n\nNext Thursday, I'm going to be chatting with linkarzu about Emacs and life.\nHe's more of a Vim person than an Emacs person, so I'll try to share things that are generally useful. He's called it: \"Why Sacha Chua Still Lives in Emacs After 20+ Years.\"\n\n\n\n\nWatch on YouTube\n\n\n\n[2026-10-29 Thu 08:00] (America/Toronto, -0400) = Thu Oct 29 0800H EDT / 0700H CDT / 0600H MDT / 0500H PDT / 1200H UTC / 1300H CET / 1400H EET / 1730H IST / 2000H +08 / 2100H JST\n\n\n\nI am not sure my eyebrows have ever done that, but linkarzu does like his thumbnails, so we'll let that pass. =)\n\n\n\nI put together some sketches to help me organize my thoughts.\nHis channel…",
           "link": "https://sachachua.com/blog/2026/10/upcoming-chat-with-linkarzu-about-using-emacs-for-25-years/",
           "publishedOn": "2026-10-24T13:39:16.000Z",
-          "wordCount": 1956,
+          "wordCount": 1783,
           "title": "Sacha Chua: Upcoming chat with linkarzu about using Emacs for 25 years",
           "imageUrl": null
         },
@@ -168,7 +168,7 @@
           "description": "I've just made a very small update to\nblogmore.el to fix a small bug,\nand also to update some deprecated code.\nThe blogmore-new command inserts the result of expanding a template into\nthe buffer when making a new post, and I've not touched that template since\nI started writing blogmore.el. This includes not updating it when I\nswitched much of the frontmatter-handling code over to proper YAML parsing.\nThe problem here was that the title didn't get quotes around it, which\nbecame an issue if there was something like a : in the title; any\nsubsequent attempt to modify frontmatter properties would throw an error.\nSo this release ensures that the title and the date get quoted right away. I\nguess, at some point, I should rework this code so that it uses the\nfrontmatter-handling code to set up those properties and, instead, just uses\nthe template for the main body.\nI've also changed all uses of things like when-let and if-let to use\nwhen-let* and if-let*. It seems that, as of Emacs 31.1, the former are\ndeprecated.",
           "link": "https://blog.davep.org/2026/10/22/blogmore-el-v5-4-0.html",
           "publishedOn": "2026-10-22T15:49:15.000Z",
-          "wordCount": 358,
+          "wordCount": 364,
           "title": "Dave Pearson: blogmore.el v5.4.0",
           "imageUrl": "https://blog.davep.org/static/images/auto_covers/posts-2026-10-2026-10-22-blogmore-el-v5-4-0.webp"
         },
@@ -198,7 +198,7 @@
           "description": "While making Emacs Eglot format code on save (eglot-format-buffer, in this article) is excellent for fixing indentation, line breaks, and spacing, a formatter is essentially cosmetic. It will not remove unused imports, sort your dependencies, or rewrite deprecated syntax. To automate code cleanup, use LSP Code Actions in addition to formatting. Two important action kind of code actions are source.fixAll, for safe automatic fixes that do not require user input, and source.organizeImports, which handles import organization separately. Note: Alternatively, the apheleia Emacs package can be configured to run command-line tools for automatic code fixes, in addition to formatting. Apheleia runs … Continue reading →",
           "link": "https://www.jamescherti.com/emacs-eglot-apply-code-actions-fixes-on-save/",
           "publishedOn": "2026-10-19T16:02:16.000Z",
-          "wordCount": 2583,
+          "wordCount": 2589,
           "title": "James Cherti: Applying Emacs Eglot safe code fixes on save (Code Actions)",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -245,10 +245,10 @@
         {
           "id": "https://list.orgmode.org/283c4914-dd42-4ce8-b61d-4b90274b4a0e@gmail.com",
           "author": null,
-          "description": "[request] flags:--- replies:5",
+          "description": "[request] flags:-O- replies:6",
           "link": "https://list.orgmode.org/283c4914-dd42-4ce8-b61d-4b90274b4a0e@gmail.com",
           "publishedOn": "2026-10-18T06:24:30.000Z",
-          "wordCount": 710,
+          "wordCount": 717,
           "title": "Org Mode requests: [RFC] a small patch for the brave on emacs32",
           "imageUrl": null
         },
@@ -338,7 +338,7 @@
           "description": "Setting up a Python development environment in Emacs with Eglot and python-lsp-server (pylsp) requires telling the language server which plugins to run and which ones to ignore. While you can set eglot-workspace-configuration globally, doing so forces every Python project you open using Emacs to use the same toolchain and formatting rules. Placing the configuration in a .dir-locals.el file applies these Emacs buffer settings and Eglot workspace settings to files within the project's directory tree. The indentation settings and fill-column can be chosen to match the conventions configured in pyproject.toml, while Ruff reads its own configuration from that file when applicable. … Continue reading →",
           "link": "https://www.jamescherti.com/emacs-eglot-python-dir-locals-el-and-pylsp/",
           "publishedOn": "2026-10-16T16:30:14.000Z",
-          "wordCount": 2703,
+          "wordCount": 2709,
           "title": "James Cherti: Emacs Eglot for Python with .dir-locals.el, python-lsp-server (Pylsp), and ruff",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -371,16 +371,6 @@
           "wordCount": 252,
           "title": "Protesilaos: Emacs: all my packages have an AGENTS.md and CLAUDE.md to restrict use",
           "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
-        },
-        {
-          "id": "https://sachachua.com/blog/2026/10/added-javascript-time-zone-translation-to-the-emacsconf-schedule-images-on-the-wiki/",
-          "author": null,
-          "description": "draft schedule in the organizers' notebook.\n\n\n\nLet me test it by setting my local time zone to UTC with sudo timedatectl set-timezone Etc/UTC…\n\n\n\n\n\n\nFigure 1: Screenshot of the draft schedule in the wiki, showing times dynamically translated to UTC\n\n\n\nHere's the horizontal view in our backstage index, showing the status of talks so far.\n\n\n\n\n\n\nFigure 2: Screenshot of backstage view, showing times dynamically translated to UTC\n\n\n\nI still need to make sure that my time zone is set to America/Toronto when I'm  generating the SVGs, but at least now people can see the times translated to their local time zone.\n\n\n\nThe Javascript code is in https://emacsconf.org/script.js as addLocalTimeToSVGs.\nThe Emacs Lisp code to generate these SVGs is in emacsconf-schedule.el. emacsconf-schedule-svg is the starting point.\n\nView Org source for this post\nYou can e-mail me at sacha@sachachua.com.",
-          "link": "https://sachachua.com/blog/2026/10/added-javascript-time-zone-translation-to-the-emacsconf-schedule-images-on-the-wiki/",
-          "publishedOn": "2026-10-15T18:48:04.000Z",
-          "wordCount": 323,
-          "title": "Sacha Chua: Added Javascript time zone translation to the EmacsConf schedule images on the wiki",
-          "imageUrl": null
         }
       ]
     },
@@ -653,21 +643,11 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/tech/article/data-centers-22356298.php-full",
-          "author": null,
-          "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
-          "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
-          "publishedOn": "2026-10-25T04:27:38.871Z",
-          "wordCount": 177,
-          "title": "If you don't hate data centers yet, boy do I have news for you",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php-full",
           "author": null,
           "description": "Christopher Nolan’s “The Odyssey” arrives in theaters this week. And if you thought that “Oppenheimer” was the most Christopher Nolan movie that Christopher Nolan could possibly make, let this serve as either an exciting tease or a stern warning: You ain’t seen squat. Blessed with a reported $250 million budget, the Oscar-winning director has used Homer’s Greek epic to amplify (somehow) all of his trademark directorial tics. Is this movie long? Dude, it is SO long. Does the story center around a taciturn fellow (Matt Damon, never better) who’s got some heavy s—t going on? Absolutely. Do we get a plot timeline that’s been chopped and screwed? Very much so. Is the sound mix deafening, to the point of pain, and are entire swaths of dialogue still not comprehensible despite that loudness? (My …",
           "link": "https://www.sfgate.com/sf-culture/article/odyssey-review-22343323.php",
-          "publishedOn": "2026-10-25T04:27:38.868Z",
+          "publishedOn": "2026-10-25T10:45:34.576Z",
           "wordCount": 177,
           "title": "'The Odyssey' wants you to suffer",
           "imageUrl": null
@@ -677,9 +657,19 @@
           "author": null,
           "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
           "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-10-25T04:27:38.867Z",
+          "publishedOn": "2026-10-25T10:45:34.575Z",
           "wordCount": 177,
           "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/tech/article/data-centers-22356298.php-full",
+          "author": null,
+          "description": "Aerial view of a 49.5-megawatt data center under construction in Vernon, Calif., on July 14, 2026.\nMyung J. Chun/LA Times via Getty Images\nI was watching some hot World Cup action the other day when this local ad from a lobbying group called Virginia Connects graced my television screen. I didn’t know that Virginia Connects was behind this spot until the very end of it, which is standard practice for all evilmongers these days. If I see a commercial that begins with a tasteful montage of Americans doing super-serious, deeply American things, that ad will inevitably end with a plug for AI, Meta pinky-swearing to keep your kids safe, or a promise that Jesus gets me.\n\nThis Virginia Connects ad plays out in a similar fashion. It opens with an all-American dad using his smartphone to give his a…",
+          "link": "https://www.sfgate.com/tech/article/data-centers-22356298.php",
+          "publishedOn": "2026-10-25T10:45:34.565Z",
+          "wordCount": 177,
+          "title": "If you don't hate data centers yet, boy do I have news for you",
           "imageUrl": null
         },
         {
@@ -687,7 +677,7 @@
           "author": null,
           "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
           "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-10-25T04:27:38.855Z",
+          "publishedOn": "2026-10-25T10:45:34.553Z",
           "wordCount": 177,
           "title": "California is on fire and these people are profiting off it",
           "imageUrl": null
@@ -697,19 +687,9 @@
           "author": null,
           "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
           "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-10-25T04:27:38.852Z",
+          "publishedOn": "2026-10-25T10:45:34.550Z",
           "wordCount": 177,
           "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
-          "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-10-25T04:27:38.850Z",
-          "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
         },
         {
@@ -717,9 +697,19 @@
           "author": null,
           "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
           "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-10-25T04:27:38.846Z",
+          "publishedOn": "2026-10-25T10:45:34.547Z",
           "wordCount": 177,
           "title": "Why Your Team Sucks 2026: San Francisco 49ers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "author": null,
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-10-25T10:45:34.545Z",
+          "wordCount": 177,
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
         },
         {
@@ -727,7 +717,7 @@
           "author": null,
           "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
           "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-10-25T04:27:38.833Z",
+          "publishedOn": "2026-10-25T10:45:34.530Z",
           "wordCount": 177,
           "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
@@ -737,19 +727,9 @@
           "author": null,
           "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
           "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-10-25T04:27:38.816Z",
+          "publishedOn": "2026-10-25T10:45:34.515Z",
           "wordCount": 177,
           "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
-          "author": null,
-          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
-          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-10-25T04:27:38.810Z",
-          "wordCount": 177,
-          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
           "imageUrl": null
         },
         {
@@ -757,7 +737,7 @@
           "author": null,
           "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
           "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-10-25T04:27:38.801Z",
+          "publishedOn": "2026-10-25T10:45:34.514Z",
           "wordCount": 177,
           "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
@@ -767,9 +747,19 @@
           "author": null,
           "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
           "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-10-25T04:27:38.796Z",
+          "publishedOn": "2026-10-25T10:45:34.507Z",
           "wordCount": 177,
           "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "author": null,
+          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
+          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
+          "publishedOn": "2026-10-25T10:45:34.490Z",
+          "wordCount": 177,
+          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
           "imageUrl": null
         },
         {
@@ -777,7 +767,7 @@
           "author": null,
           "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
           "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-10-25T04:27:38.784Z",
+          "publishedOn": "2026-10-25T10:45:34.479Z",
           "wordCount": 177,
           "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
@@ -787,7 +777,7 @@
           "author": null,
           "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
           "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-10-25T04:27:38.774Z",
+          "publishedOn": "2026-10-25T10:45:34.471Z",
           "wordCount": 177,
           "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
           "imageUrl": null
@@ -797,7 +787,7 @@
           "author": null,
           "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
           "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-10-25T04:27:38.760Z",
+          "publishedOn": "2026-10-25T10:45:34.462Z",
           "wordCount": 177,
           "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
           "imageUrl": null
@@ -815,7 +805,7 @@
           "description": "The ratfcking has just begun.",
           "link": "https://www.esquire.com/news-politics/politics/a74234721/hegseth-eisenhower-globes-elections-2026/",
           "publishedOn": "2026-10-23T22:22:50.000Z",
-          "wordCount": 25613,
+          "wordCount": 25661,
           "title": "We Need to Prepare Ourselves for One of the Most Intensely Monitored Elections in American History",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/13ce8c41-403c-47b5-9b47-6947bb0b9938.jpeg?crop=1xw:0.749xh;0xw,0.1xh&resize=1200:*"
         },
@@ -825,7 +815,7 @@
           "description": "Good luck.",
           "link": "https://www.esquire.com/news-politics/politics/a74221699/trump-bbc-deposition/",
           "publishedOn": "2026-10-22T21:51:47.000Z",
-          "wordCount": 19255,
+          "wordCount": 19276,
           "title": "The Legal System Is Taking Another Shot at Forcing Trump to Tell the Truth About January 6",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1154271f-4897-4fa5-bf0b-4bfe0ff5bd1c.jpeg?crop=1xw:0.750059283851xh;center,top&resize=1200:*"
         },
@@ -905,7 +895,7 @@
           "description": "Everything about the review of this heartbreaking case is fishy.",
           "link": "https://www.esquire.com/news-politics/politics/a74194675/mississippi-attorney-general-kohen-wiley-shot-killed-police/",
           "publishedOn": "2026-10-20T17:16:39.000Z",
-          "wordCount": 19982,
+          "wordCount": 20015,
           "title": "In a Totally Cruel Decision, Mississippi AG Finds No Wrongdoing in the Despicable Police Shooting of a One-Year-Old Boy",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/37c3a051-e427-4d1f-8999-ba158b3ff0cc.jpeg?crop=1xw:0.749xh;0xw,0.251xh&resize=1200:*"
         },
@@ -958,16 +948,6 @@
           "wordCount": 19063,
           "title": "You’re Not Gonna Like the List of Donors Fronting the Bill for Trump’s Big, Ugly Ballroom",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/faf18ec6-f9ba-49a5-9d93-a6e6b9c60e1b.jpeg?crop=1xw:0.75xh;0xw,0.123xh&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74148310/trump-administration-wiley-zacharia-guilfoyle/",
-          "author": null,
-          "description": "A disastrous new press secretary. Whispers of a new chief of staff. A feud between the president and old lawyers. We have to endure two more years of this?",
-          "link": "https://www.esquire.com/news-politics/politics/a74148310/trump-administration-wiley-zacharia-guilfoyle/",
-          "publishedOn": "2026-10-15T18:46:40.000Z",
-          "wordCount": 19580,
-          "title": "I’m Both Elated and Terrified to Hear That Trump’s Administration Is Coming Unstrung",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/090d1565-07ba-4e90-a945-ba07b3cd5c84.jpeg?crop=1xw:0.75xh;0xw,0.028xh&resize=1200:*"
         }
       ]
     },
@@ -1107,12 +1087,22 @@
       "siteUrl": "https://foxtrot.com",
       "articles": [
         {
+          "id": "https://foxtrot.com/?p=6355",
+          "author": "Bill Amend",
+          "description": "FoxTrot by Bill Amend | October 25, 2026",
+          "link": "https://foxtrot.com/2026/10/25/rip-peter/?utm_source=rss&utm_medium=rss&utm_campaign=rip-peter",
+          "publishedOn": "2026-10-25T05:01:00.000Z",
+          "wordCount": 2678,
+          "title": "RIP Peter",
+          "imageUrl": "https://foxtrot.com/wp-content/uploads/2026/10/ft261025-foxtrot-comics-bill-amend-rip-peter-lego-jason-halloween-sunday-comic-strip.png"
+        },
+        {
           "id": "https://foxtrot.com/?p=6331",
           "author": "Bill Amend",
           "description": "FoxTrot by Bill Amend | October 18, 2026",
           "link": "https://foxtrot.com/2026/10/18/pumpkinmojis/?utm_source=rss&utm_medium=rss&utm_campaign=pumpkinmojis",
           "publishedOn": "2026-10-18T05:01:00.000Z",
-          "wordCount": 2592,
+          "wordCount": 2593,
           "title": "Pumpkinmojis",
           "imageUrl": "https://foxtrot.com/wp-content/uploads/2026/10/ft261018-foxtrot-comics-bill-amend-pumpkinmojis-halloween-emoji-paige-fox-pumpkin-carving-sunday-comic-strip.png"
         }
