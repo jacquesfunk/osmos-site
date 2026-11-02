@@ -74,16 +74,6 @@
           "wordCount": 151,
           "title": "Sunday, October 25, 2026",
           "imageUrl": "https://baty.net/img/2026/20261025-notebooks.webp"
-        },
-        {
-          "id": "https://baty.net/posts/2026/10/quxnet-net/",
-          "author": null,
-          "description": "Remember when I said that I was done signing up for every new service that comes along? Yeah, me too. But...\nToday I learned about quxnet via the always interesting Linkdump, from 82MHz, who linked to Quxnet Is a Breath of Fresh Air | moddedbear.com. Of course I created an account immediately  because how could I not? I mean, there's an SSH/TUI interface for it. Sold!\n\nQuxnet has everything. Boards, mail, photo galleries, links, blogs, an RSS reader, and more. It looks super-retro cool, which adds to the vibe. I don't know what I want out of it yet, but if it can remain \"A private network with old internet manners.\" then I can see it becoming a fun new place to hang out.\nThere are still fewer than 1,000 people there, so naturally things are cordial and sufficiently nerdy and polite. I hope it stays polite, but I worry that with popularity comes conflicting views from people who \"We\" don't agree with, and once the finger-pointing starts, things tend to go south. I hope it doesn't happen that way.\nBut for now it's clever, fun, nerdy, and new, so I'm in. https://quxnet.net/u/jbaty.\n\n✍️ Reply by email",
-          "link": "https://baty.net/posts/2026/10/quxnet-net/",
-          "publishedOn": "2026-10-23T11:08:52.000Z",
-          "wordCount": 258,
-          "title": "Quxnet.net",
-          "imageUrl": "https://baty.net/img/2026/20261023-quxnet-profile-header.png"
         }
       ]
     },
@@ -92,6 +82,16 @@
       "feedUrl": "https://planet.emacslife.com/atom.xml",
       "siteUrl": "https://planet.emacslife.com/",
       "articles": [
+        {
+          "id": "http://yummymelon.com/devnull/announcing-mdired.html",
+          "author": null,
+          "description": "The ability to mark items in GNU Emacs Dired allows for bulk operations on both files and directories. With marking, onerous tasks can be turned into a trivial ones.\nWhile default Dired has many bulk operation commands, not everything is covered. That is the motivation for mdired, an Elisp package which extends Dired with some SIMD-style commands.\nUsing these commands fall into two steps:\nMark the items of interest in Dired.\nRun the mdired command.\nmdired supports the following four commands:\nmdired-copy: copy a single file to multiple directories.\nmdired-do-command: run an Elisp command or named keyboard macro on multiple files.\nmdired-compile: run compile on multiple directories.\nmdired-byte-recompile: byte-compile selected files or directories.\nRefer to the mdired User Guide for more details on usage.\nClosing Thoughts\nBulk operation commands are chainsaws. Use them with caution. That said, they are great for improvised workflows:\n“Here’s this file that I want copied to a bunch of directories.”\n“I want to do the same edit operation on this set of files. I’ve got a named keyboard macro ready to go on them.”\n“I want to run the same make command on a bunch of directories.”\nAs mdired is new, I’m open to feedback on it. Let me know what you think.\nmdired v1.0 is now available on MELPA.",
+          "link": "http://yummymelon.com/devnull/announcing-mdired.html",
+          "publishedOn": "2026-11-01T22:25:00.000Z",
+          "wordCount": 290,
+          "title": "Charles Choi: Announcing mdired, or adding a chainsaw to Dired",
+          "imageUrl": "http://yummymelon.com/devnull/images/opengraph-default.jpg"
+        },
         {
           "id": "https://karthinks.com/software/understanding-org-latex-preview/",
           "author": null,
@@ -218,7 +218,7 @@
           "description": "Is your favorite theme causing your Emacs terminal to have washed-out colors, poor contrast, and hard-to-read output? The terminal-colors package gives Emacs terminals a fresh look with dedicated terminal color schemes for vterm, eat, and term (ansi-term). It allows keeping your favorite Emacs theme while giving the Emacs terminal its own colors, similar to those of standalone terminals like gnome-terminal. By default, Emacs terminal emulators inherit their ANSI colors and background from the active Emacs theme, which can result in low contrast or unreadable text in terminal applications. The terminal-colors package decouples terminal colors from the global Emacs theme, applying … Continue reading →",
           "link": "https://www.jamescherti.com/emacs-terminal-colors-el/",
           "publishedOn": "2026-10-30T19:34:15.000Z",
-          "wordCount": 2421,
+          "wordCount": 2423,
           "title": "James Cherti: terminal-colors.el - Make your Emacs terminal colors look like a real terminal (vterm, eat, term, and ansi-color)",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -238,7 +238,7 @@
           "description": "I like forums. Debates, questions, answers, opinions, etc. That feeling of an asynchronous community, where answers are thought through and content lasts, is what makes the internet an interesting place. That is why I like reading them and taking part in them. But I had never designed or built one. In my spare time I started sketching one, and I ended up building my humble headless, federated forum, with simple, modern technologies and open standards.\nAnd I learned a lot along the way. A forum looks simple, but it hides the classic problems of any server. Who can do what? How do you tell a moderator from a regular user? What happens when you have to ban someone? How do you stop someone from stealing an account? Roles, permissions, bans and security. I had to solve them one by one, and you …",
           "link": "http://en.andros.dev/blog/b5c8c6aa/i-built-a-forum-with-no-interface-no-passwords-made-for-the-terminal/",
           "publishedOn": "2026-10-30T11:26:35.000Z",
-          "wordCount": 2041,
+          "wordCount": 2045,
           "title": "Andros Fenollosa: I built a forum with no interface, no passwords, made for the terminal",
           "imageUrl": "https://img.andros.dev/RcArganOGQ8BsVDslAOM_HWMbpg=/600x0/filters:format(avif):quality(85)/https://andros.dev/media/thumbnails/nathan-dumlao-ewGMqs2tmJI-unsplash.jpg"
         },
@@ -268,7 +268,7 @@
           "description": "The proxymacs Emacs package simplifies HTTP, HTTPS, and SOCKS proxy configuration. It supports HTTP/HTTPS proxies and SOCKS4, SOCKS4a, and SOCKS5. Note: If this project helps your workflow, please consider supporting the project by ⭐ starring it on GitHub and sharing it on your website, blog, Mastodon, Reddit, X, LinkedIn, or other social media platforms so other Emacs users can discover its benefits. Usage HTTP and HTTPS Proxy (setq proxymacs-proxy-type 'http) (setq proxymacs-http-host \"127.0.0.1\") (setq proxymacs-http-port 3128) ; accepts integer or string (setq proxymacs-http-no-proxy \"^\\\\(localhost\\\\|127\\\\.0\\\\.0\\\\.1\\\\|10\\\\..*\\\\|192\\\\.168\\\\..*\\\\)\") ;; Optional HTTPS configuration (falls back to HTTP host and port when nil): ;; (setq proxymacs-https-host … Continue reading →",
           "link": "https://www.jamescherti.com/proxymacs-el/",
           "publishedOn": "2026-10-29T20:26:41.000Z",
-          "wordCount": 2321,
+          "wordCount": 2323,
           "title": "James Cherti: proxymacs.el - An Emacs package for configuring HTTP, HTTPS, and SOCKS proxies with optional authentication",
           "imageUrl": "https://jamescherti.com/misc/og-james-cherti.jpg"
         },
@@ -330,6 +330,16 @@
           "publishedOn": "2026-10-27T14:28:18.000Z",
           "wordCount": 1451,
           "title": "Irreal: Controlling Where Isearch Starts Searching",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mbork.pl/2026-10-26_Unicode_punctuation_in_Emacs",
+          "author": null,
+          "description": "I have a rather complicated relationship with non-ASCII punctuation. On the one hand, I like to keep my files (for example Org mode files) clean of Unicode stuff – especially emojis – with the obvious exception of Polish diacritical characters (“ąćęłńóśźżĄĆĘŁŃÓŚŹŻ”, if you are curious). On the other hand, I am a big fan of long dashes (though I very much prefer en-dashes to em-dashes); I also like using “proper” quotation marks.",
+          "link": "https://mbork.pl/2026-10-26_Unicode_punctuation_in_Emacs",
+          "publishedOn": "2026-10-26T19:12:43.000Z",
+          "wordCount": 684,
+          "title": "Marcin Borkowski: Unicode punctuation in Emacs",
           "imageUrl": null
         },
         {
@@ -448,7 +458,7 @@
           "description": "Earlier this week I had a coaching session with\nProtesilaos, where we focused\non health and wellness.  I took some notes during our call, which\nI expand on here, and share with Prot's permission.  I've been paying\nmore serious attention to my health this year, and our discussion was\nin the context of me striving to live a healthier life.  These\nnotes are shared in the hope of being useful and are not\nprofessional advice; for medical advice please consult a licensed\nphysician.\nUpdate 24 October 2026: Prot published a note about our\ndiscussion on his website: Healthier lifestyle with Amin Bandali\nExercise\n\nLife in today's fast-paced world can feel busier than ever, where\nevery day is packed with a myriad of activities and tasks that need to\nbe done, or tempting distractions that pop up seemi…",
           "link": "https://www.shemshak.org/~amin/living-healthier.html",
           "publishedOn": "2026-10-23T22:30:00.000Z",
-          "wordCount": 1082,
+          "wordCount": null,
           "title": "Amin Bandali: Living healthier",
           "imageUrl": null
         },
@@ -482,40 +492,40 @@
         {
           "id": "https://defector.com/?p=240429",
           "author": "Tom Ley",
-          "description": "It's wise to never expect too much from a clash between two NFC South teams. They tend to be a form of stultifying anti-entertainment, and so today's game between the Falcons and Buccaneers would normally be an easy skip. The NFC South has felt a little different this year, though, and not because any of its teams are playing particularly good football. What they have been doing is playing weird, entertaining football, and today the Bucs and Falcons played what might end up being the weirdest and most entertaining game of the season.\nA huge rainstorm rolled into Tampa, Fla. this morning, absolutely soaking the Bucs' field and creating the kind of conditions that would make any offensive coordinator squeamish about calling a passing play. Now imagine how much more stressful that scenario becomes when the quarterbacks at their disposal are Baker Mayfield and Michael Penix, Jr. Facing these conditions, the Buccaneers came up with a novel strategy: What if we just didn't throw a pass?\nWell, OK, they threw three passes, but none of them were completed. Mayfield's final stat line: 0-3 for 0 yards, 0 touchdowns, and 0 interceptions. Any football game that produces a quarterback box score like that is already a thing to behold, but this one was made truly special by the fact that the Bucs won the game, 16-0.   They did so by running the ball 56 times for 324 yards. Bucky Irving and Kenny Gainwell each got to live out every running back's fantasy: Irving finished with 170 yards and a touchdown on 27 carries, and Gainwell chipped in with 140 yards on 25 carries. The game's representative highlight was probably Mayfield fumbling a snap and scrambling for a few seconds before throwing a desperate backwards pass to Irving, who churned through the rain and mud before fumbling the ball right at the goal line.",
+          "description": "It's wise to never expect too much from a clash between two NFC South teams. They tend to be a form of stultifying anti-entertainment, and so Sunday's game between the Atlanta Falcons and Tampa Bay Buccaneers would normally be an easy skip. The NFC South has felt a little different this year, though, and not because any of its teams are playing particularly good football. What they have been doing is playing weird, entertaining football, and today the Bucs and Falcons played what might end up being the weirdest and most entertaining game of the season.\nA huge rainstorm rolled into Tampa, Fla., this morning, absolutely soaking the Bucs' field and creating the kind of conditions that would make any offensive coordinator squeamish about calling a passing play. Now imagine how much more stressful that scenario becomes when the quarterbacks at their disposal are Baker Mayfield and Michael Penix Jr. Facing these conditions, the Buccaneers came up with a novel strategy: What if we just didn't throw a pass?\nWell, OK, they threw three passes, but none of them were completed. Mayfield's final stat line: 0-for-3 for zero yards, zero touchdowns, and zero interceptions. Any football game that produces a quarterback box score like that is already a thing to behold, but this one was made truly special by the fact that the Bucs won the game, 16-0. They did so by running the ball 56 times for 324 yards. Bucky Irving and Kenny Gainwell each got to live out every running back's fantasy: Irving finished with 170 yards and a touchdown on 27 carries, and Gainwell chipped in with 140 yards on 25 carries. The game's representative highlight was probably Mayfield fumbling a snap and scrambling for a few seconds before throwing a desperate backward pass to Irving, who churned through the rain and mud before fumbling the ball right at the goal line.",
           "link": "https://defector.com/the-buccaneers-played-prehistoric-football-and-won",
           "publishedOn": "2026-11-01T21:41:43.000Z",
-          "wordCount": 4539,
+          "wordCount": 4544,
           "title": "The Buccaneers Played Prehistoric Football And Won",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2302575885.jpg"
         },
         {
           "id": "https://defector.com/?p=240417",
           "author": "Tom Ley",
-          "description": "If one thing's been made clear through the last decade or so of national politics, it's that there are John Fettermans hiding in plain sight throughout the Democratic Party. The latest member to don the Mantle Of The Oaf is Haley Stevens, who lost her primary race for a Senate seat to Abdul El-Sayed this summer. Now, a few days before the general election, she has endorsed El-Sayed's Republican opponent, Mike Rogers.\nStevens appeared this morning at a church service in Detroit with Rogers. While entering the venue, she stopped to tell reporters that she's in favor of investing in black-owned businesses, adding, \"that’s the policy that Mike’s going to take on.\" She then sat in the same row as Rogers during the service.\n\nhttps://twitter.com/samueljrob/status/2116928933740298485",
+          "description": "If one thing's been made clear through the last decade or so of national politics, it's that there are John Fettermans hiding in plain sight throughout the Democratic Party. The latest member to don the Mantle Of The Oaf is Haley Stevens, who lost her primary race for a Senate seat to Abdul El-Sayed this summer. Now, a few days before the general election, she has endorsed El-Sayed's Republican opponent, Mike Rogers.\nStevens appeared Sunday morning with Rogers at a church service in Detroit. While entering the venue, she stopped to tell reporters that she's in favor of investing in black-owned businesses, adding, \"that’s the policy that Mike’s going to take on.\" She then sat in the same row as Rogers during the service.\n\nhttps://twitter.com/samueljrob/status/2116928933740298485",
           "link": "https://defector.com/pathetic-crybaby-haley-stevens-endorses-mike-rogers",
           "publishedOn": "2026-11-01T19:28:29.000Z",
-          "wordCount": 5558,
+          "wordCount": 5559,
           "title": "Pathetic Crybaby Haley Stevens Endorses Mike Rogers",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2289131002.jpg"
         },
         {
           "id": "https://defector.com/?p=240406",
           "author": "Maitreyi Anantharaman",
-          "description": "SAN FRANCISCO — What now? Any ideas? The Golden State Valkyries trailed Atlanta by six at halftime, and every point in this series felt like a hundred. The Valks will tell you theirs is an “egoless” team, one on which no one is above a scramble for a loose ball or a box-out. Zero All-WNBA players. Zero MVPs. The concept of “MV” wouldn’t even sit right with them. That spirit carried them far in the regular season, kept them fresh for the postseason, and made them nimble enough to handle a mid-series shake-up to the starting lineup. So committed were they to this formula that even six games in, Finals MVP really was anyone’s for the taking. Only no one was taking it. If you have 10 stars on your team, you have none. \nBasketball is a team sport, but even its team-iest sequences end in somethi…",
+          "description": "SAN FRANCISCO — What now? Any ideas? The Golden State Valkyries trailed the Atlanta Dream by six at halftime, and every point in this series felt like a hundred. The Valks will tell you theirs is an “egoless” team, one on which no one is above a scramble for a loose ball or a box-out. Zero All-WNBA players. Zero MVPs. The concept of “MV” wouldn’t even sit right with them. That spirit carried them far in the regular season, kept them fresh for the postseason, and made them nimble enough to handle a mid-series shake-up to the starting lineup. So committed were they to this formula that even six games in, Finals MVP really was anyone’s for the taking. Only no one was taking it. If you have 10 stars on your team, you have none. \nBasketball is a team sport, but even its team-iest sequences end …",
           "link": "https://defector.com/gabby-williams-and-the-valks-are-golden",
           "publishedOn": "2026-11-01T18:43:08.000Z",
-          "wordCount": 5705,
+          "wordCount": 5753,
           "title": "Gabby Williams And The Valks Are Golden",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2302927581.jpg"
         },
         {
           "id": "https://defector.com/?p=240413",
           "author": "Tom Ley",
-          "description": "On Friday, the Hobart/Lawrence Police Department released a batch of records related to Packers running back Josh Jacobs's domestic violence arrest in May. The records reveal that while police were investigating the May incident, they were contacted by three other women who said Jacobs abused them in the past. \nOne document describes a phone conversation a police investigator had with a woman who said she felt compelled to contact police after learning about the details of Jacobs's May arrest. According to the report, this woman told the investigator that she was abused by Jacobs in 2023 after meeting him in his house. She told police that she went to Jacobs's house after meeting him on Instagram. The woman claims that when she arrived at the house, Jacobs questioned whether she had come to have sex with him. When she said that wasn't the reason she came to the house, she says he became angry and slapped her across the face. The woman also told police that Jacobs grabbed her by the hair, pinned her to the bed, threw her off the bed, spit on her, grabbed her by the throat, and said, \"I should kill you right now.\"\nThe woman told the investigator that she did not contact the police at the time because she remained friends with Jacobs after the incident and was worried people wouldn't believe her.",
+          "description": "On Friday, the Hobart/Lawrence Police Department released a batch of records related to Packers running back Josh Jacobs's domestic violence arrest in May. The records reveal that while police were investigating the May incident, they were contacted by three other women who said Jacobs abused them in the past. \nOne document describes a phone conversation a police investigator had with a woman, who said she felt compelled to contact police after learning about the details of Jacobs's May arrest. According to the report, this woman told the investigator that she was abused by Jacobs in 2023 after meeting him in his house. She told police that she went to Jacobs's house after meeting him on Instagram. The woman claims that when she arrived at the house, Jacobs questioned whether she had come to have sex with him. When she said that wasn't the reason she came to the house, she says he became angry and slapped her across the face. The woman also told police that Jacobs grabbed her by the hair, pinned her to the bed, threw her off the bed, spit on her, grabbed her by the throat, and said, \"I should kill you right now.\"\nThe woman told the investigator that she did not contact the police at the time because she remained friends with Jacobs after the incident and was worried people wouldn't believe her.",
           "link": "https://defector.com/three-more-women-say-josh-jacobs-physically-abused-them",
           "publishedOn": "2026-11-01T15:24:27.000Z",
-          "wordCount": 4886,
+          "wordCount": 4885,
           "title": "Three More Women Say Josh Jacobs Physically Abused Them",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2302756771.jpg"
         },
@@ -525,7 +535,7 @@
           "description": "Following this week's news of Patrick Stewart's death, the Defector staff convened to remember some of our favorite performances by him.\nThe Simpsons\nPatrick Stewart is one of our most recognizable forces in pop culture: the kind of star who could be identified just by his profile, a rare feat of notoriety in any era. Every bit of him is iconic, but it’s his voice that truly makes him the performer he was. It's only right, then, that he became a memorable voice actor in animated work.",
           "link": "https://defector.com/our-favorite-patrick-stewart-performances",
           "publishedOn": "2026-10-30T20:52:02.000Z",
-          "wordCount": 8840,
+          "wordCount": 8841,
           "title": "Our Favorite Patrick Stewart Performances",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2014589382.jpg"
         },
@@ -535,7 +545,7 @@
           "description": "There are few joys in sports that can truly exceed a game in which both coaches are in danger of getting fired, and no place does that game better than England. There are no distractions that can cause the fevered punditocracy to avert its eyes from the desperate hope that one (or, in the most orgiastic case, both) gets smoked right after the game. This is possible because a dissatisfying draw can enrage both fan bases equally, in the way that Giants-Commanders sickened the souls of football fans on this side of the ditch three weeks ago.\nBut there is one scenario that trumps even that, and Americans will have it tomorrow morning at the breakfast hour: Manchester United at Chelsea. Two big clubs that are underachieving in their own specific ways, will face each other at 8:30 a.m. ET, and in deepest zombie hours on the West Coast. What makes it genuinely special for everyone is that no institution on earth, in any pursuit, does boss-in-trouble quite like Manchester United.\nCarrick got the full car wash a week ago after successive three-goal losses to Como (4-1) in the Champions League and Bournemouth (3-0) in the Prem. This extended a stretch of winless results that go back to United's Champions League win over Sabah of Azerbaijan, a newbie team that, on the European stage, qualifies not as minnows but something more on the order of plankton. The first loss was in Italy, in a very cool stadium that overlooks Lake Como, and which by definition is the coolest stadium in Europe because of it. The second was at home before—get this—an appreciative crowd that applauded Carrick when the team went for the postgame salute to the fans. They turned unanimously loud, profane, and ugly as soon as Carrick left the field.",
           "link": "https://defector.com/manchester-united-and-michael-carrick-are-breaking-new-ground-in-organizational-dysfunction",
           "publishedOn": "2026-10-30T18:22:35.000Z",
-          "wordCount": 5787,
+          "wordCount": 5788,
           "title": "Manchester United And Michael Carrick Are Breaking New Ground In Organizational Dysfunction",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2302075486.jpg"
         },
@@ -545,7 +555,7 @@
           "description": "During the first quarter of Thursday's game between the equally winless Pelicans and Kings, Sacramento rookie Darius Acuff Jr. ran the length of the floor in transition and punched home a sweeping dunk past a late trail from Jeremiah Fears and a halfhearted contest from Trey Murphy III. It was an amazing play, which is why Acuff took a second to flex and mean-mug for the dozens of fans in New Orleans. It was also a live play, and as Acuff preened, the Pelicans ran back and Murphy got an easy dunk, after Acuff's absence forced Domantas Sabonis to abandon the paint.\nThis sequence serves as a useful Rorschach test for the Acuff observer: Do you see Acuff's smooth athleticism, and his ability to produce not only tough but beautiful buckets? Or do you see an undersized guard whose lack of interest in the floor game is matched only by his inability to affect it? Both are totally valid reads of the most (and only) fascinating player on the worst team in basketball, although I think partisans of both positions would agree that Acuff's first five NBA games have been remarkable.\nNobody in the league has attempted or missed more shots. No rookie has ever attempted as many shots in their first few games. Acuff sits snugly wedged between Steph Curry and Shai Gilgeous-Alexander on the usage leaderboard, with the sixth-highest rate in the NBA. It's both fantastic theater and an irresistible new front in the Real Hooper Wars; the Kings, in the meantime, are so bad that the question of any of it mattering will be entirely theoretical for a while. This leaves us all free to enjoy Acuff's game and use it as a plank from which to mount arguments about how basketball should work.",
           "link": "https://defector.com/darius-acuff-jr-is-a-problem-but-which-kind",
           "publishedOn": "2026-10-30T17:51:02.000Z",
-          "wordCount": 5705,
+          "wordCount": 5706,
           "title": "Darius Acuff Jr. Is A Problem, But Which Kind?",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-2302616065.jpg"
         },
@@ -555,7 +565,7 @@
           "description": "Welcome to the Defector College Football Watch Guide, where Israel Daramola and Ray Ratto will tell you which of the weekend’s college football games are worth giving a crap about.\nRay: Saturday is Halloween, and the schedule is notably threadbare for showdown games; only two games this weekend are between nationally ranked teams, and a bunch more are showdowns involving 4-3 programs. So go ahead, dress up, go to a party, and absentmindedly house a bunch of Reese's peanut butter cups in your host's rec room while pretending not to watch Washington-Nebraska. There's no need to let the costume be the most embarrassing part of your day.\nAs for the games: if you insist. Kentucky has the best record in the SEC for the first since ... uhh, ever? (Since 1977, actually.) The Wildcats' schedule down the stretch is unkind, but head coach Will Stein no doubt sent an aide to blow up a copy of the conference standings for display all over the campus, maybe covering all the basketball flyers. This is not likely to remain so, but a moment is still a moment.",
           "link": "https://defector.com/college-football-enters-spooky-season",
           "publishedOn": "2026-10-30T15:52:19.000Z",
-          "wordCount": 7795,
+          "wordCount": 7796,
           "title": "College Football Enters Spooky Season",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-495485900.jpg"
         },
@@ -565,7 +575,7 @@
           "description": "Aldous Huxley likened the exorcism of the prioress Jeanne des Anges to “a rape in a public lavatory.” It was this horrific description that director Ken Russell shared with production designer Derek Jarman before they set out to tell that story. Russell wanted to capture the spirit of Huxley’s nonfiction book, The Devils of Loudun, about the 17th-century incident in which a convent of nuns claimed possession, exhibiting wild and lewd behavior, leading to the sorcery conviction and execution of the priest Urbain Grandier. For that 1971 adaptation, The Devils, Jarman took the assignment quite literally. Large, white tiles cover every inch of Loudun’s Ursuline convent in the film, from floor to wall to arched ceiling. Tiles, and iron bars. It’s a gorgeous set, photographed by cinematographer …",
           "link": "https://defector.com/the-devils-gets-its-due",
           "publishedOn": "2026-10-30T15:21:55.000Z",
-          "wordCount": 8401,
+          "wordCount": 8402,
           "title": "‘The Devils’ Gets Its Due",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/TheDevils.jpg"
         },
@@ -575,7 +585,7 @@
           "description": "Russia, which has been functionally banned from international hockey for more than four years, must be allowed to return to international events starting in December in Canada. That's the ruling today by the Court of Arbitration for Sport, the highest sport court in the land. But there's a whole lot still unsettled, including a looming shitshow at next year's World Championships.\nThe International Ice Hockey Federation banned the Russian member association in February 2022, as did almost every other sport's Olympic federation following Russia's invasion of Ukraine. That war is still ongoing, but in July of this year the IOC lifted its blanket ban on Russian Olympic committees, and said that its recommendations to individual sport federations no longer apply. Ukraine is currently appealing that decision.\n(This is tricky business, and I'm glad it's not up to me to decide. Should individual athletes be punished for their government's actions? Or is a ban of Russia's prestigious hockey program more accurately a punishment of the country as a whole? But then, why Russia and not some other war-starting, international law-ignoring countries I could name and/or live in?)",
           "link": "https://defector.com/russia-is-coming-back-to-international-hockey",
           "publishedOn": "2026-10-30T14:58:26.000Z",
-          "wordCount": 4512,
+          "wordCount": 4513,
           "title": "Russia Is Coming Back To International Hockey",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/10/GettyImages-1996271069.jpg"
         }
@@ -712,7 +722,7 @@
           "description": "If we make it through these midterms with one brain cell intact, it will be a small miracle.",
           "link": "https://www.esquire.com/news-politics/politics/a74299737/midterms-silly-season-stupid-season-elections/",
           "publishedOn": "2026-10-30T22:18:09.000Z",
-          "wordCount": 23396,
+          "wordCount": 23378,
           "title": "We’re Entering Election “Silly Season,” and It Sure Feels Especially Stupid This Year",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fc6d25d4-d8cf-41f3-8a25-d2ed77a9f8d5.jpeg?crop=1xw:0.749906261717xh;center,top&resize=1200:*"
         },
@@ -722,7 +732,7 @@
           "description": "Doug Deason and Luke Metzger have almost nothing in common politically. Get them outdoors, though, and they’ll teach you a thing or two about bipartisanship. And about angling.",
           "link": "https://www.esquire.com/news-politics/a74275941/texas-midterms-fly-fishing/",
           "publishedOn": "2026-10-30T11:00:00.000Z",
-          "wordCount": 34948,
+          "wordCount": 34918,
           "title": "What Happens When You Take a Major GOP Donor and a Liberal Environmentalist Fishing? Something Beautiful, Actually",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8baf1232-f152-4f1e-840a-3233dec57231.jpg?crop=1xw:0.666666666667xh;center,top&resize=1200:*"
         },
@@ -732,7 +742,7 @@
           "description": "The Secretary of Talking About War is apparently hoping to escape from the hellhole he created at the Pentagon.",
           "link": "https://www.esquire.com/news-politics/politics/a74287453/pete-hegseth-senate-marsha-blackburn/",
           "publishedOn": "2026-10-29T20:48:44.000Z",
-          "wordCount": 10620,
+          "wordCount": 22177,
           "title": "I Sure as Hell Hope That Pete Hegseth Doesn’t End Up in the Senate",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d8ea31c4-0ef6-4765-9d18-f84d58f8a75f.jpeg?crop=1xw:0.749884845693xh;center,top&resize=1200:*"
         },
@@ -742,7 +752,7 @@
           "description": "Hello Kitty–gate might be the news story I least expected this week.",
           "link": "https://www.esquire.com/news-politics/politics/a74287373/hello-kitty-japan-china-outrage/",
           "publishedOn": "2026-10-29T20:06:03.000Z",
-          "wordCount": 18555,
+          "wordCount": 18552,
           "title": "Turns Out, Even Children’s Toys Can Set Off International Outrage",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/43435eb5-d6cb-48af-9190-2e40b2f206a2.jpeg?crop=0.997840172786xw:1xh;center,top&resize=1200:*"
         },
@@ -752,7 +762,7 @@
           "description": "Of course they’re using ICE to do it.",
           "link": "https://www.esquire.com/news-politics/politics/a74282488/trump-administration-spies-ice-dhs-surveillance/",
           "publishedOn": "2026-10-29T13:11:41.000Z",
-          "wordCount": 19438,
+          "wordCount": 19435,
           "title": "The Trump Administration Is Spying on Americans at a Scale Not Seen Since the 1960s",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/baaaa3d7-badf-45b3-a404-87547b2b1d16.jpeg?crop=1xw:0.749605678233xh;center,top&resize=1200:*"
         },
@@ -762,7 +772,7 @@
           "description": "The president keeps trying and failing to legally ruin his enemies.",
           "link": "https://www.esquire.com/news-politics/politics/a74276884/dont-ask-trump-how-his-revenge-tour-is-going/",
           "publishedOn": "2026-10-28T21:21:21.000Z",
-          "wordCount": 19030,
+          "wordCount": 19027,
           "title": "Don’t Ask Trump How His Revenge Tour Is Going",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/97e3f44f-c4d9-4aac-9607-735529f33bd3.jpeg?crop=1xw:0.749839914621xh;center,top&resize=1200:*"
         },
@@ -802,7 +812,7 @@
           "description": "And he’s doing so while also helping grifters out of their legal troubles.",
           "link": "https://www.esquire.com/news-politics/politics/a74262623/trump-pardons-restitution-victims/",
           "publishedOn": "2026-10-27T17:11:53.000Z",
-          "wordCount": 19058,
+          "wordCount": 19055,
           "title": "Trump Is Still Finding Vile Ways to Screw Vulnerable Americans Out of What They’re Owed",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c2816ada-ff2a-46ca-babd-c9109e34d7c8.jpeg?crop=1xw:0.749905051272xh;center,top&resize=1200:*"
         },
@@ -812,7 +822,7 @@
           "description": "Whatever happened to separation of church and state?",
           "link": "https://www.esquire.com/news-politics/politics/a74262259/pete-hegseth-christian-nationalist-lackey/",
           "publishedOn": "2026-10-27T16:50:40.000Z",
-          "wordCount": 19219,
+          "wordCount": 19216,
           "title": "Pete Hegseth Hired a Christian Nationalist Lackey to Help Realize His Dream of an American Holy War",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/878a2ce2-575f-4420-aee2-d30f558961b3.jpeg?crop=1xw:0.74791086351xh;center,top&resize=1200:*"
         },
@@ -832,7 +842,7 @@
           "description": "The ruling claims the administration unlawfully fired federal prosecutor Maurene Comey, daughter of famous seashell-threatener James Comey.",
           "link": "https://www.esquire.com/news-politics/politics/a74253781/executive-power-ruling-maurene-comey/",
           "publishedOn": "2026-10-26T23:18:57.000Z",
-          "wordCount": 19224,
+          "wordCount": 19221,
           "title": "A Federal Judge Just Smacked Down Trump’s Hopes for a “Sweeping Theory” of Executive Power",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/ff4519d4-8347-4a9a-8be5-f9263b9bc0b3.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -842,7 +852,7 @@
           "description": "Obama jokingly compared Trump’s White House to the restaurant chain, then out came the fun police.",
           "link": "https://www.esquire.com/news-politics/politics/a74252019/cheesecake-factory-obama-reactions-right-wing/",
           "publishedOn": "2026-10-26T20:05:03.000Z",
-          "wordCount": 20202,
+          "wordCount": 19430,
           "title": "The Cheesecake Factory Isn’t the Symbol of Flyover America That Right-Wing Pundits Think It Is",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d391a86f-e39f-4688-8011-2099cc49cf4a.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -852,7 +862,7 @@
           "description": "Invasive insects are destroying America’s forests, and I don’t like what that means for our future.",
           "link": "https://www.esquire.com/news-politics/politics/a74249785/invasive-insects-forest-destruction-us/",
           "publishedOn": "2026-10-26T16:33:24.000Z",
-          "wordCount": 19611,
+          "wordCount": 19649,
           "title": "Kids Can’t Even Enjoy the Woods Anymore",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6c5dba9e-d917-439e-9064-d9d17a338a87.jpeg?crop=1xw:0.76726342711xh;center,top&resize=1200:*"
         },

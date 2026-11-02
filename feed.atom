@@ -2,18 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-11-01T21:43:02.644Z</updated>
+    <updated>2026-11-02T01:16:29.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Charles Choi: Announcing mdired, or adding a chainsaw to Dired]]></title>
+        <id>http://yummymelon.com/devnull/announcing-mdired.html</id>
+        <link href="http://yummymelon.com/devnull/announcing-mdired.html"/>
+        <updated>2026-11-01T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The ability to mark items in GNU Emacs Dired allows for bulk operations on both files and directories. With marking, onerous tasks can be turned into a trivial ones.
+While default Dired has many bulk operation commands, not everything is covered. That is the motivation for mdired, an Elisp package which extends Dired with some SIMD-style commands.
+Using these commands fall into two steps:
+Mark the items of interest in Dired.
+Run the mdired command.
+mdired supports the following four commands:
+mdired-copy: copy a single file to multiple directories.
+mdired-do-command: run an Elisp command or named keyboard macro on multiple files.
+mdired-compile: run compile on multiple directories.
+mdired-byte-recompile: byte-compile selected files or directories.
+Refer to the mdired User Guide for more details on usage.
+Closing Thoughts
+Bulk operation commands are chainsaws. Use them with caution. That said, they are great for improvised workflows:
+“Here’s this file that I want copied to a bunch of directories.”
+“I want to do the same edit operation on this set of files. I’ve got a named keyboard macro ready to go on them.”
+“I want to run the same make command on a bunch of directories.”
+As mdired is new, I’m open to feedback on it. Let me know what you think.
+mdired v1.0 is now available on MELPA.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Buccaneers Played Prehistoric Football And Won]]></title>
         <id>https://defector.com/?p=240429</id>
         <link href="https://defector.com/the-buccaneers-played-prehistoric-football-and-won"/>
         <updated>2026-11-01T21:41:43.000Z</updated>
-        <summary type="html"><![CDATA[It's wise to never expect too much from a clash between two NFC South teams. They tend to be a form of stultifying anti-entertainment, and so today's game between the Falcons and Buccaneers would normally be an easy skip. The NFC South has felt a little different this year, though, and not because any of its teams are playing particularly good football. What they have been doing is playing weird, entertaining football, and today the Bucs and Falcons played what might end up being the weirdest and most entertaining game of the season.
-A huge rainstorm rolled into Tampa, Fla. this morning, absolutely soaking the Bucs' field and creating the kind of conditions that would make any offensive coordinator squeamish about calling a passing play. Now imagine how much more stressful that scenario becomes when the quarterbacks at their disposal are Baker Mayfield and Michael Penix, Jr. Facing these conditions, the Buccaneers came up with a novel strategy: What if we just didn't throw a pass?
-Well, OK, they threw three passes, but none of them were completed. Mayfield's final stat line: 0-3 for 0 yards, 0 touchdowns, and 0 interceptions. Any football game that produces a quarterback box score like that is already a thing to behold, but this one was made truly special by the fact that the Bucs won the game, 16-0.   They did so by running the ball 56 times for 324 yards. Bucky Irving and Kenny Gainwell each got to live out every running back's fantasy: Irving finished with 170 yards and a touchdown on 27 carries, and Gainwell chipped in with 140 yards on 25 carries. The game's representative highlight was probably Mayfield fumbling a snap and scrambling for a few seconds before throwing a desperate backwards pass to Irving, who churned through the rain and mud before fumbling the ball right at the goal line.]]></summary>
+        <summary type="html"><![CDATA[It's wise to never expect too much from a clash between two NFC South teams. They tend to be a form of stultifying anti-entertainment, and so Sunday's game between the Atlanta Falcons and Tampa Bay Buccaneers would normally be an easy skip. The NFC South has felt a little different this year, though, and not because any of its teams are playing particularly good football. What they have been doing is playing weird, entertaining football, and today the Bucs and Falcons played what might end up being the weirdest and most entertaining game of the season.
+A huge rainstorm rolled into Tampa, Fla., this morning, absolutely soaking the Bucs' field and creating the kind of conditions that would make any offensive coordinator squeamish about calling a passing play. Now imagine how much more stressful that scenario becomes when the quarterbacks at their disposal are Baker Mayfield and Michael Penix Jr. Facing these conditions, the Buccaneers came up with a novel strategy: What if we just didn't throw a pass?
+Well, OK, they threw three passes, but none of them were completed. Mayfield's final stat line: 0-for-3 for zero yards, zero touchdowns, and zero interceptions. Any football game that produces a quarterback box score like that is already a thing to behold, but this one was made truly special by the fact that the Bucs won the game, 16-0. They did so by running the ball 56 times for 324 yards. Bucky Irving and Kenny Gainwell each got to live out every running back's fantasy: Irving finished with 170 yards and a touchdown on 27 carries, and Gainwell chipped in with 140 yards on 25 carries. The game's representative highlight was probably Mayfield fumbling a snap and scrambling for a few seconds before throwing a desperate backward pass to Irving, who churned through the rain and mud before fumbling the ball right at the goal line.]]></summary>
         <author>
             <name>Tom Ley</name>
         </author>
@@ -34,7 +61,7 @@ Well, OK, they threw three passes, but none of them were completed. Mayfield's f
         <link href="https://defector.com/pathetic-crybaby-haley-stevens-endorses-mike-rogers"/>
         <updated>2026-11-01T19:28:29.000Z</updated>
         <summary type="html"><![CDATA[If one thing's been made clear through the last decade or so of national politics, it's that there are John Fettermans hiding in plain sight throughout the Democratic Party. The latest member to don the Mantle Of The Oaf is Haley Stevens, who lost her primary race for a Senate seat to Abdul El-Sayed this summer. Now, a few days before the general election, she has endorsed El-Sayed's Republican opponent, Mike Rogers.
-Stevens appeared this morning at a church service in Detroit with Rogers. While entering the venue, she stopped to tell reporters that she's in favor of investing in black-owned businesses, adding, "that’s the policy that Mike’s going to take on." She then sat in the same row as Rogers during the service.
+Stevens appeared Sunday morning with Rogers at a church service in Detroit. While entering the venue, she stopped to tell reporters that she's in favor of investing in black-owned businesses, adding, "that’s the policy that Mike’s going to take on." She then sat in the same row as Rogers during the service.
 
 https://twitter.com/samueljrob/status/2116928933740298485]]></summary>
         <author>
@@ -46,8 +73,8 @@ https://twitter.com/samueljrob/status/2116928933740298485]]></summary>
         <id>https://defector.com/?p=240406</id>
         <link href="https://defector.com/gabby-williams-and-the-valks-are-golden"/>
         <updated>2026-11-01T18:43:08.000Z</updated>
-        <summary type="html"><![CDATA[SAN FRANCISCO — What now? Any ideas? The Golden State Valkyries trailed Atlanta by six at halftime, and every point in this series felt like a hundred. The Valks will tell you theirs is an “egoless” team, one on which no one is above a scramble for a loose ball or a box-out. Zero All-WNBA players. Zero MVPs. The concept of “MV” wouldn’t even sit right with them. That spirit carried them far in the regular season, kept them fresh for the postseason, and made them nimble enough to handle a mid-series shake-up to the starting lineup. So committed were they to this formula that even six games in, Finals MVP really was anyone’s for the taking. Only no one was taking it. If you have 10 stars on your team, you have none. 
-Basketball is a team sport, but even its team-iest sequences end in somethi…]]></summary>
+        <summary type="html"><![CDATA[SAN FRANCISCO — What now? Any ideas? The Golden State Valkyries trailed the Atlanta Dream by six at halftime, and every point in this series felt like a hundred. The Valks will tell you theirs is an “egoless” team, one on which no one is above a scramble for a loose ball or a box-out. Zero All-WNBA players. Zero MVPs. The concept of “MV” wouldn’t even sit right with them. That spirit carried them far in the regular season, kept them fresh for the postseason, and made them nimble enough to handle a mid-series shake-up to the starting lineup. So committed were they to this formula that even six games in, Finals MVP really was anyone’s for the taking. Only no one was taking it. If you have 10 stars on your team, you have none. 
+Basketball is a team sport, but even its team-iest sequences end …]]></summary>
         <author>
             <name>Maitreyi Anantharaman</name>
         </author>
@@ -58,7 +85,7 @@ Basketball is a team sport, but even its team-iest sequences end in somethi…]]
         <link href="https://defector.com/three-more-women-say-josh-jacobs-physically-abused-them"/>
         <updated>2026-11-01T15:24:27.000Z</updated>
         <summary type="html"><![CDATA[On Friday, the Hobart/Lawrence Police Department released a batch of records related to Packers running back Josh Jacobs's domestic violence arrest in May. The records reveal that while police were investigating the May incident, they were contacted by three other women who said Jacobs abused them in the past. 
-One document describes a phone conversation a police investigator had with a woman who said she felt compelled to contact police after learning about the details of Jacobs's May arrest. According to the report, this woman told the investigator that she was abused by Jacobs in 2023 after meeting him in his house. She told police that she went to Jacobs's house after meeting him on Instagram. The woman claims that when she arrived at the house, Jacobs questioned whether she had come to have sex with him. When she said that wasn't the reason she came to the house, she says he became angry and slapped her across the face. The woman also told police that Jacobs grabbed her by the hair, pinned her to the bed, threw her off the bed, spit on her, grabbed her by the throat, and said, "I should kill you right now."
+One document describes a phone conversation a police investigator had with a woman, who said she felt compelled to contact police after learning about the details of Jacobs's May arrest. According to the report, this woman told the investigator that she was abused by Jacobs in 2023 after meeting him in his house. She told police that she went to Jacobs's house after meeting him on Instagram. The woman claims that when she arrived at the house, Jacobs questioned whether she had come to have sex with him. When she said that wasn't the reason she came to the house, she says he became angry and slapped her across the face. The woman also told police that Jacobs grabbed her by the hair, pinned her to the bed, threw her off the bed, spit on her, grabbed her by the throat, and said, "I should kill you right now."
 The woman told the investigator that she did not contact the police at the time because she remained friends with Jacobs after the incident and was worried people wouldn't believe her.]]></summary>
         <author>
             <name>Tom Ley</name>
@@ -1055,6 +1082,16 @@ And as I grow, I’m learning to declare fewer absolutes in a complex, imperfect
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marcin Borkowski: Unicode punctuation in Emacs]]></title>
+        <id>https://mbork.pl/2026-10-26_Unicode_punctuation_in_Emacs</id>
+        <link href="https://mbork.pl/2026-10-26_Unicode_punctuation_in_Emacs"/>
+        <updated>2026-10-26T19:12:43.000Z</updated>
+        <summary type="html"><![CDATA[I have a rather complicated relationship with non-ASCII punctuation. On the one hand, I like to keep my files (for example Org mode files) clean of Unicode stuff – especially emojis – with the obvious exception of Polish diacritical characters (“ąćęłńóśźżĄĆĘŁŃÓŚŹŻ”, if you are curious). On the other hand, I am a big fan of long dashes (though I very much prefer en-dashes to em-dashes); I also like using “proper” quotation marks.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Monday, October 26, 2026]]></title>
         <id>https://baty.net/journal/26Oct26/</id>
         <link href="https://baty.net/journal/26Oct26/"/>
@@ -1495,23 +1532,6 @@ When I read Chua’s post, I thought, “maybe I should do that too” but then 
 I suppose, as Chua says, the day may come when ever encroaching old age, disease, or accident may make typing hard or impossible and I may be forced to consider dictation but until then, I’m happy to continue typing my text.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quxnet.net]]></title>
-        <id>https://baty.net/posts/2026/10/quxnet-net/</id>
-        <link href="https://baty.net/posts/2026/10/quxnet-net/"/>
-        <updated>2026-10-23T11:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Remember when I said that I was done signing up for every new service that comes along? Yeah, me too. But...
-Today I learned about quxnet via the always interesting Linkdump, from 82MHz, who linked to Quxnet Is a Breath of Fresh Air | moddedbear.com. Of course I created an account immediately  because how could I not? I mean, there's an SSH/TUI interface for it. Sold!
-
-Quxnet has everything. Boards, mail, photo galleries, links, blogs, an RSS reader, and more. It looks super-retro cool, which adds to the vibe. I don't know what I want out of it yet, but if it can remain "A private network with old internet manners." then I can see it becoming a fun new place to hang out.
-There are still fewer than 1,000 people there, so naturally things are cordial and sufficiently nerdy and polite. I hope it stays polite, but I worry that with popularity comes conflicting views from people who "We" don't agree with, and once the finger-pointing starts, things tend to go south. I hope it doesn't happen that way.
-But for now it's clever, fun, nerdy, and new, so I'm in. https://quxnet.net/u/jbaty.
-
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
         </author>
     </entry>
 </feed>
