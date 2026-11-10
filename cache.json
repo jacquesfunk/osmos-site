@@ -53,6 +53,16 @@
       "siteUrl": "https://planet.emacslife.com/",
       "articles": [
         {
+          "id": "https://xenodium.com/journelly-1-5-released",
+          "author": null,
+          "description": "What is Journelly?\nJournelly feels like tweeting, but for your eyes only.\nA different take on note-taking or journaling for iOS, powered by plain text (Markdown + Org).\nSave cooking recipes, movies, music, restaurants, coffee shops…\nJot down your thoughts.\nSave your favorite quotes.\nUse it as a journal, memo book, or notes.\nWrite your shopping lists.\nDocument your travels.\nLots more…\nIf you're an Emacs user, Journelly complements your Org journal file on the go.\nCheck out journelly.com for details.\n\n  \n\n  \nWhat's new?\nJournelly v1.5's biggest gain is performance. It should bring you an overall snappier experience, especially on larger journals. This release also brings new search features.\nFaster with large journals\nA user reported migrating about ten years of journaling from Day One into …",
+          "link": "https://xenodium.com/journelly-1-5-released",
+          "publishedOn": "2026-11-10T00:00:00.000Z",
+          "wordCount": 855,
+          "title": "Alvaro Ramirez: Journelly 1.5 released: faster all around",
+          "imageUrl": "https://xenodium.com/share.png"
+        },
+        {
           "id": "https://curtismchale.ca/2026/11/09/discovering-emacs-features-november-emacs-carnival",
           "author": null,
           "description": "The Emacs Carnival topic for November is: Discovery of Emacs Features.\nHow I Discover Features\nMy biggest new feature discovery method is Emacs News. Normally I'll clear every other item out of my RSS feeds and then dedicate a single reading session to reading Emacs News because I open up so many links to read that it needs its own dedicated session.\nBeing fairly new in my Emacs journey I find new interesting features all the time, my biggest issue is the time to add them to me workflows. I've been in Emacs long enough now that I dream of being able to move most of my work into it. I open Obsidian to write and wonder why I'm not writing in Emacs. I have Kitty open and wonder why I don't just use Emacs?\nThere is so much to learn in Emacs, and so many things  it could replace I'm sort of stuck wondering where to even start.\nThe newest feature I'm trying to wrap my head around is workspaces. I'd like to retire Kitty and Zellij to focus on Emacs, but navigation in Zellij is so ingrained in my muscle memory I need to find some way to make it that seamless in Emacs, and I haven't quite found it yet.",
@@ -401,26 +411,6 @@
           "wordCount": 1415,
           "title": "Nicolas Cavigneaux: Emacs Everywhere on macOS with Shortcuts",
           "imageUrl": "https://www.bounga.org/assets/images/headers/emacs.jpg"
-        },
-        {
-          "id": "https://irreal.org/blog/?p=14188",
-          "author": null,
-          "description": "marking the active window (update here ) so that it’s easy to pick it out from the other, inactive windows. I did that by making the mode line of the active window a distinct color instead of the slightly different shade of gray from the other windows. That’s worked out really well for me and I’ve never looked back.\n\n\nNow Ray Zeitler over at Ray on Emacs takes another look at the problem and found a really nice solution. It’s a bit more in your face than mine so if you’re looking for something that makes the active window really stand out, you should take a look at his post. The TL;DR is that instead of changing the active window, he changes the background color of all the other windows.\n\n\nZeitler found his solution on a 10 year old Stack Exchange post so it’s pretty certain to work no matter what version of Emacs you’re using. The code is very simple and you can simply copy it to your init.el if you’re interested.\n\n\nAs I said, this solution seems a little aggressive to me so I doubt I’ll be implementing it but others may disagree. One thing for sure, it’s going to make your active window stand out. It’s a small enough change that you can try it out—say by copying it to your scratch buffer and executing it—to see if it’s something you’d like.",
-          "link": "https://irreal.org/blog/?p=14188",
-          "publishedOn": "2026-10-31T14:42:26.000Z",
-          "wordCount": 1433,
-          "title": "Irreal: Highlighting The Active Window",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sachachua.com/blog/2026/10/emacs-news/",
-          "author": null,
-          "description": "emacs.news to get to Emacs News.\nThat should save some clicking/typing.\nIt redirects to my blog category at the moment, so the URL doesn't show emacs.news after you get there, but I've added it to the note at the top of that category page to help people find out about the shortcut.\n\n\n\nThanks to @xenodium for the nudge!\n\nView Org source for this post\nYou can e-mail me at sacha@sachachua.com.",
-          "link": "https://sachachua.com/blog/2026/10/emacs-news/",
-          "publishedOn": "2026-10-31T13:46:49.000Z",
-          "wordCount": 221,
-          "title": "Sacha Chua: emacs.news",
-          "imageUrl": null
         }
       ]
     },
@@ -465,7 +455,7 @@
           "description": "Things have to be really bad for the New England Patriots if even Christian Gonzalez is dropping a stinker. The All-Pro cornerback has been one of the most consistent players on a Pats team that has struggled to find consistency at other positions, but Sunday against the Green Bay Packers, Gonzalez was just like many of his teammates: overwhelmed and outmatched in a 45-27 loss that was functionally over by the third quarter.\nThis was the worst performance of Gonzalez's pro career since he entered the NFL in 2023. Against Green Bay's receiving duo of Matthew Golden and Christian Watson, the league's highest-paid cornerback was helpless, consistently getting beat on deep routes and losing one or both in coverage for touchdowns. According to Next Gen Stats, Gonzalez gave up a total of 10 catches for 187 receiving yards on Sunday, the most of his career and the third-most of any player this season. He had given up a total of 196 receiving yards across his first six games. On Green Bay's second TD of the day, Gonzalez and teammate Marcus Jones both covered Watson as he ran to the corner, leaving Golden wide open. Late in the third quarter, Gonzalez over-leveraged toward the outside against Watson, who just ran a skinny post and essentially walked into the end zone to make the score 40-14.\n\"I mean, they just got the best of me today,” Gonzalez said after the loss. “I mean, this is pro football. They got good receivers like every team. So, they got the best of me today. Move on from it and be ready for next week.” His head coach Mike Vrabel was a little more pointed in his postgame comments: \"When your best players don’t play good, you don’t have much of a chance in this league. So, we expect a lot more. He expects a lot more. We need more from him and everybody else.\"",
           "link": "https://defector.com/patriots-emit-foul-odor-in-blowout-loss-to-packers",
           "publishedOn": "2026-11-09T18:06:58.000Z",
-          "wordCount": 5951,
+          "wordCount": 5911,
           "title": "Patriots Emit Foul Odor In Blowout Loss To Packers",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2304203277.jpg"
         },
@@ -475,7 +465,7 @@
           "description": "Take no shortcuts when you solve our Monday crossword. This week's puzzle was constructed by Oren Herschander, and edited by Hoang-Kim Vu. Oren is a research-based artist and the creative director of the Lillian V. Mountweazel Research Collection. His puzzles regularly appear in Paper Airplane magazine and his favorite bridge is the Outerbridge Crossing. See more of his work at Oddlyoren.com. \nDefector crosswords, launched in partnership with our friends at AVCX, run every Monday. If you’re interested in submitting a puzzle to us, you can read our guidelines HERE.",
           "link": "https://defector.com/the-crossword-nov-9-playing-to-type",
           "publishedOn": "2026-11-09T16:02:34.000Z",
-          "wordCount": 3779,
+          "wordCount": 3874,
           "title": "The Crossword, Nov. 9: Playing To Type",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2301402494.jpg"
         },
@@ -485,7 +475,7 @@
           "description": "Sunday night's Bucs-Bears game possessed the major ingredients necessary for a Chicago fan freakout. Franchise quarterback Caleb Williams looked lost for much of the action, throwing four interceptions and stalling on three second-half three-and-outs. The team as a whole, meanwhile, surrendered a first-half 17-3 lead, allowing the game-tying touchdown following a fumble in the final stages of the fourth quarter. But the concerns one would have about the Bears' offense feel relatively minor today, because despite all their errors, a buzzer-beating Cairo Santos field goal and a stout defensive performance allowed Chicago to notch their fourth straight win, 27-24, improving to 7-2 as they fight for first place in the NFL's toughest division.\nThe first nine minutes at Soldier Field were a party. The Buccaneers, entering the game as clear underdogs but coming off their two best outings of the season, got steamrolled, allowing a pair of Williams TD passes while mustering just six yards of their own. From that point on, however, everything became a struggle. Williams chucked a pick near the end zone to conclude a drive, then tossed another on his very next chance when he tried and failed to loft the ball out of bounds to avoid a sack. Before halftime arrived, he'd gift a third pass to the defense, making a silly decision to just huck the ball forward under pressure. Watching from afar, it felt like Williams's early success had put him in a consequence-free mindset on the field, and in his postgame it did very much sound like confidence was the culprit.\n\"I'm going to throw until I can't throw anymore,\" Williams said. \"That's how I live. I work my tail off to be in this position. I'll never not throw the ball. I could throw 100 picks in one game. ... That's how I grew up. That's who I am. I don't get gun-shy.\"",
           "link": "https://defector.com/the-bears-beat-the-bucs-with-one-hand-tied-behind-their-backs",
           "publishedOn": "2026-11-09T15:55:11.000Z",
-          "wordCount": 5210,
+          "wordCount": 5305,
           "title": "The Bears Beat The Bucs With One Hand Tied Behind Their Backs",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2304203677_9ea7c1-e1794236427336.jpg"
         },
@@ -495,7 +485,7 @@
           "description": "One imagines Philip Rivers in his fortress of solitude, away from his platoon of children and contemplating what to do with his winter now that his St. Michael Catholic High School team has been knocked out of the Alabama high school playoffs. Then it hit him: Well, if the Chargers won't ask me to replace Justin Herbert before he gets killed, maybe I'll just go coach North Carolina State.\nOf course, it didn't happen that way, because the former quarterback's name has been the one most linked with the Raleigh job since Dave Doeren got tagged and bagged in late October. The possibility of him stepping into the gig was the principal discussion point in Rivers's postgame presser after St. Michael lost to Glenwood School on Friday night. It had been considered the faitest of accompli for weeks, in fact, and Rivers had already been elevated to First Candidate In Training when his son Gunner (of course that is his name), who had been Rivers's quarterback at St. Mike's, committed to NC State.\nThe presumption here is that Rivers's prosciutto-thin coaching résumé—in mentioning his six seasons at St. Mike, we have covered all of it—has been trumped by his ability to pry open donor pockets and make the Wolfpack relevant again in the bloated ACC. And when we say \"again,\" we mean \"as a big spender in a landscape where 'big' is $40 million a year rather than $20 million.\" Doeren made a point of describing the limitations that such a barebones budget played on the school's chances of being noticed, and the school responded with a simple, You're absolutely right about that, Dave-O. Now get out.",
           "link": "https://defector.com/why-wouldnt-nc-state-hire-philip-rivers",
           "publishedOn": "2026-11-09T15:05:50.000Z",
-          "wordCount": 5729,
+          "wordCount": 5758,
           "title": "Why Wouldn’t NC State Hire Philip Rivers?",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-1190111551.jpg"
         },
@@ -655,11 +645,21 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
+          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
+          "author": null,
+          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
+          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
+          "publishedOn": "2026-11-10T06:40:55.715Z",
+          "wordCount": 177,
+          "title": "California is on fire and these people are profiting off it",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
           "author": null,
           "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
           "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-11-09T23:57:42.673Z",
+          "publishedOn": "2026-11-10T06:40:55.713Z",
           "wordCount": 177,
           "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
           "imageUrl": null
@@ -669,49 +669,9 @@
           "author": null,
           "description": "Veteran couch potatoes know that Apple TV is currently the best streaming service. Netflix is a year away from casting Tilly Norwood in every series. HBO Max is still being run by a slash-and-burn expert whose sense of the zeitgeist is stuck somewhere around 1990. And Paramount+ is populated almost exclusively by 44-minute pickup ads. I can’t count on any of the aforementioned streamers to actually care about my needs as an educated viewer. Apple TV, for whatever reason, does. \n\nIt knows that I want a disheveled Gary Oldman dishing out vicious burns to all of the young’uns forced to work for him. It gives “Severance” creator Dan Erickson as long of a hiatus as he needs — and it’s always a long one — to make every season of his show unbearably suspenseful from wire to wire. And Apple knows …",
           "link": "https://www.sfgate.com/sf-culture/article/lucky-tv-review-22367441.php",
-          "publishedOn": "2026-11-09T23:57:42.671Z",
+          "publishedOn": "2026-11-10T06:40:55.710Z",
           "wordCount": 177,
           "title": "The new Anya Taylor-Joy vehicle is so stupid and so good",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
-          "author": null,
-          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
-          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-11-09T23:57:42.669Z",
-          "wordCount": 177,
-          "title": "California is on fire and these people are profiting off it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-11-09T23:57:42.668Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
-          "author": null,
-          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
-          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-11-09T23:57:42.662Z",
-          "wordCount": 177,
-          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full",
-          "author": null,
-          "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
-          "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
-          "publishedOn": "2026-11-09T23:57:42.658Z",
-          "wordCount": 177,
-          "title": "Everybody hates Pat McAfee",
           "imageUrl": null
         },
         {
@@ -719,59 +679,19 @@
           "author": null,
           "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
           "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-11-09T23:57:42.655Z",
+          "publishedOn": "2026-11-10T06:40:55.705Z",
           "wordCount": 177,
           "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/food/article/californios-review-22484061.php-full",
+          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
           "author": null,
-          "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
-          "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-11-09T23:57:42.653Z",
+          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
+          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
+          "publishedOn": "2026-11-10T06:40:55.704Z",
           "wordCount": 177,
-          "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
-          "author": null,
-          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
-          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-11-09T23:57:42.652Z",
-          "wordCount": 177,
-          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
-          "author": null,
-          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
-          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
-          "publishedOn": "2026-11-09T23:57:42.651Z",
-          "wordCount": 177,
-          "title": "I've got some demands for our new woke overlords",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
-          "author": null,
-          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
-          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-11-09T23:57:42.648Z",
-          "wordCount": 177,
-          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
-          "author": null,
-          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
-          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-11-09T23:57:42.647Z",
-          "wordCount": 177,
-          "title": "San Francisco's best hotel cannot be killed",
+          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
         },
         {
@@ -779,19 +699,19 @@
           "author": null,
           "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
           "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-11-09T23:57:42.639Z",
+          "publishedOn": "2026-11-10T06:40:55.691Z",
           "wordCount": 177,
           "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
           "author": null,
-          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
-          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-11-09T23:57:42.635Z",
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-11-10T06:40:55.679Z",
           "wordCount": 177,
-          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -799,9 +719,79 @@
           "author": null,
           "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
           "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-11-09T23:57:42.634Z",
+          "publishedOn": "2026-11-10T06:40:55.662Z",
           "wordCount": 177,
           "title": "I found one of America's best croissants in San Francisco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
+          "author": null,
+          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
+          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
+          "publishedOn": "2026-11-10T06:40:55.657Z",
+          "wordCount": 177,
+          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "author": null,
+          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
+          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
+          "publishedOn": "2026-11-10T06:40:55.634Z",
+          "wordCount": 177,
+          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
+          "author": null,
+          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
+          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
+          "publishedOn": "2026-11-10T06:40:55.614Z",
+          "wordCount": 177,
+          "title": "San Francisco's best hotel cannot be killed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
+          "author": null,
+          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
+          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
+          "publishedOn": "2026-11-10T06:40:55.603Z",
+          "wordCount": 177,
+          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/californios-review-22484061.php-full",
+          "author": null,
+          "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
+          "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
+          "publishedOn": "2026-11-10T06:40:55.602Z",
+          "wordCount": 177,
+          "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full",
+          "author": null,
+          "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
+          "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
+          "publishedOn": "2026-11-10T06:40:55.590Z",
+          "wordCount": 177,
+          "title": "Everybody hates Pat McAfee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
+          "author": null,
+          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
+          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
+          "publishedOn": "2026-11-10T06:40:55.566Z",
+          "wordCount": 177,
+          "title": "I've got some demands for our new woke overlords",
           "imageUrl": null
         }
       ]
@@ -817,7 +807,7 @@
           "description": "Let’s worry about the septuagenarians and octogenarians later. For now, let’s grab some popcorn and watch them get to work.",
           "link": "https://www.esquire.com/news-politics/politics/a74380550/democrats-possible-senate-committee-chairs/",
           "publishedOn": "2026-11-09T23:17:08.000Z",
-          "wordCount": 17808,
+          "wordCount": 18058,
           "title": "The List of Possible Democratic Senate Committee Chairs Looks a Bit, Well, Old",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/a1c8579a-01c0-410b-87f9-866e5e70db82.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -827,7 +817,7 @@
           "description": "With a little more money and effort, the Democrats could have shut the charisma-proof Florida governor up for good.",
           "link": "https://www.esquire.com/news-politics/politics/a74378132/ron-desantis-florida-blue-tsunami-midterm-elections/",
           "publishedOn": "2026-11-09T18:45:17.000Z",
-          "wordCount": 19260,
+          "wordCount": 19493,
           "title": "Ron DeSantis Suddenly Thinks He’s a Big Shot Because Florida Republicans Barely Survived the Blue Tsunami",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1a328c05-c740-42ac-b59a-00cd6b2b475b.jpeg?crop=1xw:0.749925528746xh;center,top&resize=1200:*"
         },
@@ -837,7 +827,7 @@
           "description": "Then, of course, the president does something to remind us who he really is.",
           "link": "https://www.esquire.com/news-politics/politics/a74377222/trump-60-minutes-interview-post-midterms/",
           "publishedOn": "2026-11-09T17:09:43.000Z",
-          "wordCount": 19852,
+          "wordCount": 19893,
           "title": "Wow, Trump Actually Comes Within Shouting Distance of Empathy During His <i><em>60 Minutes </em></i>Interview",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/1b3be15d-7e0b-4042-a014-9fe7b144c059.jpeg?crop=1xw:0.749910522548xh;center,top&resize=1200:*"
         },
@@ -887,7 +877,7 @@
           "description": "Nathan Johnson has promised to investigate SpaceX, and I can’t wait to see what he finds.",
           "link": "https://www.esquire.com/news-politics/politics/a74349708/texas-attorney-general-elect-nathan-johnson-elon-musk/",
           "publishedOn": "2026-11-05T21:51:05.000Z",
-          "wordCount": 21100,
+          "wordCount": 21110,
           "title": "Meet Texas’s Newly Elected Attorney General, Who Wants to Put a Stop to Elon Musk’s Greedy Billionaire Hijinks",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3eed2b05-3126-4bbe-937c-5c4b177329a3.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -897,7 +887,7 @@
           "description": "The head of the DOJ’s civil-rights division resigned Thursday. But not to worry. I suspect we’ll see her again—in a congressional hearing room.",
           "link": "https://www.esquire.com/news-politics/politics/a74348917/good-riddance-harmeet-dhillon-you-wont-be-missed/",
           "publishedOn": "2026-11-05T20:32:42.000Z",
-          "wordCount": 18844,
+          "wordCount": 18841,
           "title": "Good Riddance, Harmeet Dhillon. You Won’t Be Missed.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5b4412a4-628c-453e-a6ef-c7f84a5494a6.jpeg?crop=1xw:0.750469043152xh;center,top&resize=1200:*"
         },
@@ -917,7 +907,7 @@
           "description": "It only took a historic loss to wake these yahoos up.",
           "link": "https://www.esquire.com/news-politics/politics/a74338234/jd-vance-republicans-trump-disappointment-midterms/",
           "publishedOn": "2026-11-04T22:37:16.000Z",
-          "wordCount": 19977,
+          "wordCount": 19974,
           "title": "The GOP Is Already Counting Down the Days Until Trump Is Gone",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e3131927-07ab-4505-ad16-baa0d2a1bf0d.jpeg?crop=1xw:0.750556792873xh;center,top&resize=1200:*"
         },
@@ -927,7 +917,7 @@
           "description": "James Talarico of Texas and Adam Hamilton of Kansas have proven that faith isn’t just a Republican value.",
           "link": "https://www.esquire.com/news-politics/politics/a74337309/democratic-party-christianity-talarico-hamilton/",
           "publishedOn": "2026-11-04T22:31:17.000Z",
-          "wordCount": 19824,
+          "wordCount": 19821,
           "title": "The Democratic Party Has Rediscovered the Power of Christianity. The GOP Should Be Worried.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9e0a1c3f-dc01-408a-9a1e-374edbd17472.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -987,7 +977,7 @@
           "description": "Why is it that everyone who’s ever come in close personal contact with Donald Trump turns out to be a shady grifter?",
           "link": "https://www.esquire.com/news-politics/politics/a74314986/alina-habba-money-trump/",
           "publishedOn": "2026-11-02T21:17:07.000Z",
-          "wordCount": 20218,
+          "wordCount": 20215,
           "title": "Just When I Thought We Were Done with Alina Habba, She’s Back in the News for a Doozy of a Reason",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0baad009-ee12-41e4-bb47-d05fa13d0026.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
