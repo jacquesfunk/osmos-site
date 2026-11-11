@@ -2,30 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-11-11T04:46:51.358Z</updated>
+    <updated>2026-11-11T13:35:25.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-11-11T04:46:51.339Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
+        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
+        <updated>2026-11-11T13:35:25.653Z</updated>
+        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
 
-That’s when Anthony Bourdain wo…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-11-11T04:46:51.336Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
-
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+On the surface, he makes for an attractive candidate. Hilto…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -34,7 +22,7 @@ The first shot fired in this looming war happened at a seemingly innocuous Cow H
         <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
         <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-11-11T04:46:51.320Z</updated>
+        <updated>2026-11-11T13:35:25.641Z</updated>
         <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
 
 To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
@@ -43,22 +31,10 @@ To wit: Newmark no longer works with Craigslist at all, and spends the bulk of h
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
-        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
-        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-11-11T04:46:51.315Z</updated>
-        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
-
-Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
         <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-11-11T04:46:51.313Z</updated>
+        <updated>2026-11-11T13:35:25.610Z</updated>
         <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
 
 Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
@@ -76,11 +52,87 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
+        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
+        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
+        <updated>2026-11-11T13:35:25.605Z</updated>
+        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
+
+The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
+        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
+        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
+        <updated>2026-11-11T13:35:25.585Z</updated>
+        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
+
+Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
+        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
+        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
+        <updated>2026-11-11T13:35:25.580Z</updated>
+        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
+
+Actually,…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
+        <updated>2026-11-11T13:35:25.573Z</updated>
+        <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
+
+Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
+
+This movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
         <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
         <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-11-11T04:46:51.298Z</updated>
+        <updated>2026-11-11T13:35:25.572Z</updated>
         <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've got some demands for our new woke overlords]]></title>
+        <id>https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php"/>
+        <updated>2026-11-11T13:35:25.570Z</updated>
+        <summary type="html"><![CDATA[Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.
+
+Can you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!
+
+Now, what happened Tuesday night doesn’t au…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
+        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
+        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
+        <updated>2026-11-11T13:35:25.568Z</updated>
+        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+
+That’s when Anthony Bourdain wo…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -89,7 +141,7 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
         <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
         <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-11-11T04:46:51.297Z</updated>
+        <updated>2026-11-11T13:35:25.566Z</updated>
         <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
 
 Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
@@ -103,7 +155,7 @@ The croissant in question is dubbed “brown butter cornmeal twice-baked,” and
         <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
         <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
         <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
-        <updated>2026-11-11T04:46:51.287Z</updated>
+        <updated>2026-11-11T13:35:25.558Z</updated>
         <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
 
 This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
@@ -117,7 +169,7 @@ I have stayed at many hotels in San Francisco, but all of them were hotel hotels
         <title type="html"><![CDATA[The 'best Mexican restaurant in the world' is in SF. It only cost me $500.]]></title>
         <id>https://www.sfgate.com/food/article/californios-review-22484061.php-full</id>
         <link href="https://www.sfgate.com/food/article/californios-review-22484061.php"/>
-        <updated>2026-11-11T04:46:51.278Z</updated>
+        <updated>2026-11-11T13:35:25.541Z</updated>
         <summary type="html"><![CDATA[There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. 
 
 You already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…]]></summary>
@@ -126,39 +178,13 @@ You already know this kind of restaurant simply from the price point (which rose
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
-        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
-        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-11-11T04:46:51.276Z</updated>
-        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
+        <title type="html"><![CDATA[It turns out Jensen Huang is just as awful as the other tech overlords]]></title>
+        <id>https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full</id>
+        <link href="https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php"/>
+        <updated>2026-11-11T13:35:25.536Z</updated>
+        <summary type="html"><![CDATA[A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?
 
-Actually,…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
-        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
-        <updated>2026-11-11T04:46:51.266Z</updated>
-        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
-
-On the surface, he makes for an attractive candidate. Hilto…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
-        <updated>2026-11-11T04:46:51.263Z</updated>
-        <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
-
-Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
-
-This movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…]]></summary>
+Reader, fear not. I am a licensed journaltician, and I have a penis o…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -167,7 +193,7 @@ This movie arrives in theaters with plenty of deserved Oscar buzz. But in this c
         <title type="html"><![CDATA[Everybody hates Pat McAfee]]></title>
         <id>https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full</id>
         <link href="https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php"/>
-        <updated>2026-11-11T04:46:51.250Z</updated>
+        <updated>2026-11-11T13:35:25.530Z</updated>
         <summary type="html"><![CDATA[There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:
 
 That’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.
@@ -183,29 +209,30 @@ And I’m hardly alone. The clip you see up above is McAfee’s response to the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It turns out Jensen Huang is just as awful as the other tech overlords]]></title>
-        <id>https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full</id>
-        <link href="https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php"/>
-        <updated>2026-11-11T04:46:51.243Z</updated>
-        <summary type="html"><![CDATA[A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?
-
-Reader, fear not. I am a licensed journaltician, and I have a penis o…]]></summary>
+        <title type="html"><![CDATA[Across the Horizon Ep. 74: Jeffrey Silverstein]]></title>
+        <id>https://www.flowstate.fm/p/across-the-horizon-ep-74-jeffrey</id>
+        <link href="https://www.flowstate.fm/p/across-the-horizon-ep-74-jeffrey"/>
+        <updated>2026-11-11T08:02:45.000Z</updated>
+        <summary type="html"><![CDATA[On today’s episode of Across the Horizon, host Bob Holmes of the band SUSS is joined by one of the leading practitioners of a style of music that might best be called "cosmic country”: the Portland, Oregon-based artist Jeffrey Silverstein.]]></summary>
         <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
+            <name>Flow State</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I've got some demands for our new woke overlords]]></title>
-        <id>https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php"/>
-        <updated>2026-11-11T04:46:51.241Z</updated>
-        <summary type="html"><![CDATA[Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.
-
-Can you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!
-
-Now, what happened Tuesday night doesn’t au…]]></summary>
+        <title type="html"><![CDATA[Protesilaos: Emacs live ‘pub trivia’ package from scratch today 2026-11-11 at 14:00 Europe/Athens]]></title>
+        <id>https://protesilaos.com/codelog/2026-11-11-emacs-pub-trivia-package-scratch/</id>
+        <link href="https://protesilaos.com/codelog/2026-11-11-emacs-pub-trivia-package-scratch/"/>
+        <updated>2026-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Raw link: https://www.youtube.com/watch?v=BnFimCnnTzU
+[ The stream will be recorded. You can watch it later. ]
+Today I will develop a new package for Emacs. The idea is to have a
+quiz in a buffer and let the other pick their answer among predefined
+options. I expect this to take me more than three hours, but we will
+see.
+As usual, I will keep the chat open and shall answer all questions.
+making a donation.]]></summary>
         <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
+            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -508,16 +535,6 @@ During the 2025 NBA Draft, these two teams kicked off the first phase of this sa
         <summary type="html"><![CDATA[With a little more money and effort, the Democrats could have shut the charisma-proof Florida governor up for good.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marcin Borkowski: A tip on removing functions from hooks interactively]]></title>
-        <id>https://mbork.pl/2026-11-09_A_tip_on_removing_functions_from_hooks_interactively</id>
-        <link href="https://mbork.pl/2026-11-09_A_tip_on_removing_functions_from_hooks_interactively"/>
-        <updated>2026-11-09T18:41:00.000Z</updated>
-        <summary type="html"><![CDATA[When I customize my Emacs, I often utilize hooks. However, when experimenting, I often inadvertently add the wrong thing to a hook – a function I later decide to rename or even a lambda. I have always painstakingly written the correct remove-hook invocation to do it. A few days ago it occurred to me that it would be nice to write an interactive wrapper around remove-hook to make it easier. As usual in such cases, I started with a bit of research to see if someone did something similar already. To my surprise, not only is this a solved problem, but it’s solved in Emacs itself! Apparently, almost six years ago remove-hook was made into a command and you can just M-x it, provide the hook variable name and use autocompletion to decide what to remove from it (including lambdas!). How cool is that?]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -1543,98 +1560,6 @@ Emacs Berlin: In-Person-Only Emacs-Berlin Stammtisch https://emacs-berlin.org/ T
         <summary type="html"><![CDATA[The 1980s produced an incredible number of pop-rock songs that managed to be commercially successful, musically distinctive, and permanently attached]]></summary>
         <author>
             <name>Schill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Randy Ridenour: Emacs Literate Calc Mode]]></title>
-        <id>https://randyridenour.net/posts/2026-11-01-emacs-literate-calc-mode.html</id>
-        <link href="https://randyridenour.net/posts/2026-11-01-emacs-literate-calc-mode.html"/>
-        <updated>2026-11-01T22:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Soulver on the Mac.
-
-
-
-I recently stumbled on Literate Calc Mode by Robin1 that does everything I was using Soulver for, and I now have one more reason to not leave Emacs. It’s in Melpa, so installing it is simple. Once required, it provides both literate-calc-mode and literate-calc-minor-mode. I find the minor mode particularly useful for Org mode scratch buffers. For example, I used it recently to sketch out some details for a conference funding request. In an Org buffer, I entered:
-
-
-
-Expenses for February 2027 Baylor Trip
-
-Hotel = 500
-Parking = 10
-Registration = 295
-Mileage = 300
-Meals = 200
-
-Total = Hotel + Parking + Registration + Mileage + Meals
-
-M-x literate-calc-minor-mode instantly changed it to this:
-
-
-
-Expenses for February 2027 Baylor Trip
-
-Hotel = 500 => Hotel: 500
-Parking = 10 => Parking: 10
-Registration = 295 => Registration: 295
-Mileage = 300 => Mileage: 300
-Meals = 200 => Meals: 200
-
-Total = Hotel + Parking + Registration + Mileage + Meals => Total: 1,305
-
-=> is not editable and displayed in a lighter shade. Changing one of the variable values results in an instant update of the total. It uses Calc, so it is able to do almost anything that Calc can do. So far, I’ve used it to plan travel expenses and to build material lists for woodworking projects. It works flawlessly and I’ve found it surprisingly useful to have a scratchpad that can automatically do the math.
-
-
-
-
-Tagged:  Emacs
-
-
-
-
-Footnotes
-1 
-
-I couldn’t find a last name on the site.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charles Choi: Announcing mdired, or adding a chainsaw to Dired]]></title>
-        <id>http://yummymelon.com/devnull/announcing-mdired.html</id>
-        <link href="http://yummymelon.com/devnull/announcing-mdired.html"/>
-        <updated>2026-11-01T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The ability to mark items in GNU Emacs Dired allows for bulk operations on both files and directories. With marking, onerous tasks can be turned into a trivial ones.
-While default Dired has many bulk operation commands, not everything is covered. That is the motivation for mdired, an Elisp package which extends Dired with some SIMD-style commands.
-Using these commands fall into two steps:
-Mark the items of interest in Dired.
-Run the mdired command.
-mdired supports the following four commands:
-mdired-copy: copy a single file to multiple directories.
-mdired-do-command: run an Elisp command or named keyboard macro on multiple files.
-mdired-compile: run compile on multiple directories.
-mdired-byte-recompile: byte-compile selected files or directories.
-Refer to the mdired User Guide for more details on usage.
-Closing Thoughts
-Bulk operation commands are chainsaws. Use them with caution. That said, they are great for improvised workflows:
-“Here’s this file that I want copied to a bunch of directories.”
-“I want to do the same edit operation on this set of files. I’ve got a named keyboard macro ready to go on them.”
-“I want to run the same make command on a bunch of directories.”
-As mdired is new, I’m open to feedback on it. Let me know what you think.
-mdired v1.0 is now available on MELPA.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gobench: a tool for comparing Go benchmark runs across branches]]></title>
-        <id>https://alexwlchan.net/2026/gobench/</id>
-        <link href="https://alexwlchan.net/2026/gobench/"/>
-        <updated>2026-11-01T19:38:34.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a tool that makes it quick and easy to measure the performance impact of a proposed change.]]></summary>
-        <author>
-            <name>alexwlchan</name>
         </author>
     </entry>
 </feed>
