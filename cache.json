@@ -48,7 +48,7 @@
           "description": "[request] flags:--- replies:0",
           "link": "https://list.orgmode.org/87h5hkl610.fsf@posteo.com",
           "publishedOn": "2026-11-13T22:29:16.000Z",
-          "wordCount": 468,
+          "wordCount": 472,
           "title": "Org Mode requests: [FR] Fontify leading whitespace in multi-line links in a list better",
           "imageUrl": null
         },
@@ -128,7 +128,7 @@
           "description": "making his excellent book Let over Lambda available on line and as a PDF. I’ve written about the book several times most importantly here and here but you can search Irreal for “let over lambda” for the the others.\n\n\nI can’t overemphasize the effect this book had on me. I learned a lot about Lisp and even programming from it. Some people complained that they didn’t like his approach to structuring his Lisp but I never had a problem with it.\n\n\nThe book is about Lisp Macros and the tremendous powers they provide. As an example, Hoyte gives a macro implementation of the Scheme named let construct. There are a lot more things like that in the book.\n\n\nLet Over Lambda is about Common Lisp but a large portion of it applies to Elisp too. If you’d like to become really good at Elisp, Let Over Lambda is a good resource. As I said, it’s mostly about Common Lisp but a surprising amount carries over to Elisp.\n\n\nIn any event, you can check out the book for free and if you like what you see, you can read the entire book. It is, believe me, well worth your while.",
           "link": "https://irreal.org/blog/?p=14214",
           "publishedOn": "2026-11-12T15:27:40.000Z",
-          "wordCount": 1417,
+          "wordCount": 1419,
           "title": "Irreal: Let Over Lambda Is Free To Read",
           "imageUrl": null
         },
@@ -158,7 +158,7 @@
           "description": "the release of Journelly 1.5. It’s the formal release of the beta version that I recently wrote about. I can’t say enough about this release. As I’ve said before, my Journelly database is over 4 thousand entries long and before this release Journelly was getting laggy and hard to use but this release resolved all those problems. Now Journelly is as snappy as it was when I had only a few entries and everything about it seems faster and easier.\n\n\nBut wait. There’s more. Ramírez has added an “on this day” feature as well as adding features that make searching for entries by date easier.\n\n\nIf you use Journelly as a journal, you may be interested in the new “on this day” feature. There’s a new button that will show you entries happening on the same day from other years. My particular use case for Journelly is as a memo book so I have no use for this feature. Fortunately, the new Journelly makes it easy to toggle it off if you don’t want it.\n\n\nThe other new significant feature is enhanced searching by date. In the search function you can use on: keyword with several different date formats to search for entries with a particular date. There’s also a calendar button that lets you choose the date from a calendar presentation if you prefer.\n\n\nYou may wonder why I have this entry tagged emacs. I consider Journelly intrinsically linked with Emacs because Journelly keeps its database in an Org file and that means that I can use Emacs and Org mode to search and edit that database. That doesn’t seem like much but I find myself doing it all the time. Journelly has become integrated into my Emacs workflow and become an important part of it.\n\n\nIn the mean time, those of you not in the Journelly beta program now have access to these updates. I can’t speak for Ramírez, of course, but if you’d like to be in the beta program, email Ramírez. He’ll probably be glad to add you.",
           "link": "https://irreal.org/blog/?p=14212",
           "publishedOn": "2026-11-11T16:37:06.000Z",
-          "wordCount": 1537,
+          "wordCount": 1539,
           "title": "Irreal: Journelly 1.5",
           "imageUrl": null
         },
@@ -178,7 +178,7 @@
           "description": "He’s just released Burnish, an app that largely automates the Org export process. The TL;DR is that when burnish-mode is active and a properly marked Org file is saved, the file is automatically exported and a preview is generated.\n\n\nBy default, the app supports exporting to:\n\n\nHTML\nmd\nodt\ninfo\nLaTeX-PDF",
           "link": "https://irreal.org/blog/?p=14210",
           "publishedOn": "2026-11-10T15:39:26.000Z",
-          "wordCount": 1319,
+          "wordCount": 1321,
           "title": "Irreal: Burnish",
           "imageUrl": null
         },
@@ -258,7 +258,7 @@
           "description": "the Emacs 31.1.90 pretest is available. The Emacs point releases are generally to fix bugs and maybe refine an existing functionality but you shouldn’t expect any major new features. That will have to wait for Emacs 32. As always, the developers are asking for our help to test the release and let them know if we encounter any problems building or using it.\n\n\nBe aware that there are some typos in Whitton’s post. In the first place, the pretest will eventually become Emacs 31.2 (not 31.1). More importantly, there are also typos in the URLs for the release. The correct URL is https://alpha.gnu.org/gnu/emacs/pretest/emacs-31.1.90.tar.xz and similarly for the signature file.\n\n\nMy usual thanks to the Emacs developers who work so hard for us and give us so much. As I always say, if one of us finds ourselves in the same bar as one of the devs, we’re buying.",
           "link": "https://irreal.org/blog/?p=14208",
           "publishedOn": "2026-11-09T15:23:59.000Z",
-          "wordCount": 1347,
+          "wordCount": 1349,
           "title": "Irreal: Emacs 31.1.90 Pretest",
           "imageUrl": null
         },
@@ -288,7 +288,7 @@
           "description": "After last night’s post, I realised I was probably just getting too invested in somehow using imdb for the “who’s that actor, anyway?” command for my Emacs-based video player.\nNot only is it an extremely fragile setup that’s gonna stop working, but it’s also very slow — it takes half a minute to return the actor profile images.\nSo I just implemented a tmdb API shim and then I ask it for the actor profile photo instead.  tmdb doesn’t have as large a data base, but…  The API is free (for non-commercial use) and is extremely easy to use.\nThings are now faster:\n\nThe main wait is from the response from the LLM — I’m using gemini-3.8-flash.  I’ve tried gemini-3.1-flash-lite, and it’s much faster…  but gives the wrong result most of the time.  No, that’s not Roy Scheider, Gemini!\nSo now the setup is less Rube Goldberguesque.  Sort of:\nI hit a key on my li’l wireless keyboard.\n\nIt’s picked up by a Python script that listens for evdev events.\n\nIt uses emacsclient to notify the Emacs running on the TV machine.\n\nEmacs there tells mpv to do a screenshot.\n\nEmacs waits until the screenshot arrives on disc.\n\nEmacs sends it to Gemini and says “who dis? JSON please”.\n\nGemini responds and Emacs then creates an SVG overlay with the actor name.\n\nrsvg-convert converts to PNG and then imagemagick convert to BGRA.\n\nEmacs asks mpv to display it.\n\nEmacs asks tmdb for the actor profile URL and fetches the image.\n\nIf it gets a response, it then recreates the svg with the image embedded.\n\n(repeat 8-9).\n\nCouldn’t be simpler.",
           "link": "https://lars.ingebrigtsen.no/2026/11/08/ok-ok-ill-just-use-tmdb/",
           "publishedOn": "2026-11-08T11:48:11.000Z",
-          "wordCount": 1318,
+          "wordCount": 1316,
           "title": "Lars Ingebrigtsen: OK, OK, I’ll just use tmdb",
           "imageUrl": "https://lars.ingebrigtsen.no/wp-content/uploads/2026/11/DSC09312-scaled.jpg"
         },
@@ -308,7 +308,7 @@
           "description": "I was watching The Four Seasons yesterday, and there were a couple of actors I wondered who were.  I mean, not Alan Alda, but a couple of the others…  so I hit the “Emacs, tell me who what is” button on my remote, and nothing much happened.\nSo things had bitrotted once again, which isn’t weird — the code is a bit of a Rube Goldberg thing which you can peruse here, but I wouldn’t really recommend it.\nBut I’ve spent the entire day fixing it, so I deserve to complain aimlessly in a blog post, right?\nOK?\nOK: The main problem is that AI web scrapers are hitting imdb so hard that Amazon has tightened its shield even more.  The main motor behind the Actor Guessing Machine is an LLM, and that API still works (if you can call “being wrong half of the time” to “work”), but I’m trying to use imdb to …",
           "link": "https://lars.ingebrigtsen.no/2026/11/07/whos-that-actor-revisited/",
           "publishedOn": "2026-11-07T20:30:49.000Z",
-          "wordCount": 1588,
+          "wordCount": 1586,
           "title": "Lars Ingebrigtsen: Who’s That Actor? Revisited",
           "imageUrl": "https://lars.ingebrigtsen.no/wp-content/uploads/2026/11/DSC09311-scaled.jpg"
         },
@@ -318,7 +318,7 @@
           "description": "interesting post about BYOK. BYOK is a “writer deck”, a device exclusively for writing that has no distracting apps or even a connection to the Internet. The idea is that writers can’t get distracted when they reach a temporary block by escaping to social media or something similar; they have to push through the block and get on with their writing.\n\n\nAccording to Martin, BYOK is better than most devices in its class but there are still problems. He doesn’t like the available fonts and the screen—as you can see from the picture in his post—is pretty small, about 6 lines depending on the font. That seems to me to amount to a rather uncomfortable working environment. Fortunately, I don’t usually find myself distracted when I’m writing.\n\n\nThen there’s the matter of research. Very often you need to look something up when you’re writing and you can’t do that with something like BYOK so you need to switch devices,  pulling you even further out of the flow. And as Martin observes, it’s not easy to integrate your notes either.\n\n\nThe deal buster for me, though, is the builtin editor. It’s not Emacs based and doesn’t even support Emacs keybindings for navigation. As I’ve repeatedly said—as recently as yesterday—I simply can’t comfortably write outside of Emacs anymore. Martin is a relative newcomer to Emacs but he’s already feeling the discomfort. Once the Emacs way sets in, he’ll be just like me and won’t consider doing serious writing outside of Emacs.\n\n\nEven if I were subject to being distracted by the greater Internet, I would simply turn off my WiFi to produce what is effectively an Emacs based writer deck. One thing for sure, I’m not giving up Emacs and suffering a second rate writing environment.",
           "link": "https://irreal.org/blog/?p=14203",
           "publishedOn": "2026-11-07T16:02:24.000Z",
-          "wordCount": 1500,
+          "wordCount": 1502,
           "title": "Irreal: BYOK",
           "imageUrl": null
         },
@@ -338,7 +338,7 @@
           "description": "And now it’s all this, Dr Drang has a post on using TextEdit versus using Pages. He’s a Mac user, obviously, but that doesn’t matter so much. The real argument is over whether one should use a word processor or some sort of text based editor.\n\n\nThere can be no doubt on where I stand on the issue. The only time I can remember using a “word processor” of any type in the last 3 decades was when I had to collaborate on another author’s file as a technical editor1. As I’ve said before, whenever I write in anything other than Emacs, I feel like I’m in Bizarro World where nothing works as it should. That includes even things like iMessage which is why I tend to use emacs-everywhere for it and most other things.\n\n\nDr Drang is nominally the same. He says he almost never uses a Word Processor but sometimes for a one-off he thinks it makes sense to use a word processor rather than one of his LaTeX or Markdown templates. That seems backwards to me. Sure, maybe you don’t want to use a template for a technical report to write a quick note to your baby sitter but Pages or any other word processor is not the simple alternative. I’d simply use Org and export it to whatever format seems appropriate. Even if Dr Drang is not an Emacs user, he is a Markdown user so surely the easy thing for him to do is to dash off his quick note in Markdown.\n\n\nReally, unless you have collaboration issues, there’s no reason to subject yourself to the horrors of a word processor.\n\n\nFootnotes: \n1 \n\n\n\nThat post was so long ago that I was still using Groff instead of Org to typeset documents. I’ve done technical editing since then that also required a Word clone and the experience was no better.",
           "link": "https://irreal.org/blog/?p=14201",
           "publishedOn": "2026-11-06T15:59:52.000Z",
-          "wordCount": 1525,
+          "wordCount": 1527,
           "title": "Irreal: Why Use A Word Processor When You Have Org?",
           "imageUrl": null
         },
@@ -565,7 +565,7 @@
           "description": "Since the mid-nineties, I’ve known about 8Ball & MJG, but I never dug into the Memphis duo’s catalog. In my defense, a ton of great hip-hop albums were released almost weekly during that era. This was years before you had … Continue reading →",
           "link": "https://timeisillmatic.me/2026/11/10/8ball-mjg-comin-out-hard-august-17-1993/",
           "publishedOn": "2026-11-10T11:53:28.000Z",
-          "wordCount": 4538,
+          "wordCount": 4543,
           "title": "8Ball & MJG – Comin’ Out Hard (August 17, 1993)",
           "imageUrl": "https://timeisillmatic.me/wp-content/uploads/2026/10/8ball__mjg_-_comin_out_hard.jpg"
         }
@@ -583,23 +583,13 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
           "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-11-14T08:37:14.371Z",
+          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
+          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
+          "publishedOn": "2026-11-14T16:22:45.596Z",
           "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
-          "author": null,
-          "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
-          "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
-          "publishedOn": "2026-11-14T08:37:14.368Z",
-          "wordCount": 177,
-          "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
+          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
         },
         {
@@ -607,39 +597,9 @@
           "author": null,
           "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
           "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-11-14T08:37:14.366Z",
+          "publishedOn": "2026-11-14T16:22:45.592Z",
           "wordCount": 177,
           "title": "California is on fire and these people are profiting off it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
-          "author": null,
-          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
-          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-11-14T08:37:14.359Z",
-          "wordCount": 177,
-          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-11-14T08:37:14.357Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
-          "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-11-14T08:37:14.354Z",
-          "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
         },
         {
@@ -647,9 +607,59 @@
           "author": null,
           "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
           "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-11-14T08:37:14.351Z",
+          "publishedOn": "2026-11-14T16:22:45.589Z",
           "wordCount": 177,
           "title": "I found one of America's best croissants in San Francisco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full",
+          "author": null,
+          "description": "If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.\n\nTo wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…",
+          "link": "https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php",
+          "publishedOn": "2026-11-14T16:22:45.586Z",
+          "wordCount": 177,
+          "title": "Craiglist's founder on why he left San Francisco and the plans for his billions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "author": null,
+          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
+          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
+          "publishedOn": "2026-11-14T16:22:45.584Z",
+          "wordCount": 177,
+          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "author": null,
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-11-14T16:22:45.583Z",
+          "wordCount": 177,
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "author": null,
+          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
+          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
+          "publishedOn": "2026-11-14T16:22:45.580Z",
+          "wordCount": 177,
+          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
+          "author": null,
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-11-14T16:22:45.579Z",
+          "wordCount": 177,
+          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -657,7 +667,7 @@
           "author": null,
           "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
           "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-11-14T08:37:14.350Z",
+          "publishedOn": "2026-11-14T16:22:45.574Z",
           "wordCount": 177,
           "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
@@ -667,19 +677,9 @@
           "author": null,
           "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
           "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-11-14T08:37:14.344Z",
+          "publishedOn": "2026-11-14T16:22:45.573Z",
           "wordCount": 177,
           "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
-          "author": null,
-          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
-          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-11-14T08:37:14.343Z",
-          "wordCount": 177,
-          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
           "imageUrl": null
         },
         {
@@ -687,7 +687,7 @@
           "author": null,
           "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
           "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-11-14T08:37:14.336Z",
+          "publishedOn": "2026-11-14T16:22:45.569Z",
           "wordCount": 177,
           "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
           "imageUrl": null
@@ -697,7 +697,7 @@
           "author": null,
           "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
           "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-11-14T08:37:14.332Z",
+          "publishedOn": "2026-11-14T16:22:45.546Z",
           "wordCount": 177,
           "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
           "imageUrl": null
@@ -707,19 +707,9 @@
           "author": null,
           "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
           "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
-          "publishedOn": "2026-11-14T08:37:14.330Z",
+          "publishedOn": "2026-11-14T16:22:45.541Z",
           "wordCount": 177,
           "title": "Everybody hates Pat McAfee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
-          "author": null,
-          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
-          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
-          "publishedOn": "2026-11-14T08:37:14.325Z",
-          "wordCount": 177,
-          "title": "I've got some demands for our new woke overlords",
           "imageUrl": null
         },
         {
@@ -727,9 +717,19 @@
           "author": null,
           "description": "A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?\n\nReader, fear not. I am a licensed journaltician, and I have a penis o…",
           "link": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php",
-          "publishedOn": "2026-11-14T08:37:14.319Z",
+          "publishedOn": "2026-11-14T16:22:45.509Z",
           "wordCount": 177,
           "title": "It turns out Jensen Huang is just as awful as the other tech overlords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
+          "author": null,
+          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
+          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
+          "publishedOn": "2026-11-14T16:22:45.499Z",
+          "wordCount": 177,
+          "title": "I've got some demands for our new woke overlords",
           "imageUrl": null
         }
       ]
@@ -765,7 +765,7 @@
           "description": "Sure, some elections touched upon the second-worst idea in American politics. But we have to take the wins when we can.",
           "link": "https://www.esquire.com/news-politics/politics/a74416126/state-supreme-courts-democratic-wins/",
           "publishedOn": "2026-11-12T22:14:15.000Z",
-          "wordCount": 21031,
+          "wordCount": 21841,
           "title": "The Blue Tsunami Made Waves in Ways I Didn’t Expect, but I’m More Than Glad to See It",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/33657428-dca7-421d-acc6-ba971bc4ea17.jpeg?crop=1xw:0.75xh;0xw,0.1xh&resize=1200:*"
         },
@@ -795,7 +795,7 @@
           "description": "The GOP loses spectacularly, then immediately decides to do as much damage as possible before the Democrats take over. Why am I not surprised?",
           "link": "https://www.esquire.com/news-politics/politics/a74402815/snap-benefits-cut-us-judges-trump-administration/",
           "publishedOn": "2026-11-11T20:31:46.000Z",
-          "wordCount": 18806,
+          "wordCount": 18810,
           "title": "Happy Holidays! The Trump Administration Is Cutting Food-Assistance Programs Again!",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/045f3bd1-1499-49dc-a191-f24345fd6a20.jpeg?crop=0.861xw:0.574xh;0.128xw,0.243xh&resize=1200:*"
         },
@@ -805,7 +805,7 @@
           "description": "The House vote to impeach the Secretary of Talking About War failed yesterday, partially because Democratic members were stuck in traffic and missed it. Great work by all.",
           "link": "https://www.esquire.com/news-politics/politics/a74399896/hegseth-house-impeach-vote/",
           "publishedOn": "2026-11-11T15:33:20.000Z",
-          "wordCount": 20627,
+          "wordCount": 20624,
           "title": "I Guess We’re Going Have to Deal with Pete Hegseth for Another Two Months",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/389c32ce-371d-4c78-9478-80c1ae3805c5.jpeg?crop=0.838xw:0.628xh;0.066xw,0.001xh&resize=1200:*"
         },
@@ -815,7 +815,7 @@
           "description": "So much for cleaning house. Rep. Jim Jordan of Ohio has been a loyal foot soldier of the MAGA regime for years now.",
           "link": "https://www.esquire.com/news-politics/politics/a74392024/jim-jordan-minority-house-speaker/",
           "publishedOn": "2026-11-10T21:26:05.000Z",
-          "wordCount": 19346,
+          "wordCount": 19355,
           "title": "House Republicans Couldn’t Have Picked a Worse Minority Speaker",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e7566edc-64e7-4d2c-8495-5b8a6fcc4c1a.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -845,7 +845,7 @@
           "description": "Let’s worry about the septuagenarians and octogenarians later. For now, let’s grab some popcorn and watch them get to work.",
           "link": "https://www.esquire.com/news-politics/politics/a74380550/democrats-possible-senate-committee-chairs/",
           "publishedOn": "2026-11-09T23:17:08.000Z",
-          "wordCount": 18353,
+          "wordCount": 18350,
           "title": "The List of Possible Democratic Senate Committee Chairs Looks a Bit, Well, Old",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/a1c8579a-01c0-410b-87f9-866e5e70db82.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -885,7 +885,7 @@
           "description": "Maybe the president shouldn’t have told everyone to pretend he was on the ballot.",
           "link": "https://www.esquire.com/news-politics/politics/a74362072/trump-midterms-blame-stephen-miller-promotion/",
           "publishedOn": "2026-11-07T00:01:31.000Z",
-          "wordCount": 24510,
+          "wordCount": 24513,
           "title": "Trump Has Blamed Everyone for the GOP’s Midterm Meltdown—Except Himself and the Worst Member of His Staff",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/79c187fe-062d-48a1-a7aa-b05ce8739286.jpeg?crop=1xw:0.749790444258xh;center,top&resize=1200:*"
         },
@@ -895,7 +895,7 @@
           "description": "With how tight the margin is between Democratic candidate Scott Colom and Republican candidate Cindy Hyde-Smith, every single vote counts.",
           "link": "https://www.esquire.com/news-politics/politics/a74359268/mississippi-republicans-senate-race-affidavit-ballots/",
           "publishedOn": "2026-11-06T16:22:14.000Z",
-          "wordCount": 19205,
+          "wordCount": 19202,
           "title": "This Mississippi Senate Race Is Really Making Me Nervous",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3e9ad700-f589-4c4d-ac3a-29e677e37df8.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -905,7 +905,7 @@
           "description": "This guy was an ur-Trumper before Trump, and I’m so glad we’re rid of him.",
           "link": "https://www.esquire.com/news-politics/politics/a74349950/kris-kobach-kansas-election-midterms-loss/",
           "publishedOn": "2026-11-05T21:57:32.000Z",
-          "wordCount": 18467,
+          "wordCount": 18464,
           "title": "One of My Least Favorite Politicians Lost an Election This Week. I Can’t Stop Laughing About It.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fb92b2e2-b884-4f29-ad84-a573cc41c523.jpeg?crop=1xw:0.75xh;0xw,0.137xh&resize=1200:*"
         },
@@ -915,7 +915,7 @@
           "description": "Nathan Johnson has promised to investigate SpaceX, and I can’t wait to see what he finds.",
           "link": "https://www.esquire.com/news-politics/politics/a74349708/texas-attorney-general-elect-nathan-johnson-elon-musk/",
           "publishedOn": "2026-11-05T21:51:05.000Z",
-          "wordCount": 21168,
+          "wordCount": 21165,
           "title": "Meet Texas’s Newly Elected Attorney General, Who Wants to Put a Stop to Elon Musk’s Greedy Billionaire Hijinks",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/3eed2b05-3126-4bbe-937c-5c4b177329a3.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -925,39 +925,9 @@
           "description": "The head of the DOJ’s civil-rights division resigned Thursday. But not to worry. I suspect we’ll see her again—in a congressional hearing room.",
           "link": "https://www.esquire.com/news-politics/politics/a74348917/good-riddance-harmeet-dhillon-you-wont-be-missed/",
           "publishedOn": "2026-11-05T20:32:42.000Z",
-          "wordCount": 18903,
+          "wordCount": 18900,
           "title": "Good Riddance, Harmeet Dhillon. You Won’t Be Missed.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/5b4412a4-628c-453e-a6ef-c7f84a5494a6.jpeg?crop=1xw:0.750469043152xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74338956/wisconsin-governor-david-crowley/",
-          "author": null,
-          "description": "Don’t let the sound of the blue tsunami drown out what happened in Wisconsin.",
-          "link": "https://www.esquire.com/news-politics/politics/a74338956/wisconsin-governor-david-crowley/",
-          "publishedOn": "2026-11-05T00:03:23.000Z",
-          "wordCount": 19860,
-          "title": "The Remarkable Election-Night Story We Should All Be Talking About",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/52f7e1f8-4453-4d26-b8e6-ec036dd8b55f.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74338234/jd-vance-republicans-trump-disappointment-midterms/",
-          "author": null,
-          "description": "It only took a historic loss to wake these yahoos up.",
-          "link": "https://www.esquire.com/news-politics/politics/a74338234/jd-vance-republicans-trump-disappointment-midterms/",
-          "publishedOn": "2026-11-04T22:37:16.000Z",
-          "wordCount": 20032,
-          "title": "The GOP Is Already Counting Down the Days Until Trump Is Gone",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/e3131927-07ab-4505-ad16-baa0d2a1bf0d.jpeg?crop=1xw:0.750556792873xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74337309/democratic-party-christianity-talarico-hamilton/",
-          "author": null,
-          "description": "James Talarico of Texas and Adam Hamilton of Kansas have proven that faith isn’t just a Republican value.",
-          "link": "https://www.esquire.com/news-politics/politics/a74337309/democratic-party-christianity-talarico-hamilton/",
-          "publishedOn": "2026-11-04T22:31:17.000Z",
-          "wordCount": 19876,
-          "title": "The Democratic Party Has Rediscovered the Power of Christianity. The GOP Should Be Worried.",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9e0a1c3f-dc01-408a-9a1e-374edbd17472.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         }
       ]
     },
