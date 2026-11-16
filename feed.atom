@@ -2,25 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-11-16T04:49:21.653Z</updated>
+    <updated>2026-11-16T23:59:00.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-11-16T04:49:21.628Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Craiglist's founder on why he left San Francisco and the plans for his billions]]></title>
         <id>https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php-full</id>
         <link href="https://www.sfgate.com/sf-culture/article/craig-newmark-interview-22377691.php"/>
-        <updated>2026-11-16T04:49:21.490Z</updated>
+        <updated>2026-11-16T23:59:00.252Z</updated>
         <summary type="html"><![CDATA[If you’re wondering whether there are any good people remaining in the tech sector, or in this country’s ruling class in general, you’d be hard pressed to find a better case study than Craig Newmark. Newmark founded Craigslist.org in San Francisco way back in 1996 and became the sort of accidental billionaire that the early dot-com boom cranked out with seeming regularity. Some of those billionaires went on to become evil (Mark Zuckerberg), and some of them ended up merely becoming rich loud guys (Mark Cuban). Newmark, who ceded his CEO duties at Craigslist shortly after its founding, has endeavored to keep a lower profile, and a lower net worth, than any of them.
 
 To wit: Newmark no longer works with Craigslist at all, and spends the bulk of his time tending to various philanthropic endea…]]></summary>
@@ -29,10 +19,22 @@ To wit: Newmark no longer works with Craigslist at all, and spends the bulk of h
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
+        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
+        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
+        <updated>2026-11-16T23:59:00.251Z</updated>
+        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
+
+Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
         <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
         <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-11-16T04:49:21.487Z</updated>
+        <updated>2026-11-16T23:59:00.232Z</updated>
         <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
 
 That’s when Anthony Bourdain wo…]]></summary>
@@ -41,46 +43,10 @@ That’s when Anthony Bourdain wo…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-11-16T04:49:21.475Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
-
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
-        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
-        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-11-16T04:49:21.467Z</updated>
-        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
-
-Actually,…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'best Mexican restaurant in the world' is in SF. It only cost me $500.]]></title>
-        <id>https://www.sfgate.com/food/article/californios-review-22484061.php-full</id>
-        <link href="https://www.sfgate.com/food/article/californios-review-22484061.php"/>
-        <updated>2026-11-16T04:49:21.463Z</updated>
-        <summary type="html"><![CDATA[There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. 
-
-You already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
         <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-11-16T04:49:21.460Z</updated>
+        <updated>2026-11-16T23:59:00.208Z</updated>
         <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
 
 Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
@@ -98,51 +64,35 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It turns out Jensen Huang is just as awful as the other tech overlords]]></title>
-        <id>https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full</id>
-        <link href="https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php"/>
-        <updated>2026-11-16T04:49:21.459Z</updated>
-        <summary type="html"><![CDATA[A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?
+        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
+        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
+        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
+        <updated>2026-11-16T23:59:00.207Z</updated>
+        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
 
-Reader, fear not. I am a licensed journaltician, and I have a penis o…]]></summary>
+The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I've got some demands for our new woke overlords]]></title>
-        <id>https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php"/>
-        <updated>2026-11-16T04:49:21.458Z</updated>
-        <summary type="html"><![CDATA[Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.
+        <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
+        <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
+        <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
+        <updated>2026-11-16T23:59:00.203Z</updated>
+        <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
 
-Can you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!
-
-Now, what happened Tuesday night doesn’t au…]]></summary>
+Actually,…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
-        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
-        <updated>2026-11-16T04:49:21.457Z</updated>
-        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
-
-On the surface, he makes for an attractive candidate. Hilto…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California is on fire and these people are profiting off it]]></title>
-        <id>https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full</id>
-        <link href="https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php"/>
-        <updated>2026-11-16T04:49:21.454Z</updated>
-        <summary type="html"><![CDATA[Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.
-
-Now, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…]]></summary>
+        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
+        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
+        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
+        <updated>2026-11-16T23:59:00.202Z</updated>
+        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -151,7 +101,7 @@ Now, woke types might tell you that all of this is bad. But what if I told you t
         <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
         <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
         <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-11-16T04:49:21.451Z</updated>
+        <updated>2026-11-16T23:59:00.200Z</updated>
         <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
 
 Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
@@ -162,10 +112,62 @@ The croissant in question is dubbed “brown butter cornmeal twice-baked,” and
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
+        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
+        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
+        <updated>2026-11-16T23:59:00.170Z</updated>
+        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
+
+This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
+
+I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
+        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
+        <updated>2026-11-16T23:59:00.165Z</updated>
+        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
+
+On the surface, he makes for an attractive candidate. Hilto…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
+        <updated>2026-11-16T23:59:00.164Z</updated>
+        <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
+
+Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
+
+This movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'best Mexican restaurant in the world' is in SF. It only cost me $500.]]></title>
+        <id>https://www.sfgate.com/food/article/californios-review-22484061.php-full</id>
+        <link href="https://www.sfgate.com/food/article/californios-review-22484061.php"/>
+        <updated>2026-11-16T23:59:00.148Z</updated>
+        <summary type="html"><![CDATA[There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. 
+
+You already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Everybody hates Pat McAfee]]></title>
         <id>https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full</id>
         <link href="https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php"/>
-        <updated>2026-11-16T04:49:21.448Z</updated>
+        <updated>2026-11-16T23:59:00.136Z</updated>
         <summary type="html"><![CDATA[There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:
 
 That’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.
@@ -181,31 +183,260 @@ And I’m hardly alone. The clip you see up above is McAfee’s response to the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
-        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
-        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
-        <updated>2026-11-16T04:49:21.440Z</updated>
-        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
+        <title type="html"><![CDATA[It turns out Jensen Huang is just as awful as the other tech overlords]]></title>
+        <id>https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full</id>
+        <link href="https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php"/>
+        <updated>2026-11-16T23:59:00.104Z</updated>
+        <summary type="html"><![CDATA[A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?
 
-This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
-
-I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
+Reader, fear not. I am a licensed journaltician, and I have a penis o…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
-        <updated>2026-11-16T04:49:21.436Z</updated>
-        <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
+        <title type="html"><![CDATA[I've got some demands for our new woke overlords]]></title>
+        <id>https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php"/>
+        <updated>2026-11-16T23:59:00.095Z</updated>
+        <summary type="html"><![CDATA[Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.
 
-Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
+Can you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!
 
-This movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…]]></summary>
+Now, what happened Tuesday night doesn’t au…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turns Out Chuck Schumer’s Bid for Senate Majority Leader Isn’t as Done a Deal as We Thought]]></title>
+        <id>http://www.esquire.com/news-politics/politics/a74444650/chuck-schumer-senate-majority-leader/</id>
+        <link href="https://www.esquire.com/news-politics/politics/a74444650/chuck-schumer-senate-majority-leader/"/>
+        <updated>2026-11-16T22:34:40.000Z</updated>
+        <summary type="html"><![CDATA[The newly elected senators are looking toward someone else entirely—and history might be on their side.]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marcin Borkowski: Copying the current location improved again]]></title>
+        <id>https://mbork.pl/2026-11-16_Copying_the_current_location_improved_again</id>
+        <link href="https://mbork.pl/2026-11-16_Copying_the_current_location_improved_again"/>
+        <updated>2026-11-16T21:33:34.000Z</updated>
+        <summary type="html"><![CDATA[Last year I improved my code for copying the current location to the kill ring. Recently it occurred to me that this was not the last word. In fact, I’m pretty surprised I didn’t think of it earlier – it’s sort of obvious in hindsight. The idea is that it should copy the range of lines when the region is active.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waiting For Jensen]]></title>
+        <id>https://defector.com/?p=241716</id>
+        <link href="https://defector.com/waiting-for-jensen"/>
+        <updated>2026-11-16T20:19:01.000Z</updated>
+        <summary type="html"><![CDATA[SAN JOSE, Calif. — "Excuse me, can you move so I can take a photo?" a woman asked me and my friend Adam, referring to the large plaque above us bearing seven photos and an inscription: The Booth That Launched A Multi-Trillion-Dollar Company. How could we deny a fellow pilgrim this humble reliquary? We were all here on this rainy Sunday evening to feel the weight of history settle lightly on our shoulders, and also to have some pancakes. We shuffled out into the otherwise empty room while she took a couple pictures, her solemn bearing occasionally quivering out into a quarter of a grin.
+For Steve Jobs, inspiration struck in the garage at 2066 Crist Drive in Los Altos. For Mark Zuckerberg, there was Room H33 at Harvard's Kirkland House Dorm. For Jensen Huang and his Nvidia co-founders, it all started at the Denny's at 2484 Berryessa Road in San Jose, specifically the big booth in the far corner.
+Those looking to get closer to the Huang story have few options. You'll have a hard time founding a $4 trillion company, cheating on Jensen Huang's wife, or unwittingly passing on sensitive information to the Chinese government via a mysterious business executive. You have to go back to the beginning. Before Huang was the load-bearing joist propping up the American stock market and an alleged disgrace to the leather jacket community, he was simply a tech worker kicking around Silicon Valley during the first boom. The foundational myth of Nvidia, and by extension Huang, is grounded in the mundane social reality of life in Silicon Valley in some critical ways.]]></summary>
+        <author>
+            <name>Patrick Redford</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sean Duffy Is a Perfect Reality TV Politician. Too Bad for America.]]></title>
+        <id>http://www.esquire.com/news-politics/a74442820/sean-duffy-mtv-real-world-faa-ground-stoppage/</id>
+        <link href="https://www.esquire.com/news-politics/a74442820/sean-duffy-mtv-real-world-faa-ground-stoppage/"/>
+        <updated>2026-11-16T19:29:42.000Z</updated>
+        <summary type="html"><![CDATA[As a fellow MTV veteran, I recognize that the Transportation Secretary has been practicing for this moment since his Real World days.]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Paranormal Activity’ On Broadway Has Some Good Scares, But Not Much Else]]></title>
+        <id>https://defector.com/?p=241826</id>
+        <link href="https://defector.com/paranormal-activity-on-broadway-has-some-good-scares-but-not-much-else"/>
+        <updated>2026-11-16T18:52:13.000Z</updated>
+        <summary type="html"><![CDATA[It’s hard to overstate just how absurd we thought the whole thing was, even as we purchased tickets and organized getting to the theater. A Paranormal Activity play. Not a musical, I stressed, though my friends and I kept laughing at how funny that idea seemed. I don’t live in New York and am therefore distant from its many stage sensations, though I’ve been hearing about movies and TV shows, well-known IP, popping up on Broadway for years. 
+I remember when the American Psycho musical premiered with Doctor Who (Matt Smith) in the starring role in London in 2013, when they turned The King’s Speech into a play the year before. I was particularly taken with the Once musical as a teenager, though less so with the Moulin Rouge! musical that added more contemporary songs to the jukebox. Last year, Stranger Things: The First Shadow made its way to New York from the UK, a whirlwind of impressive special effects and basically nothing else.
+Then Instagram ads for Paranormal Activity populated my feed in late August. I thought maybe a nationwide rescreening was being teased for Halloween. It’s been almost 20 years since the first installment came out, so why not? But I’d missed the tag that read “A New Story Live on Broadway” until a close friend whose critical opinion I value said she was going to see it. I’m an evangelist for the third Paranormal Activity movie, but that’s only because I’m an evangelist for the found-footage form, and that film’s admittedly dumb but effective scares are still some of my favorites.]]></summary>
+        <author>
+            <name>Nicholas Russell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batman Now Also James Bond]]></title>
+        <id>https://defector.com/?p=241838</id>
+        <link href="https://defector.com/batman-now-also-james-bond-robert-pattinson"/>
+        <updated>2026-11-16T17:41:24.000Z</updated>
+        <summary type="html"><![CDATA[2026 has been the year of Robert Pattinson. Between gritty black comedies like The Drama or Primetime, and big-budget movie events like The Odyssey, plus the soon-to-be-released Dune: Part Three, Pattinson has fully put his foot down as the actor of his era. What better way to cap off such a successful year than by taking the crown in the James Bond competition?
+
+https://twitter.com/007/status/2122343950308540474?s=20
+
+
+For those not in the know: Amazon MGM Studios took over creative control of the Bond franchise in 2025, and their first play was acquiring the directing talents of Denis Villeneuve. He was brought in to offer a fresh, auteur-driven approach to the Bond universe following the end of Daniel Craig's storyline—and now the director will be joined by his Dune star Pattinson, coming in as the seventh actor to officially play Bond in what will be the 26th 007 movie.]]></summary>
+        <author>
+            <name>Israel Daramola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Bought A $1 VHS And Became An Enemy Of Slayyyter Fans]]></title>
+        <id>https://defector.com/?p=241807</id>
+        <link href="https://defector.com/i-bought-a-1-vhs-and-became-an-enemy-of-slayyyter-fans"/>
+        <updated>2026-11-16T17:21:16.000Z</updated>
+        <summary type="html"><![CDATA[I was killing time, baby-wearing my six-month-old daughter through our local secondhand shop, when a strange VHS tape caught my eye. 
+It was one of those Maxwell Standard Grade T-120s that lets you record six hours in EP mode, and there was an erratic dollar sign scrawled in pen on the side label. When I pulled the tape out of its sleeve, there was the same dollar sign stenciled with red paint on top of the handwritten title: "WOR$T VH$ IN AMERICA." I paid a dollar for it and took it home.]]></summary>
+        <author>
+            <name>Rick Paulas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aidan Hutchinson Ended The Patriots’ Season, And Then His Own, On One Play]]></title>
+        <id>https://defector.com/?p=241805</id>
+        <link href="https://defector.com/aidan-hutchinson-ended-the-patriots-season-and-then-his-own-on-one-play"/>
+        <updated>2026-11-16T16:22:10.000Z</updated>
+        <summary type="html"><![CDATA[The Detroit Lions beat the reeling New England Patriots, 35-10, in Munich on Sunday. The new NFC North leaders put up almost 500 total yards on offense, with half-German Amon-Ra St. Brown scoring twice on four catches and Jahmyr Gibbs continuing to make his "best player in football" case with 252 total yards and two touchdowns. It was a great win for the Lions, except for one play that simultaneously took out two stars and might have altered the course of the season for both teams.
+On New England's first drive of the game, Lions defensive end Aidan Hutchinson got through beleaguered Pats left tackle Will Campbell and took a wide-open angle at quarterback Drake Maye, who couldn't do anything but take a sack and protect the ball. What he couldn't protect, though, was his right ankle, which got caught at an odd angle on the Munich grass. Hutchinson, meanwhile, celebrated his sixth sack of the season, running about 10 yards away and jumping into the air for a fist pump.
+That's when everything went to shit. Hutchinson landed awkwardly on his right leg and immediately crumpled to the ground in pain. Detroit's team doctors ran out to check on him as he held onto his right knee. He left the game and eventually returned to the locker room.]]></summary>
+        <author>
+            <name>Luis Paez-Pumar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FAA Ground Stop, Like Many of the Trump Administration’s Problems, Is Somehow Joe Biden’s Fault]]></title>
+        <id>http://www.esquire.com/news-politics/politics/a74440372/faa-ground-stop-airline-traffic-trump-administration-biden/</id>
+        <link href="https://www.esquire.com/news-politics/politics/a74440372/faa-ground-stop-airline-traffic-trump-administration-biden/"/>
+        <updated>2026-11-16T16:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Give these buffoons enough time, and they'll cast blame on every Democratic president back to Grover Cleveland.]]></summary>
+        <author>
+            <name>News-Politics - Esquire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crossword, Nov. 16: Attachment Issues]]></title>
+        <id>https://defector.com/?p=241085</id>
+        <link href="https://defector.com/the-crossword-nov-16-attachment-issues"/>
+        <updated>2026-11-16T15:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Our Monday crossword will have you clicking on all cylinders. This week's puzzle was constructed by Emet Ozar, and edited by Hoang-Kim Vu. 
+Defector crosswords, launched in partnership with our friends at AVCX, run every Monday. If you’re interested in submitting a puzzle to us, you can read our guidelines HERE.]]></summary>
+        <author>
+            <name>Maitreyi Anantharaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irreal: EWW As The Default Buffer]]></title>
+        <id>https://irreal.org/blog/?p=14222</id>
+        <link href="https://irreal.org/blog/?p=14222"/>
+        <updated>2026-11-16T15:42:36.000Z</updated>
+        <summary type="html"><![CDATA[made EWW his default browswer. That means that whenever he clicks on a URL and certain other links, the link is opened in EWW or—for special links—in another application that runs in Emacs. The point is, all browser activity starts in Emacs, usually in EWW.
+
+
+Of course, Emacs can’t handle every browsing task so Blais uses the & key in EWW to escape to a “normal” browser. Blais says that EWW suffices for 85–90 percent of his use cases. He has some functions to kick off Emacs apps for MP4, PDF, and other specialized links. Everything else goes to EWW. He’s added a couple of custom bindings for EWW functions he uses a lot but it’s mostly a normal EWW instance.
+
+
+Blais’ experiment shows that it is possible to almost browse from within Emacs. Sites that rely on JavaScript in an essential way are not going to work of course, and there are still a lot sites that insist on JavaScript so they can enforce the delivery of ads or implement a pay wall. Blais’ method gives us a chance to consider if those sites are worth viewing.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 49ers Will Be The Best Team In Football If They Have To]]></title>
+        <id>https://defector.com/?p=241800</id>
+        <link href="https://defector.com/the-49ers-will-be-the-best-team-in-football-if-they-have-to"/>
+        <updated>2026-11-16T14:33:00.000Z</updated>
+        <summary type="html"><![CDATA[First the San Francisco 49ers were too old to be the best team in football. Then they were too injured to be the best team in football. Now their defense against the lateral is too porous for them to be the best team in football. There's always something with them—the price they must pay for never having actually been the best team in football.
+Yet here we are, with them at 8-1 following a Jackson Pollock painting against the Dallas Cowboys, scoring 46 points but allowing 40 and coming within six laterals and two fumbles on the last play of the game from becoming a full-on clown show.
+The 49ers have been and still are the most baffling good team in the sport. They give off a pronounced vibe of being indomitable, and sometimes they actually are. Other times, like Sunday, they look like they have too much fun playing with their food. They fell behind 3-0, 10-7 and 16-10, then crushed Dallas for 20 consecutive minutes, and then went back to trading scores until the end of the game, which ended ludicrously enough with a Three Stooges skit that meant lots of work for 14 yards, and left a curious nation to wonder if they aren't just another pretty good team with just enough strengths to hide the flaws that will eventually undo them.]]></summary>
+        <author>
+            <name>Ray Ratto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Maple Leafs Are Still Finding New Lows]]></title>
+        <id>https://defector.com/?p=241783</id>
+        <link href="https://defector.com/the-maple-leafs-are-still-finding-new-lows"/>
+        <updated>2026-11-16T14:00:58.000Z</updated>
+        <summary type="html"><![CDATA[The Vancouver Canucks won their fourth hockey game of the 50-day-old NHL season Sunday night, but before you grab for your coat and panic-wave at the server to bring your check, this column will not be about the Vancouver Canucks. You deserve better than that. Hell, the Canucks deserve better than that.
+But not that much better, because this is about the Toronto Maple Leafs, who just wrapped up a historic 0-6-0 homestand.
+There is no city as devoted to its principal sports team than Toronto, based both on size of metropolitan area (7.1 million people) and monomaniacal allegiance (the Blue Jays, Raptors, Argonauts, Marlies, Sceptres, and Tempo are just things our northward friends notice until the lads' next morning skate), and there is no fan base as accustomed to or eager to resume its collective self-flagellation. They have entered their 60th year without either winning or appearing in a Stanley Cup Final, and the customers and their heralds are masters at not only the standard weariness of disappointment but performative fulmination. They love their team, a love which expresses itself as hatred because their team fails them as a function of their existence, and then they find out over time that they actually cut out the middlemen (the Leafs themselves) and end up falling in love with the hatred.]]></summary>
+        <author>
+            <name>Ray Ratto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sacha Chua: 2026-11-16 Emacs news]]></title>
+        <id>https://sachachua.com/blog/2026/11/2026-11-16-emacs-news/</id>
+        <link href="https://sachachua.com/blog/2026/11/2026-11-16-emacs-news/"/>
+        <updated>2026-11-16T13:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Emacs Carnival posts about how people discover new
+features and what things they've tried lately. Feel free to share your story.
+
+
+
+Also, the Emacs 31.1.90 pretest is available (note Irreal's post about typos). Please help test it if you can!
+
+
+
+Emacs 31:
+
+Emacs 31.1.90 pretest is available (Irreal)
+
+Upcoming events (iCal file, Org):
+
+M-x Research: TBA https://m-x-research.github.io/ Wed Nov 18 0800 America/Vancouver - 1000 America/Chicago - 1100 America/Toronto - 1600 Etc/UTC - 1700 Europe/Berlin - 2130 Asia/Kolkata – Thu Nov 19 0000 Asia/Singapore
+Emacs Berlin: Emacs-Berlin Hybrid Meetup https://emacs-berlin.org/ Wed Nov 25 1000 America/Vancouver - 1200 America/Chicago - 1300 America/Toronto - 1800 Etc/UTC - 1900 Europe/Berlin - 2330 Asia/Kolkata – Thu Nov 26 0200 Asia/Singapore
+Emacs AP…]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monday, November 16, 2026]]></title>
+        <id>https://baty.net/journal/16Nov26/</id>
+        <link href="https://baty.net/journal/16Nov26/"/>
+        <updated>2026-11-16T12:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Using up the last frame on the roll. Rolleiflex 2.8D
+STATUS: Fretting about my blogging setup(s)
+TODO: Simplify simplify simplify
+READING: Think Again by Adam Grant
+LISTENING: Soundrack to "Three Days In the Valley"
+Why am I writing this here instead of the other blog which is basically dedicated to daily posts like this one? I dunno.
+I upgraded my littlefedi instance this morning. It was easy, but it reminded me that I have a lot of things depending on me to maintain and troubleshoot. And now that I've asked for Claude's help with a lot of it, I honestly don't know how everything works, which makes me nervous.
+Still looking for a decent replacement for macOS Finder. Now trying FileOctopus — Finder Alternative & File Manager for Mac. It's very Finder-like. Sort of a Finder Plus. We'll see. First impressions are positive.
+I've made changes to the design here. It's more boring, but less annoying. I hope.
+Crate, a music app you have to check out - BrettTerpstra.com Crate is a fun way to listen to Apple Music. I'm using the beta on my Mac.
+✍️ Reply by email]]></summary>
+        <author>
+            <name>baty.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avedon (2026) ★★★★]]></title>
+        <id>https://baty.net/notes/2026/11/avedon-2026/</id>
+        <link href="https://baty.net/notes/2026/11/avedon-2026/"/>
+        <updated>2026-11-16T12:24:56.000Z</updated>
+        <summary type="html"><![CDATA[I'm not a huge fan of the man, but he really could see like a son of a bitch. For much of his career he used a Rolleiflex and I approve.
+✍️ Reply by email]]></summary>
+        <author>
+            <name>baty.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aphex Twin]]></title>
+        <id>https://www.flowstate.fm/p/aphex-twin-b3a</id>
+        <link href="https://www.flowstate.fm/p/aphex-twin-b3a"/>
+        <updated>2026-11-16T08:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Today we’re listening to Aphex Twin, a British electronic musician from Cornwall.]]></summary>
+        <author>
+            <name>Flow State</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[funkycache: a Python library to cache functions in SQLite]]></title>
+        <id>https://alexwlchan.net/2026/funkycache/</id>
+        <link href="https://alexwlchan.net/2026/funkycache/"/>
+        <updated>2026-11-16T08:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Why did I write a new caching library, and how does it work?]]></summary>
+        <author>
+            <name>alexwlchan</name>
         </author>
     </entry>
     <entry>
@@ -224,6 +455,20 @@ This movie arrives in theaters with plenty of deserved Oscar buzz. But in this c
         <link href="https://www.teachmaths.org/20261116-ai-setup-0-plain-text/"/>
         <updated>2026-11-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the first of a few articles about the AI system I use for teaching maths. Basically, ten months ago I decided to buy an AI subscription to learn more about the technology, and today I run a small fleet of machines and agents that draft my lessons, check my exams, index my syllabus, and argue with me about design at midnight. This first article is about the recent years before any of that, because it turns out to be the part that made everything else possible.]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matt Maguire: My AI Teaching Setup, Part 3: The Organs]]></title>
+        <id>https://www.teachmaths.org/20261116-ai-setup-3-the-organs/</id>
+        <link href="https://www.teachmaths.org/20261116-ai-setup-3-the-organs/"/>
+        <updated>2026-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Part 2
+ was about models and harnesses. But a model in a harness is still just a clever voice. What turned the setup into a system was the organs: the memory, the senses, and the reflexes bolted on around it. This is the final part, and it starts with a full circle.
+The knowledge base that was already ten years old
+People ask how I got my teaching knowledge into the AI. The answer is anticlimactic: I didn’t. I had spent a decade writing it in plain text — Org-mode notes, syllabus annotations, lesson reflections, the whole zettelkasten from Part 0
+.]]></summary>
         <author>
             <name>Planet Emacslife</name>
         </author>
@@ -258,16 +503,6 @@ This casualty list added SMU on Saturday when the Demon Deacons crushed the Must
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Org Mode requests: [FR] Ensure Org features work with envrc, ben, quickenv, direnv, and similar]]></title>
-        <id>https://list.orgmode.org/87ld6udn55.fsf_-_@posteo.com</id>
-        <link href="https://list.orgmode.org/87ld6udn55.fsf_-_@posteo.com"/>
-        <updated>2026-11-15T17:23:36.000Z</updated>
-        <summary type="html"><![CDATA[[request] flags:--- replies:2]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here’s The Latest Stupid Way That The NHL Is Messing With Its Broadcasts]]></title>
         <id>https://defector.com/?p=241746</id>
         <link href="https://defector.com/heres-the-latest-stupid-way-that-the-nhl-is-messing-with-its-broadcasts"/>
@@ -278,18 +513,6 @@ But does that center-ice logo look kind of uncanny to you? Maybe a little too sm
 https://youtu.be/qnRrDN5X6Sw?si=9kRmnHllEIwtvcXm&t=231]]></summary>
         <author>
             <name>Lauren Theisen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas And LSU Had A Barnburner Of Dumbass Football]]></title>
-        <id>https://defector.com/?p=241740</id>
-        <link href="https://defector.com/texas-and-lsu-had-a-barnburner-of-dumbass-football"/>
-        <updated>2026-11-15T16:59:09.000Z</updated>
-        <summary type="html"><![CDATA[The Texas Longhorns triumphed in an exciting, last-second 22-21 victory over the LSU Tigers on Saturday, thanks to a heroic effort by QB Arch Manning and some typical breaking down of the LSU defense. But if you did not watch the contest in full, do not let the thrilling end fool you: This was some of the year's dumbest football, authored by two of our dumbest college football programs.
-Let's start with the six interceptions total in this game: three for each, which is nice and neat. At first, it was LSU's Sam Leavitt throwing most of the picks, two in the first half, which makes it particularly strange that LSU was leading for the majority of this game. They were helped by the fact that Manning tossed two picks in the second half, to add to one he threw in the second quarter, and as a result the game was the Tigers' for the taking—21-10 late in the third, and still 21-16 when they punted with only 2:19 to go.
-But if nothing else, Manning has shown an ability to get better when his back is against the wall. And if you're going to beat Texas, you have to stomp them out completely. Despite Manning's overall pedestrian performance, 174 yards on 19 of 35 passes, his night climaxed with the crucial touchdown. In the game's final two minutes, Manning led a 12-play, 58-yard drive down the field, culminating in a seven-yard run on third down at LSU's 11-yard line and then a four-yard TD pass to RB Raleek Brown for the go-ahead score. Cue the Texas sideline going absolutely, understandably nuts.]]></summary>
-        <author>
-            <name>Israel Daramola</name>
         </author>
     </entry>
     <entry>
@@ -309,18 +532,6 @@ As always, a lot of the action is in the comments. Many said that immigrants fro
 There is, of course, the occasional post proclaiming loudly that Emacs is no good because it uses  Lisp with all those parentheses. The ankle biting aside, the comments offer an intelligent and useful commentary on Sahkopi4’s journey.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Ole Miss Simply Lack The Grit To Get To Their Game On Time?]]></title>
-        <id>https://defector.com/?p=241739</id>
-        <link href="https://defector.com/faa-ground-stoppage-ole-miss-oklahoma-sunday-start-time"/>
-        <updated>2026-11-15T15:40:24.000Z</updated>
-        <summary type="html"><![CDATA[On Friday, a nationwide ground stop lasting over four hours led to thousands of flight cancellations and delays from coast to coast. As a result, we're getting some Sunday afternoon college football, with No. 19 Ole Miss playing Oklahoma in Norman because they couldn't arrive on their previous schedule.
-Per Ole Miss, who was flying out of Tupelo, about 50 miles from their campus in Oxford, the ground stop began just a few minutes before the team buses were scheduled to leave for the airport, at 4 p.m. Once they learned that the stop would last for hours, the players were allowed to go, and they were called for a team meeting at 8 p.m., just a little before stop was lifted. Still, it was apparently too late for them to salvage their journey that night, and the SEC ultimately pushed the game back a day as a result.
-"At that hour, due to the time required to rescreen the party and travel to the Tupelo airport, the crew's duty time would have expired prior to departure," the Ole Miss statement said. "There were no other flight options at that point, and we determined it was too late to put our student-athletes on a bus trip of eight or more hours. In addition, the flight crew's duty time restrictions prevented us from being able to fly out until Saturday afternoon at the earliest."]]></summary>
-        <author>
-            <name>Lauren Theisen</name>
         </author>
     </entry>
     <entry>
@@ -399,51 +610,6 @@ The zone codes can be a bit opaque so Choi has added a command to the latest Cas
         <summary type="html"><![CDATA[I like men’s shoes and I’ve sold men’s shoes. A man’s footwear reveals facets of his public persona—and his private desires.]]></summary>
         <author>
             <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mauricio Pochettino Leaves The USMNT For An Even Bigger Mess]]></title>
-        <id>https://defector.com/?p=241690</id>
-        <link href="https://defector.com/mauricio-pochettino-leaves-the-usmnt-for-an-even-bigger-mess"/>
-        <updated>2026-11-13T16:53:20.000Z</updated>
-        <summary type="html"><![CDATA[After an extended denouement to a doomed tenure, Manchester United finally set manager Michael Carrick loose on Thursday, hoping to put an end to the club's worst league start in 40 years. On Friday, the next era for England's most famous club began, sort of, as United announced that Mauricio Pochettino would be leaving the U.S. men's national team on Nov. 18 in order to become the new boss at Old Trafford.
-Carrick's departure is no surprise, but Pochettino's arrival counts as a bit of a shock. Pochettino had famously come to international prominence first at Southampton and then in his five-season-plus stint at Tottenham Hotspur, which saw that club's evolution from an also-ran into, well, an also-ran that could actually fight with the big boys. Eventually, his tenure there grew stale and…]]></summary>
-        <author>
-            <name>Luis Paez-Pumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Friday Chart: Is The Game About A Bucket?]]></title>
-        <id>https://defector.com/?p=241695</id>
-        <link href="https://defector.com/the-friday-chart-is-the-game-about-a-bucket"/>
-        <updated>2026-11-13T16:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to The Friday Chart, in which Defector contributor Harry Krinsky attempts to turn whatever’s been going on in his head lately into a chart.]]></summary>
-        <author>
-            <name>Harry Krinsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Utah’s Superhero Keeper Will Face Washington’s Attacking Horde]]></title>
-        <id>https://defector.com/?p=241700</id>
-        <link href="https://defector.com/utahs-superhero-keeper-will-face-washingtons-attacking-horde"/>
-        <updated>2026-11-13T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Before the NWSL playoffs started, I predicted, like many, that San Diego would go all the way. The second-seeded Wave were so solid, so well-balanced, and with a possession-based style that steamrolled team after team. Making it past the faltering, Mina Tanaka–less Utah Royals in the quarterfinals didn't feel anything close to a question. Where San Diego had earned 25 points in the final 10 matches of the regular season, Utah earned just 11.
-I've never been so happy to be wrong. In delivering a 1-0 upset in San Diego last Friday, Utah provided a postseason performance that left me, a neutral, pumping with joyful adrenaline. 
-As expected, San Diego dominated in nearly every way: shots, possession, touches in the final third. But the only stat that matters is goals scored, and Utah goalkeeper Mandy McGlynn had something to say about this.]]></summary>
-        <author>
-            <name>Abigail Segel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notre Dame Brings Havoc To The CFP Rankings]]></title>
-        <id>https://defector.com/?p=241395</id>
-        <link href="https://defector.com/notre-dame-brings-havoc-to-the-cfp-rankings"/>
-        <updated>2026-11-13T15:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the Defector College Football Watch Guide, where Israel Daramola and Ray Ratto will tell you which of the weekend’s college football games are worth giving a crap about.
-Ray: Lots of things got chucked in the bin last week: Miami's unbeaten season and Mario Cristobal's muffled rage, Ryan Day's offseason peace of mind, Lane Kiffin's shiny glow in Baton Rouge, the Heisman Trophy projections (now it's Oklahoma State quarterback Drew Mestemaker and Boise State running back Dylan Riley as the favorites, right?), Nebraska's budget for the next seven years if it fires Matt Rhule and has to pay him $63 million to turn in his sideline credential—in all, it's just getting thicker at this end of the trough.
-As a result, Georgia is the new badass in residence after stomping Ole Miss, 42-7, and UCLA and Utah are last unbeaten teams in FBS. Texas is back—what, for the third time now?—and there are still five Big Ten coaches who haven't gotten the memo to rip ESPN for jerry-rigging the committee rankings to satisfy their SEC overlords. Remember, children: A conspiracy doesn't have to be proven to be advanced—it only has to sound evil to be convincing—and college football's various hierarchies have been doing Satan's bidding since 1869. But never mind all that; you're already bought in, so enjoy hell. For now, let's dance that ska.]]></summary>
-        <author>
-            <name>Israel Daramola</name>
         </author>
     </entry>
     <entry>
@@ -540,21 +706,6 @@ I wish I had the energy to make actual contact sheets in the darkroom, but I don
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soccer Can Find Salvation In A Bag Of Tricks]]></title>
-        <id>https://defector.com/?p=241675</id>
-        <link href="https://defector.com/soccer-can-find-salvation-in-a-bag-of-tricks"/>
-        <updated>2026-11-13T15:11:05.000Z</updated>
-        <summary type="html"><![CDATA[The suspended rabona, the showy drag with the left foot, the ricochet off the defender, the bobble of instinctive control on the byline with the right, then back onto the left for a quick push with the outstep into the goalmouth, where a teammate applies the finishing touch.
-
-https://bsky.app/profile/cbssportsgolazo-m.bsky.social/post/3mydcrsneyu3h
-
-
-Even a few weeks later, the rabona-croqueta that Lamine Yamal improvised in Barcelona’s recent Champions League win over Galatasaray astonishes with its ingenuity. Did he intend the move to come off exactly as it did? We don’t know. Does it matter? It does not.]]></summary>
-        <author>
-            <name>Aaron Timms</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amin Bandali: Building GNU Emacs from source]]></title>
         <id>https://www.shemshak.org/~amin/emacs-build.html</id>
         <link href="https://www.shemshak.org/~amin/emacs-build.html"/>
@@ -582,21 +733,11 @@ To build GNU Emacs from its source repository, we…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Would You Get Stoned With The Scythians?]]></title>
-        <id>https://defector.com/?p=241439</id>
-        <link href="https://defector.com/would-you-get-stoned-with-the-scythians"/>
-        <updated>2026-11-13T14:00:42.000Z</updated>
-        <summary type="html"><![CDATA[It's just like they told you it would happen in D.A.R.E.: You have been miraculously, tragically transported 2,800 years back in time, in the land that is now the Uyuk Valley of southern Siberia. The site will be eventually called Tunnug 1 by the archaeologists who excavate it in 2017. But that is the future, and this is the present, meaning 800 B.C. You have come to sit with the Scythians, nomads who roamed the Eurasian steppes on horseback. You have even glimpsed their warrior-king, whose long and stately braids make him seem like a pretty cool guy. Also, he's smoking. Suddenly the warrior-king glimpses you back, his reddish eyes glinting in the firelight. He leans over to you, whispers something inscrutable in an Eastern Iranic language, and extends in his grizzled hands an ancient join…]]></summary>
-        <author>
-            <name>Sabrina Imbler</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fling II]]></title>
         <id>https://www.flowstate.fm/p/fling-ii</id>
         <link href="https://www.flowstate.fm/p/fling-ii"/>
         <updated>2026-11-13T08:03:19.000Z</updated>
-        <summary type="html"><![CDATA[It’s Friday so we’re listening to something more upbeat.]]></summary>
+        <summary type="html"><![CDATA[Today we’re listening to Fling II, an American kosmische band formed in Ann Arbor, Michigan.]]></summary>
         <author>
             <name>Flow State</name>
         </author>
@@ -1311,42 +1452,6 @@ The deal buster for me, though, is the builtin editor. It’s not Emacs based an
 
 
 Even if I were subject to being distracted by the greater Internet, I would simply turn off my WiFi to produce what is effectively an Emacs based writer deck. One thing for sure, I’m not giving up Emacs and suffering a second rate writing environment.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[While we're un-retiring things: daily.baty.net and Tinderbox]]></title>
-        <id>https://baty.net/posts/2026/11/while-we-re-un-retiring-things-daily-baty-net/</id>
-        <link href="https://baty.net/posts/2026/11/while-we-re-un-retiring-things-daily-baty-net/"/>
-        <updated>2026-11-07T10:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Creativity doesn’t drive my blogging; software does. So daily.baty.net is back in rotation and is once again built using Tinderbox.
-Tinderbox is special. I've been preaching this for more than 20 years. However, my use of Tinderbox has slowed down in recent years due to the distraction that is Linux. I felt I needed to move away from macOS-only software. I shouldn't have.
-I've been "going ham" with Tinderbox recently, and it feels good. I used to live in its Map views, but that was back when I was working. Now, I use it mostly as a fancy outliner (it's a really good outliner) and as a blogging tool.
-Tinderbox manages daily.baty.net. For a minute I was using Eleventy, but no longer. Tinderbox's export features are complex, and sometimes I get lost, but they're also very flexible and powerful.
-Long story short, when I'm experiencing the rush that comes with rediscovering Tinderbox, I want to use it for everything, so I brought it back and I'm posting daily notes there instead of journal entries here.
-In case you were wondering.
-✍️ Reply by email]]></summary>
-        <author>
-            <name>baty.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump Has Blamed Everyone for the GOP’s Midterm Meltdown—Except Himself and the Worst Member of His Staff]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a74362072/trump-midterms-blame-stephen-miller-promotion/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a74362072/trump-midterms-blame-stephen-miller-promotion/"/>
-        <updated>2026-11-07T00:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Maybe the president shouldn’t have told everyone to pretend he was on the ballot.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Org Mode requests: [FR] LaTeX preview support Emacs without SVG support]]></title>
-        <id>https://list.orgmode.org/87se1d937v.fsf_-_@posteo.com</id>
-        <link href="https://list.orgmode.org/87se1d937v.fsf_-_@posteo.com"/>
-        <updated>2026-11-06T19:20:22.000Z</updated>
-        <summary type="html"><![CDATA[[request] flags:--- replies:0]]></summary>
         <author>
             <name>Planet Emacslife</name>
         </author>
