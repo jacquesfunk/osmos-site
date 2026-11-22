@@ -133,6 +133,26 @@
       "siteUrl": "https://planet.emacslife.com/",
       "articles": [
         {
+          "id": "https://list.orgmode.org/87o6bgu9jq.fsf@localhost",
+          "author": null,
+          "description": "[request] flags:--- replies:1 role:maintainer",
+          "link": "https://list.orgmode.org/87o6bgu9jq.fsf@localhost",
+          "publishedOn": "2026-11-22T16:16:07.000Z",
+          "wordCount": 427,
+          "title": "Org Mode requests: [TASK] make Org code pass all linters and integrate linting into make test (was: Funny regex in 'org-beamer--insert-theme')",
+          "imageUrl": null
+        },
+        {
+          "id": "https://irreal.org/blog/?p=14234",
+          "author": null,
+          "description": "Ray on Emacs, Ray Zeitler writes about moving among windows\n. It was a nostalgic moment for me because\nother-window\nCtrl+x o) is that you may have to invoke it several times and, as Zeitler says, you can easily overshoot your target.\n\n\nThe next step in my journey—and apparently in Zeitler’s—was the discovery of Windmove. It allows you to use the arrow keys with (by default) the Shift key to move through the windows in a two-dimensional way. It’s a big improvement over the standard other-window command but it does interfere with certain Org bindings.\n\n\nThe next step in my journey was the discovery of abo-abo’s excellent ace-window package. It allows you to easily move among windows as well as perform many other actions such as splitting, deleting, moving, and copying windows. You can see a complete list at the link. To be honest, I use it almost exclusively for changing focus to another window. It works just like abo-abo’s other ace functions. You invoke it (I use Ctrl+x o to leverage my muscle memory) and the windows are labeled. Then you merely choose the label of the window to want to move to. As as added feature, if there are only two windows, it simply moves to the other window without the need for further input. You can also precede the command with the universal argument and it will swap the windows instead of simply moving to the target window.\n\n\nAll-in-all, ace-window is the best package I’ve found for window control. Perhaps it will be the next step on Zeitler’s journey too.",
+          "link": "https://irreal.org/blog/?p=14234",
+          "publishedOn": "2026-11-22T15:38:31.000Z",
+          "wordCount": 1462,
+          "title": "Irreal: Moving Among Windows",
+          "imageUrl": null
+        },
+        {
           "id": "https://ray-on-emacs.blogspot.com/2026/11/emacs-windows-management-with-windmove.html",
           "author": null,
           "description": "0\n\n\n\n  Recently I came across the windmove functions1.  This discovery\ncaused me to lose interest in bookmarks; now bookmarks are a mere\ncuriosity.\n\n\n\nThe windmove functions allow you to \"operate\" on a window; the\ntarget window is given as a direction relative to point.\nOperations include:\n\n\nselection, like next-window, but direction overrides window order\ndeletion, like delete-window, but direction indicates the window\nto delete\nbuffer display (not yet in use by the author)\nS-<left>, S-<right>, \nS-<up>, S-<down> for window\nselection.  For example, you can activate the window on the left with\nwindmove-left or S-<left>.\n\n\n\nOrg users already press S-<left>\n(and S-<right>) on a heading to change TODO status.\nAs well, we press S-<up>\n(and S-<down>) to increase (decrease) a heading's\npriority.  Luckily, it's easy to specify a different modifier key.  I\nconfigured my system to make windmove-dir respond to\nM-s-<dir>2 with the following statement:\n\n\n\n(windmove-default-keybindings '(meta super))\n\nwindmove-delete-left.  I've\ndefined C-M-s-<dir>3 for the\nwindmove-delete-dir functions by adding this to my init file:\n\n\n\n(windmove-delete-default-keybindings '(control meta super))\n\nother-window (C-x o), sometimes\n\"overshooting\" the desired window, or I'd resort to using the mouse\nto click in it.  Now with this intuitive method of selecting\nwindows, I can keep my hands on the keyboard and spend less time\nfiguring out how to get around.\n\n\n\nTry it out!\n\n\n\n  0 See: https://ray-on-emacs.blogspot.com/2026/11/emacs-carnival-november-2026.html\n\n\n\n  1 Emacs windmove help page\n\n\n\n  2 On Windows, I hold down the Alt and Win keys while pressing an\narrow key.\n\n\n\n  3 As above, but additionally with the Control key.  It's\nsurprisingly easy, in fact.",
@@ -148,7 +168,7 @@
           "description": "The Art Of Not Asking Why reminds us of a very useful technique for iteratively searching through a series of files for those that contain a given set of terms. The process if simple but very flexible:\n\n\nOpen a Dired buffer with the files you want to search.\nUse %g to do a regular expression search through the files for one of the terms. The files containing the term will be marked.\nUse t to toggle the marks, resulting in all the files that don’t contain the term being marked.\nUse k to temporarily hide the marked files, leaving only those that contain the term.\nGo to step 2 using the next term.\nA command to search through the contents of the marked files and show the results in another buffer.\n\n\nThe nice thing about this method is that it’s interactive: you progressively narrow down the list of target files by eliminating files that don’t contain the terms your looking for. You can, as JTR says, even manually eliminate files that you don’t want to consider as you go along. It’s a good technique and worth remembering.",
           "link": "https://irreal.org/blog/?p=14232",
           "publishedOn": "2026-11-21T16:12:19.000Z",
-          "wordCount": 1422,
+          "wordCount": 1430,
           "title": "Irreal: Manual Dired Search",
           "imageUrl": null
         },
@@ -371,36 +391,6 @@
           "wordCount": 1082,
           "title": "Amin Bandali: Building GNU Emacs from source",
           "imageUrl": null
-        },
-        {
-          "id": "https://bicycleforyourmind.com/revival-of-nvalt",
-          "author": null,
-          "description": "nvALT icon\nProduct: nvALT\nPrice: Free\nChristmas came early this year. Brett Terpstra released a new version of nvALT. Compatible with modern versions of macOS, it left me dancing with joy.\nnvALT\nSimple\nBefore Obsidian, and its ilk, nvALT was the notes app I lived in. It was distinguished by its simplicity. You typed in the unibar to both search your notes and create new notes. I was in plain text mode and it was fantastic.\nOver time, other programs came along and I moved away from it. I remember that I loved the program for how simple it was. No friction. Just notes. Easy creation and efficient search.\nRevival\nBrett Terpstra has revived nvALT to be compatible with modern versions of macOS. He has been active in the development of nvALT in the last few weeks. I am not going to try to explai…",
-          "link": "https://bicycleforyourmind.com/revival-of-nvalt",
-          "publishedOn": "2026-11-13T05:43:25.000Z",
-          "wordCount": null,
-          "title": "Bicycle for Your Mind: Revival of nvALT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zzamboni.org/post/cross-article-linking-in-org-hugo/",
-          "author": null,
-          "description": "My new Org heading-link picker finds headings in included files, creates Hugo-aware links, and lets me update links without rewriting their description.",
-          "link": "https://zzamboni.org/post/cross-article-linking-in-org-hugo/",
-          "publishedOn": "2026-11-13T02:25:00.000Z",
-          "wordCount": 867,
-          "title": "Diego Zamboni: Cross-article linking in Org/Hugo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://sachachua.com/blog/2026/11/emacsconf-recording-and-re-recording-introductions/",
-          "author": null,
-          "description": "EmacsConf talks so that they can be played automatically. That way, hosts don't have to worry about pronunciations on air, and there's one less changeover that might introduce technical issues. We can cut to the next talk a bit abruptly because everything runs off a crontab-powered schedule to keep things running on time on multiple tracks, so it helps to have a little transition between Q&A and the next talk. It's also nice having some kind of pronunciation reference so that when people discuss the talks or even just think about them with their internal monologues, they might have a better sense of how to say the speakers' names. We ask speakers to say their names at the beginning of their presentation, but people don't often include their last names, so the intro gets that consistently. …",
-          "link": "https://sachachua.com/blog/2026/11/emacsconf-recording-and-re-recording-introductions/",
-          "publishedOn": "2026-11-13T02:17:31.000Z",
-          "wordCount": 1279,
-          "title": "Sacha Chua: EmacsConf: recording and re-recording introductions",
-          "imageUrl": null
         }
       ]
     },
@@ -409,6 +399,26 @@
       "feedUrl": "https://defector.com/feed",
       "siteUrl": "https://defector.com/",
       "articles": [
+        {
+          "id": "https://defector.com/?p=242520",
+          "author": "Rachelle Hampton",
+          "description": "Within the first three minutes of playing time in Saturday night’s game against the Trail Blazers, I found myself wondering (and maybe even hoping): Are the Knicks back? \nMy suspicions had started to rise only sometime in the last week, somewhere between the reigning champs back-to-back victories against the Raptors and their hardfought win against the Timberwolves. It was in the second game against the Raptors that I started to see glimmers of what could make this current New York roster so magical to watch; that was the same game where Karl-Anthony Towns declared that his team, after a sleepy start to the season, was finally playing “like the Knicks again…with that physicality and that energy that made us so special last year.” \nSo when I saw that KAT, one of the few bright spots of consistency in this season so far, along with the steadfast, laconic OG Anunoby, were both out for last night’s game, my first thought was lol we’re 100 percent going to lose. Then I saw that Deni Avdija was cleared to return to the Blazers after missing the last two games and I thought, oh, so we’re 1000 percent going to lose. Even without Avdija, the Blazers had been surprisingly competitive, led offensively by a newly-returned Damian Lillard.",
+          "link": "https://defector.com/are-the-knicks-back",
+          "publishedOn": "2026-11-22T18:05:48.000Z",
+          "wordCount": 5442,
+          "title": "Are The Knicks Back?",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2306282118.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=242517",
+          "author": "Brandy Jensen",
+          "description": "I did not imagine that the release of Grand Theft Auto VI would have any meaningful impact on my life, for the simple reason that I am not a gamer. I know and even respect a few people for whom video games are important, but I mainly regard this in the same way I do friends who really like square dancing, or go to church: nice for them, but not really my business.\nAnd while I have, in the past, dated gamers and even come to occasionally enjoy watching them play video games, that was mainly because I'm bossy and liked telling them go over there or open that box I bet there's something inside. Backseat driving a video game can be fun but only insofar as I can manipulate what's happening. The appeal of Twitch, where you are simply one of dozens or hundreds of spectators watching someone else play a game has always been totally, utterly alien to me. This would be true even without the dangers of encountering slurs in a chat or being confronted by the ever present sight of anything that could be reasonably called \"a gaming rig.\" No thank you.\nAnd yet, I have found my conviction wavering recently as I find myself strangely compelled to click on clip after clip of people playing GTA VI. It started innocently enough, as people kept insisting that this game was teaching men to be thoughtful partners. I watched clips of people doing things Lucia will appreciate: buying groceries, taking her shopping, picking up flowers. I watched a guy make thoughtful decisions about how she might like to wear her hair. Soon I'd moved on to following along as people make Jason lovingly turn their house into a home, or invite Lucia to take the driver's seat on an aquatic adventure.",
+          "link": "https://defector.com/oh-no-i-cant-stop-watching-people-play-gta-vi",
+          "publishedOn": "2026-11-22T17:31:25.000Z",
+          "wordCount": 4585,
+          "title": "Oh No, I Can’t Stop Watching People Play ‘GTA VI’",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GTA-6.jpg"
+        },
         {
           "id": "https://defector.com/?p=242486",
           "author": "Ray Ratto",
@@ -445,7 +455,7 @@
           "description": "Al Davis's afterlife is difficult enough to imagine under any circumstances, but it takes an exceptionally grisly imagination to make him a character in a Hallmark movie written in an hour by a seventh grader.\nAnd to add imaginary insult to conceptual injury, Davis has been made into a supporting character in a Hallmark movie written in an hour by a seventh grader. The actual film is not made by Hallmark, where superficiality is raised to raison d'etre and plotting and dialogue are upstaged by tinsel and presents strewn about the town gazebo, but by Amazon. Less explicably, it is co-written and directed by David O. Russell, and not a middle schooler on a deadline. It is called Madden and is about John Madden, mostly, and most of what Christian Bale does as Al Davis amounts to reacting to things that Nicolas Cage, as John Madden, does. It's a romcom without the rom and precious little com. Now that's making hell relatable to us all.\nAs you may have already heard, Madden is galactically bad. It's a movie about a man far too large for the biopic genre, maybe even two such men if you want to raise Davis to Madden's cultural stature, and that's its essential problem. There is a lot of competition, there, but \"fundamentally should not exist\" is hard to top as problems go. It's also a movie released around the holidays, when movie IQs are lowered by a good 25 points by the mere act of their being released to a national audience preparing for its own annual festive stupefaction.",
           "link": "https://defector.com/madden-makes-one-of-the-nfls-biggest-characters-feel-silly-and-small",
           "publishedOn": "2026-11-20T18:11:44.000Z",
-          "wordCount": 7249,
+          "wordCount": 7198,
           "title": "‘Madden’ Makes One Of The NFL’s Biggest Characters Feel Silly And Small",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/MaddenMovie.png"
         },
@@ -455,7 +465,7 @@
           "description": "It's fine not to know who Jason Miller is. There are a lot of Jasons Miller out there; when I hear the name \"Jason Miller,\" I think of the soulful, sad-eyed actor who portrayed Fr. Damian Karras in The Exorcist. This blog is not about that Jason Miller. This blog is about the following much worse guy also named Jason Miller:\n\n\nThe above chinless goblin is one of the many guys whose life's work is orbiting around Donald Trump doing ... whatever, but mainly just existing horribly where they can interact with others of their ilk and monetize, crudely, their access to each other and, through each other, to the worst president in U.S. history. This Jason Miller served as a spokesperson for Trump's 2016 presidential campaign and, after Trump won that election, was tapped for the position of White House communications director; he left that job within days when it came to light that he'd had an extramarital affair with Trump advisor A.J. Delgado and was the deadbeat father of her child. Miller later left a job at CNN after Delgado alleged, in a lawsuit seeking child support, that he had slipped abortifacient drugs into the drink of a previous, unnamed, pregnant girlfriend; Miller sued Gizmodo Media Group and reporter Katherine Krueger for $100 million, unsuccessfully, over their having published a summary of the allegations.",
           "link": "https://defector.com/semafor-paid-a-trump-goon-100000-to-make-its-events-more-evil",
           "publishedOn": "2026-11-20T17:35:31.000Z",
-          "wordCount": 5638,
+          "wordCount": 5628,
           "title": "Semafor Paid A Trump Goon $100,000 To Make Its Events More Evil",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/semafor-smiths.jpeg"
         },
@@ -465,7 +475,7 @@
           "description": "The thrown-in dunk, or \"thrunk\" if you prefer, is no new phenomenon. Vertically gifted players have long been hurling basketballs down into the hoop from a distance, without their hands directly touching the rim. But has that hurling motion ever been replaced by the soft wrist flick of a jump shot? Have you seen a jump shot begin from above the rim?\nOn Thursday night, San Antonio Spurs center Victor Wembanyama developed his own variation on the thrunk, after collecting a hit-ahead pass from his teammate Stephon Castle. All alone on the other end, Wemby went up with a guide hand on the side of the ball, and with his shooting hand he flicked the ball directly down into the hoop. In the official play-by-play, it was logged as a pedestrian \"running dunk,\" but the truth is out there. We saw the shunk.\n\nhttps://www.youtube.com/watch?v=b7VodFtMCfU",
           "link": "https://defector.com/victor-wembanyamas-blister-inspires-purely-downward-jump-shot",
           "publishedOn": "2026-11-20T17:19:05.000Z",
-          "wordCount": 4568,
+          "wordCount": 4551,
           "title": "Victor Wembanyama’s Blister Inspires Purely Downward Jump Shot",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/wembanyama-shunk.jpg"
         },
@@ -475,7 +485,7 @@
           "description": "Welcome to the Defector College Football Watch Guide, where Israel Daramola and Ray Ratto will tell you which of the weekend’s college football games are worth giving a crap about.\nRay: Last week went a long way toward revealing December and January, which sucks a bit because most of the surviving mysteries regarding conference championships, playoff berths and firings are largely being settled. The weekend highlights included Oklahoma pitching hissy fits at Ole Miss and the SEC office over uncontrollable travel issues, then winning on Sunday; Arizona State reinventing pregame prep by flying to Orlando on game day to beat UCF, 26-13; and Washington State getting its second win of the season by beating Colorado State, 73-7, with nine rushing touchdowns. Most of the remaining slate was watching the form of the last two months solidify and harden into an easily predictable future.\nFor all the chaos we yammer about, the same old stories are being told the same old way because college football is devoted to business as usual, plus the hiring hall at James Madison. There isn't even the manufactured drama of whether Notre Dame will get in the College Football Playoff (it will), or whether USC will (it won't). The first hints of traditional rivalry games begin this weekend, but most of them will happen right after Thanksgiving, and the matchups we do get are circumstantially tepid. Frankly, if we were you (and believe us, nobody wants that in either direction), we'd sit out this week and wait for the last conference championships to be sorted. You won't miss much. Even the possibility of UMass (remember them?) nailing down its first bowl game since joining big-kid football is effectively over, after a 34-33 loss to lowly Akron on Wednesday. That makes us all feel like right charlies for getting our hopes up to begin with.",
           "link": "https://defector.com/its-familiar-at-the-top",
           "publishedOn": "2026-11-20T16:50:35.000Z",
-          "wordCount": 7725,
+          "wordCount": 7723,
           "title": "It’s Familiar At The Top",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2304872556.jpg"
         },
@@ -485,29 +495,9 @@
           "description": "It is becoming physically painful to watch Alexander Ovechkin play hockey. In this, his 22nd and final NHL season, all at once he has started to look his age. He hasn't been the most ... let's say ambulatory skater for years now, but he had somehow found ways to defy the calendar and continue to put up 30- and 40-goal seasons. That magic has run out. With just one goal in 20 games this season, none in his last 15, the NHL's greatest scorer is in the longest goal drought of his career.\nOver the last few years, Ovechkin's game has contracted to encompass only his shot. That snipe from the circle hadn't abandoned him, even as his footspeed did—he's the slowest forward in the league by both average and top skating speed. As long as he was scoring, it was easier to ignore, if still a little upsetting for anyone who remembers the freight train he was in his youth. But the shot's gone too, at least over the first quarter of the season. \"Chances are there,” Ovechkin insisted Thursday night, after Washington's 6-3 home loss to Buffalo. “Sometimes you hold stick too tight.\"\nWithout the goals, what's left is a large old man, skating stiffly and slowly up and down the neutral zone, waiting for his teammates to make something happen, because he can't backcheck, and he can't go coast to coast anymore. Against the Sabres, with the game already well out of hand, he was chased down from behind on a potential 2-on-1. An unmistakable sign it's time to hit the exits.",
           "link": "https://defector.com/alex-ovechkin-is-a-tough-watch-these-days",
           "publishedOn": "2026-11-20T15:47:54.000Z",
-          "wordCount": 5024,
+          "wordCount": 5022,
           "title": "Alex Ovechkin Is A Tough Watch These Days",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2305381407.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=242401",
-          "author": "Harry Krinsky",
-          "description": "Welcome to The Friday Chart, in which Defector contributor Harry Krinsky attempts to turn whatever’s been going on in his head lately into a chart.",
-          "link": "https://defector.com/the-friday-chart-dont-get-nerfed",
-          "publishedOn": "2026-11-20T15:26:54.000Z",
-          "wordCount": 2731,
-          "title": "The Friday Chart: Don’t Get Nerfed",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/longverprom.png"
-        },
-        {
-          "id": "https://defector.com/?p=242287",
-          "author": "Sabrina Imbler",
-          "description": "The winsome fly Istocheta aldrichi does not appear very winsome, unless you are also a fly. The fly looks like any other of its kind, with eyes as red as goji berries and a coat of horrible hairs. It is about the size of a housefly, and you probably would not be able to distinguish it from its more common counterpart if you saw one buzzing around your kitchen.\nFortunately for you, however, the winsome fly has no interest in you and your humble human existence. The winsome fly is a parasitoid, and it only has big red eyes for the Japanese beetle, Popillia japonica. The Japanese beetle is the winsome fly's only known host, which explains in part why the fly above is staring so intently at the beetles. But the winsome fly has a trick up its hairy little sleeve. It has learned that the easiest way to parasitize the poor beetle is when the bug is at its most vulnerable, meaning when she is doing it—a beetle caught in the throes of beetle passion, an insect in flagrante delicto—per a new paper recently published in Biology Letters.\n\"Don't mind if I do!\"",
-          "link": "https://defector.com/mind-if-i-join",
-          "publishedOn": "2026-11-20T14:51:27.000Z",
-          "wordCount": 5899,
-          "title": "“Mind If I Join?”",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/DI-TACH-IST-ALD-24v_JMDS_2-e1795210352439.jpeg"
         }
       ]
     },
@@ -522,7 +512,7 @@
           "description": "Why did I write a new caching library, and how does it work?",
           "link": "https://alexwlchan.net/2026/funkycache/",
           "publishedOn": "2026-11-16T08:01:35.000Z",
-          "wordCount": 1944,
+          "wordCount": 1935,
           "title": "funkycache: a Python library to cache functions in SQLite",
           "imageUrl": "https://alexwlchan.net/images/cards/2026/funkycache.png"
         }
@@ -574,31 +564,11 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
-          "author": null,
-          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
-          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-11-22T14:04:07.239Z",
-          "wordCount": 177,
-          "title": "California is on fire and these people are profiting off it",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
-          "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-11-22T14:04:07.221Z",
-          "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
           "author": null,
           "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
           "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-11-22T14:04:07.216Z",
+          "publishedOn": "2026-11-22T21:32:30.018Z",
           "wordCount": 177,
           "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
@@ -608,9 +578,19 @@
           "author": null,
           "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
           "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-11-22T14:04:07.212Z",
+          "publishedOn": "2026-11-22T21:32:30.007Z",
           "wordCount": 177,
           "title": "Andrew Luck is just another bureaucrat now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php-full",
+          "author": null,
+          "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
+          "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
+          "publishedOn": "2026-11-22T21:32:30.004Z",
+          "wordCount": 177,
+          "title": "California is on fire and these people are profiting off it",
           "imageUrl": null
         },
         {
@@ -618,29 +598,9 @@
           "author": null,
           "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
           "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-11-22T14:04:07.203Z",
+          "publishedOn": "2026-11-22T21:32:30.003Z",
           "wordCount": 177,
           "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
-          "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-11-22T14:04:07.191Z",
-          "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
-          "author": null,
-          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
-          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-11-22T14:04:07.188Z",
-          "wordCount": 177,
-          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
           "imageUrl": null
         },
         {
@@ -648,9 +608,39 @@
           "author": null,
           "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
           "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-11-22T14:04:07.165Z",
+          "publishedOn": "2026-11-22T21:32:30.001Z",
           "wordCount": 177,
           "title": "San Francisco's best hotel cannot be killed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "author": null,
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-11-22T21:32:29.997Z",
+          "wordCount": 177,
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
+          "author": null,
+          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
+          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
+          "publishedOn": "2026-11-22T21:32:29.983Z",
+          "wordCount": 177,
+          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
+          "author": null,
+          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
+          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
+          "publishedOn": "2026-11-22T21:32:29.979Z",
+          "wordCount": 177,
+          "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
@@ -658,19 +648,9 @@
           "author": null,
           "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
           "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-11-22T14:04:07.161Z",
+          "publishedOn": "2026-11-22T21:32:29.972Z",
           "wordCount": 177,
           "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/californios-review-22484061.php-full",
-          "author": null,
-          "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
-          "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-11-22T14:04:07.141Z",
-          "wordCount": 177,
-          "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
           "imageUrl": null
         },
         {
@@ -678,9 +658,19 @@
           "author": null,
           "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
           "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-11-22T14:04:07.135Z",
+          "publishedOn": "2026-11-22T21:32:29.950Z",
           "wordCount": 177,
           "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/californios-review-22484061.php-full",
+          "author": null,
+          "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
+          "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
+          "publishedOn": "2026-11-22T21:32:29.949Z",
+          "wordCount": 177,
+          "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
           "imageUrl": null
         },
         {
@@ -688,19 +678,9 @@
           "author": null,
           "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
           "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
-          "publishedOn": "2026-11-22T14:04:07.134Z",
+          "publishedOn": "2026-11-22T21:32:29.934Z",
           "wordCount": 177,
           "title": "Everybody hates Pat McAfee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full",
-          "author": null,
-          "description": "Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.\n\nIt’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…",
-          "link": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php",
-          "publishedOn": "2026-11-22T14:04:07.133Z",
-          "wordCount": 177,
-          "title": "A visit to author Amy Tan’s gorgeous Sausalito home",
           "imageUrl": null
         },
         {
@@ -708,7 +688,7 @@
           "author": null,
           "description": "A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?\n\nReader, fear not. I am a licensed journaltician, and I have a penis o…",
           "link": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php",
-          "publishedOn": "2026-11-22T14:04:07.129Z",
+          "publishedOn": "2026-11-22T21:32:29.932Z",
           "wordCount": 177,
           "title": "It turns out Jensen Huang is just as awful as the other tech overlords",
           "imageUrl": null
@@ -718,9 +698,19 @@
           "author": null,
           "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
           "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
-          "publishedOn": "2026-11-22T14:04:07.127Z",
+          "publishedOn": "2026-11-22T21:32:29.925Z",
           "wordCount": 177,
           "title": "I've got some demands for our new woke overlords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full",
+          "author": null,
+          "description": "Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.\n\nIt’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…",
+          "link": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php",
+          "publishedOn": "2026-11-22T21:32:29.921Z",
+          "wordCount": 177,
+          "title": "A visit to author Amy Tan’s gorgeous Sausalito home",
           "imageUrl": null
         }
       ]
@@ -736,7 +726,7 @@
           "description": "It seems that the principle of kicking the ball out onto the fairway has many applications beyond the golf course.",
           "link": "https://www.esquire.com/news-politics/politics/a74493861/trump-golf-irs-payout/",
           "publishedOn": "2026-11-20T20:56:06.000Z",
-          "wordCount": 24471,
+          "wordCount": 24491,
           "title": "Why the Hell Did Trump’s Golfing Buddy Get a $500,000 Payout from the IRS?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/372f51db-9498-4dd2-8d6b-bd775776cc4f.jpeg?crop=1xw:0.750195618153xh;center,top&resize=1200:*"
         },
@@ -876,7 +866,7 @@
           "description": "As a fellow MTV veteran, I recognize that the transportation secretary has been practicing for this moment since his Real World days.",
           "link": "https://www.esquire.com/news-politics/a74442820/sean-duffy-mtv-real-world-faa-ground-stoppage/",
           "publishedOn": "2026-11-16T19:29:42.000Z",
-          "wordCount": 20615,
+          "wordCount": 21547,
           "title": "Sean Duffy Is a Perfect Reality-TV Politician. Too Bad for America.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/71780734-0be7-437d-bf52-b76c334e373f.jpeg?crop=1xw:0.75xh;0xw,0.195xh&resize=1200:*"
         },
@@ -1002,22 +992,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!GhvD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39ae152b-fa1e-4c52-a3a3-9eca194d8e41_1024x1024"
-        },
-        {
-          "id": "https://www.flowstate.fm/p/fling-ii",
-          "author": "Flow State",
-          "description": "Today we’re listening to Fling II, an American kosmische band formed in Ann Arbor, Michigan.",
-          "link": "https://www.flowstate.fm/p/fling-ii",
-          "publishedOn": "2026-11-13T08:03:19.000Z",
-          "wordCount": null,
-          "title": "Fling II",
-          "itunes": {},
-          "enclosure": {
-            "url": "https://substackcdn.com/image/fetch/$s_!UcaA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ca0b03b-8e8a-4399-b0f1-c5423940a7f4_1200x1200.jpeg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!UcaA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ca0b03b-8e8a-4399-b0f1-c5423940a7f4_1200x1200.jpeg"
         }
       ]
     },
