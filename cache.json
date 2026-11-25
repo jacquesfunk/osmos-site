@@ -133,12 +133,32 @@
       "siteUrl": "https://planet.emacslife.com/",
       "articles": [
         {
+          "id": "https://ray-on-emacs.blogspot.com/2026/11/follow-up-to-windmove.html",
+          "author": null,
+          "description": "1  I described the way the windmove\nfunctions facilitate moving point among windows, as well as deleting\nwindows.  But I didn't mention that you can specify the window that\nwill display a buffer.\n\n\n\nIn the simplest scenario, I might be writing about an Emacs feature\nand have a single window open.  I'd like to visit my init file in\nanother window.  Typically I'd press C-x 4 f, which runs the command\nfind-file-other-window, and then\nenter ~/.emacs at the prompt.  Emacs creates a new window\nand fills the buffer with the .emacs file.\n\n\n\nWhere does this window appear?  It depends on the size of the frame.\nGenerally if the frame is taller than it is wide, the frame will be\nsplit horizontally, and the visited file will be placed in the lower\nwindow.  Otherwise, the split is vertical and the visit…",
+          "link": "https://ray-on-emacs.blogspot.com/2026/11/follow-up-to-windmove.html",
+          "publishedOn": "2026-11-24T19:36:58.573Z",
+          "wordCount": 3056,
+          "title": "Raymond Zeitler: Follow up to windmove",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu1v-zUM5bv3nAgigDNI3U-4zjyPleHp4xFO0lsAfBs5N5Bi7Sh9XSYjQWda-PTMyRUg6fvcqckXyI3GHbDxXUP0c95C3CF_XTQBBGu2U0HHLF2TrcNg-FZyCac24yBZGZXbYjfHv_xKYNCIBuAepyTfEYGsImCm_toRgt26zn-oCcC7SjH4BrwVNbeWA/w1200-h630-p-k-no-nu/wmd-find-file.gif"
+        },
+        {
+          "id": "https://irreal.org/blog/?p=14238",
+          "author": null,
+          "description": "Planet Emacslife. There were three posts, two of which Sacha has already covered in this week’s Emacs News. The third is an in-depth tour of Magit.\n\n\nIt’s a nice post. Even though I use Magit several times a day, I still learned a couple of new things. Murad discusses:\n\n\nInstallation\nThe Status buffer\nThe ? key to get help\nStaging hunks instead of the whole file\nThe various type of commits\nThe log functions\nBlame\nStashing\nInteractive rebasing\nResolving merge conflicts\nThe Forge interface",
+          "link": "https://irreal.org/blog/?p=14238",
+          "publishedOn": "2026-11-24T14:47:29.000Z",
+          "wordCount": 1332,
+          "title": "Irreal: Magit Tour",
+          "imageUrl": null
+        },
+        {
           "id": "https://list.orgmode.org/CA+hmBpOa8JyrGsMuwSj2-iaoAXTX_f8+qcAwrx7uHm-QwaVhZg@mail.gmail.com",
           "author": null,
-          "description": "[request] flags:--- replies:1",
+          "description": "[request] flags:--- replies:2",
           "link": "https://list.orgmode.org/CA+hmBpOa8JyrGsMuwSj2-iaoAXTX_f8+qcAwrx7uHm-QwaVhZg@mail.gmail.com",
           "publishedOn": "2026-11-23T23:48:37.000Z",
-          "wordCount": 339,
+          "wordCount": 344,
           "title": "Org Mode requests: [FR] images yanked with 'yank-media' does not show up after an invocation of 'org-link-preview' [9.8.7 (release_9.8.7 @ /usr/share/emacs/31.1/lisp/org/)]",
           "imageUrl": null
         },
@@ -148,7 +168,7 @@
           "description": "At my day job, I use multiple Emacs frames a lot. I often work on two or sometimes even more projects in parallel, and the way I don’t get lost is that I keep every project in a separate frame. Moving between them with other-frame (C-x 5 0, which I also bound to M-) is sometimes slightly clunky – especially that from time to time I’d like to be able to see the list of all my frames and possibly select one of them. (Before you tell me that my window manager could do that, let me explain that I use terminal Emacs inside a virtual machine, so I only see one frame at a time.)",
           "link": "https://mbork.pl/2026-11-23_Improving_support_for_named_frames_in_Emacs",
           "publishedOn": "2026-11-23T20:44:48.000Z",
-          "wordCount": 493,
+          "wordCount": null,
           "title": "Marcin Borkowski: Improving support for named frames in Emacs",
           "imageUrl": null
         },
@@ -168,7 +188,7 @@
           "description": "One thing that’s annoyed me for yonks is how slow Emacs is when displaying images.  Emacs has never been fast on this point, exactly, and has gotten better over the years — but at the same time, image sizes have exploded.  In the bad old days, images were just a couple of megabytes, but with modern cameras, images can be 25MB, easily.\nSo now it’s really painful to page through directories of images:\n\nIt takes half a second for each image, and if you don’t find that annoying, you’re way more patient than I am.\nThose are from my camera, and I’ve adjusted the image size down to “just” 10MB — because it’s just too painful to deal with 25MB images all around.  For instance, when posting a 25MB file to WordPress, it uses about half a minute to scale it down to various sizes.  Not fun.\nThe Emacs …",
           "link": "https://lars.ingebrigtsen.no/2026/11/23/a-new-faster-emacs-package-to-do-image-triage/",
           "publishedOn": "2026-11-23T19:13:31.000Z",
-          "wordCount": 2066,
+          "wordCount": 2102,
           "title": "Lars Ingebrigtsen: A new, faster Emacs package to do image triage",
           "imageUrl": "https://lars.ingebrigtsen.no/wp-content/uploads/2026/11/2026-11-23-1.jpeg"
         },
@@ -188,7 +208,7 @@
           "description": "A hands-on tour of Magit, the Git interface inside Emacs: staging only some lines of a file, commits and instant fixups, log, blame, stash, interactive rebase, resolving merge conflicts with smerge and ediff, and Forge for issues and pull requests. Real screenshots and a cheat sheet.",
           "link": "https://pablomurad.com/magit-in-depth/",
           "publishedOn": "2026-11-22T21:35:00.000Z",
-          "wordCount": 11758,
+          "wordCount": 11761,
           "title": "Pablo Murad: Magit in depth: Git from inside Emacs",
           "imageUrl": "https://pablomurad.com/img/WsyIr5ZMZ7-1200.jpeg"
         },
@@ -208,7 +228,7 @@
           "description": "Ray on Emacs, Ray Zeitler writes about moving among windows\n. It was a nostalgic moment for me because\nother-window\nCtrl+x o) is that you may have to invoke it several times and, as Zeitler says, you can easily overshoot your target.\n\n\nThe next step in my journey—and apparently in Zeitler’s—was the discovery of Windmove. It allows you to use the arrow keys with (by default) the Shift key to move through the windows in a two-dimensional way. It’s a big improvement over the standard other-window command but it does interfere with certain Org bindings.\n\n\nThe next step in my journey was the discovery of abo-abo’s excellent ace-window package. It allows you to easily move among windows as well as perform many other actions such as splitting, deleting, moving, and copying windows. You can see a complete list at the link. To be honest, I use it almost exclusively for changing focus to another window. It works just like abo-abo’s other ace functions. You invoke it (I use Ctrl+x o to leverage my muscle memory) and the windows are labeled. Then you merely choose the label of the window to want to move to. As as added feature, if there are only two windows, it simply moves to the other window without the need for further input. You can also precede the command with the universal argument and it will swap the windows instead of simply moving to the target window.\n\n\nAll-in-all, ace-window is the best package I’ve found for window control. Perhaps it will be the next step on Zeitler’s journey too.",
           "link": "https://irreal.org/blog/?p=14234",
           "publishedOn": "2026-11-22T15:38:31.000Z",
-          "wordCount": 1490,
+          "wordCount": 1485,
           "title": "Irreal: Moving Among Windows",
           "imageUrl": null
         },
@@ -218,7 +238,7 @@
           "description": "0\n\n\n\n  Recently I came across the windmove functions1.  This discovery\ncaused me to lose interest in bookmarks; now bookmarks are a mere\ncuriosity.\n\n\n\nThe windmove functions allow you to \"operate\" on a window; the\ntarget window is given as a direction relative to point.\nOperations include:\n\n\nselection, like next-window, but direction overrides window order\ndeletion, like delete-window, but direction indicates the window\nto delete\nbuffer display (not yet in use by the author)\nS-<left>, S-<right>, \nS-<up>, S-<down> for window\nselection.  For example, you can activate the window on the left with\nwindmove-left or S-<left>.\n\n\n\nOrg users already press S-<left>\n(and S-<right>) on a heading to change TODO status.\nAs well, we press S-<up>\n(and S-<down>) to increase (decrease) a heading's\npriority.  Luckily, it's easy to specify a different modifier key.  I\nconfigured my system to make windmove-dir respond to\nM-s-<dir>2 with the following statement:\n\n\n\n(windmove-default-keybindings '(meta super))\n\nwindmove-delete-left.  I've\ndefined C-M-s-<dir>3 for the\nwindmove-delete-dir functions by adding this to my init file:\n\n\n\n(windmove-delete-default-keybindings '(control meta super))\n\nother-window (C-x o), sometimes\n\"overshooting\" the desired window, or I'd resort to using the mouse\nto click in it.  Now with this intuitive method of selecting\nwindows, I can keep my hands on the keyboard and spend less time\nfiguring out how to get around.\n\n\n\nTry it out!\n\n\n\n  0 See: https://ray-on-emacs.blogspot.com/2026/11/emacs-carnival-november-2026.html\n\n\n\n  1 Emacs windmove help page\n\n\n\n  2 On Windows, I hold down the Alt and Win keys while pressing an\narrow key.\n\n\n\n  3 As above, but additionally with the Control key.  It's\nsurprisingly easy, in fact.",
           "link": "https://ray-on-emacs.blogspot.com/2026/11/emacs-windows-management-with-windmove.html",
           "publishedOn": "2026-11-21T16:12:27.484Z",
-          "wordCount": 3628,
+          "wordCount": 3634,
           "title": "Raymond Zeitler: Emacs Windows Management With windmove",
           "imageUrl": null
         },
@@ -228,7 +248,7 @@
           "description": "The Art Of Not Asking Why reminds us of a very useful technique for iteratively searching through a series of files for those that contain a given set of terms. The process if simple but very flexible:\n\n\nOpen a Dired buffer with the files you want to search.\nUse %g to do a regular expression search through the files for one of the terms. The files containing the term will be marked.\nUse t to toggle the marks, resulting in all the files that don’t contain the term being marked.\nUse k to temporarily hide the marked files, leaving only those that contain the term.\nGo to step 2 using the next term.\nA command to search through the contents of the marked files and show the results in another buffer.\n\n\nThe nice thing about this method is that it’s interactive: you progressively narrow down the list of target files by eliminating files that don’t contain the terms your looking for. You can, as JTR says, even manually eliminate files that you don’t want to consider as you go along. It’s a good technique and worth remembering.",
           "link": "https://irreal.org/blog/?p=14232",
           "publishedOn": "2026-11-21T16:12:19.000Z",
-          "wordCount": 1436,
+          "wordCount": 1431,
           "title": "Irreal: Manual Dired Search",
           "imageUrl": null
         },
@@ -238,7 +258,7 @@
           "description": "A complete walkthrough of the three big ways to keep linked notes in Emacs: Denote, which puts everything in the file name, org-roam, with its SQLite index and heading-level nodes, and org-node, fast and database-free. Configs, real screenshots, how to pick and a cheat sheet.",
           "link": "https://pablomurad.com/linked-notes-emacs-denote-org-roam-org-node/",
           "publishedOn": "2026-11-21T13:06:23.000Z",
-          "wordCount": 12137,
+          "wordCount": 12155,
           "title": "Pablo Murad: Linked notes in Emacs: Denote, org-roam and org-node",
           "imageUrl": "https://pablomurad.com/img/7q3_QcKQ8J-1200.jpeg"
         },
@@ -278,7 +298,7 @@
           "description": "interesting little utility. Although it’s restricted to Safari and the Mac, it’s a nice idea that could probably be ported to other operating systems without difficulty. The idea is to be able to easily move from reading a Web page generated by Techinfo to reading the same information with the Emacs Info reader.\n\n\nReading Info pages with Emacs is straightforward and comfortable but the external utilities to read them outside of Emacs are terrible. Therefore, a lot us who started with another editor learned to go to the Web first rather than try to navigate the horrible external reader packages. But, as Choi points out, recent events have shown us that we can’t always count on the Web being there for us.\n\n\nChoi’s solution to all this is the Counterpart utility that provides a menu in Safari to open the Web page’s content in Emacs. Of course, this only works for Techinfo generated content. Your immediate reaction may be, “Who cares?” but I’ve sometimes wished for something like this so that I could have the content side by side with whatever I was working on in Emacs. That also make’s it easy to copy text out of the Info buffer when you want to add a quote to whatever you’re writing.",
           "link": "https://irreal.org/blog/?p=14228",
           "publishedOn": "2026-11-19T16:08:31.000Z",
-          "wordCount": 1439,
+          "wordCount": 1434,
           "title": "Irreal: Opening Techinfo Sourced Web Pages In Emacs",
           "imageUrl": null
         },
@@ -328,7 +348,7 @@
           "description": "huge fan of Journelly, which I use many times a day as my memo book. It has many other uses so take a look at the link if you’re interested in a note taking/journaling/private tweet/memo book application. I can’t recommend it enough.\n\n\nRamírez has, of course, done many other things, many or perhaps most, in the Emacs sphere. See his site for details. In a recent post he writes about making contributions to Emacs and getting them merged. Those of you who have been down that road know that it’s hard to get started. You have to navigate the GNU copyright assignment process, which seems needlessly baroque until you remember that all this is being run by volunteers.\n\n\nYou can follow the link to find out what his contributions are. They are all live in Emacs 31 so if you are up to date they are available to you now. The main takeaway for me was the satisfaction that Ramírez got from making those contributions. None of them were huge changes and merely scratched an itch that Ramírez had. If you have a small itch that you’ve scratched, you should consider sharing it with the community. You too can become part of Emacs’ long and influential history just as Hari Seldon’s successors in the Second Foundation contributed their own additions to Seldon’s Psychohistory.",
           "link": "https://irreal.org/blog/?p=14224",
           "publishedOn": "2026-11-17T15:59:07.000Z",
-          "wordCount": 1446,
+          "wordCount": 1441,
           "title": "Irreal: Ramírez’s Emacs Contributions",
           "imageUrl": null
         },
@@ -348,7 +368,7 @@
           "description": "Last year I improved my code for copying the current location to the kill ring. Recently it occurred to me that this was not the last word. In fact, I’m pretty surprised I didn’t think of it earlier – it’s sort of obvious in hindsight. The idea is that it should copy the range of lines when the region is active.",
           "link": "https://mbork.pl/2026-11-16_Copying_the_current_location_improved_again",
           "publishedOn": "2026-11-16T21:33:34.000Z",
-          "wordCount": 768,
+          "wordCount": null,
           "title": "Marcin Borkowski: Copying the current location improved again",
           "imageUrl": null
         },
@@ -358,7 +378,7 @@
           "description": "made EWW his default browswer. That means that whenever he clicks on a URL and certain other links, the link is opened in EWW or—for special links—in another application that runs in Emacs. The point is, all browser activity starts in Emacs, usually in EWW.\n\n\nOf course, Emacs can’t handle every browsing task so Blais uses the & key in EWW to escape to a “normal” browser. Blais says that EWW suffices for 85–90 percent of his use cases. He has some functions to kick off Emacs apps for MP4, PDF, and other specialized links. Everything else goes to EWW. He’s added a couple of custom bindings for EWW functions he uses a lot but it’s mostly a normal EWW instance.\n\n\nBlais’ experiment shows that it is possible to almost browse from within Emacs. Sites that rely on JavaScript in an essential way are not going to work of course, and there are still a lot sites that insist on JavaScript so they can enforce the delivery of ads or implement a pay wall. Blais’ method gives us a chance to consider if those sites are worth viewing.",
           "link": "https://irreal.org/blog/?p=14222",
           "publishedOn": "2026-11-16T15:42:36.000Z",
-          "wordCount": 1518,
+          "wordCount": 1513,
           "title": "Irreal: EWW As The Default Buffer",
           "imageUrl": null
         },
@@ -398,7 +418,7 @@
           "description": "journey from Vim to Emacs. Actually, his journey was from Nano to Emacs by way of Vim. When he first started using Linux, Nano was the default editor and he began with that. Eventually he wanted more power and because Vim seemed more popular in the forums he inhabited, he learned Vim. He really like it and the power that it brought him was an eyeopener.\n\n\nHe experimented with other Vim-like implementations but they didn’t work for him so he stuck with Vim. Eventually he tried Emacs and almost immediately became a convert. Like me, he jumped right in and didn’t try to use Evil or some other Vim emulation. Like many of us, he loved the experience and now wants to do as much as he can in Emacs.\n\n\nAs always, a lot of the action is in the comments. Many said that immigrants from Vim should use Evil because it gives you the best of both worlds: the modal, composable editing commands of Vim and the power and flexibility of Emacs. Others said that Evil induces a sort of cognitive dissonance where neither system is fully in control.\n\n\nThere is, of course, the occasional post proclaiming loudly that Emacs is no good because it uses  Lisp with all those parentheses. The ankle biting aside, the comments offer an intelligent and useful commentary on Sahkopi4’s journey.",
           "link": "https://irreal.org/blog/?p=14220",
           "publishedOn": "2026-11-15T15:58:46.000Z",
-          "wordCount": 1444,
+          "wordCount": 1439,
           "title": "Irreal: Vim To Emacs",
           "imageUrl": null
         }
@@ -410,12 +430,72 @@
       "siteUrl": "https://defector.com/",
       "articles": [
         {
+          "id": "https://defector.com/?p=242759",
+          "author": "Ray Ratto",
+          "description": "The Protect College Sports Act is a bad idea that seems stalled in Congress, and now we're finding out that the things most endangering college sports are coming from inside the house. In this case, the house in question is in Ann Arbor, Michigan, where ESPN's Pete Thamel reported that Trev Alberts, who was hired last week as the University of Michigan's athletic director, has now been un-hired for that role.\nYes, Alberts has apparently been fired before being hired as the Michigan AD, which may not quite be unprecedented but is inarguably damned weird. What made Michigan reverse course was that Alberts was the AD at Nebraska when Ashley Scoggin, a women's basketball player, sued the school in 2024 after being kicked off the team because of an alleged sexual relationship with assistant coach Chuck Love. Alberts was specifically named in the lawsuit for supporting the head coach's decision, not adequately addressing the assistant's misconduct, and, in a meeting with Scoggin's parents, supporting the decision to kick Scoggin off the team for dishonesty rather than dealing with the allegation of Love's misconduct. Alberts has denied those allegations in a court filing opposing the suit, but the baggage he would have brought to his new job, so soon after Michigan's issues with former football coach Sherrone Moore, seems to have given the school's administrators enough pause to bail on Alberts.\nThe sidebar here is that Alberts already signed a memorandum of understanding that he would be paid $17.2 million over the next five years. According to ESPN, Alberts' lawyer Tom Mars claimed that Alberts, who pronounced himself \"shocked and disheartened\" at the news, has not been given a reason for the school pulling out. Mars also maintained that there was no reference in the MOU to a background check. In other words, the fight isn't over the job but the money. Nothing says college sports quite like that last sentence.",
+          "link": "https://defector.com/michigan-pulls-offer-on-incoming-athletic-director-still-owes-him-money",
+          "publishedOn": "2026-11-24T19:36:13.000Z",
+          "wordCount": 5352,
+          "title": "Michigan Pulls Offer On Incoming Athletic Director, Still Owes Him Money",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2160326406.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=242541",
+          "author": "Diana Moskovitz",
+          "description": "When Maryland fired its head football coach last month, two student reporters decided to do their jobs. They were standing outside of the football team’s training center, asking players who walked by for comment on their coach’s firing, when someone called and reported them to the police. Student reporters Nolan Rogalski and Jude Wilkenfeld both…",
+          "link": "https://defector.com/docs-show-maryland-athletics-called-police-on-reporters-doing-their-jobs",
+          "publishedOn": "2026-11-24T19:05:25.000Z",
+          "wordCount": 6066,
+          "title": "Docs Show Maryland Athletics Called Police On Reporters Doing Their Jobs",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-1283584710-e1795407306848.jpeg"
+        },
+        {
+          "id": "https://defector.com/?p=242672",
+          "author": "Patrick Redford",
+          "description": "All of pop music can be thought of as existing on a temporal and stylistic continuum. Every up-and-coming artist is influenced to make music by the people they grew up listening to, and the truest marker of success is making music that's beloved enough to influence the next generation of musicians. In one sense, this is a straightforward description of the passage of time, but it's also the foundation of a complicated, fascinating legal space, where something like a particular yell can be thought of as proprietary. \nWhich is all to say, I find the Taylor Swift–Olivia Rodrigo songwriting credit debate, the subject of this week's episode of Only If You Get Caught, extremely fascinating. Three songs on Rodrigo's 2021 debut album Sour, all of which was written by Rodrigo and her collaborator Dan Nigro, were the subjects of post-facto songwriting credit adjustments. Swift and her collaborators are now listed as the writers of two tracks, while two members of Paramore are listed as writers on one, despite none of them actually writing any of the material. How did something that strange happen? What does it say about the way intellectual property functions in music? Can someone own elements of a song?\nWe got into all that and more with the great Nate Sloan and Charlie Harding of Switched on Pop. This week's episode is the first in a three-episode, season-ending mini arc that we are calling Who Owns An Idea? The next episode is about IP theft in fashion, while the season finale is about AI.",
+          "link": "https://defector.com/solving-the-olivia-rodrigo-taylor-swift-songwriting-credit-debate-once-and-for-all",
+          "publishedOn": "2026-11-24T18:27:29.000Z",
+          "wordCount": 4550,
+          "title": "Solving The Olivia Rodrigo–Taylor Swift Songwriting Credit Debate Once And For All",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2296595781_22baad.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=242669",
+          "author": "Patrick Redford",
+          "description": "This week's episode of Nothing But Respect marks the second straight week of interviewing the author of a landmark piece of sportswriting. This time, we were joined by James Herbert, who wrote a profile of longtime NBC investigative reporter and prolific NetsDaily blogger Bob Windrem for The Ringer, as well as longtime NBR favorite Ock Sportello, Nets fan and NetsDaily scholar. The descriptors \"NBC investigative reporter\" and \"prolific NetsDaily blogger\" both undersell Windrem. He was the first reporter to learn of Al Qaeda's role in 9/11; spent decades breaking extremely important, thorny international news stories; and also possesses perhaps the greatest corpus of knowledge on Nets of minor import, such as Sundiata Gaines, Cui Yongxi, and Milton Doyle. We spent a long time digging into the story.\nYou can find Nothing But Respect in Apple Podcasts or whatever podcast app you use. Follow the show on Instagram, and contact the Broke Jumper Tip Line at (347) 380-6426. Thanks for listening!",
+          "link": "https://defector.com/nothing-but-respect-bob-windrem-netsdaily",
+          "publishedOn": "2026-11-24T17:48:06.000Z",
+          "wordCount": 4275,
+          "title": "Unmasking The International Man Of Mystery And Nets Twitter, With James Herbert And Ock Sportello",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/bobwindrem.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=242707",
+          "author": "Lauren Theisen",
+          "description": "With under a minute to go, it looked like Washington had let the game slip through their fingers. The Cincinnati Bengals were behind 19-17 late, but they quickly got into kicking range. On second down, however, Joe Burrow lofted a pass right over the middle, and Commanders DB Rasul Douglas was in perfect position to make a clutch interception. Instead, the ball bounced off his hand, twice. To make matters worse, Douglas laid face-down on the ground in frustration after the near-pick, and the officials charged Washington with an injury timeout, their final one. They couldn't stop the clock after their third-down sack, which meant Evan McPherson's go-ahead kick passed through the uprights with only 46 seconds remaining.\nPatrick Smith/Getty Images\n\nThat was all the time that Jayden Daniels needed. Coming off a game where he threw the winning touchdown in the final minute, the Commanders QB took advantage of a prevent defense to complete two long passes over the middle, setting up Drew Stevens for the winning 26-yard kick. For the first time since the 2024 playoffs, Washington has won back-to-back games.",
+          "link": "https://defector.com/jayden-daniels-has-the-juice-again",
+          "publishedOn": "2026-11-24T16:41:38.000Z",
+          "wordCount": 5499,
+          "title": "Jayden Daniels Has The Juice Again",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2306596246_1101f6-e1795534533524.jpg"
+        },
+        {
+          "id": "https://defector.com/?p=242696",
+          "author": "Drew Magary",
+          "description": "Time for your weekly edition of the Defector Funbag. Got something on your mind? Email the Funbag. You can also read Drew over at SFGATE, and buy Drew’s books while you’re at it. Today, we're talking about hockey, Brock Purdy, the persistence of jam bands, and more.\nHappy Thanksgiving week, everybody! I hope you get where you need to go. Now for your letters:\nBryan:",
+          "link": "https://defector.com/take-out-your-airpods-you-asshole",
+          "publishedOn": "2026-11-24T16:21:17.000Z",
+          "wordCount": 11191,
+          "title": "Take Out Your AirPods, You Asshole",
+          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2214031261.jpg"
+        },
+        {
           "id": "https://defector.com/?p=242694",
           "author": "Ben Tippett",
-          "description": "The chess is back!\nReigning world chess champion Gukesh Dommaraju will take on Javokhir Sindarov for chess’s most coveted title in a 14-game head-to-head match in Geneva, Switzerland over the next two-and-a-half weeks. The new chess generation’s two most exciting superstars are set to do battle in what could be the start of a rivalry that defines the next era of our beautiful game.\nWe’ll be covering the match right here on Defector. Let’s go!",
+          "description": "The chess is back!\nReigning world chess champion Gukesh Dommaraju will take on Javokhir Sindarov for chess’s most coveted title in a 14-game head-to-head match in Geneva, Switzerland, over the next two-and-a-half weeks. The new chess generation’s two most exciting superstars are set to do battle in what could be the start of a rivalry that defines the next era of our beautiful game.\nWe’ll be covering the match right here on Defector. Let’s go!",
           "link": "https://defector.com/its-time-to-find-out-if-gukesh-dommaraju-is-still-a-champion",
           "publishedOn": "2026-11-24T13:52:38.000Z",
-          "wordCount": 8998,
+          "wordCount": 9001,
           "title": "It’s Time To Find Out If Gukesh Dommaraju Is Still A Champion",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2305858941.jpg"
         },
@@ -425,7 +505,7 @@
           "description": "The NWSL Players Association is concerned that Bay FC violated two different sections of the league’s collective bargaining agreement related to parental rights, according to PA Executive Director Meghann Burke. One of the sections is about non-discrimination, and one is about parental leave in the case that it overlaps with an expiring contract. The union is evaluating if there is enough information to file a grievance.\nOn Nov. 13, Bay announced its end-of-season roster updates. Three players who are new mothers—Caprice Dydasco, Abby Dahlkemper, and Emily Menges—were out of contract with the club and would not be re-signed. \n“On its face, we’re concerned there were three moms under contract with Bay who gave birth and were on maternity leave, and none of them are returning next season,” Burke told Defector. “Right away, that sort of raises an index of suspicion, where you try and understand what’s going on.”",
           "link": "https://defector.com/bay-fc-maternity-leave",
           "publishedOn": "2026-11-23T21:14:55.000Z",
-          "wordCount": 8480,
+          "wordCount": 8532,
           "title": "NWSL Players Association Has Concerns About Bay FC’s Treatment Of Players Who Have Taken Maternity Leave",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2191884898.jpg"
         },
@@ -435,7 +515,7 @@
           "description": "He's back! He's back, he's back, he's freaking BACK! The Josh Johnson's Race Against Time Netflix series is surely just around the corner, and all Johnson needs to get it over is land one more gig before retirement so that he can become the first player to play for half the teams in his chosen sport.\nWe have visited the topic of Johnson's peripatetic journey through professional football before, with our first celebration dating all the way back to the dying embers of the COVID era. Johnson has come and gone as needed and as usual since, and the only reason to re-dredge this particular part of the bay is that Johnson started and finished Sunday's Arizona Cardinals game at Kansas City. It went about the way it should; the Cardinals are punting the season, and got punted in turn by the Chiefs, 34-7. Nobody seemed overly troubled by either the game play or the ensuing numbers, because nobody was under the illusion that this was an especially meaningful game.\nThat very much includes the Cardinals. They are uniquely awful because they are ritually awful; having to start four quarterbacks in four weeks is some deeply and unmistakably Cardinals Stuff. That they have reached the Josh Johnson stage of their season this early is fairly Cardinals as well, but less novel. There, at least, they have plenty of company.",
           "link": "https://defector.com/its-josh-johnson-time-in-the-nfl",
           "publishedOn": "2026-11-23T19:52:23.000Z",
-          "wordCount": 5882,
+          "wordCount": 5800,
           "title": "It’s Josh Johnson Time In The NFL",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2305920076.jpg"
         },
@@ -445,69 +525,9 @@
           "description": "Two weeks after Nvidia CEO Jensen Huang was forced to admit to having conducted one of his many multiply illicit affairs with a woman accused of working as a spy for the Chinese government, 11 days after he was forced out of his position at the titanic chipmaker and tentpole of the world economy, and one week after I made a pilgrimage to the holy site in Silicon Valley where he came up with the idea for the multi-trillion dollar company, Jensen Huang is back. The Nvidia board announced on Monday morning that he would return to his position, reassuring the public and Nvidia investors that Huang's \"reinstatement poses no national security risk.\"\nMomentum had been building toward Huang's reinstatement since he was forced out. The strongest push reportedly has come from within Nvidia, which mi…",
           "link": "https://defector.com/jensen-huang-returns-to-nvidia-after-mr-market-deems-him-too-indispensable",
           "publishedOn": "2026-11-23T19:24:00.000Z",
-          "wordCount": 5642,
+          "wordCount": 5686,
           "title": "Jensen Huang Returns To Nvidia After Mr. Market Deems Him Too Indispensable",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2301295306.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=242560",
-          "author": "Giri Nathan",
-          "description": "The Boston Celtics opened the season 11-2, and everything looked green and healthy. Jayson Tatum slid back back into his perpetual \"No. 4 in MVP voting\" status, newly added Paul George was hooping as if de-aged, and head coach Joe Mazzulla's offensive philosophy looked unimpeachable (despite having often invited impeachment in postseasons past). Put the defense in rotation, find an open three, and the math will carry you to victory. Through those first 13 games, it really did. The Celtics were throwing up 43 threes a game (fifth-most in the league) and making them at 38.5 percent clip (fourth-best in the league). They looked cleaner and sharper than they did in last year's Jaylen Brown-led campaign, an even purer distillation of Mazzulla ball.\nMaybe that should have prepared fans to confront an even purer dark side of Mazzulla ball, too. Since then, the Celtics have screeched into a four-game skid: hosting the Orlando Magic, then losing on the road to the Denver Nuggets, Sacramento Kings, and Golden State Warriors by 10 points, 4 points, 1 point, and 1 point, respectively. That's cause for alarm, given that this team hasn't lost four games in a row since May 2021. Sunday's 88-87 loss to a Warriors team led in scoring by Brandin Podziemski, Gui Santos, and Charles Bassey was particularly gruesome. The Celtics led for most of the second half, but still went on to lose the game, despite the Warriors failing to score a point in the final two minutes and 30 seconds of regulation. Tatum was 0-of-7 in the second half, including an attempted game-winner over Draymond Green from the elbow.\n\nhttps://www.youtube.com/watch?v=kokqvX02DLc",
-          "link": "https://defector.com/a-shooting-slump-spells-celtic-doom",
-          "publishedOn": "2026-11-23T19:05:40.000Z",
-          "wordCount": 5250,
-          "title": "A Shooting Slump Spells Celtic Doom",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2305962958.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=242557",
-          "author": "Kathryn Xu",
-          "description": "Hey, at least it wasn't the Dodgers. It was, however, the other, generally less frightening team you might have expected: Jon Heyman reported Sunday afternoon that Tarik Skubal would be signing with the New York Mets. ESPN's Jeff Passan followed up to say that Skubal's contract will be worth $450 million over nine years, rocketing past Yoshinobu Yamamoto's 12-year, $325 million contract for the most expensive pitching contract in MLB history by total value.\nThe best comparison for Skubal is not Yamamoto but Gerrit Cole, who signed a nine-year, $324 million contract with the New York Yankees back in 2019, which, with some very hasty back-of-the-napkin inflation math, was worth around the same value as Skubal's contract today. At the time that Cole signed the contract, he was 29, a year youn…",
-          "link": "https://defector.com/tarik-skubals-huge-mets-deal-may-be-the-last-of-its-kind",
-          "publishedOn": "2026-11-23T18:47:43.000Z",
-          "wordCount": 5130,
-          "title": "Tarik Skubal’s Huge Mets Deal May Be The Last Of Its Kind",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/tarikSkubalMets.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=242558",
-          "author": "Luis Paez-Pumar",
-          "description": "While both the Drivers' and Constructors' Championships are done and dusted in the 2026 Formula 1 season—the former thanks to almost-child Kimi Antonelli's majestic season, and the latter also thanks to his Mercedes teammate George Russell—there are still important storylines to be sorted out, which now include the continuation of F1's most compelling psychodrama, featuring Russell and Max Verstappen.\nLate on Saturday night, Verstappen did what he has done in all but one of the Las Vegas Grand Prix races since it debuted in 2023: He won. Verstappen is now 3-for-4 on the Strip, only losing out in 2024 to, of all people, Russell. That part isn't particularly relevant, but it's a fun quirk to this rivalry that has become heated once more. During free practice on Friday, Verstappen overtook Russell ahead of a push lap, and when Russell tried to take the position back on the inside, the pair collided, essentially ruining that practice lap for both.\nThis infuriated Russell, who said that while \"there's nothing in the rules to say that you cannot overtake someone who is starting their lap,\" a move like Verstappen's can screw over the other driver. He went on to say that Verstappen does this all the time, to a lot of drivers, and that he's had enough of it. \"Everybody accepts it, and I am not just going to accept somebody to screw me over like this, and walk around like they are bigger and better than everyone else. Somebody has got to stand up to that guy.\"",
-          "link": "https://defector.com/max-verstappen-couldnt-pass-up-a-chance-to-bully-george-russell",
-          "publishedOn": "2026-11-23T17:20:52.000Z",
-          "wordCount": 5277,
-          "title": "Max Verstappen Couldn’t Pass Up A Chance To Bully George Russell",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2305799481.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=242556",
-          "author": "Lauren Theisen",
-          "description": "After an agonizingly long trade-demand/suspension saga that featured the former Red Wings captain fully abandoning his team a month into this season, Dylan Larkin has received his wish—mostly. As one of Kash Patel's good buddies, the disgruntled Detroiter was reportedly wielding his no-movement clause to keep the Wings from resolving his situation with a Canadian team. But a few weeks without playing hockey (or getting paid) apparently softened his stance. Larkin will be suiting up for the division rival Montreal Canadiens, and in return, Wings interim GM Shawn Horcoff got a bushel of draft picks, a backup goalie at best in Sam Montembeault, a draft-bust depth forward in Kirby Dach, and a real prospect in Michael Hage.\nIf it feels like the Habs won this trade, it's because they gave up zer…",
-          "link": "https://defector.com/dylan-larkin-demenage-a-montreal",
-          "publishedOn": "2026-11-23T16:33:40.000Z",
-          "wordCount": 5179,
-          "title": "Dylan Larkin Déménage À Montréal",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2301816562_ad32ff-e1795448431783.jpg"
-        },
-        {
-          "id": "https://defector.com/?p=242471",
-          "author": "Defector Staff",
-          "description": "It’s time to feast! On blogs! For cheap! From today until Dec. 8, you can get a three-month Defector subscription for just $5. Once you’ve handed over the $5, you are free to imagine your favorite Defector staffer striding into your home, dumping a cornucopia of blogs onto your table, and shouting, “Eat up!” What’s…",
-          "link": "https://defector.com/the-defector-fall-sale-offers-you-a-feast-of-blogs",
-          "publishedOn": "2026-11-23T16:11:24.000Z",
-          "wordCount": 3789,
-          "title": "The Defector Fall Sale Offers You A Feast Of Blogs",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/Defector-Fall-Sale-7.png"
-        },
-        {
-          "id": "https://defector.com/?p=241090",
-          "author": "Maitreyi Anantharaman",
-          "description": "Need some food for thought? Try our Monday crossword. This week's puzzle was constructed by Brandon Koppy, and edited by Hoang-Kim Vu. Brandon lives in Dripping Springs, Texas, just outside Austin, with his wife and two little girls. You can find his puzzles in The New York Times or on his blog, see17across.com. He also writes the monthly magazine's crossword at Texas Monthly.\nDefector crosswords, launched in partnership with our friends at AVCX, run every Monday. If you’re interested in submitting a puzzle to us, you can read our guidelines HERE.",
-          "link": "https://defector.com/the-crossword-nov-23-color-wheel",
-          "publishedOn": "2026-11-23T16:00:00.000Z",
-          "wordCount": 3914,
-          "title": "The Crossword, Nov. 23: Color Wheel",
-          "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-1242179161.jpg"
         }
       ]
     },
@@ -517,12 +537,22 @@
       "siteUrl": "https://alexwlchan.net/",
       "articles": [
         {
+          "id": "https://alexwlchan.net/2026/fish-scale-tiles/",
+          "author": null,
+          "description": "Arranging overlapping circles in horizontal rows gives you a pattern that looks like the skin of a fish.",
+          "link": "https://alexwlchan.net/2026/fish-scale-tiles/",
+          "publishedOn": "2026-11-24T07:44:20.000Z",
+          "wordCount": 474,
+          "title": "Drawing fish scale tiles with Python",
+          "imageUrl": "https://alexwlchan.net/images/cards/2026/fish-scale-tiles.png"
+        },
+        {
           "id": "https://alexwlchan.net/2026/funkycache/",
           "author": null,
           "description": "Why did I write a new caching library, and how does it work?",
           "link": "https://alexwlchan.net/2026/funkycache/",
           "publishedOn": "2026-11-16T08:01:35.000Z",
-          "wordCount": 1935,
+          "wordCount": 1934,
           "title": "funkycache: a Python library to cache functions in SQLite",
           "imageUrl": "https://alexwlchan.net/images/cards/2026/funkycache.png"
         }
@@ -556,7 +586,7 @@
           "description": "Once upon a time in a land called Memphis lived two greasy-headed street hustlers named Premro Smith and Marlon Jermaine Goodwin. They were small-time pimps and petty crime perpetrators, aimlessly moving through life looking for their next scheme. Until that … Continue reading →",
           "link": "https://timeisillmatic.me/2026/11/24/8ball-mjg-on-top-of-the-world-october-311995/",
           "publishedOn": "2026-11-24T11:47:39.000Z",
-          "wordCount": 4587,
+          "wordCount": 4743,
           "title": "8Ball & MJG – On Top Of The World (October 31,1995)",
           "imageUrl": "https://timeisillmatic.me/wp-content/uploads/2026/11/images.jpg"
         },
@@ -584,13 +614,13 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
           "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-11-24T14:33:31.281Z",
+          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
+          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
+          "publishedOn": "2026-11-25T00:20:59.668Z",
           "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
+          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
           "imageUrl": null
         },
         {
@@ -598,59 +628,19 @@
           "author": null,
           "description": "Wildfires are once again eating their way across California. Three fires, one near Big Sur, one enveloping Lassen and Sierra counties and one raging in Humboldt County, have burned tens of thousands of acres of land, poisoned endangered condors, and closed off various highways and state parks indefinitely. The aforementioned fires have barely been contained by authorities. When (or, *shudder*, if) the fires die down, more fires will follow in their wake. And more after that, and more after that. Wildfire is a natural part of California’s environment, and thanks to humankind’s disastrous warping of the planet’s climate, fires will only grow more widespread and destructive in the years to come.\n\nNow, woke types might tell you that all of this is bad. But what if I told you that the ongoing s…",
           "link": "https://www.sfgate.com/bayarea/article/gambling-california-wildfires-22386802.php",
-          "publishedOn": "2026-11-24T14:33:31.276Z",
+          "publishedOn": "2026-11-25T00:20:59.642Z",
           "wordCount": 177,
           "title": "California is on fire and these people are profiting off it",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full",
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
           "author": null,
-          "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
-          "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-11-24T14:33:31.273Z",
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-11-25T00:20:59.639Z",
           "wordCount": 177,
-          "title": "Why Your Team Sucks 2026: San Francisco 49ers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
-          "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-11-24T14:33:31.268Z",
-          "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-11-24T14:33:31.261Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
-          "author": null,
-          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
-          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-11-24T14:33:31.253Z",
-          "wordCount": 177,
-          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
-          "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-11-24T14:33:31.248Z",
-          "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
         },
         {
@@ -658,9 +648,19 @@
           "author": null,
           "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
           "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-11-24T14:33:31.233Z",
+          "publishedOn": "2026-11-25T00:20:59.635Z",
           "wordCount": 177,
           "title": "San Francisco's best hotel cannot be killed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "author": null,
+          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
+          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
+          "publishedOn": "2026-11-25T00:20:59.631Z",
+          "wordCount": 177,
+          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
         },
         {
@@ -668,7 +668,7 @@
           "author": null,
           "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
           "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-11-24T14:33:31.217Z",
+          "publishedOn": "2026-11-25T00:20:59.629Z",
           "wordCount": 177,
           "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
           "imageUrl": null
@@ -678,7 +678,7 @@
           "author": null,
           "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
           "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-11-24T14:33:31.197Z",
+          "publishedOn": "2026-11-25T00:20:59.624Z",
           "wordCount": 177,
           "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
           "imageUrl": null
@@ -688,9 +688,19 @@
           "author": null,
           "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
           "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-11-24T14:33:31.191Z",
+          "publishedOn": "2026-11-25T00:20:59.622Z",
           "wordCount": 177,
           "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
+          "author": null,
+          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
+          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
+          "publishedOn": "2026-11-25T00:20:59.621Z",
+          "wordCount": 177,
+          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
           "imageUrl": null
         },
         {
@@ -698,19 +708,29 @@
           "author": null,
           "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
           "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
-          "publishedOn": "2026-11-24T14:33:31.187Z",
+          "publishedOn": "2026-11-25T00:20:59.619Z",
           "wordCount": 177,
           "title": "I've got some demands for our new woke overlords",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full",
+          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
           "author": null,
-          "description": "Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.\n\nIt’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…",
-          "link": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php",
-          "publishedOn": "2026-11-24T14:33:31.184Z",
+          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
+          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
+          "publishedOn": "2026-11-25T00:20:59.618Z",
           "wordCount": 177,
-          "title": "A visit to author Amy Tan’s gorgeous Sausalito home",
+          "title": "I found one of America's best croissants in San Francisco",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
+          "author": null,
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-11-25T00:20:59.616Z",
+          "wordCount": 177,
+          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -718,7 +738,7 @@
           "author": null,
           "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
           "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
-          "publishedOn": "2026-11-24T14:33:31.179Z",
+          "publishedOn": "2026-11-25T00:20:59.613Z",
           "wordCount": 177,
           "title": "Everybody hates Pat McAfee",
           "imageUrl": null
@@ -728,9 +748,19 @@
           "author": null,
           "description": "A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?\n\nReader, fear not. I am a licensed journaltician, and I have a penis o…",
           "link": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php",
-          "publishedOn": "2026-11-24T14:33:31.167Z",
+          "publishedOn": "2026-11-25T00:20:59.608Z",
           "wordCount": 177,
           "title": "It turns out Jensen Huang is just as awful as the other tech overlords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full",
+          "author": null,
+          "description": "Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.\n\nIt’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…",
+          "link": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php",
+          "publishedOn": "2026-11-25T00:20:59.599Z",
+          "wordCount": 177,
+          "title": "A visit to author Amy Tan’s gorgeous Sausalito home",
           "imageUrl": null
         }
       ]
@@ -741,12 +771,62 @@
       "siteUrl": "https://www.esquire.com/news-politics/",
       "articles": [
         {
+          "id": "http://www.esquire.com/news-politics/politics/a74524041/smithsonian-plan-laptop-screenshot-propublica-report/",
+          "author": null,
+          "description": "In Washington, the mic is always hot, the camera is always on, and the person next to you on the subway has ProPublica’s phone number.",
+          "link": "https://www.esquire.com/news-politics/politics/a74524041/smithsonian-plan-laptop-screenshot-propublica-report/",
+          "publishedOn": "2026-11-24T21:56:39.000Z",
+          "wordCount": 19836,
+          "title": "If You’re Trying to Dismantle the Smithsonian As We Know It, Maybe Don’t Open the Plan on Your Laptop in Public",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f3edd45a-b0a9-4a40-b732-a3c3af7d38b3.jpeg?crop=1xw:0.749920961113xh;center,top&resize=1200:*"
+        },
+        {
+          "id": "http://www.esquire.com/news-politics/politics/a74521237/army-detonation-toxic-smoke-iowa-thanksgiving/",
+          "author": null,
+          "description": "Try to keep Meemaw indoors and out of the whiskey.",
+          "link": "https://www.esquire.com/news-politics/politics/a74521237/army-detonation-toxic-smoke-iowa-thanksgiving/",
+          "publishedOn": "2026-11-24T17:30:41.000Z",
+          "wordCount": 19454,
+          "title": "That Army Facility in Iowa Has a Thanksgiving Present for Locals: A Deadly Plume of Toxic Smoke from a Planned Detonation",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/16340512-620e-47d4-b369-a45fd0ece40a.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
+        },
+        {
+          "id": "http://www.esquire.com/news-politics/a74457759/data-centers-electricity-explained/",
+          "author": null,
+          "description": "AI companies are facing political backlash, but they’re staring down an even bigger problem as they look to take over the world.",
+          "link": "https://www.esquire.com/news-politics/a74457759/data-centers-electricity-explained/",
+          "publishedOn": "2026-11-24T17:22:58.000Z",
+          "wordCount": 21640,
+          "title": "The Inconvenient Truth About the Electricity AI Requires",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/441ed568-9ffb-4613-994e-86fcf0a7f246.jpeg?crop=1xw:0.792xh;0xw,0.12xh&resize=1200:*"
+        },
+        {
+          "id": "http://www.esquire.com/news-politics/politics/a74520778/southern-louisiana-ice-processing-center-lawsuit/",
+          "author": null,
+          "description": "There must be public atonement for the criminal bastards who have allowed places like it to exist in our country.",
+          "link": "https://www.esquire.com/news-politics/politics/a74520778/southern-louisiana-ice-processing-center-lawsuit/",
+          "publishedOn": "2026-11-24T17:08:19.000Z",
+          "wordCount": 18961,
+          "title": "This Depraved Louisiana ICE Facility Is Essentially an American Concentration Camp",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b918364c-de9d-4980-8226-a836a279aa6c.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
+        },
+        {
+          "id": "http://www.esquire.com/news-politics/politics/a74520318/dnc-democratic-presidential-debates-2027-schedule/",
+          "author": null,
+          "description": "Can’t we savor the midterm results a bit longer?",
+          "link": "https://www.esquire.com/news-politics/politics/a74520318/dnc-democratic-presidential-debates-2027-schedule/",
+          "publishedOn": "2026-11-24T16:06:38.000Z",
+          "wordCount": 18298,
+          "title": "I’m Already Exhausted Just Looking at the Democratic Presidential Primary Debate Schedule",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/622b6ec1-afad-4e79-8e01-94fd18c68a41.jpeg?crop=1xw:0.758980785297xh;center,top&resize=1200:*"
+        },
+        {
           "id": "http://www.esquire.com/news-politics/politics/a74510795/jensen-huang-nvidia-trump/",
           "author": null,
           "description": "Why else would the president involve himself so conspicuously?",
           "link": "https://www.esquire.com/news-politics/politics/a74510795/jensen-huang-nvidia-trump/",
           "publishedOn": "2026-11-23T19:14:50.000Z",
-          "wordCount": 20436,
+          "wordCount": 20607,
           "title": "I’m Sure Jensen Huang’s Reinstatement Has Nothing to Do with His $25 Million Donation to Trump’s Ballroom",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/28b9aa1b-db40-4ae9-9bee-1b58c55b216b.jpeg?crop=1xw:0.721420432966xh;center,top&resize=1200:*"
         },
@@ -766,7 +846,7 @@
           "description": "Conservative Republicans and their oligarchical allies are getting everything they want out of a bipartisan bill that could walk back important environmental laws.",
           "link": "https://www.esquire.com/news-politics/politics/a74508280/bipartisan-american-affordability-and-jobs-act-environmental-laws/",
           "publishedOn": "2026-11-23T15:55:07.000Z",
-          "wordCount": 19323,
+          "wordCount": 19354,
           "title": "Well, It Sure Seems Like Mitigating Climate Change Is No Longer a Concern for Democrats",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2f47864a-0438-4152-af50-d346b15e3c1e.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -826,7 +906,7 @@
           "description": "The explosion will apparently create a “dust plume containing lead.” Nice.",
           "link": "https://www.esquire.com/news-politics/politics/a74478089/toxic-explosion-iowa-army-base/",
           "publishedOn": "2026-11-19T16:16:05.000Z",
-          "wordCount": 19502,
+          "wordCount": 19499,
           "title": "An Army Facility in Iowa Plans to Detonate Toxic Materials, Which Is Just Great News for the People and Animals Who Live Nearby",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b65954cd-4fd8-4db0-930b-32149c5277b3.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -846,7 +926,7 @@
           "description": "Alaska was finally called for Mary Peltola. I sure hope Hakeem Jeffries, the soon-to-be Speaker of the House, knows what to do with his majority.",
           "link": "https://www.esquire.com/news-politics/politics/a74469738/mary-peltola-hakeem-jeffries-wins/",
           "publishedOn": "2026-11-18T21:30:41.000Z",
-          "wordCount": 19439,
+          "wordCount": 19436,
           "title": "As More Wins for Democrats Roll In, We Must Remind Ourselves That the Fight Is Still Ahead",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/70a2d0be-3611-42df-b737-773f35eae49b.jpeg?crop=1xw:0.749063670412xh;center,top&resize=1200:*"
         },
@@ -856,7 +936,7 @@
           "description": "Hung Cao’s confirmation hearing went just about as badly as any I’ve ever seen.",
           "link": "https://www.esquire.com/news-politics/politics/a74466680/hung-cao-navy-secretary-confirmation-hearing/",
           "publishedOn": "2026-11-18T19:03:40.000Z",
-          "wordCount": 21311,
+          "wordCount": 21314,
           "title": "To No One’s Surprise, Trump’s Handpicked Navy Secretary Is Just as Incompetent and Heartless as He Is",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6ac1f5cc-b624-4ffc-be7b-21b51fc71ea2.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -886,7 +966,7 @@
           "description": "You’ll never guess whose name also came up.",
           "link": "https://www.esquire.com/news-politics/politics/a74455869/epstein-financials-deutsche-bank-leak/",
           "publishedOn": "2026-11-17T18:51:50.000Z",
-          "wordCount": 19729,
+          "wordCount": 19726,
           "title": "Leaked Bank Documents Have Just Revealed the Staggering Extent of Epstein’s Shady Finances",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c277dc65-cde7-4e16-98a5-aa35a1c4aec8.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -906,7 +986,7 @@
           "description": "The newly elected senators are looking toward someone else entirely—and history might be on their side.",
           "link": "https://www.esquire.com/news-politics/politics/a74444650/chuck-schumer-senate-majority-leader/",
           "publishedOn": "2026-11-16T22:34:40.000Z",
-          "wordCount": 20423,
+          "wordCount": 21118,
           "title": "Turns Out Chuck Schumer’s Bid for Senate Majority Leader Isn’t as Done a Deal as We Thought",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0c2e4348-26b3-4669-a470-d3fe977c9e68.jpeg?crop=1xw:0.750074693756xh;center,top&resize=1200:*"
         },
@@ -916,7 +996,7 @@
           "description": "As a fellow MTV veteran, I recognize that the transportation secretary has been practicing for this moment since his Real World days.",
           "link": "https://www.esquire.com/news-politics/a74442820/sean-duffy-mtv-real-world-faa-ground-stoppage/",
           "publishedOn": "2026-11-16T19:29:42.000Z",
-          "wordCount": 20612,
+          "wordCount": 20615,
           "title": "Sean Duffy Is a Perfect Reality-TV Politician. Too Bad for America.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/71780734-0be7-437d-bf52-b76c334e373f.jpeg?crop=1xw:0.75xh;0xw,0.195xh&resize=1200:*"
         },
@@ -1055,16 +1135,6 @@
           "wordCount": 2716,
           "title": "Cost Of Goods",
           "imageUrl": "https://foxtrot.com/wp-content/uploads/2026/10/ft261122-foxtrot-comics-bill-amend-cost-of-goods-math-test-studying-paige-fox-sunday-comic-strip.png"
-        },
-        {
-          "id": "https://foxtrot.com/?p=6364",
-          "author": "Bill Amend",
-          "description": "FoxTrot by Bill Amend | November 15, 2026",
-          "link": "https://foxtrot.com/2026/11/15/crunch-time/?utm_source=rss&utm_medium=rss&utm_campaign=crunch-time",
-          "publishedOn": "2026-11-15T06:01:00.000Z",
-          "wordCount": 2679,
-          "title": "Crunch Time",
-          "imageUrl": "https://foxtrot.com/wp-content/uploads/2026/10/ft261115-foxtrot-comics-bill-amend-crunch-time-lotr-frodo-baggins-sunday-comic-strip.png"
         }
       ]
     },
