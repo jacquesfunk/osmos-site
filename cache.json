@@ -6,6 +6,26 @@
       "siteUrl": "https://baty.net/index.xml",
       "articles": [
         {
+          "id": "https://baty.net/journal/26Nov26/",
+          "author": null,
+          "description": "Here's something I don't like admitting: When I search with some non-AI search engine (e.g. StartPage or DDG), I'm like, \"Ugh! I don't want to dig through all this. Just give me the answer. Like Google does!\" I hate this.\n✍️ Reply by email",
+          "link": "https://baty.net/journal/26Nov26/",
+          "publishedOn": "2026-11-26T11:18:15.000Z",
+          "wordCount": 178,
+          "title": "Thursday, November 26, 2026",
+          "imageUrl": "https://baty.net/img/2026/20261126-not-available.webp"
+        },
+        {
+          "id": "https://baty.net/journal/25Nov26/",
+          "author": null,
+          "description": "Alice doing that roll-on-her-back thing\nSTATUS: Waffling\nWATCHING: Last One Laughing UK - hilarious!\nREADING: Frankenstein, by Mary Shelley\nI can't believe how much time I've spent, again, changing my photography workflow. I'd write a whole post about it, but it's embarrassing and I'm exhausted by it. TL;DR is that after spending days organizing and moving my library into Lightroom Classic, I'm back in Capture One sessions. You'd be exhausted too.\n✍️ Reply by email",
+          "link": "https://baty.net/journal/25Nov26/",
+          "publishedOn": "2026-11-25T13:36:47.000Z",
+          "wordCount": 209,
+          "title": "Wednesday, November 25, 2026",
+          "imageUrl": "https://baty.net/img/2026/20261123-alice.webp"
+        },
+        {
           "id": "https://baty.net/posts/2026/11/kodak-slidetag/",
           "author": null,
           "description": "I'm a sucker for inexpensive little gadgets, so I impulse ordered two of the new Kodak SlideTags.\nIt's a tiny 6-color eink screen with a companion app for setting the displayed photo. It doesn't have to be photos. There are things like a calendar, my todo list, a name badge, qr code, etc.\nThey're only come as a \"blind box\" so you can't choose which one you want. I ordered two because I wanted to make sure I got one that said Kodachrome on it. Nope, got two if these stupid red ones. Otherwise, it's a really fun little eink device.\nOh, and it also works with Apple's Find My as an Airtag device. Neat.\nHere's Chris Nichols at PetaPixel raving about his:\n\n✍️ Reply by email",
@@ -123,6 +143,16 @@
       "siteUrl": "https://planet.emacslife.com/",
       "articles": [
         {
+          "id": "https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/",
+          "author": null,
+          "description": "Projectile asks you a lot of questions.\nWhat do you want to search for? Replace it with what? Which command should I\nrun? For as long as I can remember those prompts were about as dumb as a prompt\ncan be - an empty line, maybe with the symbol at point as the default, and\nyou had to type the rest.\nThat’s a bit silly when you think about it, because by the time Projectile asks\nyou something it already knows quite a lot - the project you’re in, the function\nyour cursor is sitting in, the Makefile at the root of the project and what’s\nin it. I’ve been meaning to do something about this for ages, and in the\nupcoming Projectile 3.5 a bunch of prompts finally start to use that knowledge.\nLet’s go over them!\nThe Search Prompt\nEvery command that asks what to search for (projectile-search,\nprojectil…",
+          "link": "https://emacsredux.com/blog/2026/11/26/smarter-minibuffer-prompts-in-projectile/",
+          "publishedOn": "2026-11-26T11:00:00.000Z",
+          "wordCount": 2462,
+          "title": "Emacs Redux: Smarter Minibuffer Prompts in Projectile",
+          "imageUrl": "https://emacsredux.com/assets/og-image.png"
+        },
+        {
           "id": "https://irreal.org/blog/?p=14241",
           "author": null,
           "description": "nice post on how he uses frames in his workflow. The TL;DR is that because he often works on several projects in parallel, he has a separate frame for each project. That makes a lot of sense. You don’t get buffers confused among projects and everything for a project is “in one place”.\n\n\nThat brings up the problem of switching among frames. There is, of course, other-frame (Ctrl+x 5 o) but like other-window it can be a bit clunky. Mbork set out to remedy that by writing a function to switch to a given named frame. That’s sort of like ace-window for frames, except that you use the frame name instead of a label generated on the fly.\n\n\nThe first problem is that frame names don’t have to be unique. It wouldn’t be too hard to enforce unique names manually but mbork decided to rewrite set-frame-name to enforce a unique name when naming a frame. It’s pretty simple and should probably be the Emacs default.\n\n\nOnce he had a way of ensuring unique frame names, he rewrote select-frame-by-name to select a frame by name and to create a frame with that name if one doesn’t already exist. The result is a very nice workflow for handling several projects that you’re working on at the same time. Take a look at mbork’s post for the details.",
@@ -138,7 +168,7 @@
           "description": "Emacs Prelude 2.2 is\nout! 2.0 and 2.1 shipped within a few days of each other back in\nMarch, while 2.2 took\neight months and about 150 commits. It’s a big one!\nA New Look\nLet’s start with the most visible change. Zenburn had been Prelude’s\ndefault theme since day one, and I still love it (I’ve been maintaining\nits Emacs port for ages, so it’s not like we’re breaking up). Still, at\nsome point I got tired of looking at it. These days I’m mostly using\nTokyo Night and Batppuccin (my take on Catppuccin), which I wrote about\na while ago,\nand I figured it was time to freshen up Prelude’s look as well.\nTokyo Night is the new\ndefault, with its light variant during the day and the dark one at\nnight. Prelude follows your system’s light and dark mode where Emacs\nknows about it, and the clock everywher…",
           "link": "https://emacsredux.com/blog/2026/11/25/emacs-prelude-2-2/",
           "publishedOn": "2026-11-25T12:46:00.000Z",
-          "wordCount": 1231,
+          "wordCount": 1237,
           "title": "Emacs Redux: Emacs Prelude 2.2",
           "imageUrl": "https://emacsredux.com/assets/og-image.png"
         },
@@ -148,7 +178,7 @@
           "description": "A couple days ago I started typing a new Emacs mode for really fast image viewing and triage.  (Click the link to read the rationale behind all this.)  But after working with it for some hours, I realised that the layout just wasn’t ideal:\n\nIf we’re doing a line based layout, you have to have really small thumbnails — otherwise you get so little information density in a screenful.\nAnd then I realised that the file names have very little interest.  The size is only interesting if it’s zero — that’s a broken image, but a missing thumbnail would also tell me that.  The date is the most interesting thing, but since I’m sorting by date, it’s not that vital anyway.\nSo:\n\nA grid!  Well, duh.\nThe package can do both layouts, but defaults to using a grid now.\nThe image details are still available, both as tooltips, via a command, and shown automatically when walking through the images with TAB:\n\nI think that’s kinda usable?  Gives you an overview while tabbing through images.  Fast.  Vroom vroom.\nYou can find the code on Microsoft Github.",
           "link": "https://lars.ingebrigtsen.no/2026/11/25/a-grid-display-for-emacs-image-triage/",
           "publishedOn": "2026-11-25T12:04:09.000Z",
-          "wordCount": 1192,
+          "wordCount": 1191,
           "title": "Lars Ingebrigtsen: A grid display for Emacs image triage",
           "imageUrl": "https://lars.ingebrigtsen.no/wp-content/uploads/2026/11/2026-11-25-1.jpeg"
         },
@@ -218,7 +248,7 @@
           "description": "1. Description and demo\n2. Saving the dictionary\n3. Making changes with substitute.el\n4. Correcting the errors\n5. Other ways to define the correction\n1. Description and demo\nWatch on YouTube\n\n\n\nFull video and transcript\n\n\n\nOr as a YouTube short: Emacs Speech-to-Text That Learns From Its Mistakes - Sacha Chua - YouTube.\n\n\n\n\n2. Saving the dictionary\n;; Use the saved version of this instead of forcing the reevaluation\n;;;###autoload\n(defcustom sacha-subed-common-edits\n  '(\"I\"\n    \"I've\"\n    \"I'm\"\n    \"Mendeley\"\n    \"JavaScript\"\n    \"RSS\"\n    (\"stop section\" \"subsection\")\n    (\"EmacsConf\" \"EmacsCon\" \"EmacsConf\" \"imaxconf\")\n    (\"going to\" \"gonna\")\n    (\"want to\" \"wanna\")\n    (\"transient\" \"transit\")\n    (\"C-c\" \"control c\" \"Ctrl+C\")\n    (\"C-x\" \"control x\" \"Ctrl+X\")\n    (\"C-f\" \"control f\")\n    (\"…",
           "link": "https://sachachua.com/blog/2026/11/fixing-commonly-misrecognized-words-in-dictation-voice-commands-and-regular-text/",
           "publishedOn": "2026-11-23T19:31:49.000Z",
-          "wordCount": 1106,
+          "wordCount": 1120,
           "title": "Sacha Chua: Fixing commonly-misrecognized words in dictation, voice commands, and regular text",
           "imageUrl": null
         },
@@ -228,7 +258,7 @@
           "description": "One thing that’s annoyed me for yonks is how slow Emacs is when displaying images.  Emacs has never been fast on this point, exactly, and has gotten better over the years — but at the same time, image sizes have exploded.  In the bad old days, images were just a couple of megabytes, but with modern cameras, images can be 25MB, easily.\nSo now it’s really painful to page through directories of images:\n\nIt takes half a second for each image, and if you don’t find that annoying, you’re way more patient than I am.\nThose are from my camera, and I’ve adjusted the image size down to “just” 10MB — because it’s just too painful to deal with 25MB images all around.  For instance, when posting a 25MB file to WordPress, it uses about half a minute to scale it down to various sizes.  Not fun.\nThe Emacs …",
           "link": "https://lars.ingebrigtsen.no/2026/11/23/a-new-faster-emacs-package-to-do-image-triage/",
           "publishedOn": "2026-11-23T19:13:31.000Z",
-          "wordCount": 2106,
+          "wordCount": 2105,
           "title": "Lars Ingebrigtsen: A new, faster Emacs package to do image triage",
           "imageUrl": "https://lars.ingebrigtsen.no/wp-content/uploads/2026/11/2026-11-23-1.jpeg"
         },
@@ -258,7 +288,7 @@
           "description": "[request] flags:AO- replies:2 role:maintainer",
           "link": "https://list.orgmode.org/87o6bgu9jq.fsf@localhost",
           "publishedOn": "2026-11-22T16:16:07.000Z",
-          "wordCount": null,
+          "wordCount": 439,
           "title": "Org Mode requests: [TASK] make Org code pass all linters and integrate linting into make test (was: Funny regex in 'org-beamer--insert-theme')",
           "imageUrl": null
         },
@@ -338,7 +368,7 @@
           "description": "A year and a half ago I made a kitchen clock, which has worked well (except that I had to swap out the screen which broke mysteriously).\nBut yesterday I was having some work done here, so I had to remove one of the wifi access points here, and…  the clock stopped working.  *gasp*  Yes, because I had in my infinite wisdom decided that I would generate the clock face on a different machine, because the clock is a Raspberry Pi Zero 2 W, and I just assumed that it didn’t have enough memory to run Emacs (which I am, being a totally rational person, using to generate the SVG that’s being displayed).\nSo it’s a Rube Goldberguesque setup of having the image being generated on the main server, and then scp‘d over once a minute, and then being displayed on the console here in the kitchen.\nBut the wifi outage made me wonder — is it true that the machine doesn’t have enough memory to do it all on device?\n\nSo it’s got 416MB of useful memory, and while just running and doing nothing special, it’s using 129MB of that.\nWhat happens if I load an Emacs with all the SVG libraries and stuff and generate the image?\n\nIt’s using 186MB — so the Emacs occupies about 50MB max.\n*sigh*\nIt’s so easy to think of Emacs as this “big thing”, but everything has gotten so much bigger around it that it doesn’t matter at all any more.\nSo now I’ve changed the code to run on-device, so the only thing that goes AWOL if the wifi goes missing is updated temperatures.",
           "link": "https://lars.ingebrigtsen.no/2026/11/19/herp-derp-i-eat-paste/",
           "publishedOn": "2026-11-19T10:45:09.000Z",
-          "wordCount": 1286,
+          "wordCount": 1285,
           "title": "Lars Ingebrigtsen: Herp derp I eat paste",
           "imageUrl": "https://lars.ingebrigtsen.no/wp-content/uploads/2026/11/20261119_114106-scaled.jpg"
         },
@@ -381,26 +411,6 @@
           "wordCount": 1439,
           "title": "Irreal: Ramírez’s Emacs Contributions",
           "imageUrl": null
-        },
-        {
-          "id": "https://protesilaos.com/codelog/2026-11-17-emacs-live-org-custom-link-extras/",
-          "author": null,
-          "description": "Raw link: https://www.youtube.com/watch?v=Lb1WfF4iRNA\n[ The stream will be recorded. You can watch it later. ]\nToday I will implement some new features for my Emacs configuration. I\nwill include the final code on my website, as an update to this publication.\nAs usual, I will keep the chat open and shall answer all questions.\nUPDATE 2026-11-17 18:52 +0200: Pasting the code.\nUPDATE 2026-11-17 19:24 +0200: I forgot the prot-text part.\nUPDATE 2026-11-20 11:04 +0200: I decided to remove the rgrep\ncall because I never liked its behaviour.\nThe code I wrote during the livestream\nCustom Org link types\n\n;;;; Custom link types\n\n(defcustom prot-org-grep-directory org-directory\n  \"Directory where prot-grep links search in with `rgrep'.\"\n  :type 'directory)\n\n(defun prot-org-grep-follow (query &rest _)\n …",
-          "link": "https://protesilaos.com/codelog/2026-11-17-emacs-live-org-custom-link-extras/",
-          "publishedOn": "2026-11-17T00:00:00.000Z",
-          "wordCount": 1129,
-          "title": "Protesilaos: Emacs live Org custom link type and more today 2026-11-17 at 16:00 Europe/Athens",
-          "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
-        },
-        {
-          "id": "https://mbork.pl/2026-11-16_Copying_the_current_location_improved_again",
-          "author": null,
-          "description": "Last year I improved my code for copying the current location to the kill ring. Recently it occurred to me that this was not the last word. In fact, I’m pretty surprised I didn’t think of it earlier – it’s sort of obvious in hindsight. The idea is that it should copy the range of lines when the region is active.",
-          "link": "https://mbork.pl/2026-11-16_Copying_the_current_location_improved_again",
-          "publishedOn": "2026-11-16T21:33:34.000Z",
-          "wordCount": 768,
-          "title": "Marcin Borkowski: Copying the current location improved again",
-          "imageUrl": null
         }
       ]
     },
@@ -415,7 +425,7 @@
           "description": "To provide further detail on the Pittsburgh Steelers' late-night benching of Aaron Rodgers, the quarterback himself appeared on Wednesday's edition of The Pat McAfee Show. Essentially, Rodgers said that he would never play for the team again, and he described head coach Mike McCarthy as inattentive, sleepy, and \"unhealthy.\" In response to this TV appearance, the team has waived Rodgers.\nThe Steelers' benching of Rodgers came after his dismal performance in Sunday's 19-16 loss to the Philadelphia Eagles, and there's some logic behind it for purely football reasons. But the way the news was delivered was the strange part: Tuesday at 11 p.m. ET, through a team spokesperson. At the time, it wasn't even clear if Rodgers himself knew he was being benched for the team's game this Friday against Denver.",
           "link": "https://defector.com/aaron-rodgers-nukes-mike-mccarthy-then-his-own-career",
           "publishedOn": "2026-11-25T21:37:45.000Z",
-          "wordCount": 5513,
+          "wordCount": 5516,
           "title": "Aaron Rodgers Nukes Mike McCarthy, Then His Own Career",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2306485382-e1795635382561.jpg"
         },
@@ -425,7 +435,7 @@
           "description": "Welcome back to Minor Dilemmas, where a member of Defector's Parents Council will answer your questions on surviving family life. Have a question? Email us at minordilemmas@defector.com.\nThis week, Chris answers a question about how to explain to a young child that they will not have siblings.",
           "link": "https://defector.com/how-can-i-break-it-to-my-daughter-that-she-will-be-an-only-child",
           "publishedOn": "2026-11-25T19:18:15.000Z",
-          "wordCount": 7888,
+          "wordCount": 7886,
           "title": "How Can I Break It To My Daughter That She Will Be An Only Child?",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-107413068.jpg"
         },
@@ -445,7 +455,7 @@
           "description": "As heartening as it was to see the wave of student-led Gaza solidarity encampments across college campuses in the spring of 2024, it was just as appalling to see the crackdowns from those same schools' administrations. Across the world, university leaders showed that they were willing to sacrifice the safety of their own students and faculty, rather than divest from any companies that had financial ties to a state committing active genocide.\nThe most closely covered protest was at Columbia University, where the school ultimately sent in the NYPD to dismantle the camp and assault students. The response dragged on for months; a WhatsApp group strategized on how to get the protestors deported, and put together a list of targets. Columbia graduate Mahmoud Khalil is currently appealing a deportation order, after he was held in ICE detention without criminal charges for over 100 days. On the other side of the country in 2024, UCLA's security and local police stood by as masked goons attacked students within the Gaza solidarity encampment, and tossed fireworks at them. Roughly 30 of the students and faculty attacked have sued UCLA for civil rights violations.\nBecause of reporting last week from Bradford William Davis and Kaya Henkes-Power at the publication Eyeblack, another school administration's grimy efforts have come to light, two years later. When San José State University students put together their Gaza solidarity encampment in 2024, they convened at the Victory Salute statue, a monument on campus honoring the school's alumni Tommie Smith and John Carlos for their raised fists at the 1968 Summer Olympics. The statue was created in 2005 by the Portuguese artist Ricardo Gouveia, who goes by the moniker Rigo 23.",
           "link": "https://defector.com/san-jose-state-president-enlisted-harry-edwards-sabotage-pro-palestine-encampment",
           "publishedOn": "2026-11-25T16:45:24.000Z",
-          "wordCount": 6196,
+          "wordCount": 6194,
           "title": "San José State President Enlisted Harry Edwards To Sabotage Students’ Pro-Palestine Encampment",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2214705472-e1795590907574.jpg"
         },
@@ -455,7 +465,7 @@
           "description": "Have you ever wondered what a pack of specially trained bloodhounds might do for your personality? Ever considered the societal benefits of locking up your enemies in the Tower of London? Would a special dispensation from the Pope smooth things out for your most fraught marriage prospects? Could you deal with being hot enough to change the course of humanity? \nPrepare yourselves for the majesty of Royal Gossip! Rachelle Hampton and the Normal Gossip team are back with a new miniseries that dares to ask the question: What is history if not gossip? Over the course of four episodes, we’ll explore the most sordid tales from one of the most charmed and chaotic periods in English history: The Wars of the Roses. Oh, and did we mention we’ll have royalty? In each episode of Royal Gossip, Rachelle will be joined by our dowager queen Kelsey McKinney!",
           "link": "https://defector.com/hark-royal-gossip-approaches",
           "publishedOn": "2026-11-25T16:19:00.000Z",
-          "wordCount": 4769,
+          "wordCount": 4767,
           "title": "Hark! Royal Gossip Approaches!",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/2026_RoyalGossip_16-9_21.jpg"
         },
@@ -475,7 +485,7 @@
           "description": "The NFL’s Thanksgiving weekend slate starts tonight, with the wholly manufactured “Thanksgiving Eve” game on Netflix. This slate features a ton of juicy matchups, almost as recompense for the previous two weeks of dreadful games that you and I have had to endure. Every one of the five-throwgasm showdowns spread out across the next six days(!) merits thorough analysis. Alas, because my All Ball co-host Arif Hasan was on the road all day yesterday, you the audience get David Roth instead.\n\nhttps://art19.com/shows/the-distraction/episodes/000e8d43-8c45-4d22-b035-1f0e5cbf58fe\n\n\nMy old Distraction co-host is versed in football, so don’t be alarmed. You’ll still get plenty of chitchat about the games at hand. But Roth and I also carve out some time to marvel at the election results, to ask big-picture questions about the league’s desire to occupy every available time slot, and to discuss Portuguese egg tarts. Truly, a feast for the ears. As always, we do NOT talk about gambling or fantasy football. Roth tried to get in a brief fantasy note, but I quickly shut that talk down and had my friend summarily killed after we’d recorded this episode. Didn’t want to do it; felt I owed it to him.",
           "link": "https://defector.com/a-distraction-reunion-on-all-ball-just-for-you",
           "publishedOn": "2026-11-25T15:26:34.000Z",
-          "wordCount": 4513,
+          "wordCount": 4511,
           "title": "A ‘Distraction’ Reunion On ‘All Ball’, Just For You",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2248187125.jpg"
         },
@@ -495,7 +505,7 @@
           "description": "We begin at Webster Hall in New York City. I'm standing on the main floor with the rest of the general admission patrons. My best friend Howard is with me. He's been waiting nearly as many years as I have for what's about to transpire. So has everyone else in the room. Many of them are already drunk. Many more are still queued up in the line at the merch stand, which has run out of at least one line of T-shirts and will likely run out of others.\nHoward and I are soaking in the pre-concert playlist playing over the loudspeakers, and waiting for the lights to go dark. I've put in my earplugs. I can't hear anything Howard says, but it doesn't matter. He's ready. I'm ready. Everyone is ready, because we're about to witness the resurrection of Sugar, one of the greatest bands of the 1990s. None of us believed this band would reunite. Never considered the possibility, really. Shit, prior to tonight I didn't even think the members of Sugar—guitarist/vocalist Bob Mould, bassist David Barbe, drummer Malcolm Travis—had considered the idea themselves. For Mould, the ringleader, Sugar wasn't even the most famous band he'd played in. The fact that they're here together on this opening night of the \"Love You Even Still\" tour, and that we're all here to witness it, feels like a happy fluke.\nBut this is no fluke at all. This is a reunion that required many years, plus a well-timed video birthday card, to become a reality. I have seen Mould on his own in concert more times than I can count, but I've never seen him take the stage live with Travis and Barbe. That's because I discovered Sugar's music a beat too late. They had already broken up before my roommate put on their second album, File Under: Easy Listening, in our college dorm room. Once I heard the opening chords to \"Gee Angel,\" I knew right away that Sugar was my band. That they would always be my band. If I never got to see them in the flesh, so be it. The music had me forever. I knew it back in 1997, and I still know it today, 29 years later.",
           "link": "https://defector.com/its-never-too-late-to-be-the-best-band-in-the-world-again",
           "publishedOn": "2026-11-25T13:58:18.000Z",
-          "wordCount": 13166,
+          "wordCount": 13128,
           "title": "It’s Never Too Late To Be The Best Band In The World Again",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/IMG_4078.jpg"
         },
@@ -505,7 +515,7 @@
           "description": "Aaron Rodgers will not start the Pittsburgh Steelers' next game, the team announced late Tuesday night. Curiously late, actually, and in a manner that reeks of intrigue. Nothing Rodgers does is normal, so why should the potential end of his NFL career be?\nMike McCarthy was unequivocal about it on Monday: \"Aaron Rodgers is our quarterback,\" he said, when asked about making a change one day after a loss to the Eagles that featured Rodgers putting up one of the feeblest halves of QB play in 20 years. Something must have changed, and quickly. \"After a series of meetings,\" as Adam Schefter put it, \"'some good, some bad,'\" the call was made. It \"was a coach's decision,\" ESPN reports. At 11:10 p.m. Tuesday, an odd time for an announcement, the Steelers put out a statement from a team spokesperson, an odd source for a personnel decision, that Rodgers will be in street clothes for Friday's game.\nBig day for Burt Lauten fans.",
           "link": "https://defector.com/aaron-rodgers-benched-for-first-and-possibly-final-time",
           "publishedOn": "2026-11-25T13:46:45.000Z",
-          "wordCount": 5142,
+          "wordCount": 5140,
           "title": "Aaron Rodgers Benched For First And Possibly Final Time",
           "imageUrl": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/GettyImages-2306467658.jpg"
         }
@@ -573,11 +583,61 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
+          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
+          "author": null,
+          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
+          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
+          "publishedOn": "2026-11-26T13:38:19.985Z",
+          "wordCount": 177,
+          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full",
+          "author": null,
+          "description": "Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.\n\nIt’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…",
+          "link": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php",
+          "publishedOn": "2026-11-26T13:38:19.984Z",
+          "wordCount": 177,
+          "title": "A visit to author Amy Tan’s gorgeous Sausalito home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
+          "author": null,
+          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
+          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
+          "publishedOn": "2026-11-26T13:38:19.982Z",
+          "wordCount": 177,
+          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/californios-review-22484061.php-full",
+          "author": null,
+          "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
+          "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
+          "publishedOn": "2026-11-26T13:38:19.981Z",
+          "wordCount": 177,
+          "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "author": null,
+          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
+          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
+          "publishedOn": "2026-11-26T13:38:19.980Z",
+          "wordCount": 177,
+          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
           "author": null,
           "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
           "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-11-26T03:57:21.421Z",
+          "publishedOn": "2026-11-26T13:38:19.979Z",
           "wordCount": 177,
           "title": "Anthony Bourdain loved this San Francisco burger and so do I",
           "imageUrl": null
@@ -587,19 +647,9 @@
           "author": null,
           "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
           "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-11-26T03:57:21.414Z",
+          "publishedOn": "2026-11-26T13:38:19.978Z",
           "wordCount": 177,
           "title": "Why Your Team Sucks 2026: San Francisco 49ers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
-          "author": null,
-          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
-          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-11-26T03:57:21.413Z",
-          "wordCount": 177,
-          "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
@@ -607,89 +657,9 @@
           "author": null,
           "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
           "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-11-26T03:57:21.406Z",
+          "publishedOn": "2026-11-26T13:38:19.977Z",
           "wordCount": 177,
           "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
-          "author": null,
-          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
-          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-11-26T03:57:21.402Z",
-          "wordCount": 177,
-          "title": "I found one of America's best croissants in San Francisco",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
-          "author": null,
-          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
-          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-11-26T03:57:21.399Z",
-          "wordCount": 177,
-          "title": "San Francisco's best hotel cannot be killed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
-          "author": null,
-          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
-          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-11-26T03:57:21.396Z",
-          "wordCount": 177,
-          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
-          "author": null,
-          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
-          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-11-26T03:57:21.384Z",
-          "wordCount": 177,
-          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
-          "author": null,
-          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
-          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-11-26T03:57:21.383Z",
-          "wordCount": 177,
-          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
-          "author": null,
-          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
-          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
-          "publishedOn": "2026-11-26T03:57:21.380Z",
-          "wordCount": 177,
-          "title": "I've got some demands for our new woke overlords",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full",
-          "author": null,
-          "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
-          "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
-          "publishedOn": "2026-11-26T03:57:21.377Z",
-          "wordCount": 177,
-          "title": "Everybody hates Pat McAfee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/californios-review-22484061.php-full",
-          "author": null,
-          "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
-          "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-11-26T03:57:21.374Z",
-          "wordCount": 177,
-          "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
           "imageUrl": null
         },
         {
@@ -697,9 +667,39 @@
           "author": null,
           "description": "A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?\n\nReader, fear not. I am a licensed journaltician, and I have a penis o…",
           "link": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php",
-          "publishedOn": "2026-11-26T03:57:21.366Z",
+          "publishedOn": "2026-11-26T13:38:19.976Z",
           "wordCount": 177,
           "title": "It turns out Jensen Huang is just as awful as the other tech overlords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full",
+          "author": null,
+          "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
+          "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
+          "publishedOn": "2026-11-26T13:38:19.975Z",
+          "wordCount": 177,
+          "title": "Andrew Luck is just another bureaucrat now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full",
+          "author": null,
+          "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
+          "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
+          "publishedOn": "2026-11-26T13:38:19.974Z",
+          "wordCount": 177,
+          "title": "Everybody hates Pat McAfee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full",
+          "author": null,
+          "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
+          "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
+          "publishedOn": "2026-11-26T13:38:19.973Z",
+          "wordCount": 177,
+          "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
         },
         {
@@ -707,19 +707,29 @@
           "author": null,
           "description": "If you’re an American man of a certain age, the pedigree behind “The Further Mis-Adventures of Cliff Booth” (which opens theatrically this week before streaming on Netflix in late December) had you downing Big Kahuna Burgers in celebration before the trailer had even dropped. Here’s a movie directed by the legendary David Fincher, who was also behind the camera for “Fight Club,” one of the defining bro movies of my generation. Better yet, this movie was scripted by Quentin Tarantino, who wrote and directed every other defining bro movie of my generation: “Reservoir Dogs,” “Pulp Fiction,” the “Kill Bill” saga, and on and on. Tarantino rarely lets other directors shoot his credited scripts. One previous example, 1993’s “True Romance,” just happens to be one of my favorite movies of all time.…",
           "link": "https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php",
-          "publishedOn": "2026-11-26T03:57:21.356Z",
+          "publishedOn": "2026-11-26T13:38:19.971Z",
           "wordCount": 177,
           "title": "Quentin Tarantino goes back to his bad old habits in his new sequel",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full",
+          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
           "author": null,
-          "description": "Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.\n\nIt’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…",
-          "link": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php",
-          "publishedOn": "2026-11-26T03:57:21.353Z",
+          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
+          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
+          "publishedOn": "2026-11-26T13:38:19.967Z",
           "wordCount": 177,
-          "title": "A visit to author Amy Tan’s gorgeous Sausalito home",
+          "title": "I've got some demands for our new woke overlords",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
+          "author": null,
+          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
+          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
+          "publishedOn": "2026-11-26T13:38:19.964Z",
+          "wordCount": 177,
+          "title": "San Francisco's best hotel cannot be killed",
           "imageUrl": null
         }
       ]
@@ -735,7 +745,7 @@
           "description": "The idea of turkeys in that Gilded Palace of Sin is just too damn on the nose.",
           "link": "https://www.esquire.com/news-politics/politics/a74533440/trump-thanksgiving-turkey-ballroom/",
           "publishedOn": "2026-11-25T18:47:20.000Z",
-          "wordCount": 22671,
+          "wordCount": 22674,
           "title": "Of Course Trump Found a Way to Plug His Big, Ugly Ballroom When Partaking in a Beloved Thanksgiving Tradition",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/58a1f93f-17bf-4337-b2a1-3acfc66a7e88.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -755,7 +765,7 @@
           "description": "Try to keep Meemaw indoors and out of the whiskey.",
           "link": "https://www.esquire.com/news-politics/politics/a74521237/army-detonation-toxic-smoke-iowa-thanksgiving/",
           "publishedOn": "2026-11-24T17:30:41.000Z",
-          "wordCount": 19721,
+          "wordCount": 19724,
           "title": "That Army Facility in Iowa Has a Thanksgiving Present for Locals: A Deadly Plume of Toxic Smoke from a Planned Detonation",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/16340512-620e-47d4-b369-a45fd0ece40a.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -765,7 +775,7 @@
           "description": "AI companies are facing political backlash, but they’re staring down an even bigger problem as they look to take over the world.",
           "link": "https://www.esquire.com/news-politics/a74457759/data-centers-electricity-explained/",
           "publishedOn": "2026-11-24T17:22:58.000Z",
-          "wordCount": 21649,
+          "wordCount": 21922,
           "title": "The Inconvenient Truth About the Electricity AI Requires",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/441ed568-9ffb-4613-994e-86fcf0a7f246.jpeg?crop=1xw:0.792xh;0xw,0.12xh&resize=1200:*"
         },
@@ -775,7 +785,7 @@
           "description": "There must be public atonement for the criminal bastards who have allowed places like it to exist in our country.",
           "link": "https://www.esquire.com/news-politics/politics/a74520778/southern-louisiana-ice-processing-center-lawsuit/",
           "publishedOn": "2026-11-24T17:08:19.000Z",
-          "wordCount": 19153,
+          "wordCount": 19156,
           "title": "This Depraved Louisiana ICE Facility Is Essentially an American Concentration Camp",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b918364c-de9d-4980-8226-a836a279aa6c.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -785,7 +795,7 @@
           "description": "Can’t we savor the midterm results a bit longer?",
           "link": "https://www.esquire.com/news-politics/politics/a74520318/dnc-democratic-presidential-debates-2027-schedule/",
           "publishedOn": "2026-11-24T16:06:38.000Z",
-          "wordCount": 18820,
+          "wordCount": 18823,
           "title": "I’m Already Exhausted Just Looking at the Democratic Presidential Primary Debate Schedule",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/622b6ec1-afad-4e79-8e01-94fd18c68a41.jpeg?crop=1xw:0.758980785297xh;center,top&resize=1200:*"
         },
@@ -795,7 +805,7 @@
           "description": "Why else would the president involve himself so conspicuously?",
           "link": "https://www.esquire.com/news-politics/politics/a74510795/jensen-huang-nvidia-trump/",
           "publishedOn": "2026-11-23T19:14:50.000Z",
-          "wordCount": 20698,
+          "wordCount": 20751,
           "title": "I’m Sure Jensen Huang’s Reinstatement Has Nothing to Do with His $25 Million Donation to Trump’s Ballroom",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/28b9aa1b-db40-4ae9-9bee-1b58c55b216b.jpeg?crop=1xw:0.721420432966xh;center,top&resize=1200:*"
         },
@@ -805,7 +815,7 @@
           "description": "The Tailgunner’s reputation precedes him.",
           "link": "https://www.esquire.com/news-politics/politics/a74509328/abdul-el-sayed-ted-cruz/",
           "publishedOn": "2026-11-23T16:54:05.000Z",
-          "wordCount": 19535,
+          "wordCount": 19548,
           "title": "Abdul El-Sayed Said Something About Ted Cruz That We’ve All Been Thinking for Years",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9382acf7-68c7-49fb-878d-064e6e34e34e.jpeg?crop=1xw:0.749924081385xh;center,top&resize=1200:*"
         },
@@ -815,7 +825,7 @@
           "description": "Conservative Republicans and their oligarchical allies are getting everything they want out of a bipartisan bill that could walk back important environmental laws.",
           "link": "https://www.esquire.com/news-politics/politics/a74508280/bipartisan-american-affordability-and-jobs-act-environmental-laws/",
           "publishedOn": "2026-11-23T15:55:07.000Z",
-          "wordCount": 19432,
+          "wordCount": 19435,
           "title": "Well, It Sure Seems Like Mitigating Climate Change Is No Longer a Concern for Democrats",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2f47864a-0438-4152-af50-d346b15e3c1e.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -825,7 +835,7 @@
           "description": "It seems that the principle of kicking the ball out onto the fairway has many applications beyond the golf course.",
           "link": "https://www.esquire.com/news-politics/politics/a74493861/trump-golf-irs-payout/",
           "publishedOn": "2026-11-20T20:56:06.000Z",
-          "wordCount": 24601,
+          "wordCount": 24604,
           "title": "Why the Hell Did Trump’s Golfing Buddy Get a $500,000 Payout from the IRS?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/372f51db-9498-4dd2-8d6b-bd775776cc4f.jpeg?crop=1xw:0.750195618153xh;center,top&resize=1200:*"
         },
@@ -835,7 +845,7 @@
           "description": "I don’t care what detractors might say. That place is where inmates—and the Eighth Amendment—go to die horrible deaths, and it deserves to be shut down.",
           "link": "https://www.esquire.com/news-politics/politics/a74493326/zohran-mamdani-rikers-island/",
           "publishedOn": "2026-11-20T19:30:24.000Z",
-          "wordCount": 19335,
+          "wordCount": 19338,
           "title": "Zohran Mamdani Is Making the Right Decision to Close Rikers Island",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/31efc71f-d02a-4cc9-bbcc-6ce7a8cb373d.jpeg?crop=1xw:0.750187546887xh;center,top&resize=1200:*"
         },
@@ -845,7 +855,7 @@
           "description": "Agreeing to a “peace declaration” with a couple of authoritarian nutjobs is certainly a choice.",
           "link": "https://www.esquire.com/news-politics/politics/a74490943/trump-putin-xi-summit-china-russia-america/",
           "publishedOn": "2026-11-20T16:28:22.000Z",
-          "wordCount": 19375,
+          "wordCount": 19378,
           "title": "Putin and Xi Just Made Trump Look Like an Absolute Sucker",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7720465a-546d-4828-b663-b6a045e34cc7.jpeg?crop=1xw:0.750750750751xh;center,top&resize=1200:*"
         },
@@ -855,7 +865,7 @@
           "description": "At a Senate Judiciary Committee hearing on Wednesday, seven fools who could soon have federal seats refused to admit that Joe Biden won in 2020. Yikes.",
           "link": "https://www.esquire.com/news-politics/politics/a74482028/judicial-nominees-trump-election-deniers/",
           "publishedOn": "2026-11-19T22:10:50.000Z",
-          "wordCount": 22143,
+          "wordCount": 22146,
           "title": "Of Course Trump’s Judicial Nominees Are a Bunch of Election-Denying Yahoos",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6666a362-e4d8-4d95-9fab-876754bb6594.jpeg?crop=1xw:0.75xh;0xw,0.087xh&resize=1200:*"
         },
@@ -865,7 +875,7 @@
           "description": "The state’s energy office decided not to consult with residents, which is just stellar governing all around.",
           "link": "https://www.esquire.com/news-politics/politics/a74481789/west-virginia-nuclear-waste-jefferson-county/",
           "publishedOn": "2026-11-19T21:49:16.000Z",
-          "wordCount": 22263,
+          "wordCount": 22266,
           "title": "A West Virginia County Could Soon Become a Nuclear-Waste Dump Against Its Will",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/18c9bb7f-6156-4b77-ae52-9c3c754cafe7.jpeg?crop=1xw:0.735xh;0xw,0.139xh&resize=1200:*"
         },
@@ -875,7 +885,7 @@
           "description": "The explosion will apparently create a “dust plume containing lead.” Nice.",
           "link": "https://www.esquire.com/news-politics/politics/a74478089/toxic-explosion-iowa-army-base/",
           "publishedOn": "2026-11-19T16:16:05.000Z",
-          "wordCount": 19575,
+          "wordCount": 19578,
           "title": "An Army Facility in Iowa Plans to Detonate Toxic Materials, Which Is Just Great News for the People and Animals Who Live Nearby",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b65954cd-4fd8-4db0-930b-32149c5277b3.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -885,7 +895,7 @@
           "description": "Aaron Reitz has spent the past few weeks firing off letters to various Democratic legislators threatening all kinds of legal thunder and lightning.",
           "link": "https://www.esquire.com/news-politics/politics/a74469858/trump-aaron-reitz-us-attorney-democratic-oversight/",
           "publishedOn": "2026-11-18T21:53:23.000Z",
-          "wordCount": 20373,
+          "wordCount": 20376,
           "title": "Meet the Trump-Simping U.S. Attorney Who’s Going to Try His Darnedest to Protect the President from Democratic Oversight",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/713e583e-bacb-4c62-8138-a5d8a13d29e8.jpeg?crop=1xw:0.749613899614xh;center,top&resize=1200:*"
         },
@@ -895,7 +905,7 @@
           "description": "Alaska was finally called for Mary Peltola. I sure hope Hakeem Jeffries, the soon-to-be Speaker of the House, knows what to do with his majority.",
           "link": "https://www.esquire.com/news-politics/politics/a74469738/mary-peltola-hakeem-jeffries-wins/",
           "publishedOn": "2026-11-18T21:30:41.000Z",
-          "wordCount": 19420,
+          "wordCount": 19423,
           "title": "As More Wins for Democrats Roll In, We Must Remind Ourselves That the Fight Is Still Ahead",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/70a2d0be-3611-42df-b737-773f35eae49b.jpeg?crop=1xw:0.749063670412xh;center,top&resize=1200:*"
         },
@@ -905,7 +915,7 @@
           "description": "Hung Cao’s confirmation hearing went just about as badly as any I’ve ever seen.",
           "link": "https://www.esquire.com/news-politics/politics/a74466680/hung-cao-navy-secretary-confirmation-hearing/",
           "publishedOn": "2026-11-18T19:03:40.000Z",
-          "wordCount": 21315,
+          "wordCount": 21318,
           "title": "To No One’s Surprise, Trump’s Handpicked Navy Secretary Is Just as Incompetent and Heartless as He Is",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6ac1f5cc-b624-4ffc-be7b-21b51fc71ea2.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -915,7 +925,7 @@
           "description": "All it took was a drastic midterm swing to get the carefully crafted conservative majority to quit going along with everything the president wants.",
           "link": "https://www.esquire.com/news-politics/politics/a74457555/scotus-dei-trump-administration/",
           "publishedOn": "2026-11-17T21:58:59.000Z",
-          "wordCount": 18694,
+          "wordCount": 18697,
           "title": "The Supreme Court Has Finally Decided to Do Something About Trump’s War on DEI",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/37e29465-bf16-498d-a85b-e923fa73fb07.jpeg?crop=1xw:0.75xh;0xw,0.25xh&resize=1200:*"
         },
@@ -925,7 +935,7 @@
           "description": "Thanks, Mr. President, I’m totally reassured.",
           "link": "https://www.esquire.com/news-politics/politics/a74456476/nsa-communications-network-outage/",
           "publishedOn": "2026-11-17T19:45:39.000Z",
-          "wordCount": 18319,
+          "wordCount": 18322,
           "title": "The Highly Classified NSA Comms Network Is Down, but Don’t Worry! Trump Says “It’s Fine.”",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/50888ae1-1123-4f76-b128-bcc2ce0641e4.jpeg?crop=1xw:0.749933634192xh;center,top&resize=1200:*"
         },
@@ -935,7 +945,7 @@
           "description": "You’ll never guess whose name also came up.",
           "link": "https://www.esquire.com/news-politics/politics/a74455869/epstein-financials-deutsche-bank-leak/",
           "publishedOn": "2026-11-17T18:51:50.000Z",
-          "wordCount": 19730,
+          "wordCount": 19733,
           "title": "Leaked Bank Documents Have Just Revealed the Staggering Extent of Epstein’s Shady Finances",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/c277dc65-cde7-4e16-98a5-aa35a1c4aec8.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -945,39 +955,9 @@
           "description": "This is all Ronald Reagan’s fault, I just know it.",
           "link": "https://www.esquire.com/news-politics/politics/a74453239/floppy-disks-ronald-reagan-faa-systems/",
           "publishedOn": "2026-11-17T15:21:16.000Z",
-          "wordCount": 19562,
+          "wordCount": 19565,
           "title": "Of Course the FAA Uses Technology That Average Americans Abandoned Probably 20 Years Ago",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b721d3d1-dbe1-4510-a322-2b8f541467e4.jpeg?crop=1xw:0.75xh;0xw,0.11xh&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74444650/chuck-schumer-senate-majority-leader/",
-          "author": null,
-          "description": "The newly elected senators are looking toward someone else entirely—and history might be on their side.",
-          "link": "https://www.esquire.com/news-politics/politics/a74444650/chuck-schumer-senate-majority-leader/",
-          "publishedOn": "2026-11-16T22:34:40.000Z",
-          "wordCount": 20419,
-          "title": "Turns Out Chuck Schumer’s Bid for Senate Majority Leader Isn’t as Done a Deal as We Thought",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/0c2e4348-26b3-4669-a470-d3fe977c9e68.jpeg?crop=1xw:0.750074693756xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/a74442820/sean-duffy-mtv-real-world-faa-ground-stoppage/",
-          "author": null,
-          "description": "As a fellow MTV veteran, I recognize that the transportation secretary has been practicing for this moment since his Real World days.",
-          "link": "https://www.esquire.com/news-politics/a74442820/sean-duffy-mtv-real-world-faa-ground-stoppage/",
-          "publishedOn": "2026-11-16T19:29:42.000Z",
-          "wordCount": 20615,
-          "title": "Sean Duffy Is a Perfect Reality-TV Politician. Too Bad for America.",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/71780734-0be7-437d-bf52-b76c334e373f.jpeg?crop=1xw:0.75xh;0xw,0.195xh&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74440372/faa-ground-stop-airline-traffic-trump-administration-biden/",
-          "author": null,
-          "description": "Give these buffoons enough time and they’ll cast blame on every Democratic president back to Grover Cleveland.",
-          "link": "https://www.esquire.com/news-politics/politics/a74440372/faa-ground-stop-airline-traffic-trump-administration-biden/",
-          "publishedOn": "2026-11-16T16:06:56.000Z",
-          "wordCount": 21205,
-          "title": "The FAA Ground Stop, Like Many of the Trump Administration’s Problems, Is Somehow Joe Biden’s Fault",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/60caf966-ebd0-437e-8c4f-71018dacd54b.jpeg?crop=1xw:0.75006532532xh;center,top&resize=1200:*"
         }
       ]
     },
