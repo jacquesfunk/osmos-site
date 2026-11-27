@@ -2,99 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jacquesfunk.github.io/index.html</id>
     <title>Fake News Echo Chamber</title>
-    <updated>2026-11-27T06:48:35.419Z</updated>
+    <updated>2026-11-27T17:50:48.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://jacquesfunk.github.io/index.html"/>
     <link rel="self" href="https://jacquesfunk.github.io/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
-        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
-        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
-        <updated>2026-11-27T06:48:35.404Z</updated>
-        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
-
-The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
-        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
-        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
-        <updated>2026-11-27T06:48:35.396Z</updated>
-        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
-
-This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
-
-I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everybody hates Pat McAfee]]></title>
-        <id>https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full</id>
-        <link href="https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php"/>
-        <updated>2026-11-27T06:48:35.390Z</updated>
-        <summary type="html"><![CDATA[There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:
-
-That’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.
-
-
-Advertisement
-Article continues below this ad
-
-
-And I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It turns out Jensen Huang is just as awful as the other tech overlords]]></title>
-        <id>https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full</id>
-        <link href="https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php"/>
-        <updated>2026-11-27T06:48:35.388Z</updated>
-        <summary type="html"><![CDATA[A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?
-
-Reader, fear not. I am a licensed journaltician, and I have a penis o…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
-        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
-        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
-        <updated>2026-11-27T06:48:35.386Z</updated>
-        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
-
-On the surface, he makes for an attractive candidate. Hilto…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quentin Tarantino goes back to his bad old habits in his new sequel]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php"/>
-        <updated>2026-11-27T06:48:35.385Z</updated>
-        <summary type="html"><![CDATA[If you’re an American man of a certain age, the pedigree behind “The Further Mis-Adventures of Cliff Booth” (which opens theatrically this week before streaming on Netflix in late December) had you downing Big Kahuna Burgers in celebration before the trailer had even dropped. Here’s a movie directed by the legendary David Fincher, who was also behind the camera for “Fight Club,” one of the defining bro movies of my generation. Better yet, this movie was scripted by Quentin Tarantino, who wrote and directed every other defining bro movie of my generation: “Reservoir Dogs,” “Pulp Fiction,” the “Kill Bill” saga, and on and on. Tarantino rarely lets other directors shoot his credited scripts. One previous example, 1993’s “True Romance,” just happens to be one of my favorite movies of all time.…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
-        <updated>2026-11-27T06:48:35.384Z</updated>
-        <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
-
-Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
-
-This movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…]]></summary>
+        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
+        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
+        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
+        <updated>2026-11-27T17:50:48.867Z</updated>
+        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -103,7 +20,7 @@ This movie arrives in theaters with plenty of deserved Oscar buzz. But in this c
         <title type="html"><![CDATA[Why Your Team Sucks 2026: San Francisco 49ers]]></title>
         <id>https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php-full</id>
         <link href="https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php"/>
-        <updated>2026-11-27T06:48:35.383Z</updated>
+        <updated>2026-11-27T17:50:48.866Z</updated>
         <summary type="html"><![CDATA[This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.
 
 Some people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.
@@ -121,23 +38,25 @@ Your 2025 record: 12-5. You wanna get to the part about the owner being too horn
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andrew Luck is just another bureaucrat now]]></title>
-        <id>https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php-full</id>
-        <link href="https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php"/>
-        <updated>2026-11-27T06:48:35.382Z</updated>
-        <summary type="html"><![CDATA[Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…]]></summary>
+        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
+        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
+        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
+        <updated>2026-11-27T17:50:48.856Z</updated>
+        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
+
+That’s when Anthony Bourdain wo…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The 'best Mexican restaurant in the world' is in SF. It only cost me $500.]]></title>
-        <id>https://www.sfgate.com/food/article/californios-review-22484061.php-full</id>
-        <link href="https://www.sfgate.com/food/article/californios-review-22484061.php"/>
-        <updated>2026-11-27T06:48:35.381Z</updated>
-        <summary type="html"><![CDATA[There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. 
+        <title type="html"><![CDATA[SF's AI-run store is losing money fast. After a visit, I'm not surprised.]]></title>
+        <id>https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full</id>
+        <link href="https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php"/>
+        <updated>2026-11-27T17:50:48.851Z</updated>
+        <summary type="html"><![CDATA[You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.
 
-You already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…]]></summary>
+The first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
         </author>
@@ -146,7 +65,7 @@ You already know this kind of restaurant simply from the price point (which rose
         <title type="html"><![CDATA[I found one of America's best croissants in San Francisco]]></title>
         <id>https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php-full</id>
         <link href="https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php"/>
-        <updated>2026-11-27T06:48:35.380Z</updated>
+        <updated>2026-11-27T17:50:48.850Z</updated>
         <summary type="html"><![CDATA[Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. 
 
 Reader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. 
@@ -157,34 +76,10 @@ The croissant in question is dubbed “brown butter cornmeal twice-baked,” and
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthony Bourdain loved this San Francisco burger and so do I]]></title>
-        <id>https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full</id>
-        <link href="https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php"/>
-        <updated>2026-11-27T06:48:35.378Z</updated>
-        <summary type="html"><![CDATA[This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.
-
-That’s when Anthony Bourdain wo…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A visit to author Amy Tan’s gorgeous Sausalito home]]></title>
-        <id>https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full</id>
-        <link href="https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php"/>
-        <updated>2026-11-27T06:48:35.376Z</updated>
-        <summary type="html"><![CDATA[Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.
-
-It’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…]]></summary>
-        <author>
-            <name>Drew Magary, Columnist - SFGATE</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I tried the $60 cioppino at San Francisco's oldest restaurant]]></title>
         <id>https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full</id>
         <link href="https://www.sfgate.com/food/article/tadich-grill-review-22445672.php"/>
-        <updated>2026-11-27T06:48:35.372Z</updated>
+        <updated>2026-11-27T17:50:48.846Z</updated>
         <summary type="html"><![CDATA[There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.
 
 Actually,…]]></summary>
@@ -193,10 +88,69 @@ Actually,…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[San Francisco's best hotel cannot be killed]]></title>
+        <id>https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full</id>
+        <link href="https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php"/>
+        <updated>2026-11-27T17:50:48.844Z</updated>
+        <summary type="html"><![CDATA[I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. 
+
+This is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.
+
+I have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'best Mexican restaurant in the world' is in SF. It only cost me $500.]]></title>
+        <id>https://www.sfgate.com/food/article/californios-review-22484061.php-full</id>
+        <link href="https://www.sfgate.com/food/article/californios-review-22484061.php"/>
+        <updated>2026-11-27T17:50:48.839Z</updated>
+        <summary type="html"><![CDATA[There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. 
+
+You already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everybody hates Pat McAfee]]></title>
+        <id>https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full</id>
+        <link href="https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php"/>
+        <updated>2026-11-27T17:50:48.838Z</updated>
+        <summary type="html"><![CDATA[There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:
+
+That’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.
+
+
+Advertisement
+Article continues below this ad
+
+
+And I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php"/>
+        <updated>2026-11-27T17:50:48.837Z</updated>
+        <summary type="html"><![CDATA[NOTE: This review contains spoilers for “You Can See Everything.”
+
+Sometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.
+
+This movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I've got some demands for our new woke overlords]]></title>
         <id>https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full</id>
         <link href="https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php"/>
-        <updated>2026-11-27T06:48:35.368Z</updated>
+        <updated>2026-11-27T17:50:48.836Z</updated>
         <summary type="html"><![CDATA[Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.
 
 Can you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!
@@ -204,6 +158,163 @@ Can you feel the joy, dear reader? I can. Tuesday night, voters nationwide hande
 Now, what happened Tuesday night doesn’t au…]]></summary>
         <author>
             <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve Hilton is convinced he's going to win. Hahahaha.]]></title>
+        <id>https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full</id>
+        <link href="https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php"/>
+        <updated>2026-11-27T17:50:48.835Z</updated>
+        <summary type="html"><![CDATA[There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.
+
+On the surface, he makes for an attractive candidate. Hilto…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It turns out Jensen Huang is just as awful as the other tech overlords]]></title>
+        <id>https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full</id>
+        <link href="https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php"/>
+        <updated>2026-11-27T17:50:48.831Z</updated>
+        <summary type="html"><![CDATA[A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?
+
+Reader, fear not. I am a licensed journaltician, and I have a penis o…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quentin Tarantino goes back to his bad old habits in his new sequel]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php"/>
+        <updated>2026-11-27T17:50:48.815Z</updated>
+        <summary type="html"><![CDATA[If you’re an American man of a certain age, the pedigree behind “The Further Mis-Adventures of Cliff Booth” (which opens theatrically this week before streaming on Netflix in late December) had you downing Big Kahuna Burgers in celebration before the trailer had even dropped. Here’s a movie directed by the legendary David Fincher, who was also behind the camera for “Fight Club,” one of the defining bro movies of my generation. Better yet, this movie was scripted by Quentin Tarantino, who wrote and directed every other defining bro movie of my generation: “Reservoir Dogs,” “Pulp Fiction,” the “Kill Bill” saga, and on and on. Tarantino rarely lets other directors shoot his credited scripts. One previous example, 1993’s “True Romance,” just happens to be one of my favorite movies of all time.…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A visit to author Amy Tan’s gorgeous Sausalito home]]></title>
+        <id>https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php-full</id>
+        <link href="https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php"/>
+        <updated>2026-11-27T17:50:48.808Z</updated>
+        <summary type="html"><![CDATA[Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.
+
+It’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…]]></summary>
+        <author>
+            <name>Drew Magary, Columnist - SFGATE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sacha Chua: Emacs by Voice meetup]]></title>
+        <id>https://sachachua.com/blog/2026/11/emacs-by-voice-meetup/</id>
+        <link href="https://sachachua.com/blog/2026/11/emacs-by-voice-meetup/"/>
+        <updated>2026-11-27T16:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Watch on YouTube
+
+
+
+Emacs, speech recognition, dictation, voice commands, speech synthesis
+
+
+
+Download the unedited transcript
+
+0:00 Introduction
+0:32 Human-Computer Interaction (HCI) research into dictation challenges, voice repair
+3:42 The window manager
+4:28 Earwig
+5:49 An overview of related research papers
+8:04 Composability
+8:20 Discoverability
+9:37 Using large language models for voice repair
+14:11 A hybrid model combining dictation and typing
+15:43 Independent changes, and sharing ideas
+17:08 Hammerspoon
+22:00 Learning how to communicate with the computer via voice is like learning to type
+22:40 More attempts
+23:10 We need a which-key
+23:22 More attempts
+24:52 Emacs, Hammerspoon, and the browser
+25:56 More dictation challenges
+27:38 Command mode and dictation mode
+28:40 Mispronunci…]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Must Always Remain Thankful For The Dallas Cowboys]]></title>
+        <id>https://defector.com/?p=242977</id>
+        <link href="https://defector.com/we-must-always-remain-thankful-for-the-dallas-cowboys"/>
+        <updated>2026-11-27T15:55:32.000Z</updated>
+        <summary type="html"><![CDATA[This year's slate of Thanksgiving games couldn't have unfolded much better from the perspective of a neutral fan. It was hard not to feel stuffed after just the first game, a 39-35 Bears win over the Lions that featured some of the season's most entertaining football, being played by two of the league's most entertaining teams. How could a game like that possibly be topped? Perhaps with a game that was just as thrilling, featured a 21-point comeback, and provided a healthy dose of schadenfreude. That is what the Eagles and Cowboys delivered in the second game of the day: a purely delightful viewing experience.
+I am always left with a slight sickly feeling at the end of a game like Bears-Lions, only because it feels unfair for a game so good to have to produce a loser. It just doesn't seem right that Jahmyr Gibbs can carry the ball 21 times for 205 yards and three touchdowns and not get to spend today as the biggest story in the NFL. This is why the Cowboys are such a valuable presence in the league—they could come out on the losing end of the greatest game of all time and not one person, save for some number of degenerates, would be forced to feel an ounce of sympathy for them. Reasons to delight in the suffering of this franchise are so myriad that everyone can find their own for doing so (I choose this one). 
+The Cowboys of recent vintage have become especially adept at delivering the goods to their true constituents, the nation's haters. A team with this purpose must maintain a delicate balance. They can't be so bad as to make all of their games unwatchable, but they can't be good enough to find steady competence. They have to be both an entertaining watch and a squad of self-sabotaging dopes. For a while there, we all had to wait until the playoffs for the Cowboys to make their face-first landing, but now the team has been fine-tuned to meet their true purpose. We can watch the Cowboys eat shit in inventive, entertaining ways just about every week now.]]></summary>
+        <author>
+            <name>Tom Ley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After The Feast]]></title>
+        <id>https://defector.com/?p=242972</id>
+        <link href="https://defector.com/after-the-feast"/>
+        <updated>2026-11-27T14:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Thanksgiving Day has been a fully owned subsidiary of the National Football League since the 1960s, and a feature of the schedule since the early '20s, but there is an American tradition older than the Dayton Triangles and Frankford Yellow Jackets, and that's turning on your boss.
+In other words, Aaron Rodgers stole the weekend before it even started, and thoughtfully if coincidentally, the three teams that Rodgers claimed Mike McCarthy inflicted his narcoleptic cruelties upon, the Green Bay Packers, Dallas Cowboys and Pittsburgh Steelers, featured heavily.
+Now under normal circumstances, three games like Thursday's would \ stand alone as brilliant entertainments. The three games—Chicago over Detroit, 39-35, Philadelphia over Dallas, 39-38, and Buffalo over Kansas City, 13-10—were decided on a spectacular touchdown catch with three seconds left, a 59-yard field goal with two seconds left to cap a three-touchdown comeback, and a blocked punt that led to a 57-yard field goal in a driving freezing rainstorm with none seconds left. If that doesn't make you forget about your woes, you're just not into ball.]]></summary>
+        <author>
+            <name>Ray Ratto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs Redux: Theme Families and theme-choose-variant]]></title>
+        <id>https://emacsredux.com/blog/2026/11/27/theme-families-and-theme-choose-variant/</id>
+        <link href="https://emacsredux.com/blog/2026/11/27/theme-families-and-theme-choose-variant/"/>
+        <updated>2026-11-27T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A while ago I wrote
+that multi-variant themes have become the norm - pretty much every popular theme
+these days is a family of a few dark variants and a light one. And every such
+family ships its own command for moving between the variants:
+modus-themes-toggle, ef-themes-select, tokyo-night-select,
+batppuccin-select and so on.
+I have to admit that I had completely missed that Emacs has a built-in command
+for this since Emacs 29 - theme-choose-variant. I learned about its existence
+only recently, when I tried it with my own
+Tokyo Night theme and got this
+in return:
+
+Theme `tokyo-night' does not have any known variants
+
+
+Not cool, given that the theme has four variants! So, what’s going on here?
+The command
+M-x theme-choose-variant looks at the theme that’s currently enabled and
+switches to …]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs Redux: M-n: The Minibuffer’s Future History]]></title>
+        <id>https://emacsredux.com/blog/2026/11/27/m-n-and-the-minibuffer-future-history/</id>
+        <link href="https://emacsredux.com/blog/2026/11/27/m-n-and-the-minibuffer-future-history/"/>
+        <updated>2026-11-27T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Every Emacs user knows that pressing M-p in the minibuffer goes back through
+the history of the things they’ve typed there before. That’s one of the first
+things you learn, right after C-g. And if you go back too far you can press
+M-n to go forward again. End of story, right?
+Not quite! What happens if you press M-n right away, when there’s nothing to
+go forward to? You might expect an error, but instead Emacs will often insert
+something useful. That’s what the Emacs manual calls “future history” - a list
+of things that the command guessed you might want to type next. 1
+A Few Examples
+Here are a few built-in commands where M-n does something handy:
+C-x C-f (find-file) - inserts the file name at point (if there’s one) and
+after it the name of the file you’re visiting, which is great when yo…]]></summary>
+        <author>
+            <name>Planet Emacslife</name>
         </author>
     </entry>
     <entry>
@@ -497,31 +608,6 @@ The first problem is that frame names don’t have to be unique. It wouldn’t b
 Once he had a way of ensuring unique frame names, he rewrote select-frame-by-name to select a frame by name and to create a frame with that name if one doesn’t already exist. The result is a very nice workflow for handling several projects that you’re working on at the same time. Take a look at mbork’s post for the details.]]></summary>
         <author>
             <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A ‘Distraction’ Reunion On ‘All Ball’, Just For You]]></title>
-        <id>https://defector.com/?p=242869</id>
-        <link href="https://defector.com/a-distraction-reunion-on-all-ball-just-for-you"/>
-        <updated>2026-11-25T15:26:34.000Z</updated>
-        <summary type="html"><![CDATA[The NFL’s Thanksgiving weekend slate starts tonight, with the wholly manufactured “Thanksgiving Eve” game on Netflix. This slate features a ton of juicy matchups, almost as recompense for the previous two weeks of dreadful games that you and I have had to endure. Every one of the five-throwgasm showdowns spread out across the next six days(!) merits thorough analysis. Alas, because my All Ball co-host Arif Hasan was on the road all day yesterday, you the audience get David Roth instead.
-
-https://art19.com/shows/the-distraction/episodes/000e8d43-8c45-4d22-b035-1f0e5cbf58fe
-
-
-My old Distraction co-host is versed in football, so don’t be alarmed. You’ll still get plenty of chitchat about the games at hand. But Roth and I also carve out some time to marvel at the election results, to ask big-picture questions about the league’s desire to occupy every available time slot, and to discuss Portuguese egg tarts. Truly, a feast for the ears. As always, we do NOT talk about gambling or fantasy football. Roth tried to get in a brief fantasy note, but I quickly shut that talk down and had my friend summarily killed after we’d recorded this episode. Didn’t want to do it; felt I owed it to him.]]></summary>
-        <author>
-            <name>Drew Magary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Gender Conceal Party]]></title>
-        <id>https://defector.com/?p=242749</id>
-        <link href="https://defector.com/the-gender-conceal-party"/>
-        <updated>2026-11-25T14:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Why did liberals in Washington support an anti-trans initiative?]]></summary>
-        <author>
-            <name>Lucy Bloom</name>
         </author>
     </entry>
     <entry>
@@ -1451,71 +1537,6 @@ Oh good, The Internet is weighing in on the new Bond pick. Of course they all ha
         <summary type="html"><![CDATA[Today we’re listening to Elvar Smári, an Icelandic composer based in Reykjavík.]]></summary>
         <author>
             <name>Flow State</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Protesilaos: Emacs: ef-themes version 2.3.0]]></title>
-        <id>https://protesilaos.com/codelog/2026-11-18-emacs-ef-themes-2-3-0/</id>
-        <link href="https://protesilaos.com/codelog/2026-11-18-emacs-ef-themes-2-3-0/"/>
-        <updated>2026-11-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The ef-themes are a collection of light and dark themes for GNU
-Emacs that provide colourful (“pretty”) yet legible options for users
-who want something with a bit more flair than my modus-themes or my
-minimalist doric-themes.
-Package name (GNU ELPA): ef-themes
-Official manual: https://protesilaos.com/emacs/ef-themes
-Change log: https://protesilaos.com/emacs/ef-themes-changelog
-Sample pictures: https://protesilaos.com/emacs/ef-themes-pictures
-Git repositories:
-    
-GitHub: https://github.com/protesilaos/ef-themes
-GitLab: https://gitlab.com/protesilaos/ef-themes
-Backronym: Eclectic Fashion in Themes Hides Exaggerated Markings,
-Embellishments, and Sparkles.
-Below are the release notes.
-Version 2.3.0 on 2026-11-18
-This version introduces a pair of new themes to the collection:
-ef-halloween-light and ef-halloween-dark. I produced the prototype
-of the dark theme during a livestream, if you are curious to learn
-about the process: https://protesilaos.com/codelog/2026-10-31-emacs-live-ef-themes-halloween/.
-The two themes add to an already comprehensive collection that covers
-a broad spectrum of styles. All themes are consistent with the spirit
-of avoiding exaggerations while remaining legible.
-Note that since version 2.0.0, the ef-themes are built on top of
-my modus-themes. They benefit from all the changes I make there.
-making a donation.]]></summary>
-        <author>
-            <name>Planet Emacslife</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Supreme Court Has Finally Decided to Do Something About Trump’s War on DEI]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a74457555/scotus-dei-trump-administration/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a74457555/scotus-dei-trump-administration/"/>
-        <updated>2026-11-17T21:58:59.000Z</updated>
-        <summary type="html"><![CDATA[All it took was a drastic midterm swing to get the carefully crafted conservative majority to quit going along with everything the president wants.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Highly Classified NSA Comms Network Is Down, but Don’t Worry! Trump Says “It’s Fine.”]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a74456476/nsa-communications-network-outage/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a74456476/nsa-communications-network-outage/"/>
-        <updated>2026-11-17T19:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Thanks, Mr. President, I’m totally reassured.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaked Bank Documents Have Just Revealed the Staggering Extent of Epstein’s Shady Finances]]></title>
-        <id>http://www.esquire.com/news-politics/politics/a74455869/epstein-financials-deutsche-bank-leak/</id>
-        <link href="https://www.esquire.com/news-politics/politics/a74455869/epstein-financials-deutsche-bank-leak/"/>
-        <updated>2026-11-17T18:51:50.000Z</updated>
-        <summary type="html"><![CDATA[You’ll never guess whose name also came up.]]></summary>
-        <author>
-            <name>News-Politics - Esquire</name>
         </author>
     </entry>
 </feed>
