@@ -298,7 +298,7 @@
           "description": "[request] flags:--- replies:2",
           "link": "https://list.orgmode.org/CA+hmBpOa8JyrGsMuwSj2-iaoAXTX_f8+qcAwrx7uHm-QwaVhZg@mail.gmail.com",
           "publishedOn": "2026-11-23T23:48:37.000Z",
-          "wordCount": 344,
+          "wordCount": null,
           "title": "Org Mode requests: [FR] images yanked with 'yank-media' does not show up after an invocation of 'org-link-preview' [9.8.7 (release_9.8.7 @ /usr/share/emacs/31.1/lisp/org/)]",
           "imageUrl": null
         },
@@ -348,7 +348,7 @@
           "description": "[request] flags:AO- replies:2 role:maintainer",
           "link": "https://list.orgmode.org/87o6bgu9jq.fsf@localhost",
           "publishedOn": "2026-11-22T16:16:07.000Z",
-          "wordCount": 439,
+          "wordCount": null,
           "title": "Org Mode requests: [TASK] make Org code pass all linters and integrate linting into make test (was: Funny regex in 'org-beamer--insert-theme')",
           "imageUrl": null
         },
@@ -441,16 +441,6 @@
           "wordCount": 1406,
           "title": "Protesilaos: Emacs: Denote version 4.3.0",
           "imageUrl": "https://protesilaos.com/assets/images/brand/protesilaos-logo.png"
-        },
-        {
-          "id": "http://yummymelon.com/devnull/opening-texinfo-web-pages-in-emacs-info.html",
-          "author": null,
-          "description": "As convenient as accessing online services can be, any disruption in availability without a fallback is painful. Given events of late, many are learning the hard way what it’s like to live without that fallback.\nGNU Emacs has long supported reading documentation via the Info reader package. Info reader is a “local first” system, where all documentation is stored locally. The source format of the documentation is Texinfo which is exported to different formats, among them Info (used by the Emacs Info reader), HTML, and PDF.\nTexinfo exported HTML is typically hosted on a website (usually GNU Project), with each Info node mapped to a URL path and indexed by most major search engine services.\nDiscovery of information in Texinfo documentation is frequently done via web search. If the user desires to view that Texinfo web page in the Emacs Info reader, that has to be done manually by corresponding the web page to its Info node.\nCounterpart is a new utility to automate opening the Info node counterpart of a Texinfo exported web page in Emacs. This utility is designed for Emacs users on macOS who also use the Safari web browser. It requires the installation of a macOS Shortcut which is run from the main menu bar. More detail on using it can be found in the Counterpart User Guide.\nOnce a desired Info node is opened in Emacs, you can then bookmark it for later access, no internet connection required.",
-          "link": "http://yummymelon.com/devnull/opening-texinfo-web-pages-in-emacs-info.html",
-          "publishedOn": "2026-11-18T21:30:00.000Z",
-          "wordCount": 319,
-          "title": "Charles Choi: Opening Texinfo Web Pages in Emacs Info",
-          "imageUrl": "http://yummymelon.com/devnull/images/opengraph-default.jpg"
         }
       ]
     },
@@ -595,7 +585,7 @@
           "description": "Once upon a time in a land called Memphis lived two greasy-headed street hustlers named Premro Smith and Marlon Jermaine Goodwin. They were small-time pimps and petty crime perpetrators, aimlessly moving through life looking for their next scheme. Until that … Continue reading →",
           "link": "https://timeisillmatic.me/2026/11/24/8ball-mjg-on-top-of-the-world-october-311995/",
           "publishedOn": "2026-11-24T11:47:39.000Z",
-          "wordCount": 4743,
+          "wordCount": 4741,
           "title": "8Ball & MJG – On Top Of The World (October 31,1995)",
           "imageUrl": "https://timeisillmatic.me/wp-content/uploads/2026/11/images.jpg"
         }
@@ -613,13 +603,43 @@
       "siteUrl": "https://www.sfgate.com/author/drew-magary/",
       "articles": [
         {
-          "id": "https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php-full",
+          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
           "author": null,
-          "description": "If you’re an American man of a certain age, the pedigree behind “The Further Mis-Adventures of Cliff Booth” (which opens theatrically this week before streaming on Netflix in late December) had you downing Big Kahuna Burgers in celebration before the trailer had even dropped. Here’s a movie directed by the legendary David Fincher, who was also behind the camera for “Fight Club,” one of the defining bro movies of my generation. Better yet, this movie was scripted by Quentin Tarantino, who wrote and directed every other defining bro movie of my generation: “Reservoir Dogs,” “Pulp Fiction,” the “Kill Bill” saga, and on and on. Tarantino rarely lets other directors shoot his credited scripts. One previous example, 1993’s “True Romance,” just happens to be one of my favorite movies of all time.…",
-          "link": "https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php",
-          "publishedOn": "2026-11-28T01:06:17.146Z",
+          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
+          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
+          "publishedOn": "2026-11-28T09:48:10.487Z",
           "wordCount": 177,
-          "title": "Quentin Tarantino goes back to his bad old habits in his new sequel",
+          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
+          "author": null,
+          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
+          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
+          "publishedOn": "2026-11-28T09:48:10.486Z",
+          "wordCount": 177,
+          "title": "San Francisco's best hotel cannot be killed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
+          "author": null,
+          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
+          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
+          "publishedOn": "2026-11-28T09:48:10.485Z",
+          "wordCount": 177,
+          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
+          "author": null,
+          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
+          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
+          "publishedOn": "2026-11-28T09:48:10.484Z",
+          "wordCount": 177,
+          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
           "imageUrl": null
         },
         {
@@ -627,29 +647,19 @@
           "author": null,
           "description": "Come with me now to Palo Alto. We’re hopping in the car to make the more than 30-mile drive south of San Francisco to the bucolic campus of Stanford University, where former NFL star Andrew Luck awaits us. The Stanford campus remains as gorgeous, and sheltered, as ever. This is the ideal setting for gifted minds to construct their own realities, and Luck remains one of the more gifted minds that the sport of football has ever produced. Smart enough to read the most complicated defenses at a glance, and smart enough to leave the NFL when he realized that the life of a pro quarterback was making both him, and his wife Nicole, miserable. You could argue that Andrew Luck was too smart for the NFL. But is he smart enough to turn Stanford football into a national powerhouse? That’s what I’m here…",
           "link": "https://www.sfgate.com/collegesports/article/andrew-luck-stanford-bureaucrat-22414827.php",
-          "publishedOn": "2026-11-28T01:06:16.981Z",
+          "publishedOn": "2026-11-28T09:48:10.482Z",
           "wordCount": 177,
           "title": "Andrew Luck is just another bureaucrat now",
           "imageUrl": null
         },
         {
-          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
           "author": null,
-          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
-          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
-          "publishedOn": "2026-11-28T01:06:16.968Z",
+          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
+          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
+          "publishedOn": "2026-11-28T09:48:10.481Z",
           "wordCount": 177,
-          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php-full",
-          "author": null,
-          "description": "There’s a good chance you’ve heard of Tadich Grill, given that the restaurant is older than San Francisco itself. It’s existed in one form or another since 1849, when it opened under the name Coffee Stand. That was one year before the city of San Francisco was formally incorporated, and 118 years before the restaurant moved to its current location on California Street in the Financial District. Tadich has been doling out fresh seafood and mesquite-grilled slabs of meat to patrons through a lifespan that has included multiple earthquakes, two world wars, Prohibition and multiple pandemics. It’s not merely the oldest restaurant in San Francisco, but in all of California. An eternal landmark. I only needed to walk through its doors on an early evening this August to understand why.\n\nActually,…",
-          "link": "https://www.sfgate.com/food/article/tadich-grill-review-22445672.php",
-          "publishedOn": "2026-11-28T01:06:16.948Z",
-          "wordCount": 177,
-          "title": "I tried the $60 cioppino at San Francisco's oldest restaurant",
+          "title": "I've got some demands for our new woke overlords",
           "imageUrl": null
         },
         {
@@ -657,7 +667,7 @@
           "author": null,
           "description": "Quick: name the best croissant filling. If you’re a basic American like me, you only encounter basic croissant flavors: chocolate, almond, and ham and cheese. These are the norm, and they do the job well if you’re hungry and want to feel 10% more French. But surely, you’ve thought, there must be room for more fillings than that in the American croissant repertoire. Surely there must be a, like, fourth thing we can put into one. \n\nReader, I’m pleased to report that I have found one such worthy croissant filling, and it’s nothing you’d guess off the top of your head. But take one bite of it, and you’ll know I’m right. \n\nThe croissant in question is dubbed “brown butter cornmeal twice-baked,” and the bakery that sells it is San Francisco’s Butter & Crumble, owned by chef and self-dubbed “girl…",
           "link": "https://www.sfgate.com/food/article/butter-crumble-best-croissants-sf-22438825.php",
-          "publishedOn": "2026-11-28T01:06:16.891Z",
+          "publishedOn": "2026-11-28T09:48:10.480Z",
           "wordCount": 177,
           "title": "I found one of America's best croissants in San Francisco",
           "imageUrl": null
@@ -667,9 +677,19 @@
           "author": null,
           "description": "There is exactly one three-starred Michelin-rated Mexican restaurant in the world, and somewhat rudely, it’s not in Mexico. It’s Californios, a $450 prix fixe gastronomic temple tucked away on 11th Street in the SoMa neighborhood of San Francisco. \n\nYou already know this kind of restaurant simply from the price point (which rose $50 since my visit, from $325 to $375 before tax/tip/drinks), and from the fact that it got the notice of the fabled Michelin judges this year, who went so far as to declare it the best Mexican restaurant in the world. Is this the kind of place custom made for its patrons to boast about having dined there? Of course. Does the 12-course tasting menu include fantasy novel ingredients such as “chickweed”? You bet it does. Do certain dishes come with tweezers? Bitch, y…",
           "link": "https://www.sfgate.com/food/article/californios-review-22484061.php",
-          "publishedOn": "2026-11-28T01:06:16.890Z",
+          "publishedOn": "2026-11-28T09:48:10.479Z",
           "wordCount": 177,
           "title": "The 'best Mexican restaurant in the world' is in SF. It only cost me $500.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php-full",
+          "author": null,
+          "description": "If you’re an American man of a certain age, the pedigree behind “The Further Mis-Adventures of Cliff Booth” (which opens theatrically this week before streaming on Netflix in late December) had you downing Big Kahuna Burgers in celebration before the trailer had even dropped. Here’s a movie directed by the legendary David Fincher, who was also behind the camera for “Fight Club,” one of the defining bro movies of my generation. Better yet, this movie was scripted by Quentin Tarantino, who wrote and directed every other defining bro movie of my generation: “Reservoir Dogs,” “Pulp Fiction,” the “Kill Bill” saga, and on and on. Tarantino rarely lets other directors shoot his credited scripts. One previous example, 1993’s “True Romance,” just happens to be one of my favorite movies of all time.…",
+          "link": "https://www.sfgate.com/sf-culture/article/further-misadventures-cliff-booth-review-22548253.php",
+          "publishedOn": "2026-11-28T09:48:10.478Z",
+          "wordCount": 177,
+          "title": "Quentin Tarantino goes back to his bad old habits in his new sequel",
           "imageUrl": null
         },
         {
@@ -677,79 +697,9 @@
           "author": null,
           "description": "This story was originally published on Defector, an independent employee-owned media company and another of Drew’s employers. Subscribe at Defector.\n\nSome people are fans of the San Francisco 49ers. But many, many more people are NOT fans of the San Francisco 49ers. This 2026 Defector NFL team preview is for those in the latter group. Read all the previews so far at Defector.\n\nYour team: San Francisco 49ers.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nYour 2025 record: 12-5. You wanna get to the part about the owner being too horny for the law, so I’ll blow through this section as fast as is responsible. The 2025 49ers were a shining example of how a football team can prosper in the face of adversity. And by “adversity,” I mean half its roster tearing a ACL, its highest paid receiver…",
           "link": "https://www.sfgate.com/49ers/article/why-49ers-suck-2026-22375619.php",
-          "publishedOn": "2026-11-28T01:06:16.887Z",
+          "publishedOn": "2026-11-28T09:48:10.477Z",
           "wordCount": 177,
           "title": "Why Your Team Sucks 2026: San Francisco 49ers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php-full",
-          "author": null,
-          "description": "I am not a rock star, although I like to imagine myself as one. I imagine it so, so hard: packed stadiums, crowds numbering five figures going wild as I take my shirt off, shady managers hanging out backstage ready to ply me with Hefty bags full of pharmaceutical cocaine. But it’s too late for me, on the cusp of 50, to actually become a rock star — it certainly couldn’t be a skill or charisma issue, no sir — which is why there’s a tiny slice of the hospitality industry that exists to make patrons like me FEEL like rock stars, if only for a brief moment. \n\nThis is where the legendary Phoenix Hotel, plopped down on Eddy Street right in the middle of San Francisco’s Tenderloin neighborhood, comes in.\n\nI have stayed at many hotels in San Francisco, but all of them were hotel hotels. Elevator b…",
-          "link": "https://www.sfgate.com/local/article/phoenix-hotel-review-22458136.php",
-          "publishedOn": "2026-11-28T01:06:16.874Z",
-          "wordCount": 177,
-          "title": "San Francisco's best hotel cannot be killed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php-full",
-          "author": null,
-          "description": "You have heard about the two Anthropic employees who, this week, publicly informed America that artificial intelligence could eradicate the whole of humanity within a decade, which is less time than it takes for your average Seamless order to arrive. If these gentlemen, Jacob Coxon and Evan Hubinger, are correct in their assessment, the beginning of our destruction may well have commenced a month ago right here in San Francisco.\n\nThe first shot fired in this looming war happened at a seemingly innocuous Cow Hollow storefront known as Andon Market. Back in August, Luna, the AI bot that serves as that store’s manager, fired one of its own employees. The employee in question was dinged by their virtual boss for being late to work, abandoning their post once they got there, and charging snacks…",
-          "link": "https://www.sfgate.com/local/article/san-francisco-market-ai-22424349.php",
-          "publishedOn": "2026-11-28T01:06:16.874Z",
-          "wordCount": 177,
-          "title": "SF's AI-run store is losing money fast. After a visit, I'm not surprised.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
-          "author": null,
-          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
-          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
-          "publishedOn": "2026-11-28T01:06:16.866Z",
-          "wordCount": 177,
-          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php-full",
-          "author": null,
-          "description": "There’s a midterm election coming on Nov. 3, which includes a race here in California to determine who will replace Gov. Gavin Newsom. On the blue side of the ticket is unremarkable Democrat Xavier Becerra, whose chief positive attribute is that he is not a Republican. On the red side is Steve Hilton, an immigrant from the U.K. who gained U.S. citizenship in 2021. Hilton’s most high-profile political experience came back in the early 2010s, when he served as an adviser to then-U.K. prime minister and alleged porcine enthusiast David Cameron. But that experience, plus a lengthy stint as a commentator for Fox News, was enough to convince Hilton that he not only should run for governor, but that he WILL be the state’s next governor.\n\nOn the surface, he makes for an attractive candidate. Hilto…",
-          "link": "https://www.sfgate.com/politics/article/steve-hilton-interview-22466880.php",
-          "publishedOn": "2026-11-28T01:06:16.847Z",
-          "wordCount": 177,
-          "title": "Steve Hilton is convinced he's going to win. Hahahaha.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full",
-          "author": null,
-          "description": "A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?\n\nReader, fear not. I am a licensed journaltician, and I have a penis o…",
-          "link": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php",
-          "publishedOn": "2026-11-28T01:06:16.816Z",
-          "wordCount": 177,
-          "title": "It turns out Jensen Huang is just as awful as the other tech overlords",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full",
-          "author": null,
-          "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
-          "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
-          "publishedOn": "2026-11-28T01:06:16.812Z",
-          "wordCount": 177,
-          "title": "Everybody hates Pat McAfee",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php-full",
-          "author": null,
-          "description": "Joy. Joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy joy.\n\nCan you feel the joy, dear reader? I can. Tuesday night, voters nationwide handed the Democratic Party decisive power in both chambers of Congress. Democrats won in California, as they always do. But they also won in Michigan, and Georgia, and Wisconsin, and Texas. They might even win in Mississippi once all of the ballots are tallied. Mississippi! I didn’t even know they HAD voting in Mississippi! Holy crap! I wanna kiss all of you on the mouth, I’m so happy!\n\nNow, what happened Tuesday night doesn’t au…",
-          "link": "https://www.sfgate.com/politics/article/democrats-midterm-sweep-column-22512069.php",
-          "publishedOn": "2026-11-28T01:06:16.810Z",
-          "wordCount": 177,
-          "title": "I've got some demands for our new woke overlords",
           "imageUrl": null
         },
         {
@@ -757,9 +707,49 @@
           "author": null,
           "description": "Come with me to Amy Tan’s house for a brief moment, won’t you? We won’t be there long; just enough to time to sit down with the author of “The Joy Luck Club” and have a deeply enlightening chat that leaves you and me spiritually revived.\n\nIt’s not an arduous journey to Tan’s home. She lives just across the Golden Gate bridge in Sausalito, along a tight hillside road that feels a bit more LA than San Francisco. Tan and her husband Lou moved here after living in San Francisco proper for over 30 years. Here on a steep hillside overlooking the bay, the couple built a house that looks nothing like the custom-built McMansions the average celebrity is likely to erect in their own honor. The Tan home feels like a home, all warm woods, open-air architecture, and an array of elaborate bird feeders t…",
           "link": "https://www.sfgate.com/sf-culture/article/amy-tan-interview-22538100.php",
-          "publishedOn": "2026-11-28T01:06:16.790Z",
+          "publishedOn": "2026-11-28T09:48:10.475Z",
           "wordCount": 177,
           "title": "A visit to author Amy Tan’s gorgeous Sausalito home",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php-full",
+          "author": null,
+          "description": "NOTE: This review contains spoilers for “You Can See Everything.”\n\nSometimes the best journalists are people who don’t even purport to be journalists. The late Anthony Bourdain was one such accidental herald, as was “Borat” star Sacha Baron Cohen before the gonzo comedian became recognizably famous no matter his alter ego. Let’s go ahead and add writer/performer Nathan Fielder to the list. You and I know Fielder best from “Nathan For You” and “The Rehearsal.” Everyone else is about to know him for “You Can See Everything,” a tag team effort with documentarian Lance Oppenheim that is not only the best film of 2026 so far, but also one of the finest works of journalism I’ve ever seen.\n\nThis movie arrives in theaters with plenty of deserved Oscar buzz. But in this case, a mere filmmaking awar…",
+          "link": "https://www.sfgate.com/sf-culture/article/you-can-see-everything-review-22475954.php",
+          "publishedOn": "2026-11-28T09:48:10.474Z",
+          "wordCount": 177,
+          "title": "Elizabeth Holmes' fiance is the worst man in America. Now we have him on tape.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php-full",
+          "author": null,
+          "description": "This is not the correct time for me to be visiting Sam’s Burgers. It’s the middle of the afternoon here in North Beach, and finding a spot inside Sam’s tight confines isn’t much of a problem. If I were to walk in here 12 hours from now, just before the bars close and after patrons of all the nearby strip clubs have no more rain to make … well then, I probably wouldn’t be able to walk in here at all. There would probably be a line going outside the door. There would probably be an ass parked in every bright red leather stool at the counter and in the scant number of booths lining the wall. There would probably be dozens of hungry partiers, some of them quite famous, crowding into the place to eat a cheeseburger at the proper time to be eating a cheeseburger.\n\nThat’s when Anthony Bourdain wo…",
+          "link": "https://www.sfgate.com/food/article/anthony-bourdain-burger-22403433.php",
+          "publishedOn": "2026-11-28T09:48:10.472Z",
+          "wordCount": 177,
+          "title": "Anthony Bourdain loved this San Francisco burger and so do I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php-full",
+          "author": null,
+          "description": "There’s an election next week, which means that you and I are currently being bombarded, ceaselessly, with unwanted voices. Here’s one such voice that, alas, we cannot vote out of office come Tuesday:\n\nThat’s ESPN commentator and one-man pandemic Pat McAfee. If you’re unfamiliar with McAfee’s work, I envy you. No seriously, if I could trade bodies with you right now, I’d do it in a heartbeat. I don’t even care if you’re 85 and dying of gonorrhea, I’d still do it. That’s just how much I can’t stand Pat McAfee.\n\n\nAdvertisement\nArticle continues below this ad\n\n\nAnd I’m hardly alone. The clip you see up above is McAfee’s response to the harassment (NOTE: term used with ultimate generosity) he endured before co-hosting “College GameDay” for the four-letter live from the Salt Lake City campus of…",
+          "link": "https://www.sfgate.com/sports/article/pat-mcafee-gameday-22497391.php",
+          "publishedOn": "2026-11-28T09:48:10.468Z",
+          "wordCount": 177,
+          "title": "Everybody hates Pat McAfee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php-full",
+          "author": null,
+          "description": "A few days ago, you were minding your own business, unconcerned about Jensen Huang or his penis. Perhaps you were still celebrating last week’s election results, and the mild improvement to civilization those results portended. When suddenly, out of nowhere, the name JENSEN HUANG was all over your internet, your nightly news, perhaps even your group text chains. Now you can’t stop hearing about this man, or about how he and his libido got trapped in a byzantine web of international intrigue that involves multitrillion-dollar companies, Silicon Valley, China, the president of the United States, and the growing scourge of artificial intelligence. Who is this Jensen Huang fella, and what exactly has he gotten America into?\n\nReader, fear not. I am a licensed journaltician, and I have a penis o…",
+          "link": "https://www.sfgate.com/tech/article/jensen-huang-spy-scandal-22522145.php",
+          "publishedOn": "2026-11-28T09:48:10.463Z",
+          "wordCount": 177,
+          "title": "It turns out Jensen Huang is just as awful as the other tech overlords",
           "imageUrl": null
         }
       ]
@@ -775,7 +765,7 @@
           "description": "Instead of staring at a boulder in a hole in the ground, drive 42 minutes west to the town of Berkley, where our country’s complicated past is plain to see.",
           "link": "https://www.esquire.com/news-politics/politics/a74532549/plymouth-rock-dighton-rock-american-history-thanksgiving/",
           "publishedOn": "2026-11-26T17:00:00.000Z",
-          "wordCount": 21900,
+          "wordCount": 21958,
           "title": "Forget Plymouth Rock This Thanksgiving. American History Is Better Reflected by a Different Stone.",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/8a7c9788-0b51-4a85-b651-29ae58503619.jpeg?crop=1xw:0.54xh;0xw,0.32xh&resize=1200:*"
         },
@@ -785,7 +775,7 @@
           "description": "The idea of turkeys in that Gilded Palace of Sin is just too damn on the nose.",
           "link": "https://www.esquire.com/news-politics/politics/a74533440/trump-thanksgiving-turkey-ballroom/",
           "publishedOn": "2026-11-25T18:47:20.000Z",
-          "wordCount": 22864,
+          "wordCount": 22834,
           "title": "Of Course Trump Found a Way to Plug His Big, Ugly Ballroom When Partaking in a Beloved Thanksgiving Tradition",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/58a1f93f-17bf-4337-b2a1-3acfc66a7e88.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -795,7 +785,7 @@
           "description": "In Washington, the mic is always hot, the camera is always on, and the person next to you on the subway has ProPublica’s phone number.",
           "link": "https://www.esquire.com/news-politics/politics/a74524041/smithsonian-plan-laptop-screenshot-propublica-report/",
           "publishedOn": "2026-11-24T21:56:39.000Z",
-          "wordCount": 20212,
+          "wordCount": 20228,
           "title": "If You’re Trying to Dismantle the Smithsonian As We Know It, Maybe Don’t Open the Plan on Your Laptop in Public",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/f3edd45a-b0a9-4a40-b732-a3c3af7d38b3.jpeg?crop=1xw:0.749920961113xh;center,top&resize=1200:*"
         },
@@ -805,7 +795,7 @@
           "description": "Try to keep Meemaw indoors and out of the whiskey.",
           "link": "https://www.esquire.com/news-politics/politics/a74521237/army-detonation-toxic-smoke-iowa-thanksgiving/",
           "publishedOn": "2026-11-24T17:30:41.000Z",
-          "wordCount": 19686,
+          "wordCount": 19702,
           "title": "That Army Facility in Iowa Has a Thanksgiving Present for Locals: A Deadly Plume of Toxic Smoke from a Planned Detonation",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/16340512-620e-47d4-b369-a45fd0ece40a.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -815,7 +805,7 @@
           "description": "AI companies are facing political backlash, but they’re staring down an even bigger problem as they look to take over the world.",
           "link": "https://www.esquire.com/news-politics/a74457759/data-centers-electricity-explained/",
           "publishedOn": "2026-11-24T17:22:58.000Z",
-          "wordCount": 21972,
+          "wordCount": 21902,
           "title": "The Inconvenient Truth About the Electricity AI Requires",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/441ed568-9ffb-4613-994e-86fcf0a7f246.jpeg?crop=1xw:0.792xh;0xw,0.12xh&resize=1200:*"
         },
@@ -825,7 +815,7 @@
           "description": "There must be public atonement for the criminal bastards who have allowed places like it to exist in our country.",
           "link": "https://www.esquire.com/news-politics/politics/a74520778/southern-louisiana-ice-processing-center-lawsuit/",
           "publishedOn": "2026-11-24T17:08:19.000Z",
-          "wordCount": 19166,
+          "wordCount": 19182,
           "title": "This Depraved Louisiana ICE Facility Is Essentially an American Concentration Camp",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/b918364c-de9d-4980-8226-a836a279aa6c.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         },
@@ -845,7 +835,7 @@
           "description": "Why else would the president involve himself so conspicuously?",
           "link": "https://www.esquire.com/news-politics/politics/a74510795/jensen-huang-nvidia-trump/",
           "publishedOn": "2026-11-23T19:14:50.000Z",
-          "wordCount": 20710,
+          "wordCount": 20726,
           "title": "I’m Sure Jensen Huang’s Reinstatement Has Nothing to Do with His $25 Million Donation to Trump’s Ballroom",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/28b9aa1b-db40-4ae9-9bee-1b58c55b216b.jpeg?crop=1xw:0.721420432966xh;center,top&resize=1200:*"
         },
@@ -855,7 +845,7 @@
           "description": "The Tailgunner’s reputation precedes him.",
           "link": "https://www.esquire.com/news-politics/politics/a74509328/abdul-el-sayed-ted-cruz/",
           "publishedOn": "2026-11-23T16:54:05.000Z",
-          "wordCount": 19583,
+          "wordCount": 19561,
           "title": "Abdul El-Sayed Said Something About Ted Cruz That We’ve All Been Thinking for Years",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/9382acf7-68c7-49fb-878d-064e6e34e34e.jpeg?crop=1xw:0.749924081385xh;center,top&resize=1200:*"
         },
@@ -865,7 +855,7 @@
           "description": "Conservative Republicans and their oligarchical allies are getting everything they want out of a bipartisan bill that could walk back important environmental laws.",
           "link": "https://www.esquire.com/news-politics/politics/a74508280/bipartisan-american-affordability-and-jobs-act-environmental-laws/",
           "publishedOn": "2026-11-23T15:55:07.000Z",
-          "wordCount": 19375,
+          "wordCount": 19391,
           "title": "Well, It Sure Seems Like Mitigating Climate Change Is No Longer a Concern for Democrats",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2f47864a-0438-4152-af50-d346b15e3c1e.jpeg?crop=1xw:0.749633967789xh;center,top&resize=1200:*"
         },
@@ -875,7 +865,7 @@
           "description": "It seems that the principle of kicking the ball out onto the fairway has many applications beyond the golf course.",
           "link": "https://www.esquire.com/news-politics/politics/a74493861/trump-golf-irs-payout/",
           "publishedOn": "2026-11-20T20:56:06.000Z",
-          "wordCount": 24607,
+          "wordCount": 24560,
           "title": "Why the Hell Did Trump’s Golfing Buddy Get a $500,000 Payout from the IRS?",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/372f51db-9498-4dd2-8d6b-bd775776cc4f.jpeg?crop=1xw:0.750195618153xh;center,top&resize=1200:*"
         },
@@ -895,7 +885,7 @@
           "description": "Agreeing to a “peace declaration” with a couple of authoritarian nutjobs is certainly a choice.",
           "link": "https://www.esquire.com/news-politics/politics/a74490943/trump-putin-xi-summit-china-russia-america/",
           "publishedOn": "2026-11-20T16:28:22.000Z",
-          "wordCount": 19378,
+          "wordCount": 19331,
           "title": "Putin and Xi Just Made Trump Look Like an Absolute Sucker",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/7720465a-546d-4828-b663-b6a045e34cc7.jpeg?crop=1xw:0.750750750751xh;center,top&resize=1200:*"
         },
@@ -915,7 +905,7 @@
           "description": "The state’s energy office decided not to consult with residents, which is just stellar governing all around.",
           "link": "https://www.esquire.com/news-politics/politics/a74481789/west-virginia-nuclear-waste-jefferson-county/",
           "publishedOn": "2026-11-19T21:49:16.000Z",
-          "wordCount": 22227,
+          "wordCount": 22224,
           "title": "A West Virginia County Could Soon Become a Nuclear-Waste Dump Against Its Will",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/18c9bb7f-6156-4b77-ae52-9c3c754cafe7.jpeg?crop=1xw:0.735xh;0xw,0.139xh&resize=1200:*"
         },
@@ -935,37 +925,11 @@
           "description": "Aaron Reitz has spent the past few weeks firing off letters to various Democratic legislators threatening all kinds of legal thunder and lightning.",
           "link": "https://www.esquire.com/news-politics/politics/a74469858/trump-aaron-reitz-us-attorney-democratic-oversight/",
           "publishedOn": "2026-11-18T21:53:23.000Z",
-          "wordCount": 20391,
+          "wordCount": 20277,
           "title": "Meet the Trump-Simping U.S. Attorney Who’s Going to Try His Darnedest to Protect the President from Democratic Oversight",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/713e583e-bacb-4c62-8138-a5d8a13d29e8.jpeg?crop=1xw:0.749613899614xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74469738/mary-peltola-hakeem-jeffries-wins/",
-          "author": null,
-          "description": "Alaska was finally called for Mary Peltola. I sure hope Hakeem Jeffries, the soon-to-be Speaker of the House, knows what to do with his majority.",
-          "link": "https://www.esquire.com/news-politics/politics/a74469738/mary-peltola-hakeem-jeffries-wins/",
-          "publishedOn": "2026-11-18T21:30:41.000Z",
-          "wordCount": 19384,
-          "title": "As More Wins for Democrats Roll In, We Must Remind Ourselves That the Fight Is Still Ahead",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/70a2d0be-3611-42df-b737-773f35eae49b.jpeg?crop=1xw:0.749063670412xh;center,top&resize=1200:*"
-        },
-        {
-          "id": "http://www.esquire.com/news-politics/politics/a74466680/hung-cao-navy-secretary-confirmation-hearing/",
-          "author": null,
-          "description": "Hung Cao’s confirmation hearing went just about as badly as any I’ve ever seen.",
-          "link": "https://www.esquire.com/news-politics/politics/a74466680/hung-cao-navy-secretary-confirmation-hearing/",
-          "publishedOn": "2026-11-18T19:03:40.000Z",
-          "wordCount": 21292,
-          "title": "To No One’s Surprise, Trump’s Handpicked Navy Secretary Is Just as Incompetent and Heartless as He Is",
-          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/6ac1f5cc-b624-4ffc-be7b-21b51fc71ea2.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*"
         }
       ]
-    },
-    {
-      "title": "Old School Hop-Hop",
-      "feedUrl": "https://oldschool-hiphop.com/feed/",
-      "siteUrl": "https://oldschool-hiphop.com",
-      "articles": []
     },
     {
       "title": "Flow State",
@@ -1084,16 +1048,6 @@
           "publishedOn": "2026-11-19T14:30:00.000Z",
           "wordCount": 6428,
           "title": "Yes, I want to pay for that",
-          "imageUrl": "https://gomakethings.com/img/og.png"
-        },
-        {
-          "id": "https://gomakethings.com/articles/life-after-coding/",
-          "author": null,
-          "description": "Lately, I’ve been giving a lot of thought to what I would do if I wasn’t a web developer.\nIt’s not the first time I’ve thought about this, but the way AI is negatively affecting every aspect of our industry has pushed it top-of-mind again for me.\nI’m not alone, either.\nI posted about this in a handful of online communities I’m in, and so many developers are struggling with these same feelings.",
-          "link": "https://gomakethings.com/articles/life-after-coding/",
-          "publishedOn": "2026-11-18T14:30:00.000Z",
-          "wordCount": 6180,
-          "title": "Life after coding",
           "imageUrl": "https://gomakethings.com/img/og.png"
         }
       ]
